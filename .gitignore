@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+outputs/*.log
+# NOTE: data/seen_opportunities.json is intentionally tracked so that
+# GitHub Actions can persist state between daily runs (avoids re-alerting
+# on already-seen opportunities).

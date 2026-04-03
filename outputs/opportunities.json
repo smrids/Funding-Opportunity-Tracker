@@ -1,0 +1,1840 @@
+{
+  "last_updated": "2026-04-03T01:24:51Z",
+  "total": 186,
+  "by_source": {
+    "Grants.gov": 154,
+    "WHO": 11,
+    "Gates Foundation (Grand Challenges)": 7,
+    "Wellcome Trust": 14
+  },
+  "opportunities": [
+    {
+      "id": "361739",
+      "title": "Program Year 2026 Workforce Innovation and Opportunity Act (WIOA), Indian and Native American Programs Employment and Training - Adult",
+      "agency": "DOL-ETA",
+      "deadline": "05/22/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361739",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361740",
+      "title": "Program Year 2026 Workforce Innovation and Opportunity Act (WIOA), Indian and Native American Programs &ndash; Employment and Training Grants - Youth",
+      "agency": "DOL-ETA",
+      "deadline": "05/22/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361740",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361748",
+      "title": "Cooperative Institute in the Northern Gulf of America (CINGA)",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "05/18/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361748",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361702",
+      "title": "Grants for Transportation in Highly Rural Areas",
+      "agency": "VA-CBO",
+      "deadline": "05/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361702",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361704",
+      "title": "Grants for Transportation in Highly Rural Areas",
+      "agency": "VA-CBO",
+      "deadline": "05/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361704",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361547",
+      "title": "Fiscal Year (FY) 2026 AmeriCorps Volunteer Generation Fund",
+      "agency": "AC",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361547",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361723",
+      "title": "Alumni Engagement Innovation Fund 2026 - Mexico",
+      "agency": "DOS-MEX",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361723",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361736",
+      "title": "Announcement of Enhancements to Identity Verification Services and Funding Opportunity to Support State Costs Associated with Participation in Such Services",
+      "agency": "DOL-ETA",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361736",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361544",
+      "title": "Fiscal Year (FY) 2026 AmeriCorps Martin Luther King Jr. Day of Service",
+      "agency": "AC",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361544",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361735",
+      "title": "Public Diplomacy Grants Program",
+      "agency": "DOS-NIC",
+      "deadline": "05/18/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361735",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361737",
+      "title": "Automated Discovery for Design and Control of Turbulent Systems (AutoDIDACTS)",
+      "agency": "DOD-DARPA-DSO",
+      "deadline": "05/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361737",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361725",
+      "title": "Delta Health Care Service Grant Program",
+      "agency": "USDA-RBCS",
+      "deadline": "06/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361725",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361738",
+      "title": "Smith-Lever Special Needs Competitive Grants Program",
+      "agency": "USDA-NIFA-ERA",
+      "deadline": "06/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361738",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361717",
+      "title": "Alumni Engagement Innovation Fund 2026, Estonia",
+      "agency": "DOS-EST",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361717",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361719",
+      "title": "Public Diplomacy  Commercial Partnerships and  Entrepreneurship Program",
+      "agency": "DOS-KGC",
+      "deadline": "05/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361719",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361718",
+      "title": "U.S. Embassy Bishkek Public Diplomacy English Language  Program",
+      "agency": "DOS-KGC",
+      "deadline": "05/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361718",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361721",
+      "title": "Willamette Valley Project (WVP) 2026 NRM Education and Training of Botanically Sophisticated Restoration Workers",
+      "agency": "DOD-COE-PORT",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361721",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361720",
+      "title": "Alumni Engagement Innovation Fund 2026",
+      "agency": "DOS-ZAF",
+      "deadline": "05/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361720",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361724",
+      "title": "Pathways for Regulatory Innovation and Strategic Modernization (PRISM)",
+      "agency": "HHS-FDA",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361724",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361708",
+      "title": "Freedom 250 Bangladesh 2026",
+      "agency": "DOS-BGD",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361708",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361713",
+      "title": "Cooperative Agreement for affiliated Partner with the Hawaii-Pacific Islands Cooperative Ecosystem Studies Unit",
+      "agency": "DOI-USGS1",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361713",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361714",
+      "title": "Advancing Global Health",
+      "agency": "DOS-GHSD",
+      "deadline": "02/14/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361714",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361701",
+      "title": "Installation Natural Resource Management Plan Implementation Support to Navy Region Hawaii and Joint Base Pearl Harbor-Hickam, Oahu, Hawaii",
+      "agency": "DOD-COE-FW",
+      "deadline": "04/27/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361701",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361695",
+      "title": "2026 Alumni Engagement Innovation Fund (AEIF 2026)",
+      "agency": "DOS-GNQ",
+      "deadline": "05/04/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361695",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361693",
+      "title": "Post Kuala Lumpur FY2026 Annual Program Statement",
+      "agency": "DOS-MLA",
+      "deadline": "07/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361693",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361741",
+      "title": "Marine Mammal and Habitat Monitoring-Cook Inlet Beluga Whale Prey at Joint Base Elmendorf-Richardson (JBER)",
+      "agency": "DOD-COE-FW",
+      "deadline": "05/04/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361741",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361726",
+      "title": "2026 Marine Mammal Co-Management Grant Program",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "05/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361726",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361722",
+      "title": "HOIHI Grant Program for Native Hawaiian Organizations",
+      "agency": "DOI-IBC",
+      "deadline": "06/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361722",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361716",
+      "title": "Cooperative Agreement for Affiliated Partner with the California Cooperative Ecosystem Studies Unit (CESU)",
+      "agency": "DOI-USGS1",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361716",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361703",
+      "title": "Earth Mapping Resources Initiative (Earth MRI) Mine Waste Cooperative Agreements FY2026",
+      "agency": "DOI-USGS1",
+      "deadline": "05/04/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361703",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361679",
+      "title": "FY 2026 Sports Visitor Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361679",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361675",
+      "title": "FY 2026 American Music Mentorship Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/29/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361675",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361681",
+      "title": "FY 2026 Sports Diplomacy On Demand Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361681",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361742",
+      "title": "Native American Language Preservation and Maintenance-Esther Martinez Immersion",
+      "agency": "HHS-ACF-ANA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361742",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361291",
+      "title": "Safe Streets and Roads for All Funding Opportunity",
+      "agency": "DOT-DOT X-50",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361291",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361706",
+      "title": "Indian Child Welfare Act Title II Grants - Public Safety",
+      "agency": "DOI-BIA",
+      "deadline": "06/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361706",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360341",
+      "title": "Sustaining Global Health Security to protect and improve public health in Kenya",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360341",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "352741",
+      "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
+      "agency": "DOD-ONR-NRL",
+      "deadline": "09/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/352741",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "343653",
+      "title": "Department of Defense HIV/AIDS Prevention Program",
+      "agency": "DOD-AMRAA",
+      "deadline": "09/18/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/343653",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361453",
+      "title": "Drug-Free Communities (DFC) Support Program &ndash; NEW (Year 1)",
+      "agency": "HHS-CDC-NCIPC",
+      "deadline": "04/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361453",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361455",
+      "title": "Drug-Free Communities (DFC) Support Program &ndash; COMPETING CONTINUATION (Year 6)",
+      "agency": "HHS-CDC-NCIPC",
+      "deadline": "04/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361455",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359879",
+      "title": "Pilot Projects Enhancing Utility and Usage of Common Fund Data Sets (R03 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "06/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359879",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361026",
+      "title": "Tuberculosis Research Advancement Centers (TRACs)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361026",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360700",
+      "title": "Strengthening tuberculosis (TB) prevention, diagnosis, treatment, and surveillance in Asia",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360700",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360710",
+      "title": "Ending HIV and TB as public health threats through an accelerated and sustained comprehensive response in India",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360710",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361616",
+      "title": "Ryan White HIV/AIDs Program Part B States/Territories Supplemental Grant Program",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361616",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361601",
+      "title": "Supporting Interventions with Technical Assistance",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361601",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361525",
+      "title": "Ryan White HIV/AIDS Program Part F Dental Reimbursement Program",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361525",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361519",
+      "title": "Impact of Immunotherapies on CNS Outcomes in People with HIV: Potential Benefits, Challenges and Risks",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361519",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359701",
+      "title": "Development of Collaborative Research Facilities or Research-Resource Facilities (C06 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "01/25/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359701",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361376",
+      "title": "Strategies to Link, Engage, and Retain Men with HIV in Care: Evaluation Provider",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361376",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361377",
+      "title": "Strategies to Link, Engage, and Retain Men with HIV in Care: Implementation Technical Assistance Provider",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361377",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359939",
+      "title": "Impact of Initial Influenza Exposure on Immunity in Infants (U01 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "06/04/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359939",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361255",
+      "title": "ORACLE 3C: Chronic Conditions, Coinfections, and Comorbidities in HIV",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361255",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361220",
+      "title": "Ryan White HIV/AIDS Program Part C Capacity Development Program&#8239;",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361220",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361204",
+      "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361204",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "358911",
+      "title": "Single Source Renewal for the Continuation of the Liver Cirrhosis Network: Scientific and Data Coordination Center (U24 Clinical Trial Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "01/27/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358911",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361050",
+      "title": "Centers for Structural Biology of HIV and other Infectious Diseases",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361050",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361045",
+      "title": "Ryan White HIV/AIDS Program Part D - Women, Infants, Children and Youth Grant Supplemental Funding",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361045",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361044",
+      "title": "Ryan White HIV/AIDS Program Part D Coordinated HIV Services and Access to Research for Women, Infants, Children, and Youth (WICY) Existing Geographic Service Areas",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361044",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "358910",
+      "title": "Limited Competition Renewal for the Continuation of the Liver Cirrhosis Network: Clinical Research Centers (U01 Clinical Trial Required)",
+      "agency": "HHS-NIH11",
+      "deadline": "03/08/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358910",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360869",
+      "title": "Centers for AIDS Research (CFAR)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360869",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360873",
+      "title": "Implementation Science to End the HIV Epidemic",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360873",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360835",
+      "title": "Strengthening and modernizing Uganda's sustainable public health systems and workforce in data science, informatics, and surveillance to produce timely, accurate, and integrated data for action",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360835",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "358987",
+      "title": "Innovation in Behavioral Health (IBH)",
+      "agency": "HHS-CMS",
+      "deadline": "06/03/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358987",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360759",
+      "title": "Strengthening Ghana Health Service laboratory services, diagnostic networks, and systems for a more effective, efficient, and sustainable response to HIV, TB, and other priority health threats",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360759",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360755",
+      "title": "Sustaining life-saving HIV services in Ukraine by strengthening resilient health systems under the Ukraine Ministry of Health, Public Health Center",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360755",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360707",
+      "title": "Engaging faith-based organizations to sustain lifesaving HIV and TB services in Ethiopia",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360707",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361707",
+      "title": "Cooperative Agreement for affiliated Partner with the North Atlantic Coast Cooperative Ecosystem Studies Unit",
+      "agency": "DOI-USGS1",
+      "deadline": "04/28/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361707",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361705",
+      "title": "Cooperative Agreement for affiliated Partner with the Piedmont-South Atlantic Coast Cooperative Ecosystem Studies Unit",
+      "agency": "DOI-USGS1",
+      "deadline": "04/28/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361705",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361566",
+      "title": "Promoting Integration of Primary and Behavioral Health Care: States",
+      "agency": "HHS-SAMHS-SAMHSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361566",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361556",
+      "title": "Public Health Strategies to Address Alzheimer's Disease and Related Dementias: The National Healthy Brain Initiative, BOLD Public Health Centers of Excellence, and Public Health Adoption Accelerator",
+      "agency": "HHS-CDC-NCCDPHP",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361556",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361532",
+      "title": "Canine Cancer Immunotherapy Network (K9CIN; U01 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361532",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "358938",
+      "title": "Data Coordinating Center for Multi-Site Investigator-Initiated Clinical Trials (Collaborative U24 Clinical Trial Required)",
+      "agency": "HHS-NIH11",
+      "deadline": "11/02/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358938",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "358851",
+      "title": "Clinical Coordinating Center for Multi-Site Investigator-Initiated Clinical Trials (Collaborative UG3/UH3 Clinical Trial Required)",
+      "agency": "HHS-NIH11",
+      "deadline": "11/02/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358851",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "358850",
+      "title": "Single-Site Investigator-Initiated Clinical Trials (R61/R33 Clinical Trial Required)",
+      "agency": "HHS-NIH11",
+      "deadline": "11/02/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358850",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361526",
+      "title": "The Genesis Mission:  Transforming Science and Energy with AI",
+      "agency": "PAMS-SC",
+      "deadline": "12/17/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361526",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361511",
+      "title": "Hereditary Hemorrhagic Telangiectasia (HHT) Center",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361511",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361516",
+      "title": "OIA Coral Reef Initiative and Natural Resources (CRNR) Program 2026",
+      "agency": "DOI",
+      "deadline": "05/18/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361516",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361503",
+      "title": "Prevention, Control, and Mitigation of Harmful Algal Blooms Program",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "05/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361503",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361488",
+      "title": "Alumni Engagement Innovation Fund Program FY 2026",
+      "agency": "DOS-MKD",
+      "deadline": "04/24/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361488",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361494",
+      "title": "Make America Healthy Again &ndash; Enhancing Lifestyle and Evaluating Value-based Approaches Through Evidence",
+      "agency": "HHS-CMS",
+      "deadline": "05/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361494",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361496",
+      "title": "Transforming Pediatrics for Early Childhood (TPEC) Program",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361496",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361456",
+      "title": "Mission Nigeria&rsquo;s Alumni Engagement Innovation Fund",
+      "agency": "DOS-NGA",
+      "deadline": "05/11/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361456",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361452",
+      "title": "Centers without Walls for mechanisms of neurodegeneration in Alzheimer&rsquo;s disease-related dementias (ADRD)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361452",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361450",
+      "title": "Functional Target Validation for Alzheimer's Disease-Related Dementias",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361450",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361441",
+      "title": "Organic Agriculture Research and Extension Initiative - OREI Planning Projects for Assistance in Development of Future OREI Proposals Requiring Multi-regional or Regional Coordination",
+      "agency": "USDA-NIFA-ERA",
+      "deadline": "05/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361441",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361444",
+      "title": "Organic Agriculture Research and Extension Initiative - OREI Workshop Projects",
+      "agency": "USDA-NIFA-ERA",
+      "deadline": "05/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361444",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361430",
+      "title": "Feed the Future Innovation Labs",
+      "agency": "DOS-GFS",
+      "deadline": "04/09/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361430",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361398",
+      "title": "FY 2026 J. Christopher Stevens Virtual Exchange Initiative   (JCSVEI) Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361398",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361401",
+      "title": "FY 2026 Ngawang Choephel Fellows Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361401",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359648",
+      "title": "Resource-Related Research Projects for Development of Models and Related Materials for Studying Human Health and Diseases (R24 Clinical Trials Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "09/28/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359648",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359646",
+      "title": "Animal and Biological Material Resource Centers (P40 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "01/09/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359646",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360343",
+      "title": "Enhancing global laboratory systems to safely manage biological risks, deploy diagnostics, and sequence pathogens to improve capacities for global health threat response and detection",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360343",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360159",
+      "title": "Single Source: Social, Behavioral, &amp; Economic (SBE) Coordinating Center",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360159",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "355967",
+      "title": "Military and Civilian Partnership for Trauma Readiness Grant Program/Mission Zero",
+      "agency": "HHS-ASPR",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/355967",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "357126",
+      "title": "Understanding the Intersection of Forced Scamming and Child Labor in Southeast Asia",
+      "agency": "DOL-ILAB",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/357126",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "356893",
+      "title": "Dissemination and Implementation Research in Health (R01 Clinical Trial Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "01/07/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/356893",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "356042",
+      "title": "FY 2024 &ndash; 2026 - Broad Agency Announcement (BAA) Announcement Type: Initial",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "09/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/356042",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "341131",
+      "title": "Leading Edge Acceleration Projects (LEAP) in Health Information Technology",
+      "agency": "HHS-OS-ONC",
+      "deadline": "09/30/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/341131",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "337347",
+      "title": "2022 Alumni Engagement Innovation Fund (AEIF 2022)",
+      "agency": "DOS-MKD",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/337347",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "338821",
+      "title": "Air Delivered Effects",
+      "agency": "DOD-AFRL-RW",
+      "deadline": "03/21/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/338821",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "337086",
+      "title": "Public Health Crisis Response Cooperative Agreement",
+      "agency": "HHS-CDC-OPHPR",
+      "deadline": "02/11/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/337086",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "331415",
+      "title": "Solomon Islands Threshold Program Industry Day",
+      "agency": "MCC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/331415",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "324686",
+      "title": "U.S. Consulate General Surabaya PAS Annual program Statement",
+      "agency": "DOS-IDN",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/324686",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "324459",
+      "title": "U.S. Embassy Jakarta PAS Annual Program Statement",
+      "agency": "DOS-IDN",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/324459",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "320536",
+      "title": "Biosensing",
+      "agency": "NSF",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/320536",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361582",
+      "title": "Comprehensive Opioid Recovery Centers",
+      "agency": "HHS-SAMHS-SAMHSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361582",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360711",
+      "title": "Enhancing sustainable health information and laboratory systems and networks for quality detection, management, and monitoring to end HIV and TB as public health threats in India",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360711",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360455",
+      "title": "Protecting and Improving Global Health Security by Engaging Local Partners: Strengthening and Sustaining Public Health Systems in Ghana",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360455",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360331",
+      "title": "Strengthening public health efforts to protect and improve health in the Democratic Republic of the Congo (DRC)",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360331",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360342",
+      "title": "Strengthening Global Health Security by improving public health capacity to detect, notify, and respond to disease outbreaks globally",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360342",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360324",
+      "title": "Improving global health security in C&ocirc;te d'Ivoire through collaboration with local partners",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360324",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360295",
+      "title": "Ending the HIV/HCV Epidemics in Indian Country",
+      "agency": "HHS-IHS",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360295",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359228",
+      "title": "FY2025 APS- Opioid and Substance Use Disorder Intervention",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359228",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359142",
+      "title": "Limited Competition: International epidemiology Databases to Evaluate AIDS (IeDEA) (U01 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359142",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "357771",
+      "title": "Updated National Dislocated Worker Grant Program Guidance and Application Information",
+      "agency": "DOL-ETA",
+      "deadline": "12/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/357771",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "344592",
+      "title": "DEVCOM ARMY RESEARCH LABORATORY BROAD AGENCY ANNOUNCEMENT FOR FOUNDATIONAL RESEARCH",
+      "agency": "DOD-AMC",
+      "deadline": "11/20/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/344592",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "327345",
+      "title": "Community Led Monitoring Intervention",
+      "agency": "DOS-MOZ",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/327345",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361682",
+      "title": "FY 2026 America First U.S. Speaker Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361682",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361666",
+      "title": "Accelerating Prosecution of Criminals and Terrorists in Lebanon by Digitizing Paper Criminal Court files",
+      "agency": "DOS-INL",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361666",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361678",
+      "title": "FY 2026 Kennedy-Lugar Youth Exchange and Study (YES)",
+      "agency": "DOS-ECA",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361678",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361680",
+      "title": "FY 2026 Sports Envoy Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361680",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361402",
+      "title": "FY 2026 American Film Showcase",
+      "agency": "DOS-ECA",
+      "deadline": "06/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361402",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361397",
+      "title": "FY 2026 National Security Language Initiative for Youth (NSLI-Y)",
+      "agency": "DOS-ECA",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361397",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361256",
+      "title": "Countering Cartel Recruitment in Mexico",
+      "agency": "DOS-INL",
+      "deadline": "04/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361256",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360333",
+      "title": "Expanding global health security through local partnerships in Ethiopia",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360333",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360201",
+      "title": "Collaborative Surveys to Provide Inputs into Vaccine-Related Economic Evaluations",
+      "agency": "HHS-CDC-HHSCDCERA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360201",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "356612",
+      "title": "Fundamental Research to Counter Weapons of Mass Destruction",
+      "agency": "DOD-DTRA",
+      "deadline": "09/30/2034",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/356612",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361509",
+      "title": "Coordinating Agricultural Development &amp; Innovation (CADI) Uzbekistan: U.S. Soy Marketing Promotion",
+      "agency": "USDA-FAS",
+      "deadline": "05/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361509",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361442",
+      "title": "Maternal Produce Prescription Program (MP3)",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361442",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361443",
+      "title": "Organic Agriculture Research and Extension Initiative - OREI Research Projects with Extension and/or Education Components",
+      "agency": "USDA-NIFA-ERA",
+      "deadline": "05/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361443",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361003",
+      "title": "Senior Medicare Patrol State Project Grants - Pennsylvania",
+      "agency": "HHS-ACL",
+      "deadline": "04/13/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361003",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360526",
+      "title": "Field Initiated Projects Program: Minority-Serving Institutions (MSI) -Research",
+      "agency": "HHS-ACL",
+      "deadline": "04/13/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360526",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360527",
+      "title": "Field Initiated Projects Program: Minority-Serving Institutions (MSI) - Development",
+      "agency": "HHS-ACL",
+      "deadline": "04/13/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360527",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361211",
+      "title": "Agriculture and Food Research Initiative  Strengthening Agricultural Systems",
+      "agency": "USDA-NIFA",
+      "deadline": "04/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361211",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361169",
+      "title": "Agriculture and Food Research Initiative Competitive Grants Program Education and Workforce Development",
+      "agency": "USDA-NIFA",
+      "deadline": "12/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361169",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361042",
+      "title": "Telehealth Nutrition Services Network Grant Program",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361042",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "358935",
+      "title": "Institutional Network Award for Promoting Kidney, Urologic, and Hematologic Research Training (U2C - Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "05/26/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358935",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359145",
+      "title": "Diabetes Research Centers (P30 Clinical Trial Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "01/27/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359145",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360918",
+      "title": "Cancer Center Support Grants (CCSGs) for NCI-designated Cancer Centers (P30 Clinical Trial Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "09/25/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360918",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361622",
+      "title": "Fiscal Year 2026 University Nuclear Research Infrastructure Revitalization",
+      "agency": "DOE-ID",
+      "deadline": "05/13/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361622",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361628",
+      "title": "Unleashing Tribal Energy Development",
+      "agency": "DOE-GFO",
+      "deadline": "07/24/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361628",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361620",
+      "title": "Fiscal Year 2024 &amp; 2025 Building Resilient Infrastructure and Communities (BRIC)",
+      "agency": "DHS-DHS",
+      "deadline": "07/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361620",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361613",
+      "title": "The Educational Component of the National Cooperative Geologic Mapping Program",
+      "agency": "DOI-USGS1",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361613",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361562",
+      "title": "Ocean and Coastal Mapping Center 2026",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "05/11/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361562",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361531",
+      "title": "Marine and Mammal Habitat Monitoring: Cook Inlet Beluga Whale (CIBW) Prey &ndash; Salmon Monitoring for Joint Base Elmendorf-Richardson (JBER)",
+      "agency": "DOD-COE-FW",
+      "deadline": "04/17/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361531",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361508",
+      "title": "Coordinating Agricultural Development &amp; Innovation (CADI) Armenia Exchanges: U.S. Food Safety Regulations and Standards Training Program",
+      "agency": "USDA-FAS",
+      "deadline": "05/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361508",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361517",
+      "title": "FY 2026 Energizing Insular Communities Program",
+      "agency": "DOI",
+      "deadline": "05/18/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361517",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361499",
+      "title": "Harmful Algal Bloom Innovation Challenge: Toxin Detection in Seafood",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "05/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361499",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361492",
+      "title": "FY 2026 Young Southeast Asian Leaders Initiative (YSEALI) Academic Fellows Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/11/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361492",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361483",
+      "title": "FY 2026 Ocean Technology Transition Program",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "07/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361483",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361458",
+      "title": "FY2026 Research Opportunities in Accelerator Stewardship and Accelerator Development",
+      "agency": "PAMS-SC",
+      "deadline": "05/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361458",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360391",
+      "title": "Grants for Adaptive Sports Programs for Disabled Veterans and Disabled Members of the Armed Forces",
+      "agency": "VA-NVSP",
+      "deadline": "05/13/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360391",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "88e665e6-f436-47ff-a52f-88a64772b3f2",
+      "title": "Climate change and global health: WHO calls for migrant-inclusive and climate-resilient health systems",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/06-08-2025-climate-change-and-global-health--who-calls-for-migrant-inclusive-and-climate-resilient-health-systems",
+      "source": "WHO",
+      "description": "Departmental update \u2014 2025-08-06"
+    },
+    {
+      "id": "0d9ea6f3-87d1-41e1-915d-606e0dc828d5",
+      "title": "WHO advisory body releases malaria eradication report",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/20-04-2020-who-advisory-body-releases-malaria-eradication-report",
+      "source": "WHO",
+      "description": "Departmental update \u2014 2020-04-20"
+    },
+    {
+      "id": "c391fb3b-9334-46fe-a7d8-dd49dc6eb552",
+      "title": "Statement on the twelfth meeting of the International Health Regulations (2005) Emergency Committee regarding the coronavirus disease (COVID-19) pandemic",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/12-07-2022-statement-on-the-twelfth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic",
+      "source": "WHO",
+      "description": "Statement \u2014 2022-07-12"
+    },
+    {
+      "id": "8d3cab00-ee85-41f5-950b-cbe340f5bda0",
+      "title": "Changing epidemiology of Polio prompts tactical shift in world\u2019s largest public health initiative",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/13-05-2003-changing-epidemiology-of-polio-prompts-tactical-shift-in-world-s-largest-public-health-initiative",
+      "source": "WHO",
+      "description": "Departmental update \u2014 2003-05-13"
+    },
+    {
+      "id": "4ed3caa6-8592-4d58-803c-4d08eb993bb9",
+      "title": "France's new Global Health Strategy",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/12-10-2023-france-s-new-global-health-strategy",
+      "source": "WHO",
+      "description": "Departmental update \u2014 2023-10-12"
+    },
+    {
+      "id": "cf58751e-b868-4fa0-83b3-0a74d2ee0911",
+      "title": "WHO updates guidelines to enhance access to HIV post-exposure prophylaxis",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/22-07-2024-who-updates-guidelines-to-enhance-access-to-hiv-post-exposure-prophylaxis",
+      "source": "WHO",
+      "description": "Departmental update \u2014 2024-07-22"
+    },
+    {
+      "id": "6466d8d5-94f8-40d4-a240-bf3a0a813dc4",
+      "title": "WHO reports outline responses to cyber-attacks on health care and the rise of disinformation in public health emergencies",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/06-02-2024-who-reports-outline-responses-to-cyber-attacks-on-health-care-and-the-rise-of-disinformation-in-public-health-emergencies",
+      "source": "WHO",
+      "description": "Departmental update \u2014 2024-02-06"
+    },
+    {
+      "id": "716c8ca1-7c15-4573-9e3d-1df44217a7df",
+      "title": "WHO announces the development of new guidance on offering long acting injectable cabotegravir as HIV prevention for people at substantial risk for HIV infection",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/17-02-2022-who-announces-guidelines-development-group-cabotegravir",
+      "source": "WHO",
+      "description": "Departmental update \u2014 2022-02-17"
+    },
+    {
+      "id": "cdbb0fec29a33b85ca52a70e65e73fa2",
+      "title": "Global Health Estimates",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/mega-menu/data/data-who/global-health-estimates",
+      "source": "WHO",
+      "description": ""
+    },
+    {
+      "id": "16997fa756e90e28ed5a0e0aaa7c5e35",
+      "title": "Global Health Observatory",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/mega-menu/data/data-who/global-health-obsevatory",
+      "source": "WHO",
+      "description": ""
+    },
+    {
+      "id": "8d92e01cbf9bf7be902b45eeda7fc79c",
+      "title": "The Pandemic Fund \n \n \n \n \n                                The Pandemic Fund is a multilateral financing mechanism dedicated to providing multiyear grants for enhancing pandemic preparedness in low- and middle-income countries.",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/emergencies/funding/pandemic-fund",
+      "source": "WHO",
+      "description": ""
+    },
+    {
+      "id": "54fac695c68c6cf8a3a2556e7f6e6c70",
+      "title": "Addressing Physiological Barriers to Micronutrient Absorption from Fortified Foods",
+      "agency": "Bill & Melinda Gates Foundation",
+      "deadline": "",
+      "url": "https://gcgh.grandchallenges.org/challenge/addressing-physiological-barriers-micronutrient-absorption-fortified-foods",
+      "source": "Gates Foundation (Grand Challenges)",
+      "description": ""
+    },
+    {
+      "id": "1719a4ba000af88dc39c567ad384da99",
+      "title": "Artificial Intelligence (AI) to Accelerate Charitable Giving",
+      "agency": "Bill & Melinda Gates Foundation",
+      "deadline": "",
+      "url": "https://gcgh.grandchallenges.org/challenge/artificial-intelligence-ai-accelerate-charitable-giving",
+      "source": "Gates Foundation (Grand Challenges)",
+      "description": ""
+    },
+    {
+      "id": "a328e609e473700bdd8b47d58ed31c7f",
+      "title": "Breakthrough Innovations to Significantly Reduce the Cost of Severe Acute Malnutrition Treatment",
+      "agency": "Bill & Melinda Gates Foundation",
+      "deadline": "",
+      "url": "https://gcgh.grandchallenges.org/challenge/breakthrough-innovations-significantly-reduce-cost-severe-acute-malnutrition-treatment",
+      "source": "Gates Foundation (Grand Challenges)",
+      "description": ""
+    },
+    {
+      "id": "e88135edcaa039adc92caa1c89d68d40",
+      "title": "Cost-Disrupting Innovations to Reduce the Cost of Ready-to-Use Therapeutic Food",
+      "agency": "Bill & Melinda Gates Foundation",
+      "deadline": "",
+      "url": "https://gcgh.grandchallenges.org/challenge/cost-disrupting-innovations-reduce-cost-ready-use-therapeutic-food",
+      "source": "Gates Foundation (Grand Challenges)",
+      "description": ""
+    },
+    {
+      "id": "234b23162332de0bf420d505dd0aedcf",
+      "title": "Innovations in Cost-Disruptive Tools for Diagnosis and Screening",
+      "agency": "Bill & Melinda Gates Foundation",
+      "deadline": "",
+      "url": "https://gcgh.grandchallenges.org/challenge/innovations-cost-disruptive-tools-diagnosis-and-screening",
+      "source": "Gates Foundation (Grand Challenges)",
+      "description": ""
+    },
+    {
+      "id": "45b0598dda2002114963a4d9d2de5a65",
+      "title": "Novel Interventions Targeting Placental and Gut Inflammation to Improve Fetal Growth",
+      "agency": "Bill & Melinda Gates Foundation",
+      "deadline": "",
+      "url": "https://gcgh.grandchallenges.org/challenge/novel-interventions-targeting-placental-and-gut-inflammation-improve-fetal-growth",
+      "source": "Gates Foundation (Grand Challenges)",
+      "description": ""
+    },
+    {
+      "id": "cdb1edf07e25d2d97b784d4c791cea1a",
+      "title": "Accelerating Innovation in Vaginal Formulations in Support of Women's Health",
+      "agency": "Bill & Melinda Gates Foundation",
+      "deadline": "",
+      "url": "https://gcgh.grandchallenges.org/challenge/accelerating-innovation-vaginal-formulations-support-womens-health-3",
+      "source": "Gates Foundation (Grand Challenges)",
+      "description": ""
+    },
+    {
+      "id": "a02a2d8d9f071ae3736b4d40f8d115f0",
+      "title": "Wellcome Trust \u2014 Mental Health Award Improving Cognitive And Functional Outcomes People",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/mental-health-award-improving-cognitive-and-functional-outcomes-people",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Mental Health Award Improving Cognitive And Functional Outcomes People. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "b49c44619c39f6f80815fd0990c288b1",
+      "title": "Wellcome Trust \u2014 Mental Health Award Looking Backwards Moving Forward Understanding How",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/mental-health-award-looking-backwards-moving-forward-understanding-how",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Mental Health Award Looking Backwards Moving Forward Understanding How. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "3a8d5986ae700376053e404cffdfc0ec",
+      "title": "Wellcome Trust \u2014 Biological Vulnerability Extreme Heat Maternal And Child Health",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/biological-vulnerability-extreme-heat-maternal-and-child-health",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Biological Vulnerability Extreme Heat Maternal And Child Health. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "0e89fbbd0d74055ad241ad506104b734",
+      "title": "Wellcome Trust \u2014 Mental Health Award Integrating Sleep And Circadian Science Our",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/mental-health-award-integrating-sleep-and-circadian-science-our",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Mental Health Award Integrating Sleep And Circadian Science Our. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "509cc9a87c698fe68a55214580ad0671",
+      "title": "Wellcome Trust \u2014 Mental Health Award Finding Right Treatment Right People Right Time",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/mental-health-award-finding-right-treatment-right-people-right-time",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Mental Health Award Finding Right Treatment Right People Right Time. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "25e33564e5930d71a26fd0c7f727bf9b",
+      "title": "Wellcome Trust \u2014 Mental Health Award Understanding How Anxiety And Trauma Related Problems",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/mental-health-award-understanding-how-anxiety-and-trauma-related-problems",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Mental Health Award Understanding How Anxiety And Trauma Related Problems. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "7ca4b8d5c0123a55d336196508237b5e",
+      "title": "Wellcome Trust \u2014 Strengthening Health And Disease Modelling Public Health Decision Making",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/strengthening-health-and-disease-modelling-public-health-decision-making",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Strengthening Health And Disease Modelling Public Health Decision Making. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "2c5d00ca68795205213af75f334193c1",
+      "title": "Wellcome Trust \u2014 Mental Health Award Applying Neuroscience Understand Symptoms Anxiety",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/mental-health-award-applying-neuroscience-understand-symptoms-anxiety",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Mental Health Award Applying Neuroscience Understand Symptoms Anxiety. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "68640befbd6800bb2c3c05e2f65d9aca",
+      "title": "Wellcome Trust \u2014 Mental Health Award Accelerating Scalable Digital Mental Health",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/mental-health-award-accelerating-scalable-digital-mental-health",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Mental Health Award Accelerating Scalable Digital Mental Health. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "e21ae979658593136fe448fccc6024d7",
+      "title": "Wellcome Trust \u2014 Climate And Mental Health Award Uncovering Mechanisms Between Heat And",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/climate-and-mental-health-award-uncovering-mechanisms-between-heat-and",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Climate And Mental Health Award Uncovering Mechanisms Between Heat And. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "ef6b01244755c95e53d2c9364cf695ae",
+      "title": "Wellcome Trust \u2014 Mental Health Award Advancing Target Validation Novel Mental Health Drug",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/mental-health-award-advancing-target-validation-novel-mental-health-drug",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Mental Health Award Advancing Target Validation Novel Mental Health Drug. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "57fea72462d36c69c164c6a957afb401",
+      "title": "Wellcome Trust \u2014 Mental Health Award Leveraging Longitudinal Data Transform Early",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/mental-health-award-leveraging-longitudinal-data-transform-early",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Mental Health Award Leveraging Longitudinal Data Transform Early. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "623ddae24e7f6ed1bab0140c7a41b2d2",
+      "title": "Wellcome Trust \u2014 Mental Health Award Transforming Early Intervention",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/mental-health-award-transforming-early-intervention",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Mental Health Award Transforming Early Intervention. Visit the URL for eligibility and deadlines."
+    },
+    {
+      "id": "8371c2edc7e493312d5b70fe6a9ad847",
+      "title": "Wellcome Trust \u2014 Mental Health Award Using Physical Activity And Circadian Based",
+      "agency": "Wellcome Trust",
+      "deadline": "",
+      "url": "https://wellcome.org/research-funding/schemes/mental-health-award-using-physical-activity-and-circadian-based",
+      "source": "Wellcome Trust",
+      "description": "Active Wellcome funding scheme: Mental Health Award Using Physical Activity And Circadian Based. Visit the URL for eligibility and deadlines."
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Funding Opportunity Scanner</title>
+  <style>
+    /* ── Reset & base ─────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f0f4f8;
+      color: #1a202c;
+      min-height: 100vh;
+    }
+    a { color: inherit; }
+
+    /* ── Header ───────────────────────────────────────────────────────── */
+    header {
+      background: linear-gradient(135deg, #0077b6 0%, #023e8a 100%);
+      color: #fff;
+      padding: 28px 24px 22px;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 700; letter-spacing: -0.3px; }
+    header p  { margin-top: 6px; opacity: .85; font-size: .95rem; }
+
+    /* ── Stats bar ────────────────────────────────────────────────────── */
+    #stats-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      justify-content: center;
+      background: #fff;
+      border-bottom: 1px solid #e2e8f0;
+      padding: 14px 24px;
+    }
+    .stat-chip {
+      background: #e8f4fd;
+      border: 1px solid #bee3f8;
+      border-radius: 20px;
+      padding: 5px 14px;
+      font-size: .85rem;
+      font-weight: 600;
+      color: #2b6cb0;
+      white-space: nowrap;
+    }
+    .stat-chip span { font-weight: 400; color: #4a5568; }
+    #last-updated {
+      font-size: .8rem;
+      color: #718096;
+      align-self: center;
+      margin-left: auto;
+    }
+
+    /* ── Controls ─────────────────────────────────────────────────────── */
+    #controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      max-width: 1200px;
+      margin: 18px auto 0;
+      padding: 0 20px;
+    }
+    #search {
+      flex: 1 1 240px;
+      padding: 9px 14px;
+      border: 1px solid #cbd5e0;
+      border-radius: 8px;
+      font-size: .95rem;
+      background: #fff;
+      outline: none;
+      transition: border-color .15s;
+    }
+    #search:focus { border-color: #0077b6; box-shadow: 0 0 0 3px rgba(0,119,182,.15); }
+    #source-filter {
+      padding: 9px 14px;
+      border: 1px solid #cbd5e0;
+      border-radius: 8px;
+      font-size: .9rem;
+      background: #fff;
+      cursor: pointer;
+      outline: none;
+    }
+    #count-label {
+      font-size: .88rem;
+      color: #718096;
+      margin-left: auto;
+      white-space: nowrap;
+    }
+
+    /* ── Grid ─────────────────────────────────────────────────────────── */
+    #grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 16px;
+      max-width: 1200px;
+      margin: 16px auto 40px;
+      padding: 0 20px;
+    }
+
+    /* ── Card ─────────────────────────────────────────────────────────── */
+    .card {
+      background: #fff;
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 18px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      transition: box-shadow .15s, transform .1s;
+    }
+    .card:hover {
+      box-shadow: 0 6px 20px rgba(0,0,0,.09);
+      transform: translateY(-2px);
+    }
+    .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+    .card-title {
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 1.4;
+      color: #0077b6;
+      text-decoration: none;
+      flex: 1;
+    }
+    .card-title:hover { text-decoration: underline; }
+    .source-badge {
+      font-size: .7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      padding: 3px 8px;
+      border-radius: 10px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .card-meta {
+      font-size: .83rem;
+      color: #4a5568;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 14px;
+    }
+    .card-meta strong { color: #2d3748; }
+    .deadline-tag {
+      display: inline-block;
+      font-size: .78rem;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 6px;
+      margin-top: 2px;
+    }
+    .deadline-urgent  { background: #fed7d7; color: #c53030; }
+    .deadline-soon    { background: #fefcbf; color: #975a16; }
+    .deadline-normal  { background: #e6fffa; color: #276749; }
+    .card-desc {
+      font-size: .83rem;
+      color: #718096;
+      line-height: 1.55;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card-footer {
+      margin-top: auto;
+      padding-top: 6px;
+      border-top: 1px solid #f0f4f8;
+    }
+    .card-footer a {
+      font-size: .82rem;
+      color: #0077b6;
+      font-weight: 500;
+      text-decoration: none;
+    }
+    .card-footer a:hover { text-decoration: underline; }
+
+    /* ── Source colour map ────────────────────────────────────────────── */
+    .src-grants   { background: #ebf8ff; color: #2b6cb0; }
+    .src-who      { background: #f0fff4; color: #276749; }
+    .src-gates    { background: #fffaf0; color: #c05621; }
+    .src-wellcome { background: #faf5ff; color: #6b46c1; }
+    .src-relief   { background: #fff5f5; color: #c53030; }
+    .src-eu       { background: #e6fffa; color: #234e52; }
+    .src-simpler  { background: #ebf4ff; color: #2c5282; }
+    .src-un       { background: #f0f9ff; color: #075985; }
+    .src-default  { background: #f7fafc; color: #4a5568; }
+
+    /* ── Empty / loading state ────────────────────────────────────────── */
+    #message {
+      grid-column: 1/-1;
+      text-align: center;
+      padding: 60px 20px;
+      color: #718096;
+      font-size: 1rem;
+    }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 4px solid #e2e8f0;
+      border-top-color: #0077b6;
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+      margin: 0 auto 14px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Responsive ───────────────────────────────────────────────────── */
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.35rem; }
+      #grid { grid-template-columns: 1fr; }
+      #last-updated { margin: 0; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🌍 Funding Opportunity Scanner</h1>
+  <p>Live dashboard — health &amp; global development grants, updated daily</p>
+</header>
+
+<div id="stats-bar">
+  <div class="stat-chip" id="chip-total">Loading…</div>
+  <div id="source-chips"></div>
+  <div id="last-updated"></div>
+</div>
+
+<div id="controls">
+  <input id="search" type="search" placeholder="Search title, agency, keyword…" />
+  <select id="source-filter"><option value="">All sources</option></select>
+  <span id="count-label"></span>
+</div>
+
+<div id="grid">
+  <div id="message"><div class="spinner"></div>Loading opportunities…</div>
+</div>
+
+<script>
+  // ── Source → CSS class ──────────────────────────────────────────────
+  function sourceClass(src) {
+    const s = (src || "").toLowerCase();
+    if (s.includes("grants.gov"))  return "src-grants";
+    if (s.includes("who"))         return "src-who";
+    if (s.includes("gates"))       return "src-gates";
+    if (s.includes("wellcome"))    return "src-wellcome";
+    if (s.includes("reliefweb"))   return "src-relief";
+    if (s.includes("eu"))          return "src-eu";
+    if (s.includes("simpler"))     return "src-simpler";
+    if (s.includes("un ") || s.includes("united nations")) return "src-un";
+    return "src-default";
+  }
+
+  // ── Deadline → urgency class ────────────────────────────────────────
+  function deadlineClass(dl) {
+    if (!dl) return null;
+    // try MM/DD/YYYY or YYYY-MM-DD
+    const d = new Date(dl.includes("/")
+      ? dl.replace(/(\d+)\/(\d+)\/(\d+)/, "$3-$1-$2")
+      : dl);
+    if (isNaN(d)) return "deadline-normal";
+    const days = (d - Date.now()) / 86400000;
+    if (days < 14) return "deadline-urgent";
+    if (days < 45) return "deadline-soon";
+    return "deadline-normal";
+  }
+
+  // ── Escape HTML ─────────────────────────────────────────────────────
+  function esc(s) {
+    return String(s ?? "")
+      .replace(/&/g,"&amp;").replace(/</g,"&lt;")
+      .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+  }
+
+  // ── Build a card ────────────────────────────────────────────────────
+  function buildCard(o) {
+    const dlClass = deadlineClass(o.deadline);
+    const dlTag   = o.deadline
+      ? `<span class="deadline-tag ${dlClass}">📅 ${esc(o.deadline)}</span>`
+      : "";
+    const award = o.award_ceiling
+      ? `<div><strong>Award ceiling:</strong> ${esc(o.award_ceiling)}</div>`
+      : "";
+    const desc = o.description
+      ? `<p class="card-desc">${esc(o.description)}</p>`
+      : "";
+
+    return `
+      <div class="card" data-source="${esc(o.source)}"
+           data-search="${esc((o.title+" "+o.agency+" "+o.description).toLowerCase())}">
+        <div class="card-header">
+          <a class="card-title" href="${esc(o.url)}" target="_blank" rel="noopener">
+            ${esc(o.title)}
+          </a>
+          <span class="source-badge ${sourceClass(o.source)}">${esc(o.source)}</span>
+        </div>
+        <div class="card-meta">
+          <div><strong>Agency:</strong> ${esc(o.agency || "N/A")}</div>
+          ${award}
+        </div>
+        ${dlTag}
+        ${desc}
+        <div class="card-footer">
+          <a href="${esc(o.url)}" target="_blank" rel="noopener">View opportunity →</a>
+        </div>
+      </div>`;
+  }
+
+  // ── Filter & render visible cards ───────────────────────────────────
+  function applyFilters() {
+    const q   = document.getElementById("search").value.trim().toLowerCase();
+    const src = document.getElementById("source-filter").value;
+    let visible = 0;
+    document.querySelectorAll(".card").forEach(card => {
+      const matchSrc  = !src || card.dataset.source === src;
+      const matchText = !q   || card.dataset.search.includes(q);
+      const show = matchSrc && matchText;
+      card.style.display = show ? "" : "none";
+      if (show) visible++;
+    });
+    document.getElementById("count-label").textContent =
+      `Showing ${visible} opportunit${visible !== 1 ? "ies" : "y"}`;
+  }
+
+  // ── Main: fetch data and render ─────────────────────────────────────
+  async function main() {
+    const grid = document.getElementById("grid");
+    const msg  = document.getElementById("message");
+
+    let data;
+    try {
+      const res = await fetch("./outputs/opportunities.json?" + Date.now());
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      data = await res.json();
+    } catch (err) {
+      msg.innerHTML = `<p>⚠️ Could not load opportunities.json.<br>
+        <small>${err.message}</small><br><br>
+        <small>Make sure the file exists at <code>outputs/opportunities.json</code>
+        and GitHub Pages is enabled for this repository.</small></p>`;
+      return;
+    }
+
+    // Stats bar
+    const total = data.total ?? data.opportunities.length;
+    document.getElementById("chip-total").innerHTML =
+      `<strong>${total}</strong> <span>opportunities</span>`;
+    document.getElementById("last-updated").textContent =
+      `Last updated: ${data.last_updated ? new Date(data.last_updated).toLocaleString() : "unknown"}`;
+
+    // Per-source chips
+    const chipsEl = document.getElementById("source-chips");
+    const selEl   = document.getElementById("source-filter");
+    Object.entries(data.by_source || {}).sort((a,b)=>b[1]-a[1]).forEach(([src, cnt]) => {
+      const chip = document.createElement("div");
+      chip.className = `stat-chip ${sourceClass(src)}`;
+      chip.innerHTML = `<strong>${cnt}</strong> <span>${esc(src)}</span>`;
+      chipsEl.appendChild(chip);
+
+      const opt = document.createElement("option");
+      opt.value = src;
+      opt.textContent = `${src} (${cnt})`;
+      selEl.appendChild(opt);
+    });
+
+    // Render cards
+    msg.remove();
+    const opps = data.opportunities ?? [];
+    grid.innerHTML = opps.map(buildCard).join("");
+
+    // Wire up controls
+    document.getElementById("search").addEventListener("input", applyFilters);
+    document.getElementById("source-filter").addEventListener("change", applyFilters);
+    applyFilters();
+  }
+
+  main();
+</script>
+
+</body>
+</html>
