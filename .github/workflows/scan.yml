@@ -2,7 +2,7 @@ name: Daily Funding Scan
 
 on:
   schedule:
-    - cron: '0 16 * * *'   # 4 PM UTC every day
+    - cron: '6 2 * * *'   # 4 PM UTC every day
   workflow_dispatch:        # allow manual runs from the Actions tab
 
 permissions:
