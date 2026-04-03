@@ -1,13 +1,53 @@
 {
-  "last_updated": "2026-04-03T02:37:27Z",
-  "total": 186,
+  "last_updated": "2026-04-03T23:04:54Z",
+  "total": 183,
   "by_source": {
-    "Grants.gov": 154,
+    "Grants.gov": 151,
     "WHO": 11,
     "Gates Foundation (Grand Challenges)": 7,
     "Wellcome Trust": 14
   },
   "opportunities": [
+    {
+      "id": "361749",
+      "title": "Alumni Engagement Innovation Fund (AEIF) 2026",
+      "agency": "DOS-BDI",
+      "deadline": "05/04/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361749",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361751",
+      "title": "Alumni Engagement Innovation Fund",
+      "agency": "DOS-ITA",
+      "deadline": "05/03/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361751",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361754",
+      "title": "Title X Family Planning Services Grants",
+      "agency": "HHS-OPHS",
+      "deadline": "01/09/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361754",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361755",
+      "title": "F26AS00026-NAWCA 2026-2 US Standard Grants",
+      "agency": "DOI-FWS",
+      "deadline": "05/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361755",
+      "source": "Grants.gov",
+      "description": ""
+    },
     {
       "id": "361739",
       "title": "Program Year 2026 Workforce Innovation and Opportunity Act (WIOA), Indian and Native American Programs Employment and Training - Adult",
@@ -119,22 +159,22 @@
       "description": ""
     },
     {
-      "id": "361725",
-      "title": "Delta Health Care Service Grant Program",
-      "agency": "USDA-RBCS",
-      "deadline": "06/01/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361725",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361738",
       "title": "Smith-Lever Special Needs Competitive Grants Program",
       "agency": "USDA-NIFA-ERA",
       "deadline": "06/01/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361738",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361725",
+      "title": "Delta Health Care Service Grant Program",
+      "agency": "USDA-RBCS",
+      "deadline": "06/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361725",
       "source": "Grants.gov",
       "description": ""
     },
@@ -219,46 +259,6 @@
       "description": ""
     },
     {
-      "id": "361714",
-      "title": "Advancing Global Health",
-      "agency": "DOS-GHSD",
-      "deadline": "02/14/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361714",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361701",
-      "title": "Installation Natural Resource Management Plan Implementation Support to Navy Region Hawaii and Joint Base Pearl Harbor-Hickam, Oahu, Hawaii",
-      "agency": "DOD-COE-FW",
-      "deadline": "04/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361701",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361695",
-      "title": "2026 Alumni Engagement Innovation Fund (AEIF 2026)",
-      "agency": "DOS-GNQ",
-      "deadline": "05/04/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361695",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361693",
-      "title": "Post Kuala Lumpur FY2026 Annual Program Statement",
-      "agency": "DOS-MLA",
-      "deadline": "07/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361693",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361741",
       "title": "Marine Mammal and Habitat Monitoring-Cook Inlet Beluga Whale Prey at Joint Base Elmendorf-Richardson (JBER)",
       "agency": "DOD-COE-FW",
@@ -289,12 +289,32 @@
       "description": ""
     },
     {
-      "id": "361716",
-      "title": "Cooperative Agreement for Affiliated Partner with the California Cooperative Ecosystem Studies Unit (CESU)",
-      "agency": "DOI-USGS1",
-      "deadline": "04/30/2026",
+      "id": "361714",
+      "title": "Advancing Global Health",
+      "agency": "DOS-GHSD",
+      "deadline": "02/14/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361716",
+      "url": "https://www.grants.gov/search-results-detail/361714",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361701",
+      "title": "Installation Natural Resource Management Plan Implementation Support to Navy Region Hawaii and Joint Base Pearl Harbor-Hickam, Oahu, Hawaii",
+      "agency": "DOD-COE-FW",
+      "deadline": "04/27/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361701",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361695",
+      "title": "2026 Alumni Engagement Innovation Fund (AEIF 2026)",
+      "agency": "DOS-GNQ",
+      "deadline": "05/04/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361695",
       "source": "Grants.gov",
       "description": ""
     },
@@ -309,62 +329,12 @@
       "description": ""
     },
     {
-      "id": "361679",
-      "title": "FY 2026 Sports Visitor Program",
-      "agency": "DOS-ECA",
-      "deadline": "05/26/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361679",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361675",
-      "title": "FY 2026 American Music Mentorship Program",
-      "agency": "DOS-ECA",
-      "deadline": "05/29/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361675",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361681",
-      "title": "FY 2026 Sports Diplomacy On Demand Program",
-      "agency": "DOS-ECA",
-      "deadline": "05/26/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361681",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361742",
       "title": "Native American Language Preservation and Maintenance-Esther Martinez Immersion",
       "agency": "HHS-ACF-ANA",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361742",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361291",
-      "title": "Safe Streets and Roads for All Funding Opportunity",
-      "agency": "DOT-DOT X-50",
-      "deadline": "05/26/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361291",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361706",
-      "title": "Indian Child Welfare Act Title II Grants - Public Safety",
-      "agency": "DOI-BIA",
-      "deadline": "06/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361706",
       "source": "Grants.gov",
       "description": ""
     },
@@ -679,16 +649,6 @@
       "description": ""
     },
     {
-      "id": "360707",
-      "title": "Engaging faith-based organizations to sustain lifesaving HIV and TB services in Ethiopia",
-      "agency": "HHS-CDC-GHC",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360707",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361707",
       "title": "Cooperative Agreement for affiliated Partner with the North Atlantic Coast Cooperative Ecosystem Studies Unit",
       "agency": "DOI-USGS1",
@@ -875,16 +835,6 @@
       "deadline": "05/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361441",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361444",
-      "title": "Organic Agriculture Research and Extension Initiative - OREI Workshop Projects",
-      "agency": "USDA-NIFA-ERA",
-      "deadline": "05/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361444",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1199,6 +1149,26 @@
       "description": ""
     },
     {
+      "id": "361679",
+      "title": "FY 2026 Sports Visitor Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361679",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361675",
+      "title": "FY 2026 American Music Mentorship Program",
+      "agency": "DOS-ECA",
+      "deadline": "05/29/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361675",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361682",
       "title": "FY 2026 America First U.S. Speaker Program",
       "agency": "DOS-ECA",
@@ -1319,6 +1289,16 @@
       "description": ""
     },
     {
+      "id": "361444",
+      "title": "Organic Agriculture Research and Extension Initiative - OREI Workshop Projects",
+      "agency": "USDA-NIFA-ERA",
+      "deadline": "05/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361444",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361443",
       "title": "Organic Agriculture Research and Extension Initiative - OREI Research Projects with Extension and/or Education Components",
       "agency": "USDA-NIFA-ERA",
@@ -1409,12 +1389,12 @@
       "description": ""
     },
     {
-      "id": "360918",
-      "title": "Cancer Center Support Grants (CCSGs) for NCI-designated Cancer Centers (P30 Clinical Trial Optional)",
-      "agency": "HHS-NIH11",
-      "deadline": "09/25/2028",
+      "id": "361716",
+      "title": "Cooperative Agreement for Affiliated Partner with the California Cooperative Ecosystem Studies Unit (CESU)",
+      "agency": "DOI-USGS1",
+      "deadline": "04/30/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360918",
+      "url": "https://www.grants.gov/search-results-detail/361716",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1525,16 +1505,6 @@
       "deadline": "07/15/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361483",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361458",
-      "title": "FY2026 Research Opportunities in Accelerator Stewardship and Accelerator Development",
-      "agency": "PAMS-SC",
-      "deadline": "05/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361458",
       "source": "Grants.gov",
       "description": ""
     },
