@@ -1,20 +1,60 @@
 {
-  "last_updated": "2026-04-06T23:20:10Z",
-  "total": 185,
+  "last_updated": "2026-04-07T23:22:29Z",
+  "total": 188,
   "by_source": {
-    "Grants.gov": 153,
+    "Grants.gov": 156,
     "WHO": 11,
     "Gates Foundation (Grand Challenges)": 7,
     "Wellcome Trust": 14
   },
   "opportunities": [
     {
-      "id": "361757",
-      "title": "Maternal Health Emergency Management Training (MHEMT)",
+      "id": "361767",
+      "title": "PDS Lome Alumni Engagement Innovation Funds",
+      "agency": "DOS-TGO",
+      "deadline": "05/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361767",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361769",
+      "title": "NIH Specialized Center Grant (Parent P50)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361769",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361768",
+      "title": "2026 Alumni Engagement Innovation Fund (AEIF 2026)",
+      "agency": "DOS-UZB",
+      "deadline": "05/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361768",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361798",
+      "title": "Rural Northern Border Region Network Planning Program",
       "agency": "HHS-HRSA",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361757",
+      "url": "https://www.grants.gov/search-results-detail/361798",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361800",
+      "title": "Fiscal Year 2026 Expanding Nutrition Services",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361800",
       "source": "Grants.gov",
       "description": ""
     },
@@ -35,6 +75,46 @@
       "deadline": "06/05/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361760",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361745",
+      "title": "FY 2026 Competitive Funding Opportunity: Electric or Low-Emitting Ferry Pilot Program",
+      "agency": "DOT-FTA",
+      "deadline": "05/11/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361745",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361747",
+      "title": "FY 2026 Competitive Funding Opportunity: Ferry Service for Rural Communities Program",
+      "agency": "DOT-FTA",
+      "deadline": "05/11/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361747",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361746",
+      "title": "FY 2026 Competitive Funding Opportunity: Passenger Ferry Grant Program",
+      "agency": "DOT-FTA",
+      "deadline": "05/11/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361746",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361757",
+      "title": "Maternal Health Emergency Management Training (MHEMT)",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361757",
       "source": "Grants.gov",
       "description": ""
     },
@@ -79,16 +159,6 @@
       "description": ""
     },
     {
-      "id": "361740",
-      "title": "Program Year 2026 Workforce Innovation and Opportunity Act (WIOA), Indian and Native American Programs &ndash; Employment and Training Grants - Youth",
-      "agency": "DOL-ETA",
-      "deadline": "05/22/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361740",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361748",
       "title": "Cooperative Institute in the Northern Gulf of America (CINGA)",
       "agency": "DOC-DOCNOAAERA",
@@ -105,6 +175,16 @@
       "deadline": "05/22/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361739",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361740",
+      "title": "Program Year 2026 Workforce Innovation and Opportunity Act (WIOA), Indian and Native American Programs &ndash; Employment and Training Grants - Youth",
+      "agency": "DOL-ETA",
+      "deadline": "05/22/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361740",
       "source": "Grants.gov",
       "description": ""
     },
@@ -179,12 +259,22 @@
       "description": ""
     },
     {
-      "id": "361725",
-      "title": "Delta Health Care Service Grant Program",
-      "agency": "USDA-RBCS",
-      "deadline": "06/01/2026",
+      "id": "361764",
+      "title": "U.S. Embassy in the Philippines Public Diplomacy Section (PDS) Annual Program Statement (APS) 2026",
+      "agency": "DOS-PHL",
+      "deadline": "07/31/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361725",
+      "url": "https://www.grants.gov/search-results-detail/361764",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361741",
+      "title": "Marine Mammal and Habitat Monitoring-Cook Inlet Beluga Whale Prey at Joint Base Elmendorf-Richardson (JBER)",
+      "agency": "DOD-COE-FW",
+      "deadline": "05/04/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361741",
       "source": "Grants.gov",
       "description": ""
     },
@@ -209,12 +299,12 @@
       "description": ""
     },
     {
-      "id": "361717",
-      "title": "Alumni Engagement Innovation Fund 2026, Estonia",
-      "agency": "DOS-EST",
-      "deadline": "05/01/2026",
+      "id": "361725",
+      "title": "Delta Health Care Service Grant Program",
+      "agency": "USDA-RBCS",
+      "deadline": "06/01/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361717",
+      "url": "https://www.grants.gov/search-results-detail/361725",
       "source": "Grants.gov",
       "description": ""
     },
@@ -245,66 +335,6 @@
       "deadline": "04/30/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361721",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361720",
-      "title": "Alumni Engagement Innovation Fund 2026",
-      "agency": "DOS-ZAF",
-      "deadline": "05/08/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361720",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361741",
-      "title": "Marine Mammal and Habitat Monitoring-Cook Inlet Beluga Whale Prey at Joint Base Elmendorf-Richardson (JBER)",
-      "agency": "DOD-COE-FW",
-      "deadline": "05/04/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361741",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361726",
-      "title": "2026 Marine Mammal Co-Management Grant Program",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "05/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361726",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361724",
-      "title": "Pathways for Regulatory Innovation and Strategic Modernization (PRISM)",
-      "agency": "HHS-FDA",
-      "deadline": "04/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361724",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361708",
-      "title": "Freedom 250 Bangladesh 2026",
-      "agency": "DOS-BGD",
-      "deadline": "04/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361708",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361714",
-      "title": "Advancing Global Health",
-      "agency": "DOS-GHSD",
-      "deadline": "02/14/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361714",
       "source": "Grants.gov",
       "description": ""
     },
@@ -625,6 +655,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360755",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361714",
+      "title": "Advancing Global Health",
+      "agency": "DOS-GHSD",
+      "deadline": "02/14/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361714",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1129,12 +1169,12 @@
       "description": ""
     },
     {
-      "id": "361746",
-      "title": "FY 2026 Competitive Funding Opportunity: Passenger Ferry Grant Program",
-      "agency": "DOT-FTA",
-      "deadline": "05/11/2026",
+      "id": "361773",
+      "title": "Critical Minerals and Materials Accelerator Notice of Funding Opportunity",
+      "agency": "DOE-GFO",
+      "deadline": "07/20/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361746",
+      "url": "https://www.grants.gov/search-results-detail/361773",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1229,16 +1269,6 @@
       "description": ""
     },
     {
-      "id": "361256",
-      "title": "Countering Cartel Recruitment in Mexico",
-      "agency": "DOS-INL",
-      "deadline": "04/06/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361256",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "360333",
       "title": "Expanding global health security through local partnerships in Ethiopia",
       "agency": "HHS-CDC-GHC",
@@ -1265,6 +1295,16 @@
       "deadline": "09/30/2034",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/356612",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361724",
+      "title": "Pathways for Regulatory Innovation and Strategic Modernization (PRISM)",
+      "agency": "HHS-FDA",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361724",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1389,22 +1429,22 @@
       "description": ""
     },
     {
-      "id": "359145",
-      "title": "Diabetes Research Centers (P30 Clinical Trial Optional)",
-      "agency": "HHS-NIH11",
-      "deadline": "01/27/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359145",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361703",
       "title": "Earth Mapping Resources Initiative (Earth MRI) Mine Waste Cooperative Agreements FY2026",
       "agency": "DOI-USGS1",
       "deadline": "05/04/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361703",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361726",
+      "title": "2026 Marine Mammal Co-Management Grant Program",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "05/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361726",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1525,16 +1565,6 @@
       "deadline": "05/11/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361492",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361722",
-      "title": "HOIHI Grant Program for Native Hawaiian Organizations",
-      "agency": "DOI-IBC",
-      "deadline": "06/08/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361722",
       "source": "Grants.gov",
       "description": ""
     },
