@@ -1,13 +1,113 @@
 {
-  "last_updated": "2026-04-08T23:23:59Z",
-  "total": 190,
+  "last_updated": "2026-04-09T23:25:04Z",
+  "total": 188,
   "by_source": {
-    "Grants.gov": 158,
+    "Grants.gov": 156,
     "WHO": 11,
     "Gates Foundation (Grand Challenges)": 7,
     "Wellcome Trust": 14
   },
   "opportunities": [
+    {
+      "id": "361826",
+      "title": "Alumni Engagement Innovation Fund Malaysia 2026",
+      "agency": "DOS-MLA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361826",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361827",
+      "title": "Alumni Engagement Innovation Fund 2026 &ndash; U.S. Embassy Luanda &ndash; Angola and Sao Tome e Principe, Department of State",
+      "agency": "DOS-AGO",
+      "deadline": "05/11/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361827",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361833",
+      "title": "Development of Candidate Medical Countermeasures (MCMs) and Technologies Against Chemical or Radiation/Nuclear (CRN) Threats",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361833",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361831",
+      "title": "Cooperative Program for Modeling Clinical Transplantation",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361831",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361832",
+      "title": "Accelerating Research and Development of Next Generation Malaria Vaccines Against Malaria &ndash; A Model for Mosquito-Borne Diseases",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361832",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361834",
+      "title": "Telehealth Centers of Excellence",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361834",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361825",
+      "title": "2026 Alumni Engagement Innovation Fund (AEIF 2026) &ndash; Timor-Leste",
+      "agency": "DOS-TLS",
+      "deadline": "05/11/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361825",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361828",
+      "title": "Alumni Engagement Innovation Fund (AEIF 2026)",
+      "agency": "DOS-SSD",
+      "deadline": "05/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361828",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361830",
+      "title": "F26AS00018 - NAWCA 2026 Canada Grants",
+      "agency": "DOI-FWS",
+      "deadline": "06/11/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361830",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361840",
+      "title": "Alumni Engagement Innovation Fund (AEIF) 2026",
+      "agency": "DOS-HND",
+      "deadline": "05/12/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361840",
+      "source": "Grants.gov",
+      "description": ""
+    },
     {
       "id": "361807",
       "title": "Alumni Engagement Innovation Fund (AEIF)",
@@ -15,6 +115,36 @@
       "deadline": "05/04/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361807",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361709",
+      "title": "FY26 PDS Notice of Funding Opportunity &ndash; Countering Violence Against Christians and Other Ethnic/Religious Groups in Nigeria",
+      "agency": "DOS-NGA",
+      "deadline": "06/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361709",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361814",
+      "title": "F26AS00068 Partners for Fish and Wildlife FY26",
+      "agency": "DOI-FWS",
+      "deadline": "09/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361814",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361821",
+      "title": "HIV/AIDS Clinical Trials Network Clinical Trials Units",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361821",
       "source": "Grants.gov",
       "description": ""
     },
@@ -69,16 +199,6 @@
       "description": ""
     },
     {
-      "id": "361709",
-      "title": "FY26 PDS Notice of Funding Opportunity &ndash; Countering Violence Against Christians and Other Ethnic/Religious Groups in Nigeria",
-      "agency": "DOS-NGA",
-      "deadline": "06/08/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361709",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361804",
       "title": "FY 2026 Young Southeast Asian Leaders Initiative (YSEALI)  Professional Fellowship",
       "agency": "DOS-ECA",
@@ -109,26 +229,6 @@
       "description": ""
     },
     {
-      "id": "361821",
-      "title": "HIV/AIDS Clinical Trials Network Clinical Trials Units",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361821",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361814",
-      "title": "F26AS00068 Partners for Fish and Wildlife FY26",
-      "agency": "DOI-FWS",
-      "deadline": "09/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361814",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361769",
       "title": "NIH Specialized Center Grant (Parent P50)",
       "agency": "HHS-NIH11",
@@ -155,6 +255,56 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361798",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361819",
+      "title": "The State Component of the National Cooperative Geologic Mapping Program",
+      "agency": "DOI-USGS1",
+      "deadline": "05/27/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361819",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361809",
+      "title": "Teacher and School Leader Incentive Fund 84.374A",
+      "agency": "DOL-OESE",
+      "deadline": "06/09/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361809",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361818",
+      "title": "USGS Cooperative Landslide Hazard Mapping and Assessment Program Announcement for Fiscal Year 2026",
+      "agency": "DOI-USGS1",
+      "deadline": "06/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361818",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361806",
+      "title": "U.S. Mission to Libya Public Diplomacy Small Grants Program Annual Program Statement (APS)",
+      "agency": "DOS-LBY",
+      "deadline": "06/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361806",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361810",
+      "title": "Alumni Engagement Innovation Fund",
+      "agency": "DOS-MOZ",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361810",
       "source": "Grants.gov",
       "description": ""
     },
@@ -199,202 +349,12 @@
       "description": ""
     },
     {
-      "id": "361746",
-      "title": "FY 2026 Competitive Funding Opportunity: Passenger Ferry Grant Program",
-      "agency": "DOT-FTA",
-      "deadline": "05/11/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361746",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361745",
-      "title": "FY 2026 Competitive Funding Opportunity: Electric or Low-Emitting Ferry Pilot Program",
-      "agency": "DOT-FTA",
-      "deadline": "05/11/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361745",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361747",
-      "title": "FY 2026 Competitive Funding Opportunity: Ferry Service for Rural Communities Program",
-      "agency": "DOT-FTA",
-      "deadline": "05/11/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361747",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361757",
       "title": "Maternal Health Emergency Management Training (MHEMT)",
       "agency": "HHS-HRSA",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361757",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361755",
-      "title": "F26AS00026-NAWCA 2026-2 US Standard Grants",
-      "agency": "DOI-FWS",
-      "deadline": "05/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361755",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361754",
-      "title": "Title X Family Planning Services Grants",
-      "agency": "HHS-OPHS",
-      "deadline": "01/09/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361754",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361818",
-      "title": "USGS Cooperative Landslide Hazard Mapping and Assessment Program Announcement for Fiscal Year 2026",
-      "agency": "DOI-USGS1",
-      "deadline": "06/08/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361818",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361806",
-      "title": "U.S. Mission to Libya Public Diplomacy Small Grants Program Annual Program Statement (APS)",
-      "agency": "DOS-LBY",
-      "deadline": "06/08/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361806",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361810",
-      "title": "Alumni Engagement Innovation Fund",
-      "agency": "DOS-MOZ",
-      "deadline": "04/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361810",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361809",
-      "title": "Teacher and School Leader Incentive Fund 84.374A",
-      "agency": "DOL-OESE",
-      "deadline": "06/09/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361809",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361808",
-      "title": "Innovative Approaches to Literacy 84.215G",
-      "agency": "DOL-OESE",
-      "deadline": "06/09/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361808",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361819",
-      "title": "The State Component of the National Cooperative Geologic Mapping Program",
-      "agency": "DOI-USGS1",
-      "deadline": "05/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361819",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361764",
-      "title": "U.S. Embassy in the Philippines Public Diplomacy Section (PDS) Annual Program Statement (APS) 2026",
-      "agency": "DOS-PHL",
-      "deadline": "07/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361764",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361749",
-      "title": "Alumni Engagement Innovation Fund (AEIF) 2026",
-      "agency": "DOS-BDI",
-      "deadline": "05/04/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361749",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361748",
-      "title": "Cooperative Institute in the Northern Gulf of America (CINGA)",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "05/18/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361748",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361739",
-      "title": "Program Year 2026 Workforce Innovation and Opportunity Act (WIOA), Indian and Native American Programs Employment and Training - Adult",
-      "agency": "DOL-ETA",
-      "deadline": "05/22/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361739",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361740",
-      "title": "Program Year 2026 Workforce Innovation and Opportunity Act (WIOA), Indian and Native American Programs &ndash; Employment and Training Grants - Youth",
-      "agency": "DOL-ETA",
-      "deadline": "05/22/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361740",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361702",
-      "title": "Grants for Transportation in Highly Rural Areas",
-      "agency": "VA-CBO",
-      "deadline": "05/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361702",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361704",
-      "title": "Grants for Transportation in Highly Rural Areas",
-      "agency": "VA-CBO",
-      "deadline": "05/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361704",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361547",
-      "title": "Fiscal Year (FY) 2026 AmeriCorps Volunteer Generation Fund",
-      "agency": "AC",
-      "deadline": "04/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361547",
       "source": "Grants.gov",
       "description": ""
     },
@@ -409,12 +369,12 @@
       "description": ""
     },
     {
-      "id": "361742",
-      "title": "Native American Language Preservation and Maintenance-Esther Martinez Immersion",
-      "agency": "HHS-ACF-ANA",
-      "deadline": "",
+      "id": "361808",
+      "title": "Innovative Approaches to Literacy 84.215G",
+      "agency": "DOL-OESE",
+      "deadline": "06/09/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361742",
+      "url": "https://www.grants.gov/search-results-detail/361808",
       "source": "Grants.gov",
       "description": ""
     },
@@ -505,6 +465,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360710",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361754",
+      "title": "Title X Family Planning Services Grants",
+      "agency": "HHS-OPHS",
+      "deadline": "01/09/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361754",
       "source": "Grants.gov",
       "description": ""
     },
@@ -689,6 +659,16 @@
       "description": ""
     },
     {
+      "id": "361748",
+      "title": "Cooperative Institute in the Northern Gulf of America (CINGA)",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "05/18/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361748",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361714",
       "title": "Advancing Global Health",
       "agency": "DOS-GHSD",
@@ -815,46 +795,6 @@
       "deadline": "05/18/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361516",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361503",
-      "title": "Prevention, Control, and Mitigation of Harmful Algal Blooms Program",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "05/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361503",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361488",
-      "title": "Alumni Engagement Innovation Fund Program FY 2026",
-      "agency": "DOS-MKD",
-      "deadline": "04/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361488",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361494",
-      "title": "Make America Healthy Again &ndash; Enhancing Lifestyle and Evaluating Value-based Approaches Through Evidence",
-      "agency": "HHS-CMS",
-      "deadline": "05/15/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361494",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361496",
-      "title": "Transforming Pediatrics for Early Childhood (TPEC) Program",
-      "agency": "HHS-HRSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361496",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1159,22 +1099,22 @@
       "description": ""
     },
     {
-      "id": "361773",
-      "title": "Critical Minerals and Materials Accelerator Notice of Funding Opportunity",
-      "agency": "DOE-GFO",
-      "deadline": "07/20/2026",
+      "id": "361835",
+      "title": "Countering Terrorist Financing Flows In and Through Tajikistan",
+      "agency": "DOS-SCT",
+      "deadline": "06/08/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361773",
+      "url": "https://www.grants.gov/search-results-detail/361835",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "361763",
-      "title": "Roadside Pollinators Program (RPP) FYs 2023 and 2026",
-      "agency": "DOT-FHWA",
-      "deadline": "05/07/2026",
+      "id": "361839",
+      "title": "Protecting U.S. Critical Energy Investments Through C-UAS and UAS Surveillance Capabilities in Iraq",
+      "agency": "DOS-SCT",
+      "deadline": "06/08/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361763",
+      "url": "https://www.grants.gov/search-results-detail/361839",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1329,6 +1269,26 @@
       "description": ""
     },
     {
+      "id": "361494",
+      "title": "Make America Healthy Again &ndash; Enhancing Lifestyle and Evaluating Value-based Approaches Through Evidence",
+      "agency": "HHS-CMS",
+      "deadline": "05/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361494",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361496",
+      "title": "Transforming Pediatrics for Early Childhood (TPEC) Program",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361496",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361442",
       "title": "Maternal Produce Prescription Program (MP3)",
       "agency": "HHS-HRSA",
@@ -1449,12 +1409,32 @@
       "description": ""
     },
     {
+      "id": "361755",
+      "title": "F26AS00026-NAWCA 2026-2 US Standard Grants",
+      "agency": "DOI-FWS",
+      "deadline": "05/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361755",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361741",
       "title": "Marine Mammal and Habitat Monitoring-Cook Inlet Beluga Whale Prey at Joint Base Elmendorf-Richardson (JBER)",
       "agency": "DOD-COE-FW",
       "deadline": "05/04/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361741",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361547",
+      "title": "Fiscal Year (FY) 2026 AmeriCorps Volunteer Generation Fund",
+      "agency": "AC",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361547",
       "source": "Grants.gov",
       "description": ""
     },
