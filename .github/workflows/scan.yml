@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write           # needed to commit updated JSON back to the repo
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   scan:
     runs-on: ubuntu-latest
