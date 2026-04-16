@@ -4,90 +4,194 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Funding Opportunity Scanner</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <style>
-    /* ── Reset & base ─────────────────────────────────────────────────── */
+    /* ── Design tokens ────────────────────────────────────────────────── */
+    :root {
+      --clr-primary:    #1d4ed8;
+      --clr-primary-lt: #dbeafe;
+      --clr-surface:    #f1f5f9;
+      --clr-card:       #ffffff;
+      --clr-border:     #e2e8f0;
+      --clr-text:       #0f172a;
+      --clr-text-2:     #475569;
+      --clr-muted:      #94a3b8;
+      --radius:         14px;
+      --shadow-sm:      0 1px 3px rgba(0,0,0,.07),0 1px 2px rgba(0,0,0,.04);
+      --shadow-lg:      0 12px 32px rgba(0,0,0,.1),0 4px 8px rgba(0,0,0,.06);
+
+      --c-grants:   #2563eb;
+      --c-who:      #059669;
+      --c-gates:    #ea580c;
+      --c-wellcome: #7c3aed;
+      --c-relief:   #dc2626;
+      --c-eu:       #0891b2;
+      --c-simpler:  #4f46e5;
+      --c-un:       #0284c7;
+      --c-default:  #64748b;
+    }
+
+    /* ── Reset ────────────────────────────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: #f0f4f8;
-      color: #1a202c;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--clr-surface);
+      color: var(--clr-text);
       min-height: 100vh;
     }
-    a { color: inherit; }
+    a { color: inherit; text-decoration: none; }
+    button { font-family: inherit; border: none; background: none; }
 
     /* ── Header ───────────────────────────────────────────────────────── */
     header {
-      background: linear-gradient(135deg, #0077b6 0%, #023e8a 100%);
+      background: linear-gradient(135deg, #1e3a8a 0%, #1d4ed8 65%, #2563eb 100%);
       color: #fff;
-      padding: 28px 24px 22px;
+      padding: 44px 24px 38px;
       text-align: center;
+      position: relative;
+      overflow: hidden;
     }
-    header h1 { font-size: 1.8rem; font-weight: 700; letter-spacing: -0.3px; }
-    header p  { margin-top: 6px; opacity: .85; font-size: .95rem; }
+    header::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/svg%3E");
+      pointer-events: none;
+    }
+    .header-inner { position: relative; }
+    header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+    }
+    header p { margin-top: 8px; opacity: .78; font-size: .93rem; }
+    #header-total {
+      display: inline-block;
+      margin-top: 18px;
+      background: rgba(255,255,255,.15);
+      border: 1px solid rgba(255,255,255,.22);
+      backdrop-filter: blur(6px);
+      border-radius: 100px;
+      padding: 6px 22px;
+      font-size: .88rem;
+      font-weight: 600;
+      letter-spacing: .1px;
+    }
 
-    /* ── Stats bar ────────────────────────────────────────────────────── */
-    #stats-bar {
+    /* ── Source strip ─────────────────────────────────────────────────── */
+    #source-strip {
       display: flex;
       flex-wrap: wrap;
-      gap: 12px;
+      gap: 7px;
       justify-content: center;
       background: #fff;
-      border-bottom: 1px solid #e2e8f0;
-      padding: 14px 24px;
+      border-bottom: 1px solid var(--clr-border);
+      padding: 12px 20px;
     }
-    .stat-chip {
-      background: #e8f4fd;
-      border: 1px solid #bee3f8;
-      border-radius: 20px;
-      padding: 5px 14px;
-      font-size: .85rem;
+    .src-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      border-radius: 100px;
+      padding: 4px 13px;
+      font-size: .75rem;
       font-weight: 600;
-      color: #2b6cb0;
-      white-space: nowrap;
+      cursor: pointer;
+      transition: opacity .15s, transform .12s, box-shadow .12s;
+      user-select: none;
+      border: 2px solid transparent;
     }
-    .stat-chip span { font-weight: 400; color: #4a5568; }
+    .src-pill:hover { transform: translateY(-1px); box-shadow: 0 3px 8px rgba(0,0,0,.1); }
+    .src-pill.active { border-color: currentColor; }
+    .pill-count {
+      background: rgba(0,0,0,.12);
+      border-radius: 100px;
+      padding: 1px 6px;
+      font-size: .68rem;
+      font-weight: 700;
+    }
     #last-updated {
-      font-size: .8rem;
-      color: #718096;
-      align-self: center;
-      margin-left: auto;
+      font-size: .73rem;
+      color: var(--clr-muted);
+      text-align: center;
+      padding: 5px 20px 3px;
+      background: #fff;
+      border-bottom: 1px solid var(--clr-border);
     }
 
-    /* ── Controls ─────────────────────────────────────────────────────── */
+    /* ── Sticky controls ──────────────────────────────────────────────── */
     #controls {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: rgba(241,245,249,.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--clr-border);
+      padding: 10px 20px;
+    }
+    .controls-inner {
       display: flex;
       flex-wrap: wrap;
-      gap: 10px;
+      gap: 8px;
       align-items: center;
       max-width: 1200px;
-      margin: 18px auto 0;
-      padding: 0 20px;
+      margin: 0 auto;
+    }
+    .search-wrap {
+      flex: 1 1 220px;
+      position: relative;
+    }
+    .search-icon {
+      position: absolute;
+      left: 11px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--clr-muted);
+      pointer-events: none;
     }
     #search {
-      flex: 1 1 240px;
-      padding: 9px 14px;
-      border: 1px solid #cbd5e0;
+      width: 100%;
+      padding: 9px 12px 9px 34px;
+      border: 1px solid var(--clr-border);
       border-radius: 8px;
-      font-size: .95rem;
+      font-size: .88rem;
+      font-family: inherit;
       background: #fff;
       outline: none;
-      transition: border-color .15s;
+      transition: border-color .15s, box-shadow .15s;
+      color: var(--clr-text);
     }
-    #search:focus { border-color: #0077b6; box-shadow: 0 0 0 3px rgba(0,119,182,.15); }
-    #source-filter {
-      padding: 9px 14px;
-      border: 1px solid #cbd5e0;
+    #search:focus {
+      border-color: var(--clr-primary);
+      box-shadow: 0 0 0 3px rgba(29,78,216,.12);
+    }
+    .ctl-select {
+      padding: 9px 12px;
+      border: 1px solid var(--clr-border);
       border-radius: 8px;
-      font-size: .9rem;
+      font-size: .86rem;
+      font-family: inherit;
       background: #fff;
       cursor: pointer;
       outline: none;
+      color: var(--clr-text);
+      transition: border-color .15s, box-shadow .15s;
+    }
+    .ctl-select:focus {
+      border-color: var(--clr-primary);
+      box-shadow: 0 0 0 3px rgba(29,78,216,.12);
     }
     #count-label {
-      font-size: .88rem;
-      color: #718096;
+      font-size: .8rem;
+      color: var(--clr-muted);
       margin-left: auto;
       white-space: nowrap;
+      font-weight: 500;
     }
 
     /* ── Grid ─────────────────────────────────────────────────────────── */
@@ -96,149 +200,212 @@
       grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
       gap: 16px;
       max-width: 1200px;
-      margin: 16px auto 40px;
+      margin: 20px auto 56px;
       padding: 0 20px;
     }
 
     /* ── Card ─────────────────────────────────────────────────────────── */
     .card {
-      background: #fff;
-      border: 1px solid #e2e8f0;
-      border-radius: 12px;
-      padding: 18px 20px;
+      background: var(--clr-card);
+      border: 1px solid var(--clr-border);
+      border-left: 4px solid var(--clr-muted);
+      border-radius: var(--radius);
+      padding: 18px 18px 14px;
       display: flex;
       flex-direction: column;
-      gap: 8px;
-      transition: box-shadow .15s, transform .1s;
+      gap: 10px;
+      box-shadow: var(--shadow-sm);
+      transition: box-shadow .2s, transform .15s;
+    }
+    .card.animating {
+      animation: fadeUp .4s ease both;
     }
     .card:hover {
-      box-shadow: 0 6px 20px rgba(0,0,0,.09);
-      transform: translateY(-2px);
+      box-shadow: var(--shadow-lg);
+      transform: translateY(-3px);
     }
-    .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .card.src-grants   { border-left-color: var(--c-grants); }
+    .card.src-who      { border-left-color: var(--c-who); }
+    .card.src-gates    { border-left-color: var(--c-gates); }
+    .card.src-wellcome { border-left-color: var(--c-wellcome); }
+    .card.src-relief   { border-left-color: var(--c-relief); }
+    .card.src-eu       { border-left-color: var(--c-eu); }
+    .card.src-simpler  { border-left-color: var(--c-simpler); }
+    .card.src-un       { border-left-color: var(--c-un); }
+
+    .card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 10px;
+    }
     .card-title {
-      font-size: 1rem;
+      font-size: .97rem;
       font-weight: 600;
-      line-height: 1.4;
-      color: #0077b6;
-      text-decoration: none;
+      line-height: 1.45;
       flex: 1;
     }
-    .card-title:hover { text-decoration: underline; }
+    .card-title a {
+      color: var(--clr-text);
+      transition: color .15s;
+    }
+    .card-title a:hover { color: var(--clr-primary); text-decoration: underline; text-decoration-color: rgba(29,78,216,.3); }
+
     .source-badge {
-      font-size: .7rem;
+      font-size: .63rem;
       font-weight: 700;
       text-transform: uppercase;
-      letter-spacing: .5px;
-      padding: 3px 8px;
-      border-radius: 10px;
+      letter-spacing: .7px;
+      padding: 3px 9px;
+      border-radius: 100px;
       white-space: nowrap;
       flex-shrink: 0;
-    }
-    .card-meta {
-      font-size: .83rem;
-      color: #4a5568;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px 14px;
-    }
-    .card-meta strong { color: #2d3748; }
-    .deadline-tag {
-      display: inline-block;
-      font-size: .78rem;
-      font-weight: 600;
-      padding: 2px 8px;
-      border-radius: 6px;
       margin-top: 2px;
     }
-    .deadline-urgent  { background: #fed7d7; color: #c53030; }
-    .deadline-soon    { background: #fefcbf; color: #975a16; }
-    .deadline-normal  { background: #e6fffa; color: #276749; }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px 14px;
+      font-size: .79rem;
+      color: var(--clr-text-2);
+    }
+    .meta-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .meta-item svg { flex-shrink: 0; opacity: .55; }
+
+    .deadline-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: .74rem;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 6px;
+      width: fit-content;
+    }
+    .dl-urgent  { background: #fee2e2; color: #b91c1c; }
+    .dl-soon    { background: #fef9c3; color: #a16207; }
+    .dl-normal  { background: #dcfce7; color: #15803d; }
+    .dl-expired { background: #f1f5f9; color: var(--clr-muted); text-decoration: line-through; }
+
     .card-desc {
-      font-size: .83rem;
-      color: #718096;
-      line-height: 1.55;
+      font-size: .8rem;
+      color: var(--clr-text-2);
+      line-height: 1.6;
       display: -webkit-box;
       -webkit-line-clamp: 3;
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
+
     .card-footer {
       margin-top: auto;
-      padding-top: 6px;
-      border-top: 1px solid #f0f4f8;
+      padding-top: 10px;
+      border-top: 1px solid var(--clr-border);
+      display: flex;
+      justify-content: flex-end;
     }
-    .card-footer a {
-      font-size: .82rem;
-      color: #0077b6;
-      font-weight: 500;
-      text-decoration: none;
+    .card-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: .78rem;
+      font-weight: 600;
+      color: var(--clr-primary);
+      background: var(--clr-primary-lt);
+      padding: 5px 13px;
+      border-radius: 6px;
+      transition: background .15s;
+      cursor: pointer;
     }
-    .card-footer a:hover { text-decoration: underline; }
+    .card-cta:hover { background: #bfdbfe; }
 
-    /* ── Source colour map ────────────────────────────────────────────── */
-    .src-grants   { background: #ebf8ff; color: #2b6cb0; }
-    .src-who      { background: #f0fff4; color: #276749; }
-    .src-gates    { background: #fffaf0; color: #c05621; }
-    .src-wellcome { background: #faf5ff; color: #6b46c1; }
-    .src-relief   { background: #fff5f5; color: #c53030; }
-    .src-eu       { background: #e6fffa; color: #234e52; }
-    .src-simpler  { background: #ebf4ff; color: #2c5282; }
-    .src-un       { background: #f0f9ff; color: #075985; }
-    .src-default  { background: #f7fafc; color: #4a5568; }
+    /* ── Badge colour map ─────────────────────────────────────────────── */
+    .src-grants   { background: #dbeafe; color: var(--c-grants); }
+    .src-who      { background: #d1fae5; color: var(--c-who); }
+    .src-gates    { background: #ffedd5; color: var(--c-gates); }
+    .src-wellcome { background: #ede9fe; color: var(--c-wellcome); }
+    .src-relief   { background: #fee2e2; color: var(--c-relief); }
+    .src-eu       { background: #cffafe; color: var(--c-eu); }
+    .src-simpler  { background: #e0e7ff; color: var(--c-simpler); }
+    .src-un       { background: #e0f2fe; color: var(--c-un); }
+    .src-default  { background: #f1f5f9; color: var(--c-default); }
 
-    /* ── Empty / loading state ────────────────────────────────────────── */
+    /* ── Loading / empty ──────────────────────────────────────────────── */
     #message {
       grid-column: 1/-1;
       text-align: center;
-      padding: 60px 20px;
-      color: #718096;
-      font-size: 1rem;
+      padding: 80px 20px;
+      color: var(--clr-muted);
     }
+    #message p { font-size: .95rem; margin-top: 4px; }
     .spinner {
-      width: 36px; height: 36px;
-      border: 4px solid #e2e8f0;
-      border-top-color: #0077b6;
+      width: 38px; height: 38px;
+      border: 3px solid var(--clr-border);
+      border-top-color: var(--clr-primary);
       border-radius: 50%;
-      animation: spin .7s linear infinite;
+      animation: spin .55s linear infinite;
       margin: 0 auto 14px;
     }
     @keyframes spin { to { transform: rotate(360deg); } }
 
     /* ── Responsive ───────────────────────────────────────────────────── */
-    @media (max-width: 600px) {
-      header h1 { font-size: 1.35rem; }
-      #grid { grid-template-columns: 1fr; }
-      #last-updated { margin: 0; }
+    @media (max-width: 640px) {
+      header h1 { font-size: 1.5rem; }
+      header { padding: 32px 20px 28px; }
+      #grid { grid-template-columns: 1fr; gap: 12px; }
+      .controls-inner { gap: 6px; }
     }
   </style>
 </head>
 <body>
 
 <header>
-  <h1>🌍 Funding Opportunity Scanner</h1>
-  <p>Live dashboard — health &amp; global development grants, updated daily</p>
+  <div class="header-inner">
+    <h1>🌍 Funding Opportunity Scanner</h1>
+    <p>Health &amp; global development grants — updated daily from 8 sources</p>
+    <div id="header-total">Loading…</div>
+  </div>
 </header>
 
-<div id="stats-bar">
-  <div class="stat-chip" id="chip-total">Loading…</div>
-  <div id="source-chips"></div>
-  <div id="last-updated"></div>
-</div>
+<div id="source-strip"></div>
+<div id="last-updated"></div>
 
 <div id="controls">
-  <input id="search" type="search" placeholder="Search title, agency, keyword…" />
-  <select id="source-filter"><option value="">All sources</option></select>
-  <span id="count-label"></span>
+  <div class="controls-inner">
+    <div class="search-wrap">
+      <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+      </svg>
+      <input id="search" type="search" placeholder="Search title, agency, keyword…" />
+    </div>
+    <select id="source-filter" class="ctl-select"><option value="">All sources</option></select>
+    <select id="sort-select" class="ctl-select">
+      <option value="default">Default order</option>
+      <option value="deadline-asc">Deadline: soonest first</option>
+      <option value="deadline-desc">Deadline: latest first</option>
+      <option value="award-desc">Award: highest first</option>
+    </select>
+    <span id="count-label"></span>
+  </div>
 </div>
 
 <div id="grid">
-  <div id="message"><div class="spinner"></div>Loading opportunities…</div>
+  <div id="message"><div class="spinner"></div><p>Loading opportunities…</p></div>
 </div>
 
 <script>
-  // ── Source → CSS class ──────────────────────────────────────────────
-  function sourceClass(src) {
+  // ── Helpers ──────────────────────────────────────────────────────────
+  function srcClass(src) {
     const s = (src || "").toLowerCase();
     if (s.includes("grants.gov"))  return "src-grants";
     if (s.includes("who"))         return "src-who";
@@ -251,110 +418,156 @@
     return "src-default";
   }
 
-  // ── Deadline → urgency class ────────────────────────────────────────
-  function deadlineClass(dl) {
+  function parseDays(dl) {
     if (!dl) return null;
-    // try MM/DD/YYYY or YYYY-MM-DD
     const d = new Date(dl.includes("/")
       ? dl.replace(/(\d+)\/(\d+)\/(\d+)/, "$3-$1-$2")
       : dl);
-    if (isNaN(d)) return "deadline-normal";
-    const days = (d - Date.now()) / 86400000;
-    if (days < 14) return "deadline-urgent";
-    if (days < 45) return "deadline-soon";
-    return "deadline-normal";
+    if (isNaN(d)) return null;
+    return Math.ceil((d - Date.now()) / 86400000);
   }
 
-  // ── Escape HTML ─────────────────────────────────────────────────────
+  function dlClass(days) {
+    if (days === null) return null;
+    if (days < 0)  return "dl-expired";
+    if (days < 14) return "dl-urgent";
+    if (days < 45) return "dl-soon";
+    return "dl-normal";
+  }
+
+  function dlLabel(days, raw) {
+    if (days === null) return raw;
+    if (days < 0)   return `Expired — ${raw}`;
+    if (days === 0) return "Due today";
+    if (days === 1) return "1 day left";
+    return `${days} days left — ${raw}`;
+  }
+
+  function dlIcon(days) {
+    if (days === null || days < 0) return "⏱";
+    if (days < 14) return "🔴";
+    if (days < 45) return "🟡";
+    return "🟢";
+  }
+
+  function parseAward(val) {
+    if (!val) return 0;
+    const n = parseFloat(String(val).replace(/[^0-9.]/g, ""));
+    return isNaN(n) ? 0 : n;
+  }
+
   function esc(s) {
     return String(s ?? "")
       .replace(/&/g,"&amp;").replace(/</g,"&lt;")
       .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
   }
 
-  // ── Build a card ────────────────────────────────────────────────────
+  // ── Build card HTML ──────────────────────────────────────────────────
   function buildCard(o) {
-    const dlClass = deadlineClass(o.deadline);
-    const dlTag   = o.deadline
-      ? `<span class="deadline-tag ${dlClass}">📅 ${esc(o.deadline)}</span>`
-      : "";
-    const award = o.award_ceiling
-      ? `<div><strong>Award ceiling:</strong> ${esc(o.award_ceiling)}</div>`
-      : "";
-    const desc = o.description
-      ? `<p class="card-desc">${esc(o.description)}</p>`
+    const days  = parseDays(o.deadline);
+    const cls   = srcClass(o.source);
+    const dCls  = dlClass(days);
+    const sortDays = days === null ? 99999 : (days < 0 ? 99998 : days);
+
+    const dlTag = dCls
+      ? `<span class="deadline-tag ${dCls}">${dlIcon(days)} ${esc(dlLabel(days, o.deadline))}</span>`
       : "";
 
-    return `
-      <div class="card" data-source="${esc(o.source)}"
-           data-search="${esc((o.title+" "+o.agency+" "+o.description).toLowerCase())}">
-        <div class="card-header">
-          <a class="card-title" href="${esc(o.url)}" target="_blank" rel="noopener">
-            ${esc(o.title)}
-          </a>
-          <span class="source-badge ${sourceClass(o.source)}">${esc(o.source)}</span>
-        </div>
-        <div class="card-meta">
-          <div><strong>Agency:</strong> ${esc(o.agency || "N/A")}</div>
-          ${award}
-        </div>
-        ${dlTag}
-        ${desc}
-        <div class="card-footer">
-          <a href="${esc(o.url)}" target="_blank" rel="noopener">View opportunity →</a>
-        </div>
-      </div>`;
+    const agencyIcon = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>`;
+    const awardIcon  = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>`;
+    const extIcon    = `<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>`;
+
+    return `<div class="card ${cls} animating"
+         data-source="${esc(o.source)}"
+         data-search="${esc(((o.title||"")+" "+(o.agency||"")+" "+(o.description||"")).toLowerCase())}"
+         data-days="${sortDays}"
+         data-award="${parseAward(o.award_ceiling)}">
+      <div class="card-top">
+        <div class="card-title"><a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.title)}</a></div>
+        <span class="source-badge ${cls}">${esc(o.source)}</span>
+      </div>
+      <div class="card-meta">
+        <span class="meta-item">${agencyIcon} ${esc(o.agency || "N/A")}</span>
+        ${o.award_ceiling ? `<span class="meta-item">${awardIcon} ${esc(o.award_ceiling)}</span>` : ""}
+      </div>
+      ${dlTag}
+      ${o.description ? `<p class="card-desc">${esc(o.description)}</p>` : ""}
+      <div class="card-footer">
+        <a class="card-cta" href="${esc(o.url)}" target="_blank" rel="noopener">
+          View opportunity ${extIcon}
+        </a>
+      </div>
+    </div>`;
   }
 
-  // ── Filter & render visible cards ───────────────────────────────────
+  // ── Filter + sort ────────────────────────────────────────────────────
+  let allCards = [];
+
   function applyFilters() {
     const q   = document.getElementById("search").value.trim().toLowerCase();
     const src = document.getElementById("source-filter").value;
+    const srt = document.getElementById("sort-select").value;
+    const grid = document.getElementById("grid");
+
+    let cards = [...allCards];
+    if (srt === "deadline-asc")  cards.sort((a,b) => +a.dataset.days  - +b.dataset.days);
+    if (srt === "deadline-desc") cards.sort((a,b) => +b.dataset.days  - +a.dataset.days);
+    if (srt === "award-desc")    cards.sort((a,b) => +b.dataset.award - +a.dataset.award);
+
     let visible = 0;
-    document.querySelectorAll(".card").forEach(card => {
-      const matchSrc  = !src || card.dataset.source === src;
-      const matchText = !q   || card.dataset.search.includes(q);
-      const show = matchSrc && matchText;
+    cards.forEach(card => {
+      grid.appendChild(card); // reorder in DOM
+      const show = (!src || card.dataset.source === src) &&
+                   (!q   || card.dataset.search.includes(q));
       card.style.display = show ? "" : "none";
       if (show) visible++;
     });
+
+    document.querySelectorAll(".src-pill").forEach(p => {
+      p.classList.toggle("active", p.dataset.source === src);
+    });
     document.getElementById("count-label").textContent =
-      `Showing ${visible} opportunit${visible !== 1 ? "ies" : "y"}`;
+      `${visible} opportunit${visible !== 1 ? "ies" : "y"}`;
   }
 
-  // ── Main: fetch data and render ─────────────────────────────────────
+  // ── Main ─────────────────────────────────────────────────────────────
   async function main() {
     const grid = document.getElementById("grid");
     const msg  = document.getElementById("message");
-
     let data;
+
     try {
       const res = await fetch("./outputs/opportunities.json?" + Date.now());
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       data = await res.json();
     } catch (err) {
-      msg.innerHTML = `<p>⚠️ Could not load opportunities.json.<br>
-        <small>${err.message}</small><br><br>
-        <small>Make sure the file exists at <code>outputs/opportunities.json</code>
-        and GitHub Pages is enabled for this repository.</small></p>`;
+      msg.innerHTML = `<p>⚠️ Could not load opportunities.json<br>
+        <small style="color:#94a3b8">${esc(err.message)}</small><br><br>
+        <small>Check that <code>outputs/opportunities.json</code> exists and GitHub Pages is enabled.</small></p>`;
       return;
     }
 
-    // Stats bar
-    const total = data.total ?? data.opportunities.length;
-    document.getElementById("chip-total").innerHTML =
-      `<strong>${total}</strong> <span>opportunities</span>`;
-    document.getElementById("last-updated").textContent =
-      `Last updated: ${data.last_updated ? new Date(data.last_updated).toLocaleString() : "unknown"}`;
+    const total = data.total ?? (data.opportunities||[]).length;
+    document.getElementById("header-total").textContent = `${total} opportunities tracked`;
+    document.getElementById("last-updated").textContent = data.last_updated
+      ? `Last updated ${new Date(data.last_updated).toLocaleString()}`
+      : "";
 
-    // Per-source chips
-    const chipsEl = document.getElementById("source-chips");
+    // Source strip + dropdown
+    const stripEl = document.getElementById("source-strip");
     const selEl   = document.getElementById("source-filter");
-    Object.entries(data.by_source || {}).sort((a,b)=>b[1]-a[1]).forEach(([src, cnt]) => {
-      const chip = document.createElement("div");
-      chip.className = `stat-chip ${sourceClass(src)}`;
-      chip.innerHTML = `<strong>${cnt}</strong> <span>${esc(src)}</span>`;
-      chipsEl.appendChild(chip);
+    Object.entries(data.by_source || {}).sort((a,b) => b[1]-a[1]).forEach(([src, cnt]) => {
+      const cls = srcClass(src);
+
+      const pill = document.createElement("button");
+      pill.className = `src-pill ${cls}`;
+      pill.dataset.source = src;
+      pill.innerHTML = `${esc(src)} <span class="pill-count">${cnt}</span>`;
+      pill.addEventListener("click", () => {
+        selEl.value = selEl.value === src ? "" : src;
+        applyFilters();
+      });
+      stripEl.appendChild(pill);
 
       const opt = document.createElement("option");
       opt.value = src;
@@ -362,19 +575,26 @@
       selEl.appendChild(opt);
     });
 
-    // Render cards
+    // Render cards with staggered animation
     msg.remove();
     const opps = data.opportunities ?? [];
     grid.innerHTML = opps.map(buildCard).join("");
+    allCards = [...grid.querySelectorAll(".card")];
 
-    // Wire up controls
+    // Stagger delays for first 12 cards
+    allCards.slice(0, 12).forEach((c, i) => {
+      c.style.animationDelay = `${i * 0.04}s`;
+    });
+    // Remove animation class after load so re-sorting doesn't re-trigger it
+    setTimeout(() => allCards.forEach(c => c.classList.remove("animating")), 1000);
+
     document.getElementById("search").addEventListener("input", applyFilters);
-    document.getElementById("source-filter").addEventListener("change", applyFilters);
+    selEl.addEventListener("change", applyFilters);
+    document.getElementById("sort-select").addEventListener("change", applyFilters);
     applyFilters();
   }
 
   main();
 </script>
-
 </body>
 </html>
