@@ -21,6 +21,9 @@ log = logging.getLogger(__name__)
 def _get_fetchers() -> list[tuple[str, object]]:
     """Return list of (source_key, fetch_fn) for enabled sources."""
     pairs = []
+    if cfg.ENABLED_SOURCES.get("nih_guide"):
+        from fetchers import nih_guide
+        pairs.append(("nih_guide", nih_guide.fetch))
     if cfg.ENABLED_SOURCES.get("grants_gov"):
         from fetchers import grants_gov
         pairs.append(("grants_gov", grants_gov.fetch))

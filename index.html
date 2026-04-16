@@ -31,6 +31,7 @@
       --c-simpler:  #4f46e5;
       --c-un:       #0284c7;
       --c-default:  #64748b;
+      --c-nih:      #b91c1c;
     }
 
     /* ── Reset ────────────────────────────────────────────────────────── */
@@ -229,6 +230,7 @@
       to   { opacity: 1; transform: translateY(0); }
     }
 
+    .card.src-nih      { border-left-color: var(--c-nih); }
     .card.src-grants   { border-left-color: var(--c-grants); }
     .card.src-who      { border-left-color: var(--c-who); }
     .card.src-gates    { border-left-color: var(--c-gates); }
@@ -330,6 +332,7 @@
     .card-cta:hover { background: #bfdbfe; }
 
     /* ── Badge colour map ─────────────────────────────────────────────── */
+    .src-nih      { background: #fee2e2; color: var(--c-nih); }
     .src-grants   { background: #dbeafe; color: var(--c-grants); }
     .src-who      { background: #d1fae5; color: var(--c-who); }
     .src-gates    { background: #ffedd5; color: var(--c-gates); }
@@ -407,6 +410,7 @@
   // ── Helpers ──────────────────────────────────────────────────────────
   function srcClass(src) {
     const s = (src || "").toLowerCase();
+    if (s.includes("nih guide") || s.includes("nih/fogarty") || s.includes("fogarty")) return "src-nih";
     if (s.includes("grants.gov"))  return "src-grants";
     if (s.includes("who"))         return "src-who";
     if (s.includes("gates"))       return "src-gates";
