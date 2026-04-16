@@ -1,0 +1,27 @@
+name: Keepalive
+
+# GitHub disables scheduled workflows on repos with no activity for ~60 days.
+# This workflow runs every 50 days and makes a tiny commit to keep the repo
+# active so the Daily Funding Scan schedule stays enabled.
+
+on:
+  schedule:
+    - cron: '0 12 1 */2 *'   # 1st of every other month at noon UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Keep repo active
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          echo "$(date -u)" > .keepalive
+          git add .keepalive
+          git commit -m "chore: keepalive [$(date -u +'%Y-%m-%d')]"
+          git push
