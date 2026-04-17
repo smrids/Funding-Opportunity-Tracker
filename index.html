@@ -541,7 +541,9 @@
     let data;
 
     try {
-      const res = await fetch("./outputs/opportunities.json?" + Date.now());
+      const res = await fetch(
+        `https://raw.githubusercontent.com/smrids/Funding-Opportunity-Tracker/main/outputs/opportunities.json?t=${Date.now()}`
+      );
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       data = await res.json();
     } catch (err) {
