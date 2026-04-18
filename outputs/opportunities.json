@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-04-17T23:23:53Z",
-  "total": 119,
+  "last_updated": "2026-04-18T23:18:43Z",
+  "total": 120,
   "by_source": {
-    "Grants.gov": 110,
+    "Grants.gov": 111,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 7
   },
@@ -288,22 +288,22 @@
       "description": ""
     },
     {
-      "id": "361898",
-      "title": "FY26 Alumni Engagement Innovation Fund (AEIF 2026)",
-      "agency": "DOS-NPL",
-      "deadline": "05/14/2026",
+      "id": "361952",
+      "title": "Professional Formation of Engineers",
+      "agency": "NSF",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361898",
+      "url": "https://www.grants.gov/search-results-detail/361952",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "361908",
-      "title": "Economic Advancement Grants for Local Empowerment (EAGLE)",
-      "agency": "HHS-ACF-ANA",
+      "id": "361953",
+      "title": "Organizational Change in the Professional Formation of Engineers",
+      "agency": "NSF",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361908",
+      "url": "https://www.grants.gov/search-results-detail/361953",
       "source": "Grants.gov",
       "description": ""
     },
@@ -358,6 +358,16 @@
       "description": ""
     },
     {
+      "id": "361908",
+      "title": "Economic Advancement Grants for Local Empowerment (EAGLE)",
+      "agency": "HHS-ACF-ANA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361908",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361907",
       "title": "BJA FY25 De-escalation and Crisis Response Training Program",
       "agency": "USDOJ-OJP-BJA",
@@ -384,6 +394,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361913",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361898",
+      "title": "FY26 Alumni Engagement Innovation Fund (AEIF 2026)",
+      "agency": "DOS-NPL",
+      "deadline": "05/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361898",
       "source": "Grants.gov",
       "description": ""
     },
@@ -444,16 +464,6 @@
       "deadline": "06/15/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361886",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361844",
-      "title": "Zambia EdUSA Programming with Kucetekela Foundation",
-      "agency": "DOS-ZAM",
-      "deadline": "04/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361844",
       "source": "Grants.gov",
       "description": ""
     },
@@ -534,16 +544,6 @@
       "deadline": "06/02/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361393",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361378",
-      "title": "Facilitator Training for Victim Offender Dialogue",
-      "agency": "USDOJ-BOP-NIC",
-      "deadline": "04/17/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361378",
       "source": "Grants.gov",
       "description": ""
     },
@@ -694,6 +694,16 @@
       "deadline": "11/20/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/344592",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "343653",
+      "title": "Department of Defense HIV/AIDS Prevention Program",
+      "agency": "DOD-AMRAA",
+      "deadline": "09/18/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/343653",
       "source": "Grants.gov",
       "description": ""
     },
