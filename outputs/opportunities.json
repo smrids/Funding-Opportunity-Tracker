@@ -1,12 +1,834 @@
 {
-  "last_updated": "2026-04-18T23:18:43Z",
-  "total": 120,
+  "last_updated": "2026-04-19T02:48:33Z",
+  "total": 202,
   "by_source": {
+    "NIH (Global Health)": 64,
+    "UNGM (UN Agencies)": 18,
     "Grants.gov": 111,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 7
   },
   "opportunities": [
+    {
+      "id": "361934",
+      "title": "U.S. Embassy in Ouagadougou, Burkina Faso PDS Annual Program Statement",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "07/03/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361934",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361939",
+      "title": "FY26 Alumni Engagement Innovation Fund",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "07/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361939",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361935",
+      "title": "2026 Alumni Engagement Innovation Fund (AEIF 2026)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "04/18/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361935",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361927",
+      "title": "Public Diplomacy Section Praia: Small Grants Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/19/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361927",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361941",
+      "title": "FY 2026 Defense Community Infrastructure Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/25/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361941",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361946",
+      "title": "U.S. Embassy Libya ALUMNI ENGAGEMENT INNOVATION FUND (AEIF) 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/10/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361946",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361949",
+      "title": "Fiscal Year 2025 Presidential Residence Protection Assistance (PRPA) Grant Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/29/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361949",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361950",
+      "title": "Invertebrate Habitat Modeling and Enhancement for Fort Carson and Pinon Canyon Maneuver Site in Colorado",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/17/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361950",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361951",
+      "title": "Richardson Training Area Land Rehabilitation and Maintenance Support, Joint Base Elmendorf-Richardson, Alaska (SOW26-105)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/18/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361951",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361952",
+      "title": "Professional Formation of Engineers",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361952",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361905",
+      "title": "Homeland Security BioWatch Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361905",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361920",
+      "title": "CSP Grants to State Entities 84.282A",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/18/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361920",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361753",
+      "title": "Alumni Engagement Innovation Fund (AEIF) 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361753",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361916",
+      "title": "Alumni Engagement Innovation Fund 2026 - Lebanon",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/18/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361916",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361917",
+      "title": "USDA-FNS-CN-EAG-FY26",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/28/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361917",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361923",
+      "title": "Curriculum Development: Western Civilization",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/25/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361923",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361928",
+      "title": "U.S.-Argentina Lithium Tech &amp; Transparency Initiative",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361928",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361926",
+      "title": "Secure Innovation: Advancing Artificial Intelligence, Cybersecurity, and Digital Resilience in Argentina",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361926",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361930",
+      "title": "U.S.-Argentina English for the Energy Sector &amp; Minerals Workforce Development",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361930",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361931",
+      "title": "Advancing Global Capacity to Detect and Respond to Fungal Diseases",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361931",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361902",
+      "title": "Alumni Engagement Innovation Fund 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361902",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361900",
+      "title": "Alumni Engagement Innovation Fund 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361900",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361898",
+      "title": "FY26 Alumni Engagement Innovation Fund (AEIF 2026)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361898",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361908",
+      "title": "Economic Advancement Grants for Local Empowerment (EAGLE)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361908",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361907",
+      "title": "BJA FY25 De-escalation and Crisis Response Training Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/27/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361907",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361925",
+      "title": "BJA FY25 Byrne State Crisis Intervention Formula Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/12/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361925",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361913",
+      "title": "Regional Partnership Grants",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361913",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "360308",
+      "title": "Community Health Aide Program: Tribal Planning and Implementation (TPI)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360308",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361904",
+      "title": "Office of Special Education and Rehabilitative Services (OSERS): Office of Special Education Programs (OSEP): State Personnel Development Grants (SPDG) Program, Assistance Listing Number 84.323A",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361904",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361885",
+      "title": "Advancing Innovation and Collaboration Through C-SIPA",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "07/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361885",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361884",
+      "title": "Alumni Engagement Innovation Fund 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361884",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361895",
+      "title": "Advancing Global Health",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "02/14/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361895",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361894",
+      "title": "Protecting U.S. Critical Energy Investments Through C-UAS and UAS Surveillance Capabilities in Iraq",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361894",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361893",
+      "title": "Preventing Iranian Proxy and ISIS Activities Along Iraq&rsquo;s Western Border",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361893",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361892",
+      "title": "Protecting American Commercial Investments in Pakistan",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361892",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361886",
+      "title": "U.S. Embassy Sofia PDS Annual Program Statement",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361886",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361048",
+      "title": "Alumni Engagement Innovation Fund Notice of Funding Opportunity (Latvia)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/04/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361048",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361844",
+      "title": "Zambia EdUSA Programming with Kucetekela Foundation",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "04/24/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361844",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361877",
+      "title": "U.S.-Kenya Freedom 250 Tech and Innovation Exchange",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/29/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361877",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361864",
+      "title": "Strengthening Law Enforcement Engagement with Repatriated Individuals",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/09/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361864",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361854",
+      "title": "Reinforcing Protection of the Kenya Border shared with Somalia",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/10/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361854",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361749",
+      "title": "Alumni Engagement Innovation Fund (AEIF) 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/04/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361749",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361720",
+      "title": "Alumni Engagement Innovation Fund 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361720",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361681",
+      "title": "FY 2026 Sports Diplomacy On Demand Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361681",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361684",
+      "title": "FY 2026 Mandela Washington Fellowship for Young African Leaders (YALI Fellowship)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361684",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361680",
+      "title": "FY 2026 Sports Envoy Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361680",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361676",
+      "title": "FY 2026 Global Undergraduate Exchange Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361676",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361507",
+      "title": "SUDAN Alumni Engagement Innovation Fund - FY26",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "04/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361507",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361398",
+      "title": "FY 2026 J. Christopher Stevens Virtual Exchange Initiative   (JCSVEI) Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361398",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361397",
+      "title": "FY 2026 National Security Language Initiative for Youth (NSLI-Y)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361397",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "359879",
+      "title": "Pilot Projects Enhancing Utility and Usage of Common Fund Data Sets (R03 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359879",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "358955",
+      "title": "Measurement Science and Engineering (MSE) Research Grant Programs",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358955",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "358289",
+      "title": "Notice of Intent:  Program to End Modern Slavery FY 2025",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/01/2099",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358289",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "357797",
+      "title": "Annual Program Statement 2025",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/357797",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "347858",
+      "title": "UNITED STATES ARMY RESEARCH INSTITUTE FOR THE BEHAVIORAL AND SOCIAL SCIENCES (ARI) BROAD AGENCY ANNOUNCEMENT FOR BASIC, APPLIED, AND ADVANCED SCIENTIFIC RESEARCH",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "04/30/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/347858",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "343725",
+      "title": "DOD Defense Health Agency (DHA) Research &amp; Development FY23-FY27 BROAD AGENCY ANNOUNCEMENT for Extramural Medical Research",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/30/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/343725",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "334791",
+      "title": "Funding for New Counter-Disinformation Game",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/334791",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "334551",
+      "title": "Promoting Human Rights For Vulnerable Children in Haut-Katanga",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/334551",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "334259",
+      "title": "PEPFAR Community Led Monitoring &ndash; Mozambique Relief Programs",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/334259",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "360368",
+      "title": "Administrative Supplements to Existing NIH Grants and Cooperative Agreements (Parent Admin Supp Clinical Trial Optional)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/30/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360368",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "360660",
+      "title": "Global Brain and Nervous System Disorders Research Across the Lifespan - Exploratory Grants",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360660",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "360639",
+      "title": "Research Council of Finland (RCF) &ndash; National Institutes of Health (NIH) Partnership Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360639",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "359142",
+      "title": "Limited Competition: International epidemiology Databases to Evaluate AIDS (IeDEA) (U01 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359142",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "356723",
+      "title": "Emerging Global Leader Award (K43 Independent Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/03/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/356723",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "ungm-297246",
+      "title": "Photography/Documentation Services, Global Health Learning Center (GHLC 2026) in the Western Pacific Region, 8 June - 28 August 2026",
+      "agency": "WHO",
+      "deadline": "2026-04-23",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/297246",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
+      "id": "ungm-296134",
+      "title": "Supply,delivery and installation of Laboratory Furniture for Sanitary-Epidemiological Welfare and Public Health (SES) of the Republic of Uzbekistan.",
+      "agency": "UN Agency",
+      "deadline": "2026-04-21",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/296134",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
+    },
+    {
+      "id": "ungm-296778",
+      "title": "Supply, delivery and installation of Office Furniture for Sanitary-Epidemiological Welfare and Public Health Comittee (SES) of the Republic of Uzbekistan",
+      "agency": "UN Agency",
+      "deadline": "2026-04-27",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/296778",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
+    },
+    {
+      "id": "ungm-297445",
+      "title": "Aliments b\u00e9tail (Blocs nutritionnels de 5 kg) et (tourteaux de coton) _ Fonds US-OCHA",
+      "agency": "FAO",
+      "deadline": "2026-04-20",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/297445",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
+    },
+    {
+      "id": "ungm-297700",
+      "title": "Tender for the provision of 5000 kits of Baby Nutrition and ECE Kit",
+      "agency": "UNICEF",
+      "deadline": "2026-04-20",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/297700",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
+    },
+    {
+      "id": "ungm-297504",
+      "title": "Consultancy to conduct endline Efficiency analysis of the SUN II Nutrition programme, Zambia",
+      "agency": "UNICEF",
+      "deadline": "2026-04-22",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/297504",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
+      "id": "ungm-296443",
+      "title": "Recrutement d\u2019un cabinet-Expert pour la digitalisation de la plateforme d\u2019information Nutritionnelle et de S\u00e9curit\u00e9 Alimentaire",
+      "agency": "FAO",
+      "deadline": "2026-04-28",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/296443",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
+    },
+    {
+      "id": "ungm-297434",
+      "title": "Provision to recruit a National institution to conduct a legal landscape analysis of the food environment policies and regulations relevant to protect the health and nutrition of children in Sri Lanka",
+      "agency": "UNICEF",
+      "deadline": "2026-05-01",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/297434",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
+      "id": "ungm-298062",
+      "title": "Development of a Nutrition Information Module within Jamaica\u2019s EMIS",
+      "agency": "UNICEF",
+      "deadline": "2026-05-01",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/298062",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
+      "id": "ungm-297493",
+      "title": "UNDP-ZWE-01640-Consultant for GF Grant Cycle 8 (GC8) HIV/TB Funding Request",
+      "agency": "UNDP-ZWE-01640,2",
+      "deadline": "2026-04-21",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/297493",
+      "source": "UNGM (UN Agencies)",
+      "description": "Call for individual consultants"
+    },
+    {
+      "id": "ungm-297494",
+      "title": "UNDP-ZWE-01638-Lead Consultant for GF Grant (GC8) HIV/TB Funding Request",
+      "agency": "UNDP-ZWE-01638,2",
+      "deadline": "2026-04-21",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/297494",
+      "source": "UNGM (UN Agencies)",
+      "description": "Call for individual consultants"
+    },
+    {
+      "id": "ungm-296568",
+      "title": "PROVISION OF SERVICES TO ASSESS COMPANIES IN TIACHIV DISTRICT (UKRAINE) AGAINST RESOURCE-EFFICIENT AND CLEANER PRODUCTION METHODOLOG Y",
+      "agency": "UN Agency",
+      "deadline": "2026-04-24",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/296568",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
+      "id": "ungm-298151",
+      "title": "Provision of Acid-free packaging for archiving",
+      "agency": "UN Agency",
+      "deadline": "2026-04-27",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/298151",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
+    },
+    {
+      "id": "ungm-296457",
+      "title": "UNDP-GTM-00240 \"Asistencia T\u00e9cnica Modelo Proceso T\u00e9c. Archiv\u00edstico\" CI 3594/26",
+      "agency": "UNDP-GTM-00240",
+      "deadline": "2026-04-30",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/296457",
+      "source": "UNGM (UN Agencies)",
+      "description": "Call for individual consultants"
+    },
+    {
+      "id": "ungm-297495",
+      "title": "UNDP-ZWE-01639-Consultant for Global Fund Grant Cycle 8 (GC8) Malaria Funding",
+      "agency": "UNDP-ZWE-01639,2",
+      "deadline": "2026-04-21",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/297495",
+      "source": "UNGM (UN Agencies)",
+      "description": "Call for individual consultants"
+    },
+    {
+      "id": "ungm-298110",
+      "title": "Vendor for Scanning Malaria Slide Standard",
+      "agency": "UNDP-IDN-00831",
+      "deadline": "2026-04-24",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/298110",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
+    },
+    {
+      "id": "ungm-289968",
+      "title": "UNICEF and WHO joint tender for antimalarial medicines",
+      "agency": "UNICEF",
+      "deadline": "2026-04-30",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/289968",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
+      "id": "ungm-297559",
+      "title": "Support for Multidrug-resistant/Rifampicin-resistant Tuberculosis and Complex Drug Susceptible TB (DS TB) Cases across Pacific Island Countries and Territories",
+      "agency": "WHO",
+      "deadline": "2026-04-24",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/297559",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
+    },
     {
       "id": "361934",
       "title": "U.S. Embassy in Ouagadougou, Burkina Faso PDS Annual Program Statement",
