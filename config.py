@@ -87,6 +87,8 @@ KEYWORDS: list[str] = [
 ENABLED_SOURCES: dict[str, bool] = {
     # Primary sources for JHU International Health faculty
     "nih_guide":       os.getenv("ALERTS_NIH_GUIDE",        "true").lower() != "false",
+    "ungm":            os.getenv("ALERTS_UNGM",             "true").lower() != "false",
+    "wellcome_leap":   os.getenv("ALERTS_WELLCOME_LEAP",    "true").lower() != "false",
     "grants_gov":      os.getenv("ALERTS_GRANTS_GOV",        "true").lower() != "false",
     "gates":           os.getenv("ALERTS_GATES",             "true").lower() != "false",
     "wellcome":        os.getenv("ALERTS_WELLCOME",          "true").lower() != "false",
