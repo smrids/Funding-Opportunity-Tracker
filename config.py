@@ -92,7 +92,7 @@ ENABLED_SOURCES: dict[str, bool] = {
     "wellcome":        os.getenv("ALERTS_WELLCOME",          "true").lower() != "false",
     # Secondary sources
     "who":             os.getenv("ALERTS_WHO",               "true").lower() != "false",
-    "reliefweb":       os.getenv("ALERTS_RELIEFWEB",         "true").lower() != "false",
+    "reliefweb":       os.getenv("ALERTS_RELIEFWEB",         "false").lower() != "false",  # API gone (410)
     "eu_health":       os.getenv("ALERTS_EU_HEALTH",         "true").lower() != "false",
     "simpler_grants":  os.getenv("ALERTS_SIMPLER_GRANTS",    "true").lower() != "false",
     "un_portal":       os.getenv("ALERTS_UN_PORTAL",         "true").lower() != "false",
