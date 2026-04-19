@@ -1,14 +1,44 @@
 {
-  "last_updated": "2026-04-19T02:48:33Z",
-  "total": 202,
+  "last_updated": "2026-04-19T23:20:10Z",
+  "total": 204,
   "by_source": {
-    "NIH (Global Health)": 64,
+    "NIH (Global Health)": 63,
     "UNGM (UN Agencies)": 18,
-    "Grants.gov": 111,
+    "Grants.gov": 114,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 7
   },
   "opportunities": [
+    {
+      "id": "361955",
+      "title": "2026 Alumni Engagement Innovation Fund",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/19/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361955",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361956",
+      "title": "Alumni Engagement Innovation Fund 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/03/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361956",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361957",
+      "title": "Military-Connected Schools Construction, Modernization and Facilities Maintenance Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/22/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361957",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
     {
       "id": "361934",
       "title": "U.S. Embassy in Ouagadougou, Burkina Faso PDS Annual Program Statement",
@@ -26,16 +56,6 @@
       "deadline": "07/01/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361939",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361935",
-      "title": "2026 Alumni Engagement Innovation Fund (AEIF 2026)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "04/18/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361935",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -60,22 +80,22 @@
       "description": ""
     },
     {
-      "id": "361946",
-      "title": "U.S. Embassy Libya ALUMNI ENGAGEMENT INNOVATION FUND (AEIF) 2026",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/10/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361946",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "361949",
       "title": "Fiscal Year 2025 Presidential Residence Protection Assistance (PRPA) Grant Program",
       "agency": "NIH/Fogarty International Center",
       "deadline": "05/29/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361949",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361946",
+      "title": "U.S. Embassy Libya ALUMNI ENGAGEMENT INNOVATION FUND (AEIF) 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/10/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361946",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -270,26 +290,6 @@
       "description": ""
     },
     {
-      "id": "361913",
-      "title": "Regional Partnership Grants",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361913",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360308",
-      "title": "Community Health Aide Program: Tribal Planning and Implementation (TPI)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/15/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360308",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "361904",
       "title": "Office of Special Education and Rehabilitative Services (OSERS): Office of Special Education Programs (OSEP): State Personnel Development Grants (SPDG) Program, Assistance Listing Number 84.323A",
       "agency": "NIH/Fogarty International Center",
@@ -376,16 +376,6 @@
       "deadline": "05/04/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361048",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361844",
-      "title": "Zambia EdUSA Programming with Kucetekela Foundation",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "04/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361844",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -830,6 +820,26 @@
       "description": ""
     },
     {
+      "id": "361955",
+      "title": "2026 Alumni Engagement Innovation Fund",
+      "agency": "DOS-JOR",
+      "deadline": "05/19/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361955",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361956",
+      "title": "Alumni Engagement Innovation Fund 2026",
+      "agency": "DOS-SAU",
+      "deadline": "05/03/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361956",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361934",
       "title": "U.S. Embassy in Ouagadougou, Burkina Faso PDS Annual Program Statement",
       "agency": "DOS-BFA",
@@ -846,16 +856,6 @@
       "deadline": "07/01/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361939",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361935",
-      "title": "2026 Alumni Engagement Innovation Fund (AEIF 2026)",
-      "agency": "DOS-GEO",
-      "deadline": "04/18/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361935",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1070,12 +1070,22 @@
       "description": ""
     },
     {
-      "id": "361884",
-      "title": "Alumni Engagement Innovation Fund 2026",
-      "agency": "DOS-ZWE",
-      "deadline": "05/15/2026",
+      "id": "361957",
+      "title": "Military-Connected Schools Construction, Modernization and Facilities Maintenance Program",
+      "agency": "DOD-DODEA",
+      "deadline": "05/22/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361884",
+      "url": "https://www.grants.gov/search-results-detail/361957",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361949",
+      "title": "Fiscal Year 2025 Presidential Residence Protection Assistance (PRPA) Grant Program",
+      "agency": "DHS-DHS",
+      "deadline": "05/29/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361949",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1100,16 +1110,6 @@
       "description": ""
     },
     {
-      "id": "361949",
-      "title": "Fiscal Year 2025 Presidential Residence Protection Assistance (PRPA) Grant Program",
-      "agency": "DHS-DHS",
-      "deadline": "05/29/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361949",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361952",
       "title": "Professional Formation of Engineers",
       "agency": "NSF",
@@ -1126,6 +1126,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361953",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361954",
+      "title": "2026 Alumni Engagement Innovation Fund (AEIF 2026)",
+      "agency": "DOS-BAH",
+      "deadline": "04/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361954",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1226,6 +1236,16 @@
       "deadline": "05/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361898",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361884",
+      "title": "Alumni Engagement Innovation Fund 2026",
+      "agency": "DOS-ZWE",
+      "deadline": "05/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361884",
       "source": "Grants.gov",
       "description": ""
     },
