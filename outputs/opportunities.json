@@ -1,14 +1,24 @@
 {
-  "last_updated": "2026-04-23T23:29:23Z",
-  "total": 231,
+  "last_updated": "2026-04-24T23:24:10Z",
+  "total": 230,
   "by_source": {
-    "NIH (Global Health)": 68,
-    "UNGM (UN Agencies)": 11,
-    "Grants.gov": 144,
+    "NIH (Global Health)": 70,
+    "UNGM (UN Agencies)": 9,
+    "Grants.gov": 143,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 6
   },
   "opportunities": [
+    {
+      "id": "362051",
+      "title": "Fiscal Year 2026 State Allocations under the Carl D. Perkins Career and Technical Education Act of 2006 (Perkins V)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362051",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
     {
       "id": "362030",
       "title": "General Departmental Sexual Risk Avoidance Education (GDSRAE)",
@@ -50,16 +60,6 @@
       "description": ""
     },
     {
-      "id": "362036",
-      "title": "INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY 2026 (IGNIITE 2026)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/29/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362036",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "362037",
       "title": "Strengthening U.S. Studies in Higher Education in Argentina",
       "agency": "NIH/Fogarty International Center",
@@ -76,6 +76,16 @@
       "deadline": "06/23/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362043",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362036",
+      "title": "INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY 2026 (IGNIITE 2026)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/29/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362036",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -250,12 +260,22 @@
       "description": ""
     },
     {
-      "id": "361977",
-      "title": "Circles of Care for American Indian/Alaska Natives (AI/AN)",
+      "id": "362052",
+      "title": "FY2026 - Historic Preservation Fund- Annual State Historic Preservation Office Grants",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "",
+      "deadline": "06/30/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361977",
+      "url": "https://www.grants.gov/search-results-detail/362052",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362053",
+      "title": "FY2026 - Historic Preservation Fund- Annual Tribal Historic Preservation Office Grants",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362053",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -266,6 +286,16 @@
       "deadline": "06/20/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361998",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362055",
+      "title": "F26AS00013 FY 2026 Clean Vessel Act (CVA) Notice of Funding Opportunity",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "07/22/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362055",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -386,16 +416,6 @@
       "deadline": "05/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361956",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361955",
-      "title": "2026 Alumni Engagement Innovation Fund",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/19/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361955",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -690,6 +710,16 @@
       "description": ""
     },
     {
+      "id": "ungm-297246",
+      "title": "Photography/Documentation Services, Global Health Learning Center (GHLC 2026) in the Western Pacific Region, 8 June - 28 August 2026",
+      "agency": "WHO",
+      "deadline": "2026-04-30",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/297246",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
       "id": "ungm-296778",
       "title": "Supply, delivery and installation of Office Furniture for Sanitary-Epidemiological Welfare and Public Health Comittee (SES) of the Republic of Uzbekistan",
       "agency": "UN Agency",
@@ -730,16 +760,6 @@
       "description": "Request for proposal"
     },
     {
-      "id": "ungm-296568",
-      "title": "PROVISION OF SERVICES TO ASSESS COMPANIES IN TIACHIV DISTRICT (UKRAINE) AGAINST RESOURCE-EFFICIENT AND CLEANER PRODUCTION METHODOLOG Y",
-      "agency": "UN Agency",
-      "deadline": "2026-04-24",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/296568",
-      "source": "UNGM (UN Agencies)",
-      "description": "Request for proposal"
-    },
-    {
       "id": "ungm-298151",
       "title": "Provision of Acid-free packaging for archiving",
       "agency": "UN Agency",
@@ -770,16 +790,6 @@
       "description": "Call for individual consultants"
     },
     {
-      "id": "ungm-298110",
-      "title": "Vendor for Scanning Malaria Slide Standard",
-      "agency": "UNDP-IDN-00831",
-      "deadline": "2026-04-24",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/298110",
-      "source": "UNGM (UN Agencies)",
-      "description": ""
-    },
-    {
       "id": "ungm-289968",
       "title": "UNICEF and WHO joint tender for antimalarial medicines",
       "agency": "UNICEF",
@@ -790,13 +800,73 @@
       "description": "Request for proposal"
     },
     {
-      "id": "ungm-297559",
-      "title": "Support for Multidrug-resistant/Rifampicin-resistant Tuberculosis and Complex Drug Susceptible TB (DS TB) Cases across Pacific Island Countries and Territories",
-      "agency": "WHO",
-      "deadline": "2026-04-24",
+      "id": "362026",
+      "title": "Voluntary Public Access and Habitat Incentive Program competition for Federal fiscal year (FY) 2026",
+      "agency": "USDA-NRCS",
+      "deadline": "06/08/2026",
       "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/297559",
-      "source": "UNGM (UN Agencies)",
+      "url": "https://www.grants.gov/search-results-detail/362026",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362047",
+      "title": "FY25 Center of Excellence-University of Illinois Urbana-Champaign (Supplemental)",
+      "agency": "DOT-FRA",
+      "deadline": "05/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362047",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362051",
+      "title": "Fiscal Year 2026 State Allocations under the Carl D. Perkins Career and Technical Education Act of 2006 (Perkins V)",
+      "agency": "DOL-OCTAE",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362051",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362052",
+      "title": "FY2026 - Historic Preservation Fund- Annual State Historic Preservation Office Grants",
+      "agency": "DOI-NPS",
+      "deadline": "06/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362052",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362053",
+      "title": "FY2026 - Historic Preservation Fund- Annual Tribal Historic Preservation Office Grants",
+      "agency": "DOI-NPS",
+      "deadline": "06/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362053",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362055",
+      "title": "F26AS00013 FY 2026 Clean Vessel Act (CVA) Notice of Funding Opportunity",
+      "agency": "DOI-FWS",
+      "deadline": "07/22/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362055",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362054",
+      "title": "FY26 Ruth D. Gates Coral Reef Conservation Grants - Fishery Management",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "07/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362054",
+      "source": "Grants.gov",
       "description": ""
     },
     {
@@ -830,16 +900,6 @@
       "description": ""
     },
     {
-      "id": "362036",
-      "title": "INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY 2026 (IGNIITE 2026)",
-      "agency": "DOE-ARPAE",
-      "deadline": "05/29/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362036",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362037",
       "title": "Strengthening U.S. Studies in Higher Education in Argentina",
       "agency": "DOS-ARG",
@@ -850,22 +910,32 @@
       "description": ""
     },
     {
-      "id": "362038",
-      "title": "AFCEC Land Management Mapping for CONUS/Europe/PACAF Air Force  Installations",
-      "agency": "DOD-COE-FW",
-      "deadline": "05/26/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362038",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362043",
       "title": "Assistive Technology Program for Farmers with Disabilities",
       "agency": "USDA-NIFA",
       "deadline": "06/23/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362043",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362036",
+      "title": "INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY 2026 (IGNIITE 2026)",
+      "agency": "DOE-ARPAE",
+      "deadline": "05/29/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362036",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362038",
+      "title": "AFCEC Land Management Mapping for CONUS/Europe/PACAF Air Force  Installations",
+      "agency": "DOD-COE-FW",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362038",
       "source": "Grants.gov",
       "description": ""
     },
@@ -980,76 +1050,6 @@
       "description": ""
     },
     {
-      "id": "362028",
-      "title": "Rural Health and Safety Education Competitive Grants Program",
-      "agency": "USDA-NIFA",
-      "deadline": "06/23/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362028",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362029",
-      "title": "Tribal Colleges Research Grants Program",
-      "agency": "USDA-NIFA",
-      "deadline": "12/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362029",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361990",
-      "title": "Natural Resource Management - Lane County Youth Services",
-      "agency": "DOD-COE-PORT",
-      "deadline": "05/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361990",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361997",
-      "title": "Centers of Excellence in Healthcare Quality and Safety",
-      "agency": "HHS-CDC-NCEZID",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361997",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361992",
-      "title": "Regional Food System Partnership Fiscal Year 2026",
-      "agency": "USDA-AMS",
-      "deadline": "06/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361992",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361998",
-      "title": "Species Recovery Grants to States (Section 6 Program)",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "06/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361998",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361993",
-      "title": "Farmers Market Promotion Program Fiscal Year 2026",
-      "agency": "USDA-AMS",
-      "deadline": "06/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361993",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362030",
       "title": "General Departmental Sexual Risk Avoidance Education (GDSRAE)",
       "agency": "HHS-ACF-FYSB",
@@ -1130,32 +1130,32 @@
       "description": ""
     },
     {
-      "id": "362022",
-      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Employment Among People Who Are Deaf or Hard of Hearing",
-      "agency": "HHS-ACL",
-      "deadline": "",
+      "id": "362050",
+      "title": "Estimated Fiscal Year 2026 Adult Education and Family Literacy Act State Award Amounts",
+      "agency": "DOL-OCTAE",
+      "deadline": "05/26/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362022",
+      "url": "https://www.grants.gov/search-results-detail/362050",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "362041",
-      "title": "BJA FY25 Invited to Apply &ndash; Sexual Assault Kit Initiative (SAKI) Training and Technical Assistance (TTA) Program",
-      "agency": "USDOJ-OJP-BJA",
-      "deadline": "05/06/2026",
+      "id": "362049",
+      "title": "FY25-26 Railroad Crossing Elimination Grant Program",
+      "agency": "DOT-FRA",
+      "deadline": "06/08/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362041",
+      "url": "https://www.grants.gov/search-results-detail/362049",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "362040",
-      "title": "BJA FY 25 Invited to Apply- Transforming Prison Cultures, Climates, and Spaces",
+      "id": "362039",
+      "title": "BJA FY25 Invited to Apply - Adult Treatment Court Discretionary Grant Program",
       "agency": "USDOJ-OJP-BJA",
       "deadline": "05/06/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362040",
+      "url": "https://www.grants.gov/search-results-detail/362039",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1180,12 +1180,22 @@
       "description": ""
     },
     {
-      "id": "362039",
-      "title": "BJA FY25 Invited to Apply - Adult Treatment Court Discretionary Grant Program",
+      "id": "362041",
+      "title": "BJA FY25 Invited to Apply &ndash; Sexual Assault Kit Initiative (SAKI) Training and Technical Assistance (TTA) Program",
       "agency": "USDOJ-OJP-BJA",
       "deadline": "05/06/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362039",
+      "url": "https://www.grants.gov/search-results-detail/362041",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362040",
+      "title": "BJA FY 25 Invited to Apply- Transforming Prison Cultures, Climates, and Spaces",
+      "agency": "USDOJ-OJP-BJA",
+      "deadline": "05/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362040",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1200,22 +1210,42 @@
       "description": ""
     },
     {
-      "id": "362013",
-      "title": "FY24 CRISI-CDS - San Diego At-grade Crossing Elimination Study (SD ACES)",
-      "agency": "DOT-FRA",
-      "deadline": "05/08/2026",
+      "id": "362028",
+      "title": "Rural Health and Safety Education Competitive Grants Program",
+      "agency": "USDA-NIFA",
+      "deadline": "06/23/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362013",
+      "url": "https://www.grants.gov/search-results-detail/362028",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "362005",
-      "title": "FY26 Pathways to Removing Obstacles to Housing (PRO Housing)",
-      "agency": "HUD",
+      "id": "362029",
+      "title": "Tribal Colleges Research Grants Program",
+      "agency": "USDA-NIFA",
+      "deadline": "12/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362029",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361990",
+      "title": "Natural Resource Management - Lane County Youth Services",
+      "agency": "DOD-COE-PORT",
+      "deadline": "05/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361990",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361997",
+      "title": "Centers of Excellence in Healthcare Quality and Safety",
+      "agency": "HHS-CDC-NCEZID",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362005",
+      "url": "https://www.grants.gov/search-results-detail/361997",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1490,12 +1520,12 @@
       "description": ""
     },
     {
-      "id": "361902",
-      "title": "Alumni Engagement Innovation Fund 2026",
-      "agency": "DOS-CAF",
-      "deadline": "05/15/2026",
+      "id": "362013",
+      "title": "FY24 CRISI-CDS - San Diego At-grade Crossing Elimination Study (SD ACES)",
+      "agency": "DOT-FRA",
+      "deadline": "05/08/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361902",
+      "url": "https://www.grants.gov/search-results-detail/362013",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1730,16 +1760,6 @@
       "description": ""
     },
     {
-      "id": "343653",
-      "title": "Department of Defense HIV/AIDS Prevention Program",
-      "agency": "DOD-AMRAA",
-      "deadline": "09/18/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/343653",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "360308",
       "title": "Community Health Aide Program: Tribal Planning and Implementation (TPI)",
       "agency": "HHS-IHS",
@@ -1876,16 +1896,6 @@
       "deadline": "06/08/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361758",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361754",
-      "title": "Title X Family Planning Services Grants",
-      "agency": "HHS-OPHS",
-      "deadline": "01/09/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361754",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2170,6 +2180,16 @@
       "description": ""
     },
     {
+      "id": "362005",
+      "title": "FY26 Pathways to Removing Obstacles to Housing (PRO Housing)",
+      "agency": "HUD",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362005",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "362014",
       "title": "Comprehensive Housing Counseling (CHC) and the Housing Counseling Training (HCT) NOFO (FY2026)",
       "agency": "HUD",
@@ -2180,32 +2200,22 @@
       "description": ""
     },
     {
-      "id": "361999",
-      "title": "FY 2026 Continuum of Care Competition and Youth Homelessness Demonstration Program Grants NOFO",
-      "agency": "HUD",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361999",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361995",
-      "title": "Local Food Promotion Program Fiscal Year 2026",
+      "id": "361993",
+      "title": "Farmers Market Promotion Program Fiscal Year 2026",
       "agency": "USDA-AMS",
       "deadline": "06/05/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361995",
+      "url": "https://www.grants.gov/search-results-detail/361993",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "361917",
-      "title": "USDA-FNS-CN-EAG-FY26",
-      "agency": "USDA-FNS1",
-      "deadline": "05/28/2026",
+      "id": "361998",
+      "title": "Species Recovery Grants to States (Section 6 Program)",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "06/20/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361917",
+      "url": "https://www.grants.gov/search-results-detail/361998",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2216,26 +2226,6 @@
       "deadline": "05/29/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361949",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361941",
-      "title": "FY 2026 Defense Community Infrastructure Program",
-      "agency": "DOD-OEA",
-      "deadline": "06/25/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361941",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361986",
-      "title": "Personal Responsibility Education Innovative Strategies (PREIS)",
-      "agency": "HHS-ACF-FYSB",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361986",
       "source": "Grants.gov",
       "description": ""
     },
