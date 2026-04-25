@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-04-24T23:24:10Z",
-  "total": 230,
+  "last_updated": "2026-04-25T23:21:49Z",
+  "total": 301,
   "by_source": {
-    "NIH (Global Health)": 70,
+    "NIH (Global Health)": 71,
     "UNGM (UN Agencies)": 9,
-    "Grants.gov": 143,
+    "Wellcome Leap": 69,
+    "Grants.gov": 144,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 6
   },
@@ -16,6 +17,16 @@
       "deadline": "05/26/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362051",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362064",
+      "title": "Engineering Environmental Resiliency (EER)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362064",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -250,16 +261,6 @@
       "description": ""
     },
     {
-      "id": "361506",
-      "title": "Syria Alumni Engagement Innovation Fund FY 2026",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361506",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "362052",
       "title": "FY2026 - Historic Preservation Fund- Annual State Historic Preservation Office Grants",
       "agency": "NIH/Fogarty International Center",
@@ -280,12 +281,12 @@
       "description": ""
     },
     {
-      "id": "361998",
-      "title": "Species Recovery Grants to States (Section 6 Program)",
+      "id": "362061",
+      "title": "Chemical Process Systems (CPS)",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "06/20/2026",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361998",
+      "url": "https://www.grants.gov/search-results-detail/362061",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -346,6 +347,16 @@
       "deadline": "06/05/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361992",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361506",
+      "title": "Syria Alumni Engagement Innovation Fund FY 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361506",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -800,6 +811,696 @@
       "description": "Request for proposal"
     },
     {
+      "id": "wleap-37911",
+      "title": "Wellcome Leap Announces $2 Million Prize in $50 Million Quantum for Bio Challenge Program",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/q4bio_prize_announcement/",
+      "source": "Wellcome Leap",
+      "description": "Wellcome Leap Announces $2 Million Prize in $50 Million Quantum for Bio Challenge Program First-ever demonstration of an end-to-end quantum-classical workflow for simulating complex therapeutics, unlocking a credible path to near-term quantum advantage in health. April 16, 2026 Share this work San Diego, CA \u2013 April 16, 2026 \u2013 Wellcome Leap (Leap), a U.S. nonprofit founded by the Wellcome Trust to "
+    },
+    {
+      "id": "wleap-37649",
+      "title": "Focused Antibiotics &#8211; FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/focused-antibiotics-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions Updated 10 April 2026 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award sizes will vary based on the scope and requirements of the selected proposals. Collectively, all performer budgets will comprise the program\u2019s total funding of up to $50 million. Award amounts are dependent on specific proposals and work s"
+    },
+    {
+      "id": "wleap-37648",
+      "title": "Focused Antibiotics",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/focused-antibiotics/",
+      "source": "Wellcome Leap",
+      "description": "NEW $50M PROGRAM APPLY NOW ABSTRACT PORTAL WILL OPEN 8 MAY 2026 AT 11:59PM ET. Download the full program announcement here . Fighting Infections. Sparing the Rest. Antibiotics are the foundation of modern medicine. Every year, one in three people worldwide rely on them to treat common conditions like urinary tract infections (UTIs), ear infections, and pneumonia. 1,2 Beyond outpatient care, they a"
+    },
+    {
+      "id": "wleap-37256",
+      "title": "Suzanne Nora Johnson Joins Wellcome Leap Board of Directors",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/suzanne-nora-johnson-board-of-directors/",
+      "source": "Wellcome Leap",
+      "description": "Suzanne Nora Johnson Joins Wellcome Leap Board of Directors March 3, 2026 Share this work San Diego, CA \u2013 March 3, 2026 \u2013 Wellcome Leap (Leap), a U.S. nonprofit founded by the Wellcome Trust to accelerate breakthroughs in human health, today announced that Suzanne Nora Johnson has joined its Board of Directors. \u201cInnovation in healthcare has too often moved at a snail\u2019s pace,\u201d said Suzanne Nora Joh"
+    },
+    {
+      "id": "wleap-36952",
+      "title": "Emerging Breakthroughs Showcase",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/jpm-emerging-breakthroughs/",
+      "source": "Wellcome Leap",
+      "description": "emerging breakthroughs A showcase of our global programs. JANUARY 13-14, 2026 / San Francisco, CA Wellcome Leap featured scientific innovations from 10 teams across 5 programs spanning neurodevelopment, maternal care, depression, surgical training, and RNA manufacturing. TO LEARN MORE, CONTACT transitions@wellcomeleap.org LEAP PROGRAMS AT THE EVENT / 1kD / IN UTERO / MCPSYCH / SAVE / R3G 1kD The F"
+    },
+    {
+      "id": "wleap-36432",
+      "title": "VISIBLE &#8211; FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/visible-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions Updated 6 February 2026 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award sizes will vary based on the scope and requirements of the selected proposals. Collectively, all performer budgets will comprise the program\u2019s total funding of up to $55 million. Is the Program open to applicants from outside the United "
+    },
+    {
+      "id": "wleap-36431",
+      "title": "VISIBLE",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/visible/",
+      "source": "Wellcome Leap",
+      "description": "NEW $55M PROGRAM jointly funded by Pivotal With support from British Heart Foundation APPLY NOW THE PORTAL IS NOW CLOSED. Proposal decisions will be sent 23 May 2026 at 7am ET. PORTAL IS NOW OPEN. Upload your full proposal and submit your application before 23 APRIL 2026 at 11:59pm ET. Download the full program announcement here . One out of every three women dies of cardiovascular disease 1 . It "
+    },
+    {
+      "id": "wleap-36359",
+      "title": "Wellcome Leap and Medicines360 Announce Partnership to Accelerate Development and Access to New Lifesaving Pregnancy and Stillbirth Risk-Reduction Tools for Women Worldwide",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/medicines360_partnership_news/",
+      "source": "Wellcome Leap",
+      "description": "Wellcome Leap and Medicines360 Announce Partnership to Accelerate Development and Access to New Lifesaving Pregnancy and Stillbirth Risk-Reduction Tools for Women Worldwide Collaboration will transform biomarkers into precision insights across gestation \u2013 so every pregnancy has the best chance of a healthy outcome. Jan 12, 2026 Share this work SAN FRANCISCO, Jan. 12, 2026 \u2013 Wellcome Leap, a U.S. n"
+    },
+    {
+      "id": "wleap-35974",
+      "title": "FORM &#8211; FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/form-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions Updated 6 Nov 2025 Is there a known link between the microbiome and neurodevelopmental challenges, in particular autism spectrum disorder (ASD)? Today, there is much scientific debate about results suggesting a link between the early-life microbiome and neurodevelopmental challenges, including autism. There is, however, little debate that more research is needed. The int"
+    },
+    {
+      "id": "wleap-35876",
+      "title": "FORM",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/form/",
+      "source": "Wellcome Leap",
+      "description": "NEW $50M Program Foundations of a Resilient Microbiome APPLY NOW We are pleased to announce the selected performers . Kiran Raosaheb Patil, University of Cambridge Laurel Gabard-Durnam, Northeastern University Samuel Forster, Hudson Institute of Medical Research Michelle A. O\u2019Malley, University of California, Santa Barbara Peter Vuillermin, Deakin University Anne CC Lee, Brown University James Mor"
+    },
+    {
+      "id": "wleap-35558",
+      "title": "Wellcome Leap and Pivotal Commit $100 Million to Women\u2019s Health Research to Deliver Breakthroughs in Years, Not Decades",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/pivotal_partnership_news/",
+      "source": "Wellcome Leap",
+      "description": "Wellcome Leap and Pivotal Commit $100 Million to Women\u2019s Health Research to Deliver Breakthroughs in Years, Not Decades Wellcome Leap and Pivotal Commit $100 Million to Women\u2019s Health Research to Deliver Breakthroughs in Years, Not Decades Partnership brings Leap\u2019s total investment to a quarter billion dollars \u2013 advancing toward a $1 billion goal to transform outcomes for women worldwide. Septembe"
+    },
+    {
+      "id": "wleap-35042",
+      "title": "Women&#8217;s Health",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/womens-health/",
+      "source": "Wellcome Leap",
+      "description": "leap women's health Our total investment in women\u2019s health breakthroughs now over $250M. It's time. Women have waited long enough. A historic partnership with Pivotal, a Melinda French Gates organization . Read the press release. Learn more about the announcement. 4 advanced research programs in progress. 1 more on the way. $50M PROGRAM In Utero What if we could save 1 million babies each year? An"
+    },
+    {
+      "id": "wleap-34834",
+      "title": "R3 Global",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/r3-global/",
+      "source": "Wellcome Leap",
+      "description": "What if a single manufacturing platform was capable of producing treatments for thousands of diseases \u2013 faster, cheaper, and at a global scale \u2013 ensuring everyday healthcare needs are met and future pandemics don\u2019t shut down the world? What if the costs and risks of advancing new treatments, at each stage, were dramatically reduced? Doing so would mean that cancer patients in remission could be va"
+    },
+    {
+      "id": "wleap-34598",
+      "title": "Women&#8217;s health research: Fact Sheet",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/womens-health-research-fact-sheet/",
+      "source": "Wellcome Leap",
+      "description": "We can deliver more breakthroughs in women's health \u2014 starting now. 1 Women experience health issues differently, disproportionately, and uniquely. 99% of studies on the biology of aging fail to consider menopause. A transition that affects half the world\u2019s population. How Gaps in Research Lead to Gaps in Care for Aging Women Women account for 80% of patients with autoimmune diseases. Which are ch"
+    },
+    {
+      "id": "wleap-34378",
+      "title": "The Missed Vital Sign &#8211; FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/the-missed-vital-sign-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions Updated 10 April 2025 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award amounts will be dependent on specific proposals and work selected for funding. Is the Program open to applicants from outside the United States and UK? Yes, it is open to applicants around the world. Is the Program open to applicants who a"
+    },
+    {
+      "id": "wleap-34321",
+      "title": "The Missed Vital Sign",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/the-missed-vital-sign/",
+      "source": "Wellcome Leap",
+      "description": "NEW $50M Program in Women&#8217;s Health the missed vital sign APPLY NOW We are pleased to announce the selected performers . Sebasti\u00e1n Illanes : Universidad de los Andes Ali Adibi: Georgia Institute of Technology Eugenia Alleva: Icahn School of Medicine at Mount Sinai Navid Khodaparast: Spark Biomedical, Inc Milton Musaba: Busitema University Niamh Forde: University of Edinburgh Ying Cheong: Univ"
+    },
+    {
+      "id": "wleap-33978",
+      "title": "Untangling Addiction",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/ua/",
+      "source": "Wellcome Leap",
+      "description": "$50M PROGRAM Untangling Addiction Every 4 minutes, someone in the world dies from drug or alcohol addiction. Most people with addictions try to quit \u2014 and can\u2019t. Untangling Addiction is a new $50M program focused on breakthroughs in substance abuse prevention and treatment. The program aims to create predictive models to assess an individual\u2019s vulnerability to addiction, forecast progression, and "
+    },
+    {
+      "id": "wleap-33772",
+      "title": "CARE &#8211; FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/care-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions Updated 4 February 2025 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award amounts will be dependent on specific proposals and work selected for funding. Is the Program open to applicants from outside the United States and UK? Yes, it is open to applicants around the world. Is the Program open to applicants who"
+    },
+    {
+      "id": "wleap-33771",
+      "title": "CARE Program Details",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/care/",
+      "source": "Wellcome Leap",
+      "description": "NEW $50M Program in Women&#8217;s Health care Cutting Alzheimer&#8217;s Risk through Endocrinology We are pleased to announce the selected performers and their teams: (*corresponding PI) Kaarin Anstey* &amp; Kristine Yaffe: University of New South Wales &amp;&nbsp;University of California, San Francisco Roberta Diaz Brinton* &amp; Francesca Vitali: University of Arizona Judy Pa* &amp; Iris Broce-D"
+    },
+    {
+      "id": "wleap-33607",
+      "title": "Home",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/",
+      "source": "Wellcome Leap",
+      "description": ".elementor-37734 .elementor-element.elementor-element-6fe2a1c3:not(.elementor-motion-effects-element-type-background), .elementor-37734 .elementor-element.elementor-element-6fe2a1c3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#E9EAF3;}.elementor-37734 .elementor-element.elementor-element-6fe2a1c3 > .elementor-background-overlay{background-color:rgba(241"
+    },
+    {
+      "id": "wleap-33377",
+      "title": "Lisa Mosconi Bio",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/lisa-mosconi-bio/",
+      "source": "Wellcome Leap",
+      "description": "Program Director Lisa Mosconi Lisa Mosconi, PhD is a neuroscientist and researcher specializing in brain health, Alzheimer\u2019s prevention, and the relationship between hormonal health and cognitive function. As the founder and director of the Women\u2019s Brain Initiative and the Alzheimer\u2019s Prevention Program at Weill Cornell Medicine, Lisa has dedicated her career to understanding how risk of memory lo"
+    },
+    {
+      "id": "wleap-33369",
+      "title": "Homepage &#8211; 2025",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/homepage-footer2025/",
+      "source": "Wellcome Leap",
+      "description": "2024 Wellcome Leap EXPO > See the Story Changing the Business of Breakthroughs In our recent article in Issues in Science and Technology , CEO Regina Dugan and former COO Ken Gabriel explain how the work happens and why it matters now more than ever. Learn More The largest breakthrough network in the galaxy. * *we checked Learn More const targetElement = document.querySelector('.elementor-repeater"
+    },
+    {
+      "id": "wleap-33242",
+      "title": "Judy Swain Bio",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/judy-swain-bio/",
+      "source": "Wellcome Leap",
+      "description": "Director Judy Swain Judy is a physician scientist widely known in the field of molecular cardiology, and pioneered the use of transgenic animals to understand cardiovascular development and disease. She has served as Chair of the Department of Medicine at Stanford University, Dean for Translational Medicine at the University of California, San Diego as well as Director of Cardiovascular Medicine a"
+    },
+    {
+      "id": "wleap-32842",
+      "title": "Stories",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/stories/",
+      "source": "Wellcome Leap",
+      "description": "--> --> --> --> Stories A mouse is not a human, and dialysis is not a kidney. Today, drug developers select their best treatment candidates based on animal studies. But these models are not predictive of the results in humans. The result &#8212; 90% of new drugs tested using animal models fail in humans. And the results are worse if the immune system is involved. We need better preclinical predict"
+    },
+    {
+      "id": "wleap-32774",
+      "title": "John-Arne R\u00f8ttingen Bio",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/john-arne-rottingen/",
+      "source": "Wellcome Leap",
+      "description": "Director John-Arne R\u00f8ttingen MD PhD MSc MPA John-Arne R\u00f8ttingen is Chief Executive Officer of Wellcome, UK. He has served as Ambassador for Global Health at the Ministry of Foreign Affairs, Norway, been Adjunct Scientific Director at the Norwegian Institute of Public Health and Visiting Fellow of Practice at Blavatnik School of Government, Oxford University. He was the founding Chief Executive Off"
+    },
+    {
+      "id": "wleap-31907",
+      "title": "Untangling Addiction &#8211; FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/ua-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions Updated 5 February 2024 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award amounts will be dependent on specific proposals and work selected for funding. Is the Program open to applicants from outside the United States and UK? Yes, it is open to applicants around the world. Is the Program open to applicants who"
+    },
+    {
+      "id": "wleap-31820",
+      "title": "Untangling Addiction Program Details",
+      "agency": "Wellcome Leap",
+      "deadline": "2023-12-21",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/ua/program/",
+      "source": "Wellcome Leap",
+      "description": "NEW $50M PROGRAM Untangling Addiction We are pleased to announce the selected performers . Yasmin Hurd, Icahn School of Medicine at Mount Sinai Brett Ginsburg, University of Texas Health Science Center at San Antonio Ravi Das, University College London Ali Mazaheri, University of Birmingham Rodney Gabriel, University of California, San Diego Anna Rose Childress, University of Pennsylvania Brian Mi"
+    },
+    {
+      "id": "wleap-30769",
+      "title": "Dynamic Resilience",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/dr/",
+      "source": "Wellcome Leap",
+      "description": "$60M PROGRAM jointly funded with Temasek Trust Dynamic Resilience Human life expectancy has doubled in the past 100 years. But for most people, our health span doesn\u2019t match our life span. What if it could? Dynamic Resilience seeks to identify and validate causal measures and models of health resilience, at multiple scales, with predictive value sufficient to make clinical decisions. Such markers "
+    },
+    {
+      "id": "wleap-30754",
+      "title": "Q4Bio",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/q4bio/",
+      "source": "Wellcome Leap",
+      "description": "$40M + $10M PROGRAM Q4Bio What if we could develop new algorithms that deliver quantum advantage for health? Quantum for Bio (Q4Bio) is a $40M +$10M Supported Challenge Program aimed at accelerating the applications of quantum computing in human health. The program is focused on identifying, developing, and demonstrating biology and health applications that will benefit from the quantum computers "
+    },
+    {
+      "id": "wleap-30731",
+      "title": "SAVE",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/save/",
+      "source": "Wellcome Leap",
+      "description": "$50M PROGRAM SAVE Lack of access to essential surgery results in 1.5 million deaths per year. This is equivalent to the number of deaths from HIV, malaria, multi-drug resistant TB, and complications from pregnancy \u2014 combined. We need a fundamental change. Surgery: Assess / Validate / Expand is a $50M program with the goal of doubling the number of surgical providers trained each year to create an "
+    },
+    {
+      "id": "wleap-30720",
+      "title": "In Utero",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/inutero/",
+      "source": "Wellcome Leap",
+      "description": "$50M PROGRAM In Utero Every 16 seconds one baby is stillborn. We need better ways to assess gestational development in utero. In Utero is a $50M program with the goal of cutting stillbirth rates in half by creating scalable methods to measure, model and predict gestational development in utero. Every 16 seconds one baby is stillborn. That amounts to more than two million stillborn babies globally "
+    },
+    {
+      "id": "wleap-30477",
+      "title": "R3",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/r3/",
+      "source": "Wellcome Leap",
+      "description": "$60M PROGRAM jointly funded with CEPI R3 RNA Readiness + Response (\u201cR3\u201d), a $60M program, jointly funded with the Coalition for Epidemic Preparedness Innovations (\u201cCEPI\u201d) will develop \u2018living\u2019 RNA- based, distributed, and multi-product biofoundries that provide increased access to diverse biologics in non-emergency times and economically sustainable, state-of-the-art surge capacity in an emergency"
+    },
+    {
+      "id": "wleap-30451",
+      "title": "Delta Tissue",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/delta-tissue/",
+      "source": "Wellcome Leap",
+      "description": "$55M PROGRAM Delta Tissue Delta Tissue: Integrated Platforms for Predicting Changes in Tissue State, is a $55 million effort that brings experts in the life sciences and engineering together from across universities, foundations, and the private sector to develop a platform that can profile tissue states and predict transitions between states in ways that are impossible today. What if we could bui"
+    },
+    {
+      "id": "wleap-30423",
+      "title": "1kD",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/1kd/",
+      "source": "Wellcome Leap",
+      "description": "$45M PROGRAM 1kD The First 1000 Days (1kD) is a $45 million program that brings together experts in the life sciences, engineering, and computer science from across universities, nonprofits, and the private sector to develop scalable measurement methods and models to predict and promote healthy brain development in infants. The first thousand days can make all the difference to a child\u2019s start in "
+    },
+    {
+      "id": "wleap-30323",
+      "title": "MCPsych",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/mcpsych/",
+      "source": "Wellcome Leap",
+      "description": "$50M PROGRAM MCPsych Multi-Channel Psych (MCPsych) aims to develop an integrated model of anhedonic depression that captures both internal biological factors and externally-manifested, quantifiable measures. The program also seeks to reveal biological mechanisms of anhedonia by synchronizing investigations across genes, molecules, cells, animal models, and humans. Depression is a complex biologica"
+    },
+    {
+      "id": "wleap-30152",
+      "title": "HOPE",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/hope/",
+      "source": "Wellcome Leap",
+      "description": "$50M PROGRAM HOPE The Human Organs, Physiology, and Engineering (HOPE) program is a $50 million effort that brings experts in the life sciences and engineering together from across universities, foundations, and companies to develop human tissues, organoids, organs, and platforms that accelerate and scale new treatments. Focused on replication of complex human organs and immune system interactions"
+    },
+    {
+      "id": "wleap-29167",
+      "title": "Dynamic Resilience Program Details",
+      "agency": "Wellcome Leap",
+      "deadline": "2023-05-25",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/dr/program/",
+      "source": "Wellcome Leap",
+      "description": "Dynamic Resilience $60M program jointly funded with We are pleased to announce the selected performers . Evandro Fei Fang, University of Oslo Thomas Jackson, University of Birmingham Gonzalo Jorquera Olave, Universidad de Chile Yuxin Liu, National University of Singapore Peter Loskill, NMI Natural and Medical Sciences Institute at the University of T\u00fcbingen Anthony Molina, University of California"
+    },
+    {
+      "id": "wleap-29193",
+      "title": "Dynamic Resilience &#8211; FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/dr-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions 10 July 2023 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award amounts will be dependent on specific proposals and work selected for funding. Is the Program open to applicants from outside the United States and UK? Yes, it is open to applicants around the world. Is the Program open to applicants who are not a "
+    },
+    {
+      "id": "wleap-29071",
+      "title": "SAVE Program Details",
+      "agency": "Wellcome Leap",
+      "deadline": "2022-10-27",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/save/program/",
+      "source": "Wellcome Leap",
+      "description": "A $50M program SURGERY : ASSESS / VALIDATE / EXPAND We are pleased to announce the selected performers . John Windsor, The University of Auckland Amar Chaudhry, Surgical Safety Technologies (SST) Hyongsok Tom Soh, Stanford University Robert Ssekitoleko, Makerere University David Cunningham, Kids Operating Room (KidsOR) Carla Pugh, Stanford University Brian George, Society for Improving Medical Pro"
+    },
+    {
+      "id": "wleap-28678",
+      "title": "Quantum for Bio &#8211; FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/q4bio-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions 12 June 2023 How many teams and awards will be funded? We envision a maximum of 12 proposals selected for funding in Phase 1; all selections will be merit-based. How much is the funding per team? Maximum funding amount per team for each phase of the program is outlined in the section Format of Wellcome Leap\u2019s Quantum for Bio Supported Challenge Program. Is the Program op"
+    },
+    {
+      "id": "wleap-28635",
+      "title": "Q4Bio Program Details",
+      "agency": "Wellcome Leap",
+      "deadline": "2023-04-27",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/q4bio/program/",
+      "source": "Wellcome Leap",
+      "description": "NEW $40M +$10M PROGRAM Quantum for Bio Congratulations to the Algorithmiq team for winning the Q4Bio $2M prize. Congratulations to the Algorithmiq team for winning the Q4Bio $2M prize. Frederic T. Chong, Infleqtion Jonathan D. Hirst , University of Nottingham Mikhail Lukin, Harvard University Grant M. Rotskoff, Stanford University Sabrina Maniscalco, Algorithmiq Inc. Sergii Strelchuk, University o"
+    },
+    {
+      "id": "wleap-28584",
+      "title": "In Utero Program Details",
+      "agency": "Wellcome Leap",
+      "deadline": "2022-06-30",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/inutero/program/",
+      "source": "Wellcome Leap",
+      "description": "A $50M program In Utero MEASUREMENT AND MODELLING DURING GESTATIONAL DEVELOPMENT We are pleased to announce the selected performers . Subhabrata Mitra, University College London Rebecca Reynolds, University of Edinburgh Sam Ali, Makerere University Aris Papageorghiou, University of Oxford Penny Gowland, University of Nottingham Madhuri Salker, Eberhard Karls University Tubingen Zev Williams, Colum"
+    },
+    {
+      "id": "wleap-28037",
+      "title": "1kD Program Details",
+      "agency": "Wellcome Leap",
+      "deadline": "2021-04-08",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/1kd/program/",
+      "source": "Wellcome Leap",
+      "description": "A $45M PROGRAM The First 1000 Days PROMOTING HEALTHY BRAIN NETWORKS A $45M PROGRAM The First 1000 Days PROMOTING HEALTHY BRAIN NETWORKS A $45M PROGRAM The First 1000 Days PROMOTING HEALTHY BRAIN NETWORKS We all know what a difference a day makes. The first 1000 days can make all the difference to a child\u2019s start in life, perhaps more so than we ever understood before. In this early period, we deve"
+    },
+    {
+      "id": "wleap-27463",
+      "title": "Fiona Powrie Bio",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/fiona-powrie-bio/",
+      "source": "Wellcome Leap",
+      "description": "Director Fiona Powrie Professor Dame Fiona Powrie is Director of the Kennedy Institute of Rheumatology, University of Oxford. She gained a PhD in immunology from the University of Oxford and then moved to the DNAX Research Institute in Palo Alto. She returned to the University of Oxford in 1996 where she was the Sidney Truelove Professor of Gastroenterology and Head of the Translational Gastroente"
+    },
+    {
+      "id": "wleap-27130",
+      "title": "SAVE &#8211; FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/save-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions 7 December 2022 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award amounts will be dependent on specific proposals and work selected for funding. Is the Program open to applicants from outside the United States and UK? Yes, it is open to applicants around the world. Is the Program open to applicants who are not"
+    },
+    {
+      "id": "wleap-26341",
+      "title": "Wellcome Leap announces breakthrough in funded project",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/news_mosaic-8/",
+      "source": "Wellcome Leap",
+      "description": "Wellcome Leap announces breakthrough in funded project at Caltech: points to new all-in-one vaccine for SARS-like betacoronaviruses \u2013 Phase I clinical trials initiated by CEPI. July 5, 2022 Share this work Image courtesy of Wellcome Leap, Caltech, and Merkin Institute. \u00a9 2022. All rights reserved. Download vertical infographic Download horizontal infographic View animation Los Angeles \u2013 July 5, 20"
+    },
+    {
+      "id": "wleap-25810",
+      "title": "Ethical, legal, and societal implications.",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/ethical-legal-and-societal-implications/",
+      "source": "Wellcome Leap",
+      "description": "Ethical, Legal, and Societal Implications. As an organization that challenges conventional wisdom and aims to create more breakthroughs in health, we often find ourselves in uncharted territory. Patients, families, and communities need advances in human health, and they need them faster. Fundamental new discoveries, new ways of thinking, and new tools that lead to breakthroughs, often require that"
+    },
+    {
+      "id": "wleap-25734",
+      "title": "In Utero &#8211; FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/inutero-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions Updated 15 August 2022 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award amounts will be dependent on specific proposals and work selected for funding. Is the Program open to applicants from outside the United States and UK? Yes, it is open to applicants around the world. Is the Program open to applicants who "
+    },
+    {
+      "id": "wleap-25297",
+      "title": "Our Team",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/our-team/",
+      "source": "Wellcome Leap",
+      "description": "The right leadership. Led by Wellcome Leap CEO, Regina E. Dugan , who served as the 19th Director of DARPA, where she oversaw an annual $3B portfolio of projects ranging from hypersonics to RNA-based vaccines. An experienced Silicon Valley executive, she also built and led advanced project organizations at Google and Facebook. Chaired by one of the most effective business leaders in the life scien"
+    },
+    {
+      "id": "wleap-24831",
+      "title": "Wellcome Leap announces over $300M in additional funding",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/wellcomedoubles/",
+      "source": "Wellcome Leap",
+      "description": "Wellcome Leap announces over $300M in additional funding. Now more than Half a Billion Dollars for catalyzing breakthroughs in human health. February 2, 2022 Share this work Image shows kidney tissue constructed from organoid building blocks by Jennifer Lewis (Harvard) and Ryuji Morizane (MGH) labs. The ultimate goal is to create tissues that can restore sufficient function to free patients from d"
+    },
+    {
+      "id": "wleap-24481",
+      "title": "MARFA",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/wellcome-leap-hbnet/",
+      "source": "Wellcome Leap",
+      "description": "A global network dedicated to accelerating breakthroughs in human health. Now over 170 organizations on 6 continents, representing more than 1,500,000 researchers. The world\u2019s largest research network, ready for instant activation. View animation The Wellcome Leap Health Breakthrough Network is the largest, most rapidly &#8216;activatable&#8217; health research network in the world. With more than"
+    },
+    {
+      "id": "wleap-24094",
+      "title": "MCPsych FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/mcpsych-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions Updated 3 September 2021 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award amounts will be dependent on specific proposals and work selected for funding. Is the Program open to applicants from outside the United States and UK? Yes, it is open to applicants around the world. Is the Program open to applicants wh"
+    },
+    {
+      "id": "wleap-24041",
+      "title": "Diversity and Inclusion Goals",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/diversity-and-inclusion/",
+      "source": "Wellcome Leap",
+      "description": "Diversity and Inclusion. Diversity and Inclusion. Creating breakthroughs in human health is hard. It requires innovation and demands that we solve complex problems. And complex problems are better solved by diverse teams. &nbsp; At Wellcome Leap, we set the initial objectives outlined below to help ensure we achieve the level of diversity and collaboration needed to accelerate breakthroughs in hum"
+    },
+    {
+      "id": "wleap-23994",
+      "title": "HOPE FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/hope-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions Updated 9 March 2021 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award amounts will be dependent on specific proposals and work selected for funding. Is the Program open to applicants from outside the United States and UK? Yes, it is open to applicants around the world. Is the Program open to applicants who ar"
+    },
+    {
+      "id": "wleap-23993",
+      "title": "HOPE Program Details",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/hope/program/",
+      "source": "Wellcome Leap",
+      "description": "$50M PROGRAM IN Human Organs, Physiology, and Engineering $50M PROGRAM IN Human Organs, Physiology, and Engineering $50M PROGRAM In Human Organs, Physiology, and Engineering We need better models of human physiology \u2013 a mouse is not a human and dialysis is not a kidney. In the past 15 years, even as the number of new drug candidates in development nearly doubled, 90% of those that succeeded in pre"
+    },
+    {
+      "id": "wleap-23978",
+      "title": "Delta Tissue FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/delta-tissue-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions Updated 1 July 2021 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award amounts will be dependent on specific proposals and work selected for funding. Is the Program open to applicants from outside the United States and UK? Yes, it is open to applicants around the world. Is the Program open to applicants who are"
+    },
+    {
+      "id": "wleap-23971",
+      "title": "Delta Tissue Program Details",
+      "agency": "Wellcome Leap",
+      "deadline": "2021-05-17",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/delta-tissue/program/",
+      "source": "Wellcome Leap",
+      "description": "A $55M PROGRAM Delta Tissue Integrated PlatForms for predicting changes in tissue state A $55M PROGRAM Delta Tissue INTEGRATED PLATFORMS FOR PREDICTING CHANGES IN TISSUE STATE A $55M PROGRAM Delta Tissue INTEGRATED PLATFORMS FOR PREDICTING CHANGES IN TISSUE STATE We are pleased to announce the selected performers. Adrie JC Steyn, Africa Health Research Institute Assaf Zaritsky, Ben-Gurion Universi"
+    },
+    {
+      "id": "wleap-23957",
+      "title": "MCPsych Program Details",
+      "agency": "Wellcome Leap",
+      "deadline": "2021-07-22",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/mcpsych/program/",
+      "source": "Wellcome Leap",
+      "description": "$50M PROGRAM Multi-Channel Psych Revealing Mechanisms of Anhedonia $50M PROGRAM Multi-Channel Psych Revealing Mechanisms of Anhedonia $50M PROGRAM Multi-Channel Psych REVEALING MECHANISMS IN ANHEDONIA We are pleased to announce the selected performers. Bhavya Sharma, University of Tennessee Carol Robinson , University of Oxford Conor Liston, Weill Cornell Medicine David Walt, Brigham and Women\u2019s H"
+    },
+    {
+      "id": "wleap-23953",
+      "title": "R3 &#8211; FAQ",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/r3-faq/",
+      "source": "Wellcome Leap",
+      "description": "Frequently Asked Questions Updated 27 September 2021 How many awards will be funded? There are no pre-set number of awards. How much is each individual award? Award amounts will be dependent on specific proposals and work selected for funding. Is the Program open to applicants from outside the United States and UK? Yes, it is open to applicants around the world. Is the Program open to applicants w"
+    },
+    {
+      "id": "wleap-23932",
+      "title": "R3 Program Details",
+      "agency": "Wellcome Leap",
+      "deadline": "2021-08-13",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/r3/program/",
+      "source": "Wellcome Leap",
+      "description": "A $60M program jointly funded with R 3 RNA Readiness + Response A $60M program jointly funded with R 3 RNA Readiness + Response A $60M program jointly funded with R 3 RNA Readiness + Response We are pleased to announce the selected performers. Alexander Baron van Asbeck, RiboPro Anna Perdrix, Sixfold Bioscience Anne Willis , University of Cambridge Craig Martin, University of Massachusetts Amherst"
+    },
+    {
+      "id": "wleap-20295",
+      "title": "Hope w/ Card Graphic",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/hope-w-card-graphic/",
+      "source": "Wellcome Leap",
+      "description": "$50M PROGRAM IN Human Organs, Physiology, and Engineering $50M PROGRAM IN Human Organs, Physiology, and Engineering $50M PROGRAM In Human Organs, Physiology, and Engineering We need better models of human physiology \u2013 a mouse is not a human and dialysis is not a kidney. In the past 15 years, even as the number of new drug candidates in development nearly doubled, 90% of those that succeeded in pre"
+    },
+    {
+      "id": "wleap-10324",
+      "title": "Wellcome Leap appoints Ho Ching to Board of Directors",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/ho-ching-board-of-directors/",
+      "source": "Wellcome Leap",
+      "description": "Wellcome Leap Appoints Ho Ching to Board of Directors Wellcome Leap Appoints Ho Ching to Board of Directors March 18, 2021 Share this work Los Angeles \u2013 March 18, 2021: Wellcome Leap (Leap), a U.S.-based non-profit organization founded by the Wellcome Trust to accelerate innovations that benefit global health, today announced the election of Ho Ching to its Board of Directors. \u201cWe are pleased to w"
+    },
+    {
+      "id": "wleap-6037",
+      "title": "Wellcome Leap establishes global network",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/leap-establishes-global-network/",
+      "source": "Wellcome Leap",
+      "description": "Wellcome Leap Establishes Global Network Dedicated to Accelerated Breakthroughs in Human Health Charter group of 21 world-class institutions representing a network of over 150,000 researchers across six continents sign agreement that sets new bar for fast-paced research and development. Charter group of 21 world-class institutions representing a network of over 150,000 researchers across six conti"
+    },
+    {
+      "id": "wleap-24007",
+      "title": "The Health Age",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/the-health-age/",
+      "source": "Wellcome Leap",
+      "description": "I Increase Understanding Accelerate fundamental mechanistic understanding of health and disease. WHAT SUCCESS LOOKS LIKE Increased measurement capacity for how cells work, interact, and network Identification of core pathways with multi-morbidities, break single indication therapeutics Predictive models of control processes and an ability to assess modifications of them 10X increase in druggable t"
+    },
+    {
+      "id": "wleap-2825",
+      "title": "Ken Gabriel Chief Operating Officer announcement",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/ken-gabriel-coo-announcement/",
+      "source": "Wellcome Leap",
+      "description": "Wellcome Leap Bolsters Leadership Team, Announces Former President &amp; CEO of Draper Ken Gabriel as Chief Operating Officer July 23rd, 2020 Share this work Former CEO of Draper and Acting Director of DARPA to Lead Operations for \u2018DARPA for Global Health\u2019.&nbsp; Leap Establishes First Field Office in Boston. LOS ANGELES, CA \u2013 July 23rd, 2020 \u2013&nbsp;Wellcome Leap (\u201cLeap\u201d), an advanced projects non"
+    },
+    {
+      "id": "wleap-2495",
+      "title": "Privacy Policy",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/privacy-policy/",
+      "source": "Wellcome Leap",
+      "description": "Privacy Policy Effective Date: April 1, 2026, version 2.0 Wellcome Leap (\u201cLeap\u201d \u201cour,\u201d \u201cwe,\u201d or \u201cus\u201d) respects your privacy and is committed to protecting your personal information. The term \u201cpersonal information\u201d means any information relating to an identified or identifiable individual. This privacy policy (the \u201cPolicy\u201d) describes the types of information we collect and our practices for collect"
+    },
+    {
+      "id": "wleap-2678",
+      "title": "Wellcome Leap announces leadership team",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/leadership-team-announcement/",
+      "source": "Wellcome Leap",
+      "description": "Wellcome Leap Announces Leadership Team With Former Darpa Director Regina E. Dugan as CEO and Long-time Illumina CEO Jay Flatley as Chairman of the Board May 12, 2020 Share this work Leap Seeded With $300 Million to Pursue Global Health Programs with a DARPA-Like Model, Aims to Achieve Breakthroughs Within a Decade. LONDON, United Kingdom \u2013 May 12\u2014Wellcome Leap (\u201cLeap\u201d), an advanced projects non-p"
+    },
+    {
+      "id": "wleap-940",
+      "title": "Jeremy Farrar Bio",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/jeremy-farrar/",
+      "source": "Wellcome Leap",
+      "description": "Director Emeritus Jeremy Farrar Jeremy was the Director of the Wellcome Trust from 2013-2023 \u2013 a politically and financially independent global charitable foundation that exists to improve health by helping big ideas to thrive. He left Wellcome in February 2023 to take on a new role as Chief Scientist at the World Health Organization. Jeremy is a clinician scientist who before joining Wellcome was"
+    },
+    {
+      "id": "wleap-931",
+      "title": "Regina Dugan Bio",
+      "agency": "Wellcome Leap",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://wellcomeleap.org/regina-dugan/",
+      "source": "Wellcome Leap",
+      "description": "CEO Regina E. Dugan Dr. Regina E. Dugan is an internationally recognized business executive, producer, engineer-artist, taskmaster, and product developer. Dr. Dugan has led world-class, global teams, and hundred-million to multi-billion dollar efforts to deliver novel products at Meta, Alphabet, and as the 19th Director, and first woman to lead, the Defense Advanced Research Projects Agency (DARPA"
+    },
+    {
       "id": "362026",
       "title": "Voluntary Public Access and Habitat Incentive Program competition for Federal fiscal year (FY) 2026",
       "agency": "USDA-NRCS",
@@ -866,6 +1567,16 @@
       "deadline": "07/23/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362054",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362061",
+      "title": "Chemical Process Systems (CPS)",
+      "agency": "NSF",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362061",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1040,12 +1751,32 @@
       "description": ""
     },
     {
-      "id": "362001",
-      "title": "Office of Elementary and Secondary Education (OESE): Well-Rounded Education Programs: Jacob K. Javits Gifted and Talented Students Education (Javits) Program, Assistance Listing Number 84.206A",
-      "agency": "ED",
-      "deadline": "06/23/2026",
+      "id": "362063",
+      "title": "Transport Phenomena (TP)",
+      "agency": "NSF",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362001",
+      "url": "https://www.grants.gov/search-results-detail/362063",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362064",
+      "title": "Engineering Environmental Resiliency (EER)",
+      "agency": "NSF",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362064",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362062",
+      "title": "Engineering Biological and Biomedical Systems (EBBS)",
+      "agency": "NSF",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362062",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1100,36 +1831,6 @@
       "description": ""
     },
     {
-      "id": "362015",
-      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Community Living and Participation (Research)",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362015",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362016",
-      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Community Living and Participation (Development)",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362016",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362017",
-      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Americans with Disabilities Act (ADA) National Network",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362017",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362050",
       "title": "Estimated Fiscal Year 2026 Adult Education and Family Literacy Act State Award Amounts",
       "agency": "DOL-OCTAE",
@@ -1176,36 +1877,6 @@
       "deadline": "05/06/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362042",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362041",
-      "title": "BJA FY25 Invited to Apply &ndash; Sexual Assault Kit Initiative (SAKI) Training and Technical Assistance (TTA) Program",
-      "agency": "USDOJ-OJP-BJA",
-      "deadline": "05/06/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362041",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362040",
-      "title": "BJA FY 25 Invited to Apply- Transforming Prison Cultures, Climates, and Spaces",
-      "agency": "USDOJ-OJP-BJA",
-      "deadline": "05/06/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362040",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361983",
-      "title": "Alumni Engagement Innovation Fund 2026 - Mauritius",
-      "agency": "DOS-MUS",
-      "deadline": "05/04/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361983",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1286,16 +1957,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361977",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361978",
-      "title": "Tribal Behavioral Health Substance Use Prevention",
-      "agency": "HHS-SAMHS-SAMHSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361978",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1620,16 +2281,6 @@
       "description": ""
     },
     {
-      "id": "361335",
-      "title": "Region 1 Fiscal Year 2025 Wetland Program Development Grants",
-      "agency": "EPA",
-      "deadline": "04/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361335",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361059",
       "title": "Port Infrastructure Development Program",
       "agency": "DOT-MA",
@@ -1756,6 +2407,16 @@
       "deadline": "11/20/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/344592",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "343653",
+      "title": "Department of Defense HIV/AIDS Prevention Program",
+      "agency": "DOD-AMRAA",
+      "deadline": "09/18/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/343653",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2020,16 +2681,6 @@
       "description": ""
     },
     {
-      "id": "361191",
-      "title": "2026 Atlantic Sea Scallop Research Set Aside Program",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "04/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361191",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "358911",
       "title": "Single Source Renewal for the Continuation of the Liver Cirrhosis Network: Scientific and Data Coordination Center (U24 Clinical Trial Optional)",
       "agency": "HHS-NIH11",
@@ -2140,6 +2791,16 @@
       "description": ""
     },
     {
+      "id": "360585",
+      "title": "Maternal Medications and Human Milk Research Center (M2HMRC)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360585",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361962",
       "title": "Foster Parents Network Analytics Hub (HUB)",
       "agency": "HHS-ACF-CB",
@@ -2180,6 +2841,16 @@
       "description": ""
     },
     {
+      "id": "362041",
+      "title": "BJA FY25 Invited to Apply &ndash; Sexual Assault Kit Initiative (SAKI) Training and Technical Assistance (TTA) Program",
+      "agency": "USDOJ-OJP-BJA",
+      "deadline": "05/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362041",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "362005",
       "title": "FY26 Pathways to Removing Obstacles to Housing (PRO Housing)",
       "agency": "HUD",
@@ -2210,6 +2881,16 @@
       "description": ""
     },
     {
+      "id": "362040",
+      "title": "BJA FY 25 Invited to Apply- Transforming Prison Cultures, Climates, and Spaces",
+      "agency": "USDOJ-OJP-BJA",
+      "deadline": "05/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362040",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361998",
       "title": "Species Recovery Grants to States (Section 6 Program)",
       "agency": "DOC-DOCNOAAERA",
@@ -2220,12 +2901,42 @@
       "description": ""
     },
     {
+      "id": "362001",
+      "title": "Office of Elementary and Secondary Education (OESE): Well-Rounded Education Programs: Jacob K. Javits Gifted and Talented Students Education (Javits) Program, Assistance Listing Number 84.206A",
+      "agency": "ED",
+      "deadline": "06/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362001",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361949",
       "title": "Fiscal Year 2025 Presidential Residence Protection Assistance (PRPA) Grant Program",
       "agency": "DHS-DHS",
       "deadline": "05/29/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361949",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362015",
+      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Community Living and Participation (Research)",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362015",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362017",
+      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Americans with Disabilities Act (ADA) National Network",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362017",
       "source": "Grants.gov",
       "description": ""
     },
