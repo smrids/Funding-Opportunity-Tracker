@@ -1,14 +1,94 @@
 {
-  "last_updated": "2026-04-26T23:23:21Z",
-  "total": 232,
+  "last_updated": "2026-04-27T23:36:40Z",
+  "total": 235,
   "by_source": {
-    "NIH (Global Health)": 71,
+    "NIH (Global Health)": 72,
     "UNGM (UN Agencies)": 9,
-    "Grants.gov": 144,
+    "Grants.gov": 146,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 6
   },
   "opportunities": [
+    {
+      "id": "362065",
+      "title": "Africa Regional Services Paris Annual Program Statement: ARS Speaker Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362065",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362071",
+      "title": "&#8203;&#8203;FY 2026 Basic Center Program&#8203;",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362071",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362080",
+      "title": "Methyl Bromide Transition Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/29/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362080",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362068",
+      "title": "Community Services Block Grant (CSBG) Essentials for Improved Outcomes",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362068",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362078",
+      "title": "Open Data Framework",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362078",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362079",
+      "title": "Advancing the Centers of Excellence in Newcomer Health",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362079",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "358864",
+      "title": "Community-Based Participatory Research to Advance Data and Practice Transformation (ADAPT) for Optimizing Oral Health for All (UG3/UH3 Clinical Trial Optional)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/16/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358864",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "359123",
+      "title": "Community Engagement Evaluation and Data Coordination (CEED) Hub to Advance Data and Practice Transformation for Optimizing Oral Health for All (U01, Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/19/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359123",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
     {
       "id": "362051",
       "title": "Fiscal Year 2026 State Allocations under the Carl D. Perkins Career and Technical Education Act of 2006 (Perkins V)",
@@ -180,82 +260,12 @@
       "description": ""
     },
     {
-      "id": "362025",
-      "title": "A Holistic Approach to Study Non-Addictive Natural Products for Pain Management",
+      "id": "362061",
+      "title": "Chemical Process Systems (CPS)",
       "agency": "NIH/Fogarty International Center",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362025",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362024",
-      "title": "Landmarks of American History and Culture and Summer Institutes",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "06/25/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362024",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362028",
-      "title": "Rural Health and Safety Education Competitive Grants Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "06/23/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362028",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362029",
-      "title": "Tribal Colleges Research Grants Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362029",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361990",
-      "title": "Natural Resource Management - Lane County Youth Services",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361990",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361997",
-      "title": "Centers of Excellence in Healthcare Quality and Safety",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361997",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361980",
-      "title": "Lewis Houghton Civics and Democracy Initiative - Continuing Awards",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/18/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361980",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361970",
-      "title": "Tribal Court Improvement Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361970",
+      "url": "https://www.grants.gov/search-results-detail/362061",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -276,16 +286,6 @@
       "deadline": "06/30/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362053",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362061",
-      "title": "Chemical Process Systems (CPS)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362061",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -330,6 +330,16 @@
       "description": ""
     },
     {
+      "id": "361990",
+      "title": "Natural Resource Management - Lane County Youth Services",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361990",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "361999",
       "title": "FY 2026 Continuum of Care Competition and Youth Homelessness Demonstration Program Grants NOFO",
       "agency": "NIH/Fogarty International Center",
@@ -346,6 +356,16 @@
       "deadline": "06/05/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361992",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361980",
+      "title": "Lewis Houghton Civics and Democracy Initiative - Continuing Awards",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/18/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361980",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -430,16 +450,6 @@
       "description": ""
     },
     {
-      "id": "361934",
-      "title": "U.S. Embassy in Ouagadougou, Burkina Faso PDS Annual Program Statement",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/03/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361934",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "361927",
       "title": "Public Diplomacy Section Praia: Small Grants Program",
       "agency": "NIH/Fogarty International Center",
@@ -450,12 +460,12 @@
       "description": ""
     },
     {
-      "id": "361884",
-      "title": "Alumni Engagement Innovation Fund 2026",
+      "id": "361934",
+      "title": "U.S. Embassy in Ouagadougou, Burkina Faso PDS Annual Program Statement",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "05/15/2026",
+      "deadline": "07/03/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361884",
+      "url": "https://www.grants.gov/search-results-detail/361934",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -466,6 +476,16 @@
       "deadline": "02/14/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361895",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361884",
+      "title": "Alumni Engagement Innovation Fund 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361884",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -660,16 +680,6 @@
       "description": ""
     },
     {
-      "id": "334259",
-      "title": "PEPFAR Community Led Monitoring &ndash; Mozambique Relief Programs",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/334259",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "360368",
       "title": "Administrative Supplements to Existing NIH Grants and Cooperative Agreements (Parent Admin Supp Clinical Trial Optional)",
       "agency": "NIH/Fogarty International Center",
@@ -740,6 +750,16 @@
       "description": ""
     },
     {
+      "id": "ungm-299042",
+      "title": "Supply, delivery and installation of Laboratory Furniture for Sanitary-Epidemiological Welfare and Public Health Committee (SES) of the Republic of Uzbekistan",
+      "agency": "UN Agency",
+      "deadline": "2026-05-20",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/299042",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
+    },
+    {
       "id": "ungm-296443",
       "title": "Recrutement d\u2019un cabinet-Expert pour la digitalisation de la plateforme d\u2019information Nutritionnelle et de S\u00e9curit\u00e9 Alimentaire",
       "agency": "FAO",
@@ -768,16 +788,6 @@
       "url": "https://www.ungm.org/Public/Notice/298062",
       "source": "UNGM (UN Agencies)",
       "description": "Request for proposal"
-    },
-    {
-      "id": "ungm-298151",
-      "title": "Provision of Acid-free packaging for archiving",
-      "agency": "UN Agency",
-      "deadline": "2026-04-27",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/298151",
-      "source": "UNGM (UN Agencies)",
-      "description": ""
     },
     {
       "id": "ungm-298262",
@@ -810,12 +820,122 @@
       "description": "Request for proposal"
     },
     {
+      "id": "362065",
+      "title": "Africa Regional Services Paris Annual Program Statement: ARS Speaker Program",
+      "agency": "DOS-FRA-ARS",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362065",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362071",
+      "title": "&#8203;&#8203;FY 2026 Basic Center Program&#8203;",
+      "agency": "HHS-ACF-FYSB",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362071",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362066",
+      "title": "Rural Opioid Technical Assistance Centers",
+      "agency": "HHS-SAMHS-SAMHSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362066",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362080",
+      "title": "Methyl Bromide Transition Program",
+      "agency": "USDA-NIFA",
+      "deadline": "06/29/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362080",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362075",
+      "title": "Office of Special Education and Rehabilitative Services (OSERS): Office of Special Education Programs (OSEP): National Center for Accessible Education Videos; Assistance Listing Number: 84.327N",
+      "agency": "ED",
+      "deadline": "06/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362075",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362074",
+      "title": "Office of Special Education and Rehabilitative Services (OSERS): Office of Special Education Programs (OSEP): Accessible Education Video Projects; Assistance Listing Number (ALN) 84.327C",
+      "agency": "ED",
+      "deadline": "06/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362074",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362079",
+      "title": "Advancing the Centers of Excellence in Newcomer Health",
+      "agency": "HHS-CDC-NCEZID",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362079",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362076",
+      "title": "Office of Elementary and Secondary Education (OESE): Office of Indian Education (OIE): State Tribal Education Partnership (STEP) Grant Program; Assistance Listing Number 84.415A",
+      "agency": "ED",
+      "deadline": "06/11/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362076",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "358864",
+      "title": "Community-Based Participatory Research to Advance Data and Practice Transformation (ADAPT) for Optimizing Oral Health for All (UG3/UH3 Clinical Trial Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "11/16/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358864",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359123",
+      "title": "Community Engagement Evaluation and Data Coordination (CEED) Hub to Advance Data and Practice Transformation for Optimizing Oral Health for All (U01, Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "10/19/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359123",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "362026",
       "title": "Voluntary Public Access and Habitat Incentive Program competition for Federal fiscal year (FY) 2026",
       "agency": "USDA-NRCS",
       "deadline": "06/08/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362026",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362051",
+      "title": "Fiscal Year 2026 State Allocations under the Carl D. Perkins Career and Technical Education Act of 2006 (Perkins V)",
+      "agency": "DOL-OCTAE",
+      "deadline": "05/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362051",
       "source": "Grants.gov",
       "description": ""
     },
@@ -830,12 +950,12 @@
       "description": ""
     },
     {
-      "id": "362051",
-      "title": "Fiscal Year 2026 State Allocations under the Carl D. Perkins Career and Technical Education Act of 2006 (Perkins V)",
-      "agency": "DOL-OCTAE",
-      "deadline": "05/26/2026",
+      "id": "362061",
+      "title": "Chemical Process Systems (CPS)",
+      "agency": "NSF",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362051",
+      "url": "https://www.grants.gov/search-results-detail/362061",
       "source": "Grants.gov",
       "description": ""
     },
@@ -876,16 +996,6 @@
       "deadline": "07/23/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362054",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362061",
-      "title": "Chemical Process Systems (CPS)",
-      "agency": "NSF",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362061",
       "source": "Grants.gov",
       "description": ""
     },
@@ -960,102 +1070,22 @@
       "description": ""
     },
     {
-      "id": "362011",
-      "title": "AEIF:  Celebrating Freedom 250 and Advancing USA-ROC",
-      "agency": "DOS-COG",
-      "deadline": "05/22/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362011",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362004",
-      "title": "National Paralysis Resource Center",
-      "agency": "HHS-ACL",
+      "id": "362068",
+      "title": "Community Services Block Grant (CSBG) Essentials for Improved Outcomes",
+      "agency": "HHS-ACF-OCS",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362004",
+      "url": "https://www.grants.gov/search-results-detail/362068",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "361866",
-      "title": "U.S. Mission New Zealand  Annual Program Statement",
-      "agency": "DOS-NZL",
-      "deadline": "07/15/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361866",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361867",
-      "title": "U.S. Mission Public Diplomacy  Grants Program &ndash; Cook Islands &amp; Niue",
-      "agency": "DOS-NZL",
-      "deadline": "07/15/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361867",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362010",
-      "title": "2026 Alumni Engagement Innovation Fund, Bosnia and Herzegovina",
-      "agency": "DOS-BIH",
-      "deadline": "04/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362010",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362019",
-      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Americans with Disabilities Act (ADA) National Network Knowledge Translation Center",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362019",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362018",
-      "title": "Federally Recognized Tribes Extension Program",
+      "id": "362078",
+      "title": "Open Data Framework",
       "agency": "USDA-NIFA",
-      "deadline": "06/08/2026",
+      "deadline": "06/26/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362018",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362025",
-      "title": "A Holistic Approach to Study Non-Addictive Natural Products for Pain Management",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362025",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362027",
-      "title": "FY2026 Runaway Homeless Youth Training, Technical Assistance, and Capacity Building Center (RHYTTAC)",
-      "agency": "HHS-ACF-FYSB",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362027",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362024",
-      "title": "Landmarks of American History and Culture and Summer Institutes",
-      "agency": "NEH",
-      "deadline": "06/25/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362024",
+      "url": "https://www.grants.gov/search-results-detail/362078",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1100,42 +1130,72 @@
       "description": ""
     },
     {
-      "id": "362034",
-      "title": "2026 Alaska Marine Education and Training Mini-Grant Program",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "05/01/2028",
+      "id": "362072",
+      "title": "National Communication System for Runaway and Homeless Youth Program",
+      "agency": "HHS-ACF-FYSB",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362034",
+      "url": "https://www.grants.gov/search-results-detail/362072",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "362002",
-      "title": "Youth Homelessness NOFO for FY2024 and FY2025",
+      "id": "362073",
+      "title": "Continuum of Care Builds (CoC Builds)",
       "agency": "HUD",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362002",
+      "url": "https://www.grants.gov/search-results-detail/362073",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "362020",
-      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Burn Injury as A Lifelong Condition",
-      "agency": "HHS-ACL",
+      "id": "362077",
+      "title": "Preservation and Reinvestment Initiative for Community Enhancement (PRICE)",
+      "agency": "HUD",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362020",
+      "url": "https://www.grants.gov/search-results-detail/362077",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "362021",
-      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Research on Resilience and Positive Mental Health Outcomes Among People with Spinal Cord Injury",
-      "agency": "HHS-ACL",
+      "id": "362067",
+      "title": "Community Services Block Grant (CSBG) Performance Management, Data Collection, and Compliance Support",
+      "agency": "HHS-ACF-OCS",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362021",
+      "url": "https://www.grants.gov/search-results-detail/362067",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362069",
+      "title": "Community Services Block Grant (CSBG) Communities of Practice (COP)",
+      "agency": "HHS-ACF-OCS",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362069",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362070",
+      "title": "Community Services Block Grant (CSBG) Tribal Capacity Building Training and Technical Assistance (TCBTTA)",
+      "agency": "HHS-ACF-OCS",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362070",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362081",
+      "title": "BJA FY 25 Invited to Apply - Tribal Justice Training and Technical Assistance Program",
+      "agency": "USDOJ-OJP-BJA",
+      "deadline": "05/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362081",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1160,32 +1220,92 @@
       "description": ""
     },
     {
-      "id": "362039",
-      "title": "BJA FY25 Invited to Apply - Adult Treatment Court Discretionary Grant Program",
-      "agency": "USDOJ-OJP-BJA",
-      "deadline": "05/06/2026",
+      "id": "362002",
+      "title": "Youth Homelessness NOFO for FY2024 and FY2025",
+      "agency": "HUD",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362039",
+      "url": "https://www.grants.gov/search-results-detail/362002",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "362044",
-      "title": "BJA FY 25 Invited to Apply - National Ashanti Alert Network Training and Technical Assistance Program",
-      "agency": "USDOJ-OJP-BJA",
-      "deadline": "05/06/2026",
+      "id": "362004",
+      "title": "National Paralysis Resource Center",
+      "agency": "HHS-ACL",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362044",
+      "url": "https://www.grants.gov/search-results-detail/362004",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "362042",
-      "title": "BJA FY 25 Invited to Apply- Tribal Civil and Criminal Legal Assistance Program",
-      "agency": "USDOJ-OJP-BJA",
-      "deadline": "05/06/2026",
+      "id": "361866",
+      "title": "U.S. Mission New Zealand  Annual Program Statement",
+      "agency": "DOS-NZL",
+      "deadline": "07/15/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362042",
+      "url": "https://www.grants.gov/search-results-detail/361866",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361867",
+      "title": "U.S. Mission Public Diplomacy  Grants Program &ndash; Cook Islands &amp; Niue",
+      "agency": "DOS-NZL",
+      "deadline": "07/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361867",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362020",
+      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Burn Injury as A Lifelong Condition",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362020",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362021",
+      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Research on Resilience and Positive Mental Health Outcomes Among People with Spinal Cord Injury",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362021",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362018",
+      "title": "Federally Recognized Tribes Extension Program",
+      "agency": "USDA-NIFA",
+      "deadline": "06/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362018",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362025",
+      "title": "A Holistic Approach to Study Non-Addictive Natural Products for Pain Management",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362025",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362024",
+      "title": "Landmarks of American History and Culture and Summer Institutes",
+      "agency": "NEH",
+      "deadline": "06/25/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362024",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1200,72 +1320,22 @@
       "description": ""
     },
     {
-      "id": "362029",
-      "title": "Tribal Colleges Research Grants Program",
-      "agency": "USDA-NIFA",
-      "deadline": "12/31/2026",
+      "id": "362042",
+      "title": "BJA FY 25 Invited to Apply- Tribal Civil and Criminal Legal Assistance Program",
+      "agency": "USDOJ-OJP-BJA",
+      "deadline": "05/06/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362029",
+      "url": "https://www.grants.gov/search-results-detail/362042",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "361990",
-      "title": "Natural Resource Management - Lane County Youth Services",
-      "agency": "DOD-COE-PORT",
-      "deadline": "05/21/2026",
+      "id": "362010",
+      "title": "2026 Alumni Engagement Innovation Fund, Bosnia and Herzegovina",
+      "agency": "DOS-BIH",
+      "deadline": "04/30/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361990",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361997",
-      "title": "Centers of Excellence in Healthcare Quality and Safety",
-      "agency": "HHS-CDC-NCEZID",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361997",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361980",
-      "title": "Lewis Houghton Civics and Democracy Initiative - Continuing Awards",
-      "agency": "LOC",
-      "deadline": "05/18/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361980",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361970",
-      "title": "Tribal Court Improvement Program",
-      "agency": "HHS-ACF-CB",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361970",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361506",
-      "title": "Syria Alumni Engagement Innovation Fund FY 2026",
-      "agency": "DOS-TUR",
-      "deadline": "05/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361506",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361977",
-      "title": "Circles of Care for American Indian/Alaska Natives (AI/AN)",
-      "agency": "HHS-SAMHS-SAMHSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361977",
+      "url": "https://www.grants.gov/search-results-detail/362010",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1280,12 +1350,32 @@
       "description": ""
     },
     {
+      "id": "361990",
+      "title": "Natural Resource Management - Lane County Youth Services",
+      "agency": "DOD-COE-PORT",
+      "deadline": "05/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361990",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361965",
       "title": "F26AS00007-NAWCA 2026 US Small Grants",
       "agency": "DOI-FWS",
       "deadline": "06/25/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361965",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361506",
+      "title": "Syria Alumni Engagement Innovation Fund FY 2026",
+      "agency": "DOS-TUR",
+      "deadline": "05/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361506",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1360,16 +1450,6 @@
       "description": ""
     },
     {
-      "id": "361934",
-      "title": "U.S. Embassy in Ouagadougou, Burkina Faso PDS Annual Program Statement",
-      "agency": "DOS-BFA",
-      "deadline": "07/03/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361934",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361927",
       "title": "Public Diplomacy Section Praia: Small Grants Program",
       "agency": "DOS-CPV",
@@ -1420,6 +1500,16 @@
       "description": ""
     },
     {
+      "id": "361934",
+      "title": "U.S. Embassy in Ouagadougou, Burkina Faso PDS Annual Program Statement",
+      "agency": "DOS-BFA",
+      "deadline": "07/03/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361934",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361905",
       "title": "Homeland Security BioWatch Program",
       "agency": "DHS-OPO",
@@ -1456,36 +1546,6 @@
       "deadline": "05/31/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361928",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361926",
-      "title": "Secure Innovation: Advancing Artificial Intelligence, Cybersecurity, and Digital Resilience in Argentina",
-      "agency": "DOS-ARG",
-      "deadline": "05/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361926",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361930",
-      "title": "U.S.-Argentina English for the Energy Sector &amp; Minerals Workforce Development",
-      "agency": "DOS-ARG",
-      "deadline": "05/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361930",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361931",
-      "title": "Advancing Global Capacity to Detect and Respond to Fungal Diseases",
-      "agency": "HHS-CDC-NCEZID",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361931",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1730,6 +1790,16 @@
       "description": ""
     },
     {
+      "id": "361931",
+      "title": "Advancing Global Capacity to Detect and Respond to Fungal Diseases",
+      "agency": "HHS-CDC-NCEZID",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361931",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "360308",
       "title": "Community Health Aide Program: Tribal Planning and Implementation (TPI)",
       "agency": "HHS-IHS",
@@ -1840,32 +1910,12 @@
       "description": ""
     },
     {
-      "id": "361816",
-      "title": "HIV/AIDS Clinical Trials Network Statistical and Data Management Centers",
-      "agency": "HHS-NIH11",
-      "deadline": "",
+      "id": "361980",
+      "title": "Lewis Houghton Civics and Democracy Initiative - Continuing Awards",
+      "agency": "LOC",
+      "deadline": "05/18/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361816",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361800",
-      "title": "Fiscal Year 2026 Expanding Nutrition Services",
-      "agency": "HHS-HRSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361800",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361758",
-      "title": "Renewable Resource Extension Act National Focus Fund Projects",
-      "agency": "USDA-NIFA-ERA",
-      "deadline": "06/08/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361758",
+      "url": "https://www.grants.gov/search-results-detail/361980",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2110,12 +2160,32 @@
       "description": ""
     },
     {
+      "id": "362029",
+      "title": "Tribal Colleges Research Grants Program",
+      "agency": "USDA-NIFA",
+      "deadline": "12/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362029",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "361962",
       "title": "Foster Parents Network Analytics Hub (HUB)",
       "agency": "HHS-ACF-CB",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361962",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361970",
+      "title": "Tribal Court Improvement Program",
+      "agency": "HHS-ACF-CB",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361970",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2140,52 +2210,22 @@
       "description": ""
     },
     {
-      "id": "361967",
-      "title": "Child Care Access Means Parents in School (CCAMPIS) 2026",
-      "agency": "HHS-OPE",
-      "deadline": "05/29/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361967",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362041",
-      "title": "BJA FY25 Invited to Apply &ndash; Sexual Assault Kit Initiative (SAKI) Training and Technical Assistance (TTA) Program",
-      "agency": "USDOJ-OJP-BJA",
-      "deadline": "05/06/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362041",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362005",
-      "title": "FY26 Pathways to Removing Obstacles to Housing (PRO Housing)",
-      "agency": "HUD",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362005",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362014",
-      "title": "Comprehensive Housing Counseling (CHC) and the Housing Counseling Training (HCT) NOFO (FY2026)",
-      "agency": "HUD",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362014",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361993",
       "title": "Farmers Market Promotion Program Fiscal Year 2026",
       "agency": "USDA-AMS",
       "deadline": "06/05/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361993",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362034",
+      "title": "2026 Alaska Marine Education and Training Mini-Grant Program",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "05/01/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362034",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2200,12 +2240,12 @@
       "description": ""
     },
     {
-      "id": "361998",
-      "title": "Species Recovery Grants to States (Section 6 Program)",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "06/20/2026",
+      "id": "362005",
+      "title": "FY26 Pathways to Removing Obstacles to Housing (PRO Housing)",
+      "agency": "HUD",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361998",
+      "url": "https://www.grants.gov/search-results-detail/362005",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2220,32 +2260,22 @@
       "description": ""
     },
     {
-      "id": "361949",
-      "title": "Fiscal Year 2025 Presidential Residence Protection Assistance (PRPA) Grant Program",
-      "agency": "DHS-DHS",
-      "deadline": "05/29/2026",
+      "id": "361998",
+      "title": "Species Recovery Grants to States (Section 6 Program)",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "06/20/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361949",
+      "url": "https://www.grants.gov/search-results-detail/361998",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "362015",
-      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Community Living and Participation (Research)",
-      "agency": "HHS-ACL",
-      "deadline": "",
+      "id": "362011",
+      "title": "AEIF:  Celebrating Freedom 250 and Advancing USA-ROC",
+      "agency": "DOS-COG",
+      "deadline": "05/22/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362015",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362017",
-      "title": "Disability and Rehabilitation Research Projects (DRRP) Program: Americans with Disabilities Act (ADA) National Network",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362017",
+      "url": "https://www.grants.gov/search-results-detail/362011",
       "source": "Grants.gov",
       "description": ""
     },
