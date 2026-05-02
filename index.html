@@ -35,6 +35,9 @@
       --c-ungm:     #0369a1;
       --c-wleap:    #7e22ce;
       --c-ai:       #0f766e;
+      --c-arpa:     #9333ea;
+      --c-pcori:    #0e7490;
+      --c-nsf:      #1d4ed8;
     }
 
     /* ── Reset ────────────────────────────────────────────────────────── */
@@ -237,6 +240,9 @@
     .card.src-ungm     { border-left-color: var(--c-ungm); }
     .card.src-wleap    { border-left-color: var(--c-wleap); }
     .card.src-ai       { border-left-color: var(--c-ai); }
+    .card.src-arpa     { border-left-color: var(--c-arpa); }
+    .card.src-pcori    { border-left-color: var(--c-pcori); }
+    .card.src-nsf      { border-left-color: var(--c-nsf); }
     .card.src-grants   { border-left-color: var(--c-grants); }
     .card.src-who      { border-left-color: var(--c-who); }
     .card.src-gates    { border-left-color: var(--c-gates); }
@@ -342,6 +348,9 @@
     .src-ungm     { background: #e0f2fe; color: var(--c-ungm); }
     .src-wleap    { background: #f3e8ff; color: var(--c-wleap); }
     .src-ai       { background: #ccfbf1; color: var(--c-ai); }
+    .src-arpa     { background: #f3e8ff; color: var(--c-arpa); }
+    .src-pcori    { background: #cffafe; color: var(--c-pcori); }
+    .src-nsf      { background: #dbeafe; color: var(--c-nsf); }
     .src-grants   { background: #dbeafe; color: var(--c-grants); }
     .src-who      { background: #d1fae5; color: var(--c-who); }
     .src-gates    { background: #ffedd5; color: var(--c-gates); }
@@ -423,6 +432,9 @@
     if (s.includes("ungm") || s.includes("un agencies") || s.includes("un global")) return "src-ungm";
     if (s.includes("wellcome leap")) return "src-wleap";
     if (s.includes("ai & digital") || s.includes("ai and digital")) return "src-ai";
+    if (s.includes("arpa-h") || s.includes("arpa h"))  return "src-arpa";
+    if (s.includes("pcori"))                            return "src-pcori";
+    if (s === "nsf")                                    return "src-nsf";
     if (s.includes("grants.gov"))  return "src-grants";
     if (s.includes("who"))         return "src-who";
     if (s.includes("gates"))       return "src-gates";

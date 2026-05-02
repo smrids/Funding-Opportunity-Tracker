@@ -30,6 +30,15 @@ def _get_fetchers() -> list[tuple[str, object]]:
     if cfg.ENABLED_SOURCES.get("wellcome_leap"):
         from fetchers import wellcome_leap
         pairs.append(("wellcome_leap", wellcome_leap.fetch))
+    if cfg.ENABLED_SOURCES.get("arpa_h"):
+        from fetchers import arpa_h
+        pairs.append(("arpa_h", arpa_h.fetch))
+    if cfg.ENABLED_SOURCES.get("pcori"):
+        from fetchers import pcori
+        pairs.append(("pcori", pcori.fetch))
+    if cfg.ENABLED_SOURCES.get("nsf"):
+        from fetchers import nsf
+        pairs.append(("nsf", nsf.fetch))
     if cfg.ENABLED_SOURCES.get("grants_gov"):
         from fetchers import grants_gov
         pairs.append(("grants_gov", grants_gov.fetch))
