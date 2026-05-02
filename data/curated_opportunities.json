@@ -1,0 +1,152 @@
+[
+  {
+    "id": "curated-3cbbfc429b",
+    "title": "Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science",
+    "agency": "National Science Foundation (NFS)",
+    "deadline": "",
+    "award_ceiling": "",
+    "url": "https://www.nsf.gov/funding/opportunities/sch-smart-health-biomedical-research-era-artificial-intelligence/nsf25-542/solicitation",
+    "source": "AI & Digital Health",
+    "description": "Applicable to research that develops innovative / AI-pwoered biostatistics method research and behavioral and/or cognitive research that address population health challenges."
+  },
+  {
+    "id": "curated-5a459e4470",
+    "title": "Personal Health Informatics for Delivering Actionable Insights",
+    "agency": "The National Library of Medicine (NLM)",
+    "deadline": "2026-06-05",
+    "award_ceiling": "",
+    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-235.html",
+    "source": "AI & Digital Health",
+    "description": "Supports research on consumer health informatics that provides meaningful and actionable insights to individuals through innovative personal health data collection, integration, analysis, and personalized risk assessments and interpretation"
+  },
+  {
+    "id": "curated-86de8f320c",
+    "title": "Laboratories to Optimize Digital Health",
+    "agency": "National Institute of Mental Health (NIMH)",
+    "deadline": "2026-06-05",
+    "award_ceiling": "",
+    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-136.html",
+    "source": "AI & Digital Health",
+    "description": "For research projects to test strategies to increase the reach, efficiency, effectiveness, and quality of digital mental health interventions which may impact mental health outcomes, including suicide behaviors and serious mental illness."
+  },
+  {
+    "id": "curated-c56939e08e",
+    "title": "Dissemination and Implementation Research in Health",
+    "agency": "National Institutes of Health (NIH)",
+    "deadline": "2026-06-05",
+    "award_ceiling": "",
+    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-144.html",
+    "source": "AI & Digital Health",
+    "description": "Good for implementatinon science research that applies \"novel technologies\" or \"apply technologies in novel ways\", including AI/ML and other digital tools."
+  },
+  {
+    "id": "curated-4e7f2c8bdf",
+    "title": "Advancing Bioinformatics, Translational Bioinformatics and Computational Biology Research",
+    "agency": "National Institutes of Health (NIH) and United States Department of Health and Human Services (HHS)",
+    "deadline": "2026-06-05",
+    "award_ceiling": "",
+    "url": "https://www.grants.gov/search-results-detail/359003",
+    "source": "AI & Digital Health",
+    "description": "This Notice of Funding Opportunity (NOFO) aims to address the growing need to leverage transformative technologies\u201a such as artificial intelligence (AI), machine learning, and large-scale computational platforms\u201a to extract actionable knowledge from vast, diverse, and complex biological datasets. By enabling more effective interpretation and integration of multi-dimensional biological and biomedic"
+  },
+  {
+    "id": "curated-6d1e1aaa8f",
+    "title": "Collaborative and Innovative Acceleration Award: Data Science and Digital Health Technology",
+    "agency": "National Institutes of Health (NIH), U.S. Food and Drug Administration (FDA)",
+    "deadline": "2026-06-15",
+    "award_ceiling": "",
+    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-296.html",
+    "source": "AI & Digital Health",
+    "description": "For research on \"Data Science and Digital Health Technology\"; Appropriate topics include, but are not limited to, 1)Utilize AI and real-world data for enhanced product evaluation and surveillance and 2) Explore innovative tools to support regulatory decision-making and adoption."
+  },
+  {
+    "id": "curated-d9459d52ed",
+    "title": "Digital Health Technology Derived Biomarkers and Outcome Assessments for Remote Monitoring and Endpoint Development",
+    "agency": "National Institute of Neurological Disorders and Stroke (NINDS) + National Cancer Institute (NCI) + National Institute on Aging (NIA)",
+    "deadline": "2026-06-22",
+    "award_ceiling": "",
+    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-170.html",
+    "source": "AI & Digital Health",
+    "description": "For development and validation of Digital Health Technology (DHT) derived biomarkers or clinical outcome assessments (COAs) for remote monitoring to fill a defined unmet clinical endpoint for interventional clinical trials."
+  },
+  {
+    "id": "curated-224d3b52cb",
+    "title": "Advancing Research on the Application of Digital Health Technology to the Management of Type 2 Diabetes",
+    "agency": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+    "deadline": "2026-10-06",
+    "award_ceiling": "",
+    "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-26-315.html",
+    "source": "AI & Digital Health",
+    "description": "For research exploring continuous glucose monitoring (CGM), telemedicine with virtual coaching, connected digital devices (e.g., smartwatches, activity monitors, digital scales), mobile health (mHealth) applications for monitoring clinically relevant parameters such dietary intake, medication adherence, mood, behavior, and methods to facilitate bidirectional information exchange with the health ca"
+  },
+  {
+    "id": "curated-65902e62f4",
+    "title": "A Demonstration to Scale Innovative Person-Centered Approaches to Falls Prevention through Clinical-Community Partnershi",
+    "agency": "Department of Health and Human Services (HHS)",
+    "deadline": "",
+    "award_ceiling": "",
+    "url": "https://www.grants.gov/search-results-detail/360505",
+    "source": "AI & Digital Health",
+    "description": "Awards a single cooperative agreement to one grantee for a three-year project period with the expectation that the grantee will fund up to three demonstrations on the scaling of person-centered and evidence-based approaches to falls prevention and related chronic disease management programs through community care hubs and their respective clinical partners and community-based organizations in the "
+  },
+  {
+    "id": "curated-2075c8394e",
+    "title": "Strengthening and modernizing sustainable public health systems and workforce in Uganda for data science, informatics, i",
+    "agency": "Centers for Disease Control and Prevention (CDC)",
+    "deadline": "",
+    "award_ceiling": "",
+    "url": "https://www.grants.gov/search-results-detail/360835",
+    "source": "AI & Digital Health",
+    "description": "This NOFO will focus on supporting the Ministry of Health (MOH)-led digital transformation vision to modernize health data systems and infrastructure, enhancing capacity to provide timely epidemic intelligence for critical decision-making in HIV and related health programs in Uganda."
+  },
+  {
+    "id": "curated-3fc4535835",
+    "title": "NLM Institutional Grants for Research Training in Biomedical Informatics, Data Science, and AI",
+    "agency": "National Institutes of Health (NIH)",
+    "deadline": "2026-06-02",
+    "award_ceiling": "",
+    "url": "https://www.grants.gov/search-results-detail/361318",
+    "source": "AI & Digital Health",
+    "description": "Invites applications for innovative predoctoral and postdoctoral training programs that prepare the next generation of researchers in biomedical informatics, data science, and artificial intelligence/machine learning (AI/ML). Applications may propose the creation of new training programs or the renewal of existing NLM-supported programs. These programs are designed to meet the growing demand for r"
+  },
+  {
+    "id": "curated-ce2ce229a5",
+    "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research",
+    "agency": "Patient-Centered Outcomes Research Institute",
+    "deadline": "2026-09-01",
+    "award_ceiling": "",
+    "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-2-2026",
+    "source": "AI & Digital Health",
+    "description": "Specifically support research on \"Methods To Improve the Use of Artificial Intelligence (AI) and Machine Learning (ML) in Patient-Centered CER\""
+  },
+  {
+    "id": "curated-a6bae2ead6",
+    "title": "AI for Science Program (free API credits)",
+    "agency": "Anthropic",
+    "deadline": "",
+    "award_ceiling": "",
+    "url": "https://support.claude.com/en/articles/11199177-anthropic-s-ai-for-science-program",
+    "source": "AI & Digital Health",
+    "description": "Support researchers working on high-impact scientific projects, with a particular focus on life sciences applications; Offer up to $20,000 in Claude API credits to researchers  a 6-month period;"
+  },
+  {
+    "id": "curated-3e01b2b590",
+    "title": "NVIDIA Academic Grant Program",
+    "agency": "NVIDIA",
+    "deadline": "",
+    "award_ceiling": "",
+    "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
+    "source": "AI & Digital Health",
+    "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+  },
+  {
+    "id": "curated-eedeb3c6c7",
+    "title": "Accelerating the Pace of Substance Use Research Using Existing Data (R21 Clinical Trial Not Allowed)",
+    "agency": "NIH/ National Institute on Drug Abuse (NIDA)",
+    "deadline": "2026-07-17",
+    "award_ceiling": "",
+    "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-26-056.html",
+    "source": "AI & Digital Health",
+    "description": "Invite applications proposing innovative analysis of existing social science, behavioral, administrative, and neuroimaging data to study the etiology and epidemiology of substance using behaviors (defined as alcohol, tobacco, prescription, and other substances) and related disorders, prevention of substance use and HIV, and health service utilization. Strongly encouraged is the application of inno"
+  }
+]

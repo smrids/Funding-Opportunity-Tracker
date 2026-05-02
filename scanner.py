@@ -59,21 +59,56 @@ def _get_fetchers() -> list[tuple[str, object]]:
 
 # ── Dashboard helper ──────────────────────────────────────────────────────────
 
+def _load_curated() -> list[dict]:
+    """Load manually curated opportunities, skipping any with expired deadlines."""
+    curated_path = cfg.ROOT_DIR / "data" / "curated_opportunities.json"
+    if not curated_path.exists():
+        return []
+    try:
+        items = json.loads(curated_path.read_text(encoding="utf-8"))
+        today = datetime.utcnow().date()
+        active = []
+        for item in items:
+            dl = item.get("deadline", "")
+            if dl:
+                try:
+                    if datetime.strptime(dl, "%Y-%m-%d").date() < today:
+                        continue   # skip expired
+                except ValueError:
+                    pass
+            active.append(item)
+        log.info("Loaded %d curated opportunities (%d total).", len(active), len(items))
+        return active
+    except Exception as e:
+        log.warning("Could not load curated opportunities: %s", e)
+        return []
+
+
 def _save_json(opportunities: list[dict], timestamp: str) -> None:
-    """Write all fetched opportunities to outputs/opportunities.json."""
+    """Write all fetched + curated opportunities to outputs/opportunities.json."""
+    curated = _load_curated()
+    # Merge: curated first so they appear at the top, then deduplicate by id
+    seen_ids: set[str] = set()
+    merged: list[dict] = []
+    for opp in curated + opportunities:
+        oid = opp.get("id", "")
+        if oid and oid not in seen_ids:
+            seen_ids.add(oid)
+            merged.append(opp)
+
     by_source: dict[str, int] = {}
-    for o in opportunities:
+    for o in merged:
         src = o.get("source", "unknown")
         by_source[src] = by_source.get(src, 0) + 1
     payload = {
         "last_updated": timestamp,
-        "total": len(opportunities),
+        "total": len(merged),
         "by_source": by_source,
-        "opportunities": opportunities,
+        "opportunities": merged,
     }
     cfg.OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     cfg.OUTPUT_JSON.write_text(json.dumps(payload, indent=2, default=str), encoding="utf-8")
-    log.info("JSON saved → %s (%d opportunities)", cfg.OUTPUT_JSON, len(opportunities))
+    log.info("JSON saved → %s (%d total, %d curated)", cfg.OUTPUT_JSON, len(merged), len(curated))
 
 
 # ── Main run function ──────────────────────────────────────────────────────────
