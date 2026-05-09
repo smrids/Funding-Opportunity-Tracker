@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-08T23:37:34Z",
-  "total": 239,
+  "last_updated": "2026-05-09T23:29:46Z",
+  "total": 249,
   "by_source": {
     "AI & Digital Health": 15,
     "NIH (Global Health)": 65,
     "UNGM (UN Agencies)": 18,
     "ARPA-H": 37,
-    "PCORI": 25,
+    "PCORI": 35,
     "NSF": 25,
     "Grants.gov": 45,
     "WHO": 2,
@@ -664,16 +664,6 @@
       "description": ""
     },
     {
-      "id": "361720",
-      "title": "Alumni Engagement Innovation Fund 2026",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/08/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361720",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "361681",
       "title": "FY 2026 Sports Diplomacy On Demand Program",
       "agency": "NIH/Fogarty International Center",
@@ -760,6 +750,16 @@
       "deadline": "09/30/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/343725",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "334791",
+      "title": "Funding for New Counter-Disinformation Game",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/334791",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1614,6 +1614,106 @@
       "description": ""
     },
     {
+      "id": "pcori-9870b5c7e9",
+      "title": "Engagement Award: Dissemination Initiative -- Fall 2025 Cycle",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-fall-2025-cycle",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-2b3c3ef239",
+      "title": "Engagement Award: Convening Support -- Fall 2025 Cycle",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-fall-2025-cycle",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-1531f51b34",
+      "title": "Addressing Rare Diseases PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/addressing-rare-diseases-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-fb4b158df9",
+      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-086e7736a4",
+      "title": "Phased Large Awards for Comparative Effectiveness Research PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/phased-large-awards-comparative-effectiveness-research-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-bf9186b56b",
+      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-8624cfcdd6",
+      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-91d00e9a0c",
+      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-afa2b2c4e3",
+      "title": "Open Competition: Implementation of Findings From PCORI's Research Investments PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/open-competition-implementation-findings-pcoris-research-investments-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-dba9a701b8",
+      "title": "Broad Pragmatic Studies Supplemental Funding Announcement (SFA) to Support Studies within a Study Focused on Developing and Validating Measures to Advance the Science of Engagement in Research -- Cycle 3 2025 (Invitation Only)",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/swas-supplemental-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
       "id": "362311",
       "title": "Career Pathways Exploration Grant Program 84.424J",
       "agency": "National Science Foundation",
@@ -1984,16 +2084,6 @@
       "description": ""
     },
     {
-      "id": "362013",
-      "title": "FY24 CRISI-CDS - San Diego At-grade Crossing Elimination Study (SD ACES)",
-      "agency": "DOT-FRA",
-      "deadline": "05/08/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362013",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361870",
       "title": "Training and Technical Assistance to Improve Water Quality and Enable Small Public Water Systems to Provide Safe Drinking Water",
       "agency": "EPA",
@@ -2170,6 +2260,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/347414",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "347328",
+      "title": "Environmental Sustainability",
+      "agency": "NSF",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/347328",
       "source": "Grants.gov",
       "description": ""
     },
