@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-16T23:33:55Z",
-  "total": 268,
+  "last_updated": "2026-05-17T23:39:43Z",
+  "total": 264,
   "by_source": {
     "AI & Digital Health": 15,
-    "NIH (Global Health)": 67,
+    "NIH (Global Health)": 65,
     "UNGM (UN Agencies)": 17,
     "ARPA-H": 37,
     "PCORI": 39,
-    "NSF": 31,
-    "Grants.gov": 53,
+    "NSF": 30,
+    "Grants.gov": 52,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 7
   },
@@ -162,6 +162,26 @@
       "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-26-056.html",
       "source": "AI & Digital Health",
       "description": "Invite applications proposing innovative analysis of existing social science, behavioral, administrative, and neuroimaging data to study the etiology and epidemiology of substance using behaviors (defined as alcohol, tobacco, prescription, and other substances) and related disorders, prevention of substance use and HIV, and health service utilization. Strongly encouraged is the application of inno"
+    },
+    {
+      "id": "362423",
+      "title": "U.S.-Qatar Strategic Partnership Initiative: Economic, Technology, and Security Cooperation (Freedom 250 Commemorative)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "07/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362423",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362424",
+      "title": "Young Pacific Leaders Solutions Labs",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362424",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "362408",
@@ -394,26 +414,6 @@
       "description": ""
     },
     {
-      "id": "362376",
-      "title": "Beginning Farmer and Rancher Development Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "06/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362376",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362374",
-      "title": "OSERS-OSEP: Personnel Preparation of Special Education, Early Intervention, and Related Services Personnel, Assistance Listing Number (ALN) 84.325K",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362374",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "362420",
       "title": "FY2025 Historic Preservation Fund- Save America's Treasures - Preservation Grants",
       "agency": "NIH/Fogarty International Center",
@@ -520,26 +520,6 @@
       "deadline": "06/22/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360270",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362343",
-      "title": "Alumni Engagement Innovation Fund (AEIF) 2026",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "06/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362343",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362356",
-      "title": "FY 2026 Strengthening Talent, Research, Innovation and Vital Engagement (STRIVE) Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "06/10/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362356",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -937,7 +917,7 @@
       "id": "ungm-301170",
       "title": "Evaluation of integrated nutrition and routine immunization services",
       "agency": "UNICEF",
-      "deadline": "2026-07-06",
+      "deadline": "2026-06-06",
       "award_ceiling": "",
       "url": "https://www.ungm.org/Public/Notice/301170",
       "source": "UNGM (UN Agencies)",
@@ -2064,16 +2044,6 @@
       "description": ""
     },
     {
-      "id": "362253",
-      "title": "DoW Tuberous Sclerosis Complex, Idea Development Award",
-      "agency": "National Science Foundation",
-      "deadline": "08/06/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362253",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "362393",
       "title": "NASA Innovative Advanced Concepts (NIAC) Phase II",
       "agency": "NASA-HQ",
@@ -2124,6 +2094,26 @@
       "description": ""
     },
     {
+      "id": "362376",
+      "title": "Beginning Farmer and Rancher Development Program",
+      "agency": "USDA-NIFA",
+      "deadline": "06/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362376",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362374",
+      "title": "OSERS-OSEP: Personnel Preparation of Special Education, Early Intervention, and Related Services Personnel, Assistance Listing Number (ALN) 84.325K",
+      "agency": "ED",
+      "deadline": "07/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362374",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "362380",
       "title": "Grants to States to Support Oral Health Workforce Activities (SOHW)",
       "agency": "HHS-HRSA",
@@ -2144,16 +2134,6 @@
       "description": ""
     },
     {
-      "id": "362378",
-      "title": "Culturally Specific Domestic Violence and Sexual Assault Services",
-      "agency": "HHS-ACF-OFVPS",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362378",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362390",
       "title": "College Assistance Migrant Program 84.149A",
       "agency": "DOL-OESE",
@@ -2164,12 +2144,22 @@
       "description": ""
     },
     {
-      "id": "362382",
-      "title": "Community Connect Grant Program",
-      "agency": "USDA-RUS",
-      "deadline": "06/29/2026",
+      "id": "362343",
+      "title": "Alumni Engagement Innovation Fund (AEIF) 2026",
+      "agency": "DOS-OMA",
+      "deadline": "06/14/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362382",
+      "url": "https://www.grants.gov/search-results-detail/362343",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362356",
+      "title": "FY 2026 Strengthening Talent, Research, Innovation and Vital Engagement (STRIVE) Program",
+      "agency": "DOS-ECA",
+      "deadline": "06/10/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362356",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2220,26 +2210,6 @@
       "deadline": "06/12/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362345",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362328",
-      "title": "Alaska Native-Serving and Native Hawaiian-Serving Institutions Education Competitive Grants Program",
-      "agency": "USDA-NIFA",
-      "deadline": "06/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362328",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "356163",
-      "title": "Cooperative Research Agreements Related to the World Trade Center Health Program (U01)",
-      "agency": "HHS-CDC-HHSCDCERA",
-      "deadline": "06/23/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/356163",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2494,6 +2464,16 @@
       "description": ""
     },
     {
+      "id": "356163",
+      "title": "Cooperative Research Agreements Related to the World Trade Center Health Program (U01)",
+      "agency": "HHS-CDC-HHSCDCERA",
+      "deadline": "06/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/356163",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "360753",
       "title": "Exploratory/Developmental Grants Related to the World Trade Center Health Program (R21)",
       "agency": "HHS-CDC-HHSCDCERA",
@@ -2580,26 +2560,6 @@
       "deadline": "07/13/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362373",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362389",
-      "title": "High School Equivalency Program 84.141A",
-      "agency": "DOL-OESE",
-      "deadline": "06/12/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362389",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362357",
-      "title": "Willow Creek Reservoir Water Quality Research and Evaluation Studies",
-      "agency": "DOD-COE-ERDC",
-      "deadline": "07/09/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362357",
       "source": "Grants.gov",
       "description": ""
     },
