@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-22T23:45:40Z",
-  "total": 239,
+  "last_updated": "2026-05-23T23:40:44Z",
+  "total": 254,
   "by_source": {
     "AI & Digital Health": 15,
     "NIH (Global Health)": 69,
     "UNGM (UN Agencies)": 14,
     "ARPA-H": 37,
-    "PCORI": 25,
-    "NSF": 11,
+    "PCORI": 39,
+    "NSF": 12,
     "Grants.gov": 58,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 8
@@ -1614,6 +1614,146 @@
       "description": ""
     },
     {
+      "id": "pcori-356b1fbad1",
+      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 1 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-1-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-88f702f07c",
+      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-6d56c35e56",
+      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 1 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-1-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-069f4ed534",
+      "title": "Engagement Award: Capacity Building -- Fall 2025 Cycle",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-fall-2025-cycle",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-9870b5c7e9",
+      "title": "Engagement Award: Dissemination Initiative -- Fall 2025 Cycle",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-fall-2025-cycle",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-2b3c3ef239",
+      "title": "Engagement Award: Convening Support -- Fall 2025 Cycle",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-fall-2025-cycle",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-1531f51b34",
+      "title": "Addressing Rare Diseases PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/addressing-rare-diseases-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-fb4b158df9",
+      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-086e7736a4",
+      "title": "Phased Large Awards for Comparative Effectiveness Research PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/phased-large-awards-comparative-effectiveness-research-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-bf9186b56b",
+      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-8624cfcdd6",
+      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-91d00e9a0c",
+      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-afa2b2c4e3",
+      "title": "Open Competition: Implementation of Findings From PCORI's Research Investments PCORI Funding Announcement -- Cycle 3 2025",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/open-competition-implementation-findings-pcoris-research-investments-pcori-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-dba9a701b8",
+      "title": "Broad Pragmatic Studies Supplemental Funding Announcement (SFA) to Support Studies within a Study Focused on Developing and Validating Measures to Advance the Science of Engagement in Research -- Cycle 3 2025 (Invitation Only)",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/swas-supplemental-funding-announcement-cycle-3-2025",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
       "id": "362540",
       "title": "Micro-Grants for Food Security Program",
       "agency": "National Science Foundation",
@@ -1630,6 +1770,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362542",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "362551",
+      "title": "Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs (SBIR/STTR): A Pilot Emphasis on Scientific Instrumentation.",
+      "agency": "National Science Foundation",
+      "deadline": "07/27/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362551",
       "source": "NSF",
       "description": ""
     },
