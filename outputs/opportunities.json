@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-06-13T00:04:17Z",
-  "total": 322,
+  "last_updated": "2026-06-13T23:45:15Z",
+  "total": 319,
   "by_source": {
     "AI & Digital Health": 10,
     "NIH (Global Health)": 67,
-    "UNGM (UN Agencies)": 18,
+    "UNGM (UN Agencies)": 17,
     "Wellcome Leap": 70,
     "ARPA-H": 37,
     "PCORI": 25,
     "NSF": 21,
-    "Grants.gov": 64,
+    "Grants.gov": 62,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 8
   },
@@ -813,16 +813,6 @@
       "url": "https://www.ungm.org/Public/Notice/302318",
       "source": "UNGM (UN Agencies)",
       "description": ""
-    },
-    {
-      "id": "ungm-302149",
-      "title": "Institutional consultancy to support the implementation of Integrated Management of Acute Malnutrition (IMAM) Program and Lactation Management Units (LMU)",
-      "agency": "UNICEF",
-      "deadline": "2026-06-14",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/302149",
-      "source": "UNGM (UN Agencies)",
-      "description": "Institutional consultancy to support the implementation of Integrated Management of Acute Malnutrition (IMAM) Program and Lactation Management Units (LMU)"
     },
     {
       "id": "ungm-303203",
@@ -3105,32 +3095,12 @@
       "description": ""
     },
     {
-      "id": "362375",
-      "title": "UNITED STATES DEPARTMENT OF AGRICULTURE FOOD FOR PEACE, TITLE II PROGRAM",
-      "agency": "USDA-FAS",
-      "deadline": "06/12/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362375",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362334",
       "title": "UNITED STATES DEPARTMENT OF AGRICULTURE MCGOVERN-DOLE INTERNATIONAL FOOD FOR EDUCATION AND CHILD NUTRITION PROGRAM",
       "agency": "USDA-FAS",
       "deadline": "06/22/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362334",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362759",
-      "title": "Los Angeles County Sheriff&rsquo;s Department-Custody Death Reduction &ndash; Implementation Plan Development",
-      "agency": "USDOJ-BOP-NIC",
-      "deadline": "06/12/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362759",
       "source": "Grants.gov",
       "description": ""
     },
