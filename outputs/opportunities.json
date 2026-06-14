@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-06-13T23:45:15Z",
-  "total": 319,
+  "last_updated": "2026-06-14T23:49:13Z",
+  "total": 316,
   "by_source": {
     "AI & Digital Health": 10,
-    "NIH (Global Health)": 67,
-    "UNGM (UN Agencies)": 17,
+    "NIH (Global Health)": 66,
+    "UNGM (UN Agencies)": 16,
     "Wellcome Leap": 70,
     "ARPA-H": 37,
     "PCORI": 25,
     "NSF": 21,
-    "Grants.gov": 62,
+    "Grants.gov": 61,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 8
   },
@@ -113,6 +113,16 @@
       "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-26-056.html",
       "source": "AI & Digital Health",
       "description": "Invite applications proposing innovative analysis of existing social science, behavioral, administrative, and neuroimaging data to study the etiology and epidemiology of substance using behaviors (defined as alcohol, tobacco, prescription, and other substances) and related disorders, prevention of substance use and HIV, and health service utilization. Strongly encouraged is the application of inno"
+    },
+    {
+      "id": "362790",
+      "title": "Strengthening U.S. Market Mastery  and Investment Ties (SUMMIT)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "07/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362790",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "362773",
@@ -355,16 +365,6 @@
       "description": ""
     },
     {
-      "id": "362743",
-      "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/25/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362743",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "362769",
       "title": "FY2025 Historic Preservation Fund- African American Civil Rights- Preservation Grants",
       "agency": "NIH/Fogarty International Center",
@@ -385,22 +385,22 @@
       "description": ""
     },
     {
-      "id": "362771",
-      "title": "FY2025 Historic Preservation Fund- African American Civil Rights- History Grants",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362771",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "362764",
       "title": "FY2025 &amp; FY2026 Historic Preservation Fund- History of Equal Rights- Preservation Grants",
       "agency": "NIH/Fogarty International Center",
       "deadline": "07/21/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362764",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362743",
+      "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/25/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362743",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -491,16 +491,6 @@
       "deadline": "08/10/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362002",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362751",
-      "title": "FY 2026 Community Engagement Exchange",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/09/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362751",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -891,16 +881,6 @@
       "deadline": "2026-06-28",
       "award_ceiling": "",
       "url": "https://www.ungm.org/Public/Notice/303479",
-      "source": "UNGM (UN Agencies)",
-      "description": "Request for proposal"
-    },
-    {
-      "id": "ungm-302522",
-      "title": "Support Capacity Strengthening of State Health Insurance Agencies in the Acceleration of Enrolment of PLHIV and TB Clients on the Pilot of Vulnerable Populations Coverage on Social Health Insurance...",
-      "agency": "WHO",
-      "deadline": "2026-06-15",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/302522",
       "source": "UNGM (UN Agencies)",
       "description": "Request for proposal"
     },
@@ -2545,6 +2525,16 @@
       "description": ""
     },
     {
+      "id": "362751",
+      "title": "FY 2026 Community Engagement Exchange",
+      "agency": "DOS-ECA",
+      "deadline": "07/09/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362751",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "362757",
       "title": "Prosperity Stack Fellowship",
       "agency": "DOS-KOR",
@@ -2611,16 +2601,6 @@
       "deadline": "08/10/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362713",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362290",
-      "title": "Rapid Response Rural Data Analysis and Issue Specific Rural Research Studies",
-      "agency": "HHS-HRSA",
-      "deadline": "07/08/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362290",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2915,12 +2895,12 @@
       "description": ""
     },
     {
-      "id": "362664",
-      "title": "GameON:  U.S.-Albania E-Sports and Innovation",
-      "agency": "DOS-ALB",
-      "deadline": "",
+      "id": "362290",
+      "title": "Rapid Response Rural Data Analysis and Issue Specific Rural Research Studies",
+      "agency": "HHS-HRSA",
+      "deadline": "07/08/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362664",
+      "url": "https://www.grants.gov/search-results-detail/362290",
       "source": "Grants.gov",
       "description": ""
     },
@@ -3081,16 +3061,6 @@
       "deadline": "07/08/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362293",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362756",
-      "title": "FY 2026 WIC Infrastructure Grant",
-      "agency": "USDA-FNS1",
-      "deadline": "07/13/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362756",
       "source": "Grants.gov",
       "description": ""
     },
