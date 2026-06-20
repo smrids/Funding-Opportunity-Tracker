@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T23:46:22Z",
+  "last_updated": "2026-06-20T23:48:28Z",
   "total": 311,
   "by_source": {
     "AI & Digital Health": 9,
@@ -645,16 +645,6 @@
       "description": ""
     },
     {
-      "id": "361927",
-      "title": "Public Diplomacy Section Praia: Small Grants Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "06/19/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361927",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "361934",
       "title": "U.S. Embassy in Ouagadougou, Burkina Faso PDS Annual Program Statement",
       "agency": "NIH/Fogarty International Center",
@@ -761,6 +751,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/334013",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "327185",
+      "title": "Public Diplomacy Small Grants Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/327185",
       "source": "NIH (Global Health)",
       "description": ""
     },
