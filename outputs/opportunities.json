@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-20T23:48:28Z",
-  "total": 311,
+  "last_updated": "2026-06-21T23:56:00Z",
+  "total": 310,
   "by_source": {
     "AI & Digital Health": 9,
     "NIH (Global Health)": 71,
-    "UNGM (UN Agencies)": 18,
+    "UNGM (UN Agencies)": 17,
     "Wellcome Leap": 70,
     "ARPA-H": 38,
     "PCORI": 25,
@@ -831,16 +831,6 @@
       "deadline": "2026-06-25",
       "award_ceiling": "",
       "url": "https://www.ungm.org/Public/Notice/304727",
-      "source": "UNGM (UN Agencies)",
-      "description": ""
-    },
-    {
-      "id": "ungm-303777",
-      "title": "ITB-Supply and delivery of Nutrition Stabilization Centre (NSC) supplies for Pakistan.",
-      "agency": "WHO",
-      "deadline": "2026-06-21",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/303777",
       "source": "UNGM (UN Agencies)",
       "description": ""
     },
@@ -2715,16 +2705,6 @@
       "description": ""
     },
     {
-      "id": "362533",
-      "title": "Program Year 2026 Senior Community Service Employment Program State, Territorial, and National Grantees",
-      "agency": "DOL-ETA",
-      "deadline": "06/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362533",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362259",
       "title": "DoW Prostate Cancer, Data Science Award",
       "agency": "DOD-AMRAA",
@@ -2821,6 +2801,16 @@
       "deadline": "10/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362191",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361832",
+      "title": "Accelerating Research and Development of Next Generation Malaria Vaccines Against Malaria &ndash; A Model for Mosquito-Borne Diseases",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361832",
       "source": "Grants.gov",
       "description": ""
     },
