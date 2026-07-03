@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-02T23:43:41Z",
-  "total": 255,
+  "last_updated": "2026-07-03T23:41:55Z",
+  "total": 250,
   "by_source": {
     "AI & Digital Health": 8,
-    "NIH (Global Health)": 66,
+    "NIH (Global Health)": 64,
     "UNGM (UN Agencies)": 15,
     "ARPA-H": 38,
     "PCORI": 25,
-    "NSF": 25,
-    "Grants.gov": 67,
+    "NSF": 24,
+    "Grants.gov": 65,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 9
   },
@@ -274,6 +274,36 @@
       "description": ""
     },
     {
+      "id": "362827",
+      "title": "FAIR HOUSING INITIATIVES PROGRAM PRIVATE ENFORCEMENT INITIATIVE",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362827",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362881",
+      "title": "Fair Housing Initiatives Program - Administrative Enforcement Initiative",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362881",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362882",
+      "title": "Fair Housing Initiatives Program - Fair Housing Organizations Initiative FY2025 and FY2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362882",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "363021",
       "title": "Fiscal Year 2026 Homeland Security National Training Program",
       "agency": "NIH/Fogarty International Center",
@@ -294,16 +324,6 @@
       "description": ""
     },
     {
-      "id": "363035",
-      "title": "Bolivia Law Enforcement and Criminal Justice Sector Support",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363035",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363040",
       "title": "Disrupting TCOs through Evidence Reform",
       "agency": "NIH/Fogarty International Center",
@@ -320,26 +340,6 @@
       "deadline": "07/27/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360969",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362467",
-      "title": "Recovery Community Services Program - Statewide Network",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362467",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363024",
-      "title": "Brookwood-Sago Mine Safety Grants",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363024",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -450,26 +450,6 @@
       "deadline": "09/04/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360294",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362991",
-      "title": "&#8203;Mitigating Proliferation Risks Posed by Artificial Intelligence Enabled Molecular Models and Leveraging Nonproliferation Opportunities&#8203;",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362991",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360511",
-      "title": "Legal Assistance Enhancement Program Grants",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/25/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360511",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -764,16 +744,6 @@
       "description": "Request for proposal"
     },
     {
-      "id": "ungm-304145",
-      "title": "Consultant to Conduct Full Regulatory Impact Analysis (RIA) and Prepare Regulatory Impact Statement (RIS) for the Proposed Nutrition Act / Regulations (Malaysia- Based Companies only)",
-      "agency": "UNICEF",
-      "deadline": "2026-07-07",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/304145",
-      "source": "UNGM (UN Agencies)",
-      "description": "Request for proposal"
-    },
-    {
       "id": "ungm-304523",
       "title": "Endline assessment for the nutrition programme \"Food supplementation and school feeding programme in Indonesia.\"",
       "agency": "UNICEF",
@@ -790,6 +760,16 @@
       "deadline": "2026-07-10",
       "award_ceiling": "",
       "url": "https://www.ungm.org/Public/Notice/303183",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
+      "id": "ungm-304145",
+      "title": "Consultant to Conduct Full Regulatory Impact Analysis (RIA) and Prepare Regulatory Impact Statement (RIS) for the Proposed Nutrition Act / Regulations (Malaysia- Based Companies only)",
+      "agency": "UNICEF",
+      "deadline": "2026-07-10",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/304145",
       "source": "UNGM (UN Agencies)",
       "description": "Request for proposal"
     },
@@ -897,7 +877,7 @@
       "id": "ungm-304952",
       "title": "180291/26 Dise\u00f1o y Ejecuci\u00f3n del Estudio Cualitativo \"Malaria Matchbox\"",
       "agency": "UNDP-BOL-00618",
-      "deadline": "2026-07-06",
+      "deadline": "2026-07-20",
       "award_ceiling": "",
       "url": "https://www.ungm.org/Public/Notice/304952",
       "source": "UNGM (UN Agencies)",
@@ -1554,16 +1534,6 @@
       "description": ""
     },
     {
-      "id": "362827",
-      "title": "FAIR HOUSING INITIATIVES PROGRAM PRIVATE ENFORCEMENT INITIATIVE",
-      "agency": "National Science Foundation",
-      "deadline": "11/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362827",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "363052",
       "title": "NIDDK Disease Research and Translational Core Centers (P30 Clinical Trial Optional)",
       "agency": "National Science Foundation",
@@ -1804,16 +1774,6 @@
       "description": ""
     },
     {
-      "id": "363037",
-      "title": "NIDDK Multi-Purpose Resource-Related, Multi-Component Research Services Centers Cooperative Agreement (U2C - Clinical Trial Optional)",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363037",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362992",
       "title": "Fiscal Year 2026 State Fire Training Systems Grants",
       "agency": "DHS-DHS",
@@ -1884,16 +1844,6 @@
       "description": ""
     },
     {
-      "id": "363014",
-      "title": "Scholarly Editions and Translations",
-      "agency": "NEH",
-      "deadline": "09/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363014",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362999",
       "title": "Fiscal Year 2026 Cooperating Technical Partners (CTP) Program - Region 5",
       "agency": "DHS-DHS",
@@ -1960,6 +1910,26 @@
       "deadline": "08/17/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363007",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362991",
+      "title": "&#8203;Mitigating Proliferation Risks Posed by Artificial Intelligence Enabled Molecular Models and Leveraging Nonproliferation Opportunities&#8203;",
+      "agency": "DOS-ACN",
+      "deadline": "07/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362991",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362867",
+      "title": "EducationUSA Opportunity Funds Program 2026",
+      "agency": "DOS-ZAM",
+      "deadline": "07/10/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362867",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2154,12 +2124,12 @@
       "description": ""
     },
     {
-      "id": "361832",
-      "title": "Accelerating Research and Development of Next Generation Malaria Vaccines Against Malaria &ndash; A Model for Mosquito-Borne Diseases",
+      "id": "363037",
+      "title": "NIDDK Multi-Purpose Resource-Related, Multi-Component Research Services Centers Cooperative Agreement (U2C - Clinical Trial Optional)",
       "agency": "HHS-NIH11",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361832",
+      "url": "https://www.grants.gov/search-results-detail/363037",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2404,16 +2374,6 @@
       "description": ""
     },
     {
-      "id": "361589",
-      "title": "Center of Excellence for Protected Health Information Related to Behavioral Health",
-      "agency": "HHS-SAMHS-SAMHSA",
-      "deadline": "07/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361589",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362112",
       "title": "Alzheimer's Disease Programs Initiative (ADPI) - Dementia Capability in Indian Country",
       "agency": "HHS-ACL",
@@ -2440,16 +2400,6 @@
       "deadline": "07/22/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360508",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363031",
-      "title": "Countering Iran and its Proxies through Enhanced Counterterrorist Financing in Iraq",
-      "agency": "DOS-SCT",
-      "deadline": "07/17/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363031",
       "source": "Grants.gov",
       "description": ""
     },
