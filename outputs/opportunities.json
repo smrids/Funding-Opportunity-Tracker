@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-03T23:41:55Z",
-  "total": 250,
+  "last_updated": "2026-07-04T23:42:10Z",
+  "total": 249,
   "by_source": {
     "AI & Digital Health": 8,
     "NIH (Global Health)": 64,
-    "UNGM (UN Agencies)": 15,
+    "UNGM (UN Agencies)": 14,
     "ARPA-H": 38,
     "PCORI": 25,
     "NSF": 24,
@@ -524,16 +524,6 @@
       "description": ""
     },
     {
-      "id": "362673",
-      "title": "FY26 EducationUSA Nigeria Advising",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/03/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362673",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "362681",
       "title": "Research Interests of the Air Force Office of Scientific Research",
       "agency": "NIH/Fogarty International Center",
@@ -604,16 +594,6 @@
       "description": ""
     },
     {
-      "id": "361934",
-      "title": "U.S. Embassy in Ouagadougou, Burkina Faso PDS Annual Program Statement",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/03/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361934",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "358955",
       "title": "Measurement Science and Engineering (MSE) Research Grant Programs",
       "agency": "NIH/Fogarty International Center",
@@ -680,6 +660,26 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/334259",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "334092",
+      "title": "Culture of Research and University Exchanges Prep program (CRUX) in One Health and Agricultural STEM",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/334092",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "334013",
+      "title": "Ambassador&rsquo;s Special Self-Help Fund",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/334013",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -790,16 +790,6 @@
       "deadline": "2026-07-20",
       "award_ceiling": "",
       "url": "https://www.ungm.org/Public/Notice/305658",
-      "source": "UNGM (UN Agencies)",
-      "description": "Request for proposal"
-    },
-    {
-      "id": "ungm-302231",
-      "title": "SOLICITUD DE PROPUESTA: N.\u00ba RFP/2026/ACNUR/MEX/028 PARA LA PROVISION DE SERVICIOS DE CONSULTOR\u00cdA PARA LA LICITACI\u00d3N DEL DESARROLLO DE UN SISTEMA DE ADMINISTRACI\u00d3N DE ARCHIVO DIGITAL PARA LA COMISI\u00d3N",
-      "agency": "SOLICITUD DE PROPUESTA: N.\u00ba RFP/2026/ACNUR/MEX/028 PARA LA PROVISION DE SERVICIOS DE CONSULTOR\u00cdA PARA LA LICITACI\u00d3N DEL DESARROLLO DE UN SISTEMA DE ADMINISTRACI\u00d3N DE ARCHIVO DIGITAL PARA LA COMISI\u00d3N",
-      "deadline": "2026-07-03",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/302231",
       "source": "UNGM (UN Agencies)",
       "description": "Request for proposal"
     },
