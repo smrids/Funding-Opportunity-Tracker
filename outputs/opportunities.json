@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-24T23:42:28Z",
-  "total": 310,
+  "last_updated": "2026-07-25T23:41:30Z",
+  "total": 296,
   "by_source": {
     "AI & Digital Health": 7,
     "NIH (Global Health)": 62,
     "UNGM (UN Agencies)": 11,
     "Wellcome Leap": 53,
     "ARPA-H": 38,
-    "PCORI": 39,
+    "PCORI": 25,
     "NSF": 27,
     "Grants.gov": 62,
     "WHO": 2,
@@ -105,16 +105,6 @@
       "description": ""
     },
     {
-      "id": "363311",
-      "title": "ONAA 7J-TCU Manufacturing NOFO FY2026",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363311",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363313",
       "title": "Maternal-Child Surveillance and Partnerships for Action, Results, and Knowledge",
       "agency": "NIH/Fogarty International Center",
@@ -191,6 +181,16 @@
       "deadline": "08/24/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362147",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363311",
+      "title": "ONAA 7J-TCU Manufacturing NOFO FY2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/24/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363311",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -575,16 +575,6 @@
       "description": ""
     },
     {
-      "id": "360711",
-      "title": "Enhancing sustainable health information and laboratory systems and networks for quality detection, management, and monitoring to end HIV and TB as public health threats in India",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360711",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "362864",
       "title": "American Spaces Support Funds Program",
       "agency": "NIH/Fogarty International Center",
@@ -651,6 +641,16 @@
       "deadline": "04/30/2028",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/347858",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "343725",
+      "title": "DOD Defense Health Agency (DHA) Research &amp; Development FY23-FY27 BROAD AGENCY ANNOUNCEMENT for Extramural Medical Research",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/30/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/343725",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1975,146 +1975,6 @@
       "description": ""
     },
     {
-      "id": "pcori-356b1fbad1",
-      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-88f702f07c",
-      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-6d56c35e56",
-      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-069f4ed534",
-      "title": "Engagement Award: Capacity Building -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-9870b5c7e9",
-      "title": "Engagement Award: Dissemination Initiative -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-2b3c3ef239",
-      "title": "Engagement Award: Convening Support -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-1531f51b34",
-      "title": "Addressing Rare Diseases PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/addressing-rare-diseases-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-fb4b158df9",
-      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-086e7736a4",
-      "title": "Phased Large Awards for Comparative Effectiveness Research PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/phased-large-awards-comparative-effectiveness-research-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-bf9186b56b",
-      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-8624cfcdd6",
-      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-91d00e9a0c",
-      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-afa2b2c4e3",
-      "title": "Open Competition: Implementation of Findings From PCORI's Research Investments PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/open-competition-implementation-findings-pcoris-research-investments-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-dba9a701b8",
-      "title": "Broad Pragmatic Studies Supplemental Funding Announcement (SFA) to Support Studies within a Study Focused on Developing and Validating Measures to Advance the Science of Engagement in Research -- Cycle 3 2025 (Invitation Only)",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/swas-supplemental-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
       "id": "363289",
       "title": "Occupational Safety and Health Research (R01)",
       "agency": "National Science Foundation",
@@ -2635,16 +2495,6 @@
       "description": ""
     },
     {
-      "id": "362925",
-      "title": "Fiscal Year 2026 Nonprofit Security Grant Program",
-      "agency": "DHS-DHS",
-      "deadline": "07/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362925",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362857",
       "title": "DoW Joint Warfighter Medical, Military Medical Research and Development Award",
       "agency": "DOD-AMRAA",
@@ -2731,6 +2581,26 @@
       "deadline": "09/02/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362261",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362262",
+      "title": "DoW Prostate Cancer, Physician Research Award",
+      "agency": "DOD-AMRAA",
+      "deadline": "09/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362262",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362260",
+      "title": "DoW Prostate Cancer, Early Investigator Research Award",
+      "agency": "DOD-AMRAA",
+      "deadline": "09/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362260",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2991,16 +2861,6 @@
       "deadline": "08/10/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363264",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363075",
-      "title": "Solicitation of Input from Stakeholder on Title II Food for Peace Non-Emergency Programming",
-      "agency": "USDA-FAS",
-      "deadline": "07/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363075",
       "source": "Grants.gov",
       "description": ""
     },
