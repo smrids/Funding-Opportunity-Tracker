@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-07-25T23:41:30Z",
-  "total": 296,
+  "last_updated": "2026-07-26T23:40:14Z",
+  "total": 294,
   "by_source": {
     "AI & Digital Health": 7,
-    "NIH (Global Health)": 62,
-    "UNGM (UN Agencies)": 11,
+    "NIH (Global Health)": 61,
+    "UNGM (UN Agencies)": 12,
     "Wellcome Leap": 53,
     "ARPA-H": 38,
     "PCORI": 25,
     "NSF": 27,
-    "Grants.gov": 62,
+    "Grants.gov": 60,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 9
   },
@@ -83,6 +83,26 @@
       "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
       "source": "AI & Digital Health",
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+    },
+    {
+      "id": "363315",
+      "title": "AI Partnership &amp; Exchange for Tech Leaders (APEX)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363315",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363314",
+      "title": "NOFO- U.S.-Oman Youth Council Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363314",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "363306",
@@ -315,26 +335,6 @@
       "description": ""
     },
     {
-      "id": "363286",
-      "title": "Research, Education, and Outreach on Botanical Natural Products",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363286",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363282",
-      "title": "Cooperative Agreement to Support Shellfish Safety Assistance Project",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363282",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363301",
       "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
       "agency": "NIH/Fogarty International Center",
@@ -351,6 +351,16 @@
       "deadline": "09/08/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363288",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363282",
+      "title": "Cooperative Agreement to Support Shellfish Safety Assistance Project",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363282",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -411,26 +421,6 @@
       "deadline": "08/20/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363269",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363273",
-      "title": "Transatlantic Partnership Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363273",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363267",
-      "title": "Young Trilateral Leaders (YTL) Summit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363267",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -773,6 +763,16 @@
       "url": "https://www.ungm.org/Public/Notice/308160",
       "source": "UNGM (UN Agencies)",
       "description": "Request for proposal"
+    },
+    {
+      "id": "ungm-308630",
+      "title": "The Provision of Consulting Services for Delivering the Capacity Building Training Programme on Malnutrition Case Management",
+      "agency": "UN Agency",
+      "deadline": "2026-08-15",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/308630",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
     },
     {
       "id": "ungm-308324",
@@ -1975,12 +1975,12 @@
       "description": ""
     },
     {
-      "id": "363289",
-      "title": "Occupational Safety and Health Research (R01)",
+      "id": "363286",
+      "title": "Research, Education, and Outreach on Botanical Natural Products",
       "agency": "National Science Foundation",
-      "deadline": "",
+      "deadline": "08/21/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363289",
+      "url": "https://www.grants.gov/search-results-detail/363286",
       "source": "NSF",
       "description": ""
     },
@@ -2265,22 +2265,22 @@
       "description": ""
     },
     {
-      "id": "363272",
-      "title": "Centers of Excellence (COE)",
-      "agency": "HHS-HRSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363272",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363305",
       "title": "FY 2026 COPS Office-NHTSA Impaired Driving Curricula Invitational Program",
       "agency": "USDOJ-OJP-COPS",
       "deadline": "08/31/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363305",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363273",
+      "title": "Transatlantic Partnership Program",
+      "agency": "DOS-DEU",
+      "deadline": "08/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363273",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2311,16 +2311,6 @@
       "deadline": "08/21/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363256",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363239",
-      "title": "Education and Outreach to Tribal Producers through the Tribal Food Safety Alliance",
-      "agency": "HHS-FDA",
-      "deadline": "08/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363239",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2391,26 +2381,6 @@
       "deadline": "01/01/2099",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363225",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363211",
-      "title": "Global Documentation for Accountability Initiative",
-      "agency": "DOS-DRL",
-      "deadline": "08/17/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363211",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363207",
-      "title": "Developing Civilizational Bonds, Democratic Resilience, and Rule of Law in Europe",
-      "agency": "DOS-DRL",
-      "deadline": "08/12/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363207",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2601,6 +2571,16 @@
       "deadline": "09/02/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362260",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363289",
+      "title": "Occupational Safety and Health Research (R01)",
+      "agency": "HHS-CDC-HHSCDCERA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363289",
       "source": "Grants.gov",
       "description": ""
     },
