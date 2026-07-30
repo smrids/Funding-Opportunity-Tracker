@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-29T23:40:22Z",
-  "total": 263,
+  "last_updated": "2026-07-30T23:40:17Z",
+  "total": 256,
   "by_source": {
     "AI & Digital Health": 7,
-    "NIH (Global Health)": 72,
-    "UNGM (UN Agencies)": 16,
+    "NIH (Global Health)": 69,
+    "UNGM (UN Agencies)": 14,
     "ARPA-H": 39,
     "PCORI": 25,
-    "NSF": 29,
-    "Grants.gov": 64,
+    "NSF": 28,
+    "Grants.gov": 63,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 9
   },
@@ -84,12 +84,92 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
-      "id": "363372",
-      "title": "FY26 Bus Safety, Accessibility, and Innovation Notice of Funding Opportunity",
+      "id": "363391",
+      "title": "Investigator-Focused Award (Parent R35)",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "09/28/2026",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363372",
+      "url": "https://www.grants.gov/search-results-detail/363391",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363392",
+      "title": "Fiscal Year 2027 Regional Nutrition Hubs",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363392",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363015",
+      "title": "Diaper Distribution Demonstration Research Pilot (DDDRP)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363015",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361931",
+      "title": "Advancing Global Capacity to Detect and Respond to Fungal Diseases",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361931",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363399",
+      "title": "NATIVE Act Tribal Tourism Cooperative Agreement",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/28/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363399",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363397",
+      "title": "DRL  Transshipment Supply Chain Tracing",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/27/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363397",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363398",
+      "title": "Core State Injury Prevention Program (Core SIPP)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363398",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363404",
+      "title": "Pediatric Disaster Care Centers of Excellence Program Cooperative Agreement",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363404",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362270",
+      "title": "AI3 Action Institute - Artificial Intelligence for American Indians",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/27/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362270",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -124,6 +204,16 @@
       "description": ""
     },
     {
+      "id": "363378",
+      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Defense University Research Instrumentation Program (DURIP)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363378",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "363374",
       "title": "Fiscal Year 2027 Defense University Research Instrumentation Program (DURIP)",
       "agency": "NIH/Fogarty International Center",
@@ -154,22 +244,12 @@
       "description": ""
     },
     {
-      "id": "363378",
-      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Defense University Research Instrumentation Program (DURIP)",
+      "id": "363389",
+      "title": "Demonstration Projects for Whole-Person Health Models for Women Living with HIV in the South",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "11/06/2026",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363378",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363382",
-      "title": "DRL  Transshipment Supply Chain Tracing",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363382",
+      "url": "https://www.grants.gov/search-results-detail/363389",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -184,12 +264,12 @@
       "description": ""
     },
     {
-      "id": "363389",
-      "title": "Demonstration Projects for Whole-Person Health Models for Women Living with HIV in the South",
+      "id": "363372",
+      "title": "FY26 Bus Safety, Accessibility, and Innovation Notice of Funding Opportunity",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "",
+      "deadline": "09/28/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363389",
+      "url": "https://www.grants.gov/search-results-detail/363372",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -254,86 +334,6 @@
       "description": ""
     },
     {
-      "id": "363349",
-      "title": "INCLUDE Project: Omics Phenotypes Related to Down Syndrome (X01 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363349",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363338",
-      "title": "Advancing Sports Diplomacy Through Adaptive Sports",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363338",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363340",
-      "title": "American Corners Portugal Operational Funding",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/28/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363340",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363341",
-      "title": "Health Promotion and Disease Prevention Research Centers:  2027 Special Interest Project Supplements (SIPS)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363341",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363347",
-      "title": "Building Skills, Strengthening Communities, and Advancing Innovation in Northwest Mexico",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363347",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361908",
-      "title": "Economic Advancement Grants for Local Empowerment (EAGLE)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361908",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363369",
-      "title": "NIOSH Centers of Excellence for Total Worker Health&reg; (U19)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363369",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363356",
-      "title": "The National Network of STI Prevention Training Centers (NNPTC)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363356",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363384",
       "title": "TIP Office International Programs to Combat Human Trafficking Annual Program Statement",
       "agency": "NIH/Fogarty International Center",
@@ -354,22 +354,32 @@
       "description": ""
     },
     {
-      "id": "363346",
-      "title": "U.S. Embassy Nassau Annual Program Statement for Public Diplomacy",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363346",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363383",
       "title": "Child Protection Compact Annual Program Statement",
       "agency": "NIH/Fogarty International Center",
       "deadline": "01/01/2099",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363383",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363338",
+      "title": "Advancing Sports Diplomacy Through Adaptive Sports",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363338",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363347",
+      "title": "Building Skills, Strengthening Communities, and Advancing Innovation in Northwest Mexico",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/27/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363347",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -470,36 +480,6 @@
       "deadline": "08/24/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362069",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362070",
-      "title": "Community Services Block Grant (CSBG) Tribal Capacity Building Training and Technical Assistance (TCBTTA)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362070",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362067",
-      "title": "Community Services Block Grant (CSBG) Performance Management, Data Collection, and Compliance Support",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362067",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362068",
-      "title": "Community Services Block Grant (CSBG) Essentials for Improved Outcomes",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/24/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362068",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -744,16 +724,6 @@
       "description": ""
     },
     {
-      "id": "343725",
-      "title": "DOD Defense Health Agency (DHA) Research &amp; Development FY23-FY27 BROAD AGENCY ANNOUNCEMENT for Extramural Medical Research",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/30/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/343725",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "360368",
       "title": "Administrative Supplements to Existing NIH Grants and Cooperative Agreements (Parent Admin Supp Clinical Trial Optional)",
       "agency": "NIH/Fogarty International Center",
@@ -812,16 +782,6 @@
       "url": "https://www.ungm.org/Public/Notice/307401",
       "source": "UNGM (UN Agencies)",
       "description": ""
-    },
-    {
-      "id": "ungm-306533",
-      "title": "Hiring agency for development of a package of school-based essential nutrition programme for primary education and Social Behavior Change (SBC) package for primary and secondary education",
-      "agency": "UNICEF",
-      "deadline": "2026-07-30",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/306533",
-      "source": "UNGM (UN Agencies)",
-      "description": "Request for proposal"
     },
     {
       "id": "ungm-307864",
@@ -884,6 +844,16 @@
       "description": "Request for proposal"
     },
     {
+      "id": "ungm-309188",
+      "title": "LRPS-2026-9205369 Support for the implementation of Strategic Goal 4 of the National School Nutrition Reform through community engagement, behaviour change and capacity-building interventions as fully detailed in the Terms of Reference",
+      "agency": "UNICEF",
+      "deadline": "2026-08-20",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/309188",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
       "id": "ungm-308804",
       "title": "HQ26NF207_EOI for Global LTAs for Nutrition Research Services",
       "agency": "WFP",
@@ -892,26 +862,6 @@
       "url": "https://www.ungm.org/Public/Notice/308804",
       "source": "UNGM (UN Agencies)",
       "description": ""
-    },
-    {
-      "id": "ungm-308904",
-      "title": "Archive Records Handling, Transportation and Off-site Storage Services",
-      "agency": "ILO",
-      "deadline": "2026-07-30",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/308904",
-      "source": "UNGM (UN Agencies)",
-      "description": ""
-    },
-    {
-      "id": "ungm-308299",
-      "title": "Call for External Collaborator - Metadata Standardisation: International Labour Review, Wiley Period Archive (1999\u20132024)",
-      "agency": "ILO",
-      "deadline": "2026-07-30",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/308299",
-      "source": "UNGM (UN Agencies)",
-      "description": "Call for individual consultants"
     },
     {
       "id": "ungm-308324",
@@ -1614,16 +1564,6 @@
       "description": ""
     },
     {
-      "id": "363350",
-      "title": "Advanced Development and Sustainment of Informatics Technologies for Cancer Research and Management (U24 Clinical Trial Optional)",
-      "agency": "National Science Foundation",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363350",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "363345",
       "title": "OJP FY 2026 Special Attorneys Program Round 6",
       "agency": "National Science Foundation",
@@ -1634,32 +1574,42 @@
       "description": ""
     },
     {
-      "id": "363368",
-      "title": "DOJ FY 2026 Bridging Immigration-Related Deficits Experienced Nationwide (&ldquo;BIDEN&rdquo;) Program Round 2",
+      "id": "363349",
+      "title": "INCLUDE Project: Omics Phenotypes Related to Down Syndrome (X01 Clinical Trial Not Allowed)",
       "agency": "National Science Foundation",
-      "deadline": "08/26/2026",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363368",
+      "url": "https://www.grants.gov/search-results-detail/363349",
       "source": "NSF",
       "description": ""
     },
     {
-      "id": "363342",
-      "title": "Expanded Surveillance for Pediatric Infectious Diseases",
+      "id": "363340",
+      "title": "American Corners Portugal Operational Funding",
       "agency": "National Science Foundation",
-      "deadline": "",
+      "deadline": "08/28/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363342",
+      "url": "https://www.grants.gov/search-results-detail/363340",
       "source": "NSF",
       "description": ""
     },
     {
-      "id": "363360",
-      "title": "Implementation Research on Coordinated Combinations of Community-Clinical Linkage Strategies for Diabetes Prevention and Management",
+      "id": "363341",
+      "title": "Health Promotion and Disease Prevention Research Centers:  2027 Special Interest Project Supplements (SIPS)",
       "agency": "National Science Foundation",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363360",
+      "url": "https://www.grants.gov/search-results-detail/363341",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363350",
+      "title": "Advanced Development and Sustainment of Informatics Technologies for Cancer Research and Management (U24 Clinical Trial Optional)",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363350",
       "source": "NSF",
       "description": ""
     },
@@ -1884,16 +1834,6 @@
       "description": ""
     },
     {
-      "id": "360987",
-      "title": "NIH Director&rsquo;s New Innovator Award (DP2 Clinical Trial Optional)",
-      "agency": "National Science Foundation",
-      "deadline": "08/17/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360987",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "363373",
       "title": "OVC FY 2026 Invited to Apply - Administrative Funding Adjustment to Previously Funded OVC Awards",
       "agency": "USDOJ-OJP-OVC",
@@ -1904,22 +1844,12 @@
       "description": ""
     },
     {
-      "id": "363343",
-      "title": "Improving Protection against Influenza and Other Respiratory Pathogens: the US Flu VE Network",
-      "agency": "HHS-CDC-HHSCDCERA",
-      "deadline": "",
+      "id": "363390",
+      "title": "Strengthening Bosnia and Herzegovina&rsquo;s Organized Crime Specialized Departments for Organized Crime Through Expert Advisory Support",
+      "agency": "DOS-BIH",
+      "deadline": "09/28/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363343",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363377",
-      "title": "OVC FY26 Invited to Apply Antiterrorism and Emergency Assistance Program for Crime Victim Compensation and/or Assistance - Tennessee",
-      "agency": "USDOJ-OJP-OVC",
-      "deadline": "07/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363377",
+      "url": "https://www.grants.gov/search-results-detail/363390",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1944,22 +1874,12 @@
       "description": ""
     },
     {
-      "id": "363388",
-      "title": "Fiscal Year 2026 Funding Allotments and Operating Guidance for Unemployment Insurance Reemployment Services and Eligibility Assessments Grants",
-      "agency": "DOL-ETA",
-      "deadline": "08/28/2026",
+      "id": "361908",
+      "title": "Economic Advancement Grants for Local Empowerment (EAGLE)",
+      "agency": "HHS-ACF-ANA",
+      "deadline": "08/27/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363388",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363324",
-      "title": "Teaching Health Center Graduate Medical Education (THCGME) Program",
-      "agency": "HHS-HRSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363324",
+      "url": "https://www.grants.gov/search-results-detail/361908",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2010,16 +1930,6 @@
       "deadline": "09/16/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363297",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363293",
-      "title": "American Innovation Hub: AI &amp; Digital Skills for the Creative &amp; Tech Economy",
-      "agency": "DOS-IDN",
-      "deadline": "08/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363293",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2117,7 +2027,7 @@
       "id": "363043",
       "title": "Voices for the Future",
       "agency": "DOS-IDN",
-      "deadline": "07/31/2026",
+      "deadline": "08/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363043",
       "source": "Grants.gov",
@@ -2200,6 +2110,36 @@
       "deadline": "09/02/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362262",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363369",
+      "title": "NIOSH Centers of Excellence for Total Worker Health&reg; (U19)",
+      "agency": "HHS-CDC-HHSCDCERA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363369",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363356",
+      "title": "The National Network of STI Prevention Training Centers (NNPTC)",
+      "agency": "HHS-CDC-NCHHSTP",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363356",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363342",
+      "title": "Expanded Surveillance for Pediatric Infectious Diseases",
+      "agency": "HHS-CDC-HHSCDCERA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363342",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2314,12 +2254,12 @@
       "description": ""
     },
     {
-      "id": "362368",
-      "title": "Healthy Homes Production Grant Program",
-      "agency": "HUD",
-      "deadline": "08/31/2026",
+      "id": "363343",
+      "title": "Improving Protection against Influenza and Other Respiratory Pathogens: the US Flu VE Network",
+      "agency": "HHS-CDC-HHSCDCERA",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362368",
+      "url": "https://www.grants.gov/search-results-detail/363343",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2454,26 +2394,6 @@
       "description": ""
     },
     {
-      "id": "360506",
-      "title": "Scaling Evidence-Based Falls Prevention Programs",
-      "agency": "HHS-ACL",
-      "deadline": "07/29/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360506",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "360515",
-      "title": "ACL National Falls Prevention Resource Center",
-      "agency": "HHS-ACL",
-      "deadline": "07/29/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360515",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362891",
       "title": "Collaborative Approaches to Adoption for Children with Complex Needs",
       "agency": "HHS-ACF-CB",
@@ -2494,22 +2414,22 @@
       "description": ""
     },
     {
-      "id": "363334",
-      "title": "FY26 Bureau of Land Management Abandoned Mine Lands and Hazardous Materials - Bureau wide",
-      "agency": "DOI-BLM",
-      "deadline": "08/28/2026",
+      "id": "362067",
+      "title": "Community Services Block Grant (CSBG) Performance Management, Data Collection, and Compliance Support",
+      "agency": "HHS-ACF-OCS",
+      "deadline": "08/24/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363334",
+      "url": "https://www.grants.gov/search-results-detail/362067",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "363337",
-      "title": "FY26 Bureau of Land Management Recreation and Visitor Services - Bureau wide",
-      "agency": "DOI-BLM",
-      "deadline": "08/28/2026",
+      "id": "362068",
+      "title": "Community Services Block Grant (CSBG) Essentials for Improved Outcomes",
+      "agency": "HHS-ACF-OCS",
+      "deadline": "08/24/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363337",
+      "url": "https://www.grants.gov/search-results-detail/362068",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2530,6 +2450,16 @@
       "deadline": "08/17/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362088",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363377",
+      "title": "OVC FY26 Invited to Apply Antiterrorism and Emergency Assistance Program for Crime Victim Compensation and/or Assistance - Tennessee",
+      "agency": "USDOJ-OJP-OVC",
+      "deadline": "07/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363377",
       "source": "Grants.gov",
       "description": ""
     },
