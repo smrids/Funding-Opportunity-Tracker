@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-31T23:40:02Z",
-  "total": 259,
+  "last_updated": "2026-08-01T23:39:25Z",
+  "total": 257,
   "by_source": {
     "AI & Digital Health": 7,
-    "NIH (Global Health)": 74,
-    "UNGM (UN Agencies)": 14,
+    "NIH (Global Health)": 73,
+    "UNGM (UN Agencies)": 13,
     "ARPA-H": 39,
     "PCORI": 25,
     "NSF": 27,
@@ -82,6 +82,16 @@
       "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
       "source": "AI & Digital Health",
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+    },
+    {
+      "id": "363440",
+      "title": "Advancing Investigative Journalism in Ukraine through U.S. AI Innovation",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363440",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "363417",
@@ -324,16 +334,6 @@
       "description": ""
     },
     {
-      "id": "363391",
-      "title": "Investigator-Focused Award (Parent R35)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363391",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363406",
       "title": "U.S. Embassy Nassau Annual Program Statement for Public Diplomacy",
       "agency": "NIH/Fogarty International Center",
@@ -520,16 +520,6 @@
       "deadline": "09/21/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363321",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363332",
-      "title": "Early Detection, Response, and Control of Global Rabies Outbreaks and Associated Threats to America's Dog-Rabies Free Status",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363332",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -830,16 +820,6 @@
       "deadline": "2026-08-14",
       "award_ceiling": "",
       "url": "https://www.ungm.org/Public/Notice/307401",
-      "source": "UNGM (UN Agencies)",
-      "description": ""
-    },
-    {
-      "id": "ungm-307864",
-      "title": "Develop National Nutrition SBC strategy and action plan for Nutrition in Somalia, prioritizing maternal nutrition and first foods",
-      "agency": "UNICEF",
-      "deadline": "2026-08-01",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/307864",
       "source": "UNGM (UN Agencies)",
       "description": ""
     },
@@ -1604,12 +1584,12 @@
       "description": ""
     },
     {
-      "id": "363392",
-      "title": "Fiscal Year 2027 Regional Nutrition Hubs",
+      "id": "363391",
+      "title": "Investigator-Focused Award (Parent R35)",
       "agency": "National Science Foundation",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363392",
+      "url": "https://www.grants.gov/search-results-detail/363391",
       "source": "NSF",
       "description": ""
     },
@@ -1874,16 +1854,6 @@
       "description": ""
     },
     {
-      "id": "363436",
-      "title": "Small Business Transportation Technical Assistance Center (Region 2)",
-      "agency": "DOT-OSDBU",
-      "deadline": "08/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363436",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363437",
       "title": "Small Business Transportation Technical Assistance Center (Region 4)",
       "agency": "DOT-OSDBU",
@@ -1904,6 +1874,16 @@
       "description": ""
     },
     {
+      "id": "363436",
+      "title": "Small Business Transportation Technical Assistance Center (Region 2)",
+      "agency": "DOT-OSDBU",
+      "deadline": "08/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363436",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "363415",
       "title": "Ryan White HIV/AIDS Program Part D - Women, Infants, Children and Youth Grant Supplemental Funding",
       "agency": "HHS-HRSA",
@@ -1920,6 +1900,16 @@
       "deadline": "08/01/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363405",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363392",
+      "title": "Fiscal Year 2027 Regional Nutrition Hubs",
+      "agency": "HHS-HRSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363392",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1964,32 +1954,22 @@
       "description": ""
     },
     {
-      "id": "363389",
-      "title": "Demonstration Projects for Whole-Person Health Models for Women Living with HIV in the South",
-      "agency": "HHS-CDC-NCHHSTP",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363389",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361960",
-      "title": "National Center for Native Training and Technical Assistance (the Center)",
-      "agency": "HHS-ACF-ANA",
-      "deadline": "08/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361960",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363326",
       "title": "Plant Protection Act Section 7721 Fiscal Year 2027 National Clean Plant Network (NCPN)",
       "agency": "USDA-APHIS",
       "deadline": "10/19/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363326",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363332",
+      "title": "Early Detection, Response, and Control of Global Rabies Outbreaks and Associated Threats to America's Dog-Rabies Free Status",
+      "agency": "HHS-CDC-HHSCDCERA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363332",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2020,16 +2000,6 @@
       "deadline": "08/24/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363311",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363302",
-      "title": "Advancing Oil and Natural Gas Production and Delivery",
-      "agency": "DOE-NETL",
-      "deadline": "09/22/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363302",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2200,6 +2170,16 @@
       "deadline": "09/02/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362261",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363389",
+      "title": "Demonstration Projects for Whole-Person Health Models for Women Living with HIV in the South",
+      "agency": "HHS-CDC-NCHHSTP",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363389",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2464,12 +2444,12 @@
       "description": ""
     },
     {
-      "id": "361908",
-      "title": "Economic Advancement Grants for Local Empowerment (EAGLE)",
+      "id": "361960",
+      "title": "National Center for Native Training and Technical Assistance (the Center)",
       "agency": "HHS-ACF-ANA",
       "deadline": "08/27/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361908",
+      "url": "https://www.grants.gov/search-results-detail/361960",
       "source": "Grants.gov",
       "description": ""
     },
