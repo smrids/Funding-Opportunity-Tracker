@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T23:39:25Z",
-  "total": 257,
+  "last_updated": "2026-08-02T23:39:56Z",
+  "total": 256,
   "by_source": {
     "AI & Digital Health": 7,
     "NIH (Global Health)": 73,
@@ -8,7 +8,7 @@
     "ARPA-H": 39,
     "PCORI": 25,
     "NSF": 27,
-    "Grants.gov": 62,
+    "Grants.gov": 61,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 9
   },
@@ -1890,16 +1890,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363415",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363405",
-      "title": "Alumni Engagement Innovation Fund 2026",
-      "agency": "DOS-LAO",
-      "deadline": "08/01/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363405",
       "source": "Grants.gov",
       "description": ""
     },
