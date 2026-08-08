@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T23:16:13Z",
+  "last_updated": "2026-08-08T23:03:08Z",
   "total": 235,
   "by_source": {
     "AI & Digital Health": 7,
@@ -1664,16 +1664,6 @@
       "description": ""
     },
     {
-      "id": "358857",
-      "title": "Research Centers in Minority Institutions (RCMI) Coordinating Center (U24 - Clinical Trial Optional)",
-      "agency": "National Science Foundation",
-      "deadline": "08/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/358857",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "363070",
       "title": "Middle East Regional Cooperation (MERC)",
       "agency": "National Science Foundation",
@@ -1800,6 +1790,16 @@
       "deadline": "09/09/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360986",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "360874",
+      "title": "Atopic Dermatitis Research Network (ADRN) (U19 Clinical Trial Optional)",
+      "agency": "National Science Foundation",
+      "deadline": "09/24/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360874",
       "source": "NSF",
       "description": ""
     },
@@ -2054,16 +2054,6 @@
       "description": ""
     },
     {
-      "id": "363043",
-      "title": "Voices for the Future",
-      "agency": "DOS-IDN",
-      "deadline": "08/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363043",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362857",
       "title": "DoW Joint Warfighter Medical, Military Medical Research and Development Award",
       "agency": "DOD-AMRAA",
@@ -2090,6 +2080,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362731",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361822",
+      "title": "Home Study and Post-Release Services for Unaccompanied Alien Children&#8203;&#8203;",
+      "agency": "HHS-ACF-ORR",
+      "deadline": "10/01/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361822",
       "source": "Grants.gov",
       "description": ""
     },
