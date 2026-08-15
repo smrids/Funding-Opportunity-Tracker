@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-08-14T22:57:58Z",
-  "total": 306,
+  "last_updated": "2026-08-15T22:57:02Z",
+  "total": 307,
   "by_source": {
     "AI & Digital Health": 7,
-    "NIH (Global Health)": 62,
-    "UNGM (UN Agencies)": 19,
+    "NIH (Global Health)": 63,
+    "UNGM (UN Agencies)": 18,
     "Wellcome Leap": 53,
     "ARPA-H": 39,
     "PCORI": 25,
     "NSF": 28,
-    "Grants.gov": 61,
+    "Grants.gov": 62,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -445,12 +445,12 @@
       "description": ""
     },
     {
-      "id": "363515",
-      "title": "Public Diplomacy Grants/Small Grants Program - Ghana",
+      "id": "362237",
+      "title": "Community Economic Development Projects",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "08/14/2026",
+      "deadline": "09/08/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363515",
+      "url": "https://www.grants.gov/search-results-detail/362237",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -645,6 +645,16 @@
       "description": ""
     },
     {
+      "id": "363194",
+      "title": "Disrupting Transnational Criminal Organizations Through Advanced Forensic Capabilities in Morocco",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/09/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363194",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "360368",
       "title": "Administrative Supplements to Existing NIH Grants and Cooperative Agreements (Parent Admin Supp Clinical Trial Optional)",
       "agency": "NIH/Fogarty International Center",
@@ -753,16 +763,6 @@
       "url": "https://www.ungm.org/Public/Notice/310128",
       "source": "UNGM (UN Agencies)",
       "description": "Request for proposal"
-    },
-    {
-      "id": "ungm-308630",
-      "title": "The Provision of Consulting Services for Delivering the Capacity Building Training Programme on Malnutrition Case Management",
-      "agency": "UN Agency",
-      "deadline": "2026-08-15",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/308630",
-      "source": "UNGM (UN Agencies)",
-      "description": ""
     },
     {
       "id": "ungm-310465",
@@ -2455,22 +2455,32 @@
       "description": ""
     },
     {
-      "id": "363524",
-      "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
-      "agency": "DOS-OES",
-      "deadline": "08/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363524",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363530",
       "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) CAPACITY BUILDING (CB)",
       "agency": "DOD-AFOSR",
       "deadline": "04/05/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363530",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363505",
+      "title": "Promoting Civilizational Values",
+      "agency": "DOS-DRL",
+      "deadline": "08/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363505",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363486",
+      "title": "DRL Ensuring Resilient Seafood Supply Chains: Countering Forced Labor and any associated Illegal, Unreported and Unregulated Fishing",
+      "agency": "DOS-DRL",
+      "deadline": "09/03/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363486",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2565,26 +2575,6 @@
       "description": ""
     },
     {
-      "id": "360339",
-      "title": "Strengthening global health security through local partnerships in Uganda",
-      "agency": "HHS-CDC-GHC",
-      "deadline": "08/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360339",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "360341",
-      "title": "Sustaining Global Health Security to protect and improve public health in Kenya",
-      "agency": "HHS-CDC-GHC",
-      "deadline": "08/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360341",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363065",
       "title": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
       "agency": "DOE-NETL",
@@ -2605,22 +2595,42 @@
       "description": ""
     },
     {
-      "id": "362798",
-      "title": "Technical Assistance and Training for Rural, Small and Tribal Municipalities and Wastewater Treatment Systems",
-      "agency": "EPA",
-      "deadline": "08/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362798",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362731",
       "title": "Integrated Viral Hepatitis Surveillance, Testing, Treatment, and Prevention Programs for Health Departments (IVH-STTP)",
       "agency": "HHS-CDC-NCHHSTP",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362731",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361822",
+      "title": "Home Study and Post-Release Services for Unaccompanied Alien Children&#8203;&#8203;",
+      "agency": "HHS-ACF-ORR",
+      "deadline": "10/01/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361822",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362681",
+      "title": "Research Interests of the Air Force Office of Scientific Research",
+      "agency": "DOD-AFOSR",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362681",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362370",
+      "title": "Lead-Safe and Healthy Homes Financing Demonstration",
+      "agency": "HUD",
+      "deadline": "09/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362370",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2875,12 +2885,12 @@
       "description": ""
     },
     {
-      "id": "362237",
-      "title": "Community Economic Development Projects",
-      "agency": "HHS-ACF-OCS",
+      "id": "362412",
+      "title": "Evaluations of Practices for Program Integrity and Fraud Prevention",
+      "agency": "HHS-ACF",
       "deadline": "09/08/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362237",
+      "url": "https://www.grants.gov/search-results-detail/362412",
       "source": "Grants.gov",
       "description": ""
     },
