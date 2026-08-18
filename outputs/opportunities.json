@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-17T22:58:47Z",
-  "total": 265,
+  "last_updated": "2026-08-18T22:58:44Z",
+  "total": 244,
   "by_source": {
     "AI & Digital Health": 7,
-    "NIH (Global Health)": 59,
-    "UNGM (UN Agencies)": 18,
+    "NIH (Global Health)": 62,
+    "UNGM (UN Agencies)": 16,
     "ARPA-H": 40,
-    "PCORI": 41,
-    "NSF": 34,
-    "Grants.gov": 54,
+    "PCORI": 25,
+    "NSF": 30,
+    "Grants.gov": 52,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -84,6 +84,106 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
+      "id": "363639",
+      "title": "Documenting Violence Against Women and Children",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363639",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363640",
+      "title": "Independent Journalism Consortium in Europe",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363640",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363646",
+      "title": "Global Rapid Response Fund for Advancing Fundamental Freedoms",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363646",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363645",
+      "title": "University-led Networks for Innovation, Technology, and Expertise (UNITE)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/17/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363645",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363648",
+      "title": "BJS FY 2026 Consolidated National Criminal History Improvement Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/28/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363648",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363649",
+      "title": "Advancing Global Health",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "02/14/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363649",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363650",
+      "title": "Behavioral Health Integration Initiative",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363650",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363651",
+      "title": "Healthy Lifestyles in Youth",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363651",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363652",
+      "title": "Substance Abuse Prevention, Treatment, and Aftercare",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363652",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363653",
+      "title": "Zero Suicide Initiative",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363653",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "363611",
       "title": "Fiscal Year (FY) 2026 Funding Opportunity for Indian Tribes and Intertribal Consortia for Nonpoint Source Management Grants Under Clean Water Act Section 319",
       "agency": "NIH/Fogarty International Center",
@@ -144,16 +244,6 @@
       "description": ""
     },
     {
-      "id": "363633",
-      "title": "Egypt  Annual Program Statement",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363633",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363632",
       "title": "ONR FY27 NOFO for Young Investigator Program",
       "agency": "NIH/Fogarty International Center",
@@ -194,82 +284,12 @@
       "description": ""
     },
     {
-      "id": "363600",
-      "title": "Rural Communities Opioid Response Program - Evaluation",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363600",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363596",
-      "title": "Pax Silica Artificial Intelligence Assistance Project",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363596",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363591",
-      "title": "Capacity Building for Global, Regional, and National Immunization Programs",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363591",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363592",
-      "title": "Promoting Population Health through Increased Capacity in Alcohol Epidemiology &amp; the Prevention of Excessive Alcohol Use",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363592",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363595",
-      "title": "DRL Promoting Sovereignty and Rule of Law in Europe",
+      "id": "363633",
+      "title": "Egypt  Annual Program Statement",
       "agency": "NIH/Fogarty International Center",
       "deadline": "08/31/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363595",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363590",
-      "title": "Logistical Support for Citizen Security, counternarcotics, border security, criminal deterrence and Law Enforcement Projects in Honduras",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363590",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363601",
-      "title": "Rural Communities Opioid Response Program - Community Systems Development",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363601",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363602",
-      "title": "BJA FY 2026 Public Safety and Mental Health Initiative",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/25/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363602",
+      "url": "https://www.grants.gov/search-results-detail/363633",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -314,6 +334,16 @@
       "description": ""
     },
     {
+      "id": "363603",
+      "title": "FY26 National Dam Safety Program State Assistance Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363603",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "363606",
       "title": "Documentation of Human Rights Abuses by Organized Criminal Groups",
       "agency": "NIH/Fogarty International Center",
@@ -324,22 +354,52 @@
       "description": ""
     },
     {
-      "id": "363607",
-      "title": "Advancing Global Health",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "02/14/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363607",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363594",
       "title": "Annual Recurring University Training and Research",
       "agency": "NIH/Fogarty International Center",
       "deadline": "10/16/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363594",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363596",
+      "title": "Pax Silica Artificial Intelligence Assistance Project",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363596",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363591",
+      "title": "Capacity Building for Global, Regional, and National Immunization Programs",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363591",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363595",
+      "title": "DRL Promoting Sovereignty and Rule of Law in Europe",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363595",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363590",
+      "title": "Logistical Support for Citizen Security, counternarcotics, border security, criminal deterrence and Law Enforcement Projects in Honduras",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363590",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -370,36 +430,6 @@
       "deadline": "09/10/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363541",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363544",
-      "title": "Cooperative Agreement for Affiliated Partner with the Colorado Plateau Cooperative Ecosystem Studies Unit (CESU)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/12/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363544",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363545",
-      "title": "Cooperative Agreement for Affiliated Partner with the Californian Cooperative Ecosystem Studies Unit (CESU)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/12/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363545",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363549",
-      "title": "Pacific Disaster Center",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363549",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -724,16 +754,6 @@
       "description": "Request for proposal"
     },
     {
-      "id": "ungm-309663",
-      "title": "National Consultant for Nutrition Expert",
-      "agency": "UNDP-BGD-01192",
-      "deadline": "2026-08-18",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/309663",
-      "source": "UNGM (UN Agencies)",
-      "description": "Call for individual consultants"
-    },
-    {
       "id": "ungm-310465",
       "title": "RFP-FAOYEM-005-2026-Nutrition Component-206-WBK",
       "agency": "FAO",
@@ -782,16 +802,6 @@
       "url": "https://www.ungm.org/Public/Notice/308804",
       "source": "UNGM (UN Agencies)",
       "description": ""
-    },
-    {
-      "id": "ungm-310160",
-      "title": "National Consultant for Legal Environment Assessment dissemination of HIV",
-      "agency": "UNDP-MOZ-00943",
-      "deadline": "2026-08-18",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/310160",
-      "source": "UNGM (UN Agencies)",
-      "description": "Call for individual consultants"
     },
     {
       "id": "ungm-310325",
@@ -1504,166 +1514,6 @@
       "description": ""
     },
     {
-      "id": "pcori-2525a92da6",
-      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-07c6f91508",
-      "title": "Phased Large Awards for Comparative Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/phased-large-awards-comparative-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-356b1fbad1",
-      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-88f702f07c",
-      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-6d56c35e56",
-      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-069f4ed534",
-      "title": "Engagement Award: Capacity Building -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-9870b5c7e9",
-      "title": "Engagement Award: Dissemination Initiative -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-2b3c3ef239",
-      "title": "Engagement Award: Convening Support -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-1531f51b34",
-      "title": "Addressing Rare Diseases PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/addressing-rare-diseases-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-fb4b158df9",
-      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-086e7736a4",
-      "title": "Phased Large Awards for Comparative Effectiveness Research PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/phased-large-awards-comparative-effectiveness-research-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-bf9186b56b",
-      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-8624cfcdd6",
-      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-91d00e9a0c",
-      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-afa2b2c4e3",
-      "title": "Open Competition: Implementation of Findings From PCORI's Research Investments PCORI Funding Announcement -- Cycle 3 2025",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/open-competition-implementation-findings-pcoris-research-investments-pcori-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-dba9a701b8",
-      "title": "Broad Pragmatic Studies Supplemental Funding Announcement (SFA) to Support Studies within a Study Focused on Developing and Validating Measures to Advance the Science of Engagement in Research -- Cycle 3 2025 (Invitation Only)",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/swas-supplemental-funding-announcement-cycle-3-2025",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
       "id": "363613",
       "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
       "agency": "National Science Foundation",
@@ -1764,16 +1614,6 @@
       "description": ""
     },
     {
-      "id": "363614",
-      "title": "Engineering (ENG): Civil, Mechanical and Manufacturing Innovation (CMMI)",
-      "agency": "National Science Foundation",
-      "deadline": "08/17/2076",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363614",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "363628",
       "title": "FY25 and FY26 Advanced Digital Construction Management Systems (ADCMS)",
       "agency": "National Science Foundation",
@@ -1784,42 +1624,12 @@
       "description": ""
     },
     {
-      "id": "363630",
-      "title": "Focused Research Groups in the Mathematical Sciences (MS-FRG)",
-      "agency": "National Science Foundation",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363630",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363618",
-      "title": "MPS Materials Research Programs (MPS Materials)",
-      "agency": "National Science Foundation",
-      "deadline": "08/17/2076",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363618",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "363488",
       "title": "Partnership with Common Fund Data Ecosystem Resources",
       "agency": "National Science Foundation",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363488",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363453",
-      "title": "Healthy Cooking in Communities",
-      "agency": "National Science Foundation",
-      "deadline": "08/17/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363453",
       "source": "NSF",
       "description": ""
     },
@@ -1994,13 +1804,23 @@
       "description": ""
     },
     {
-      "id": "363637",
-      "title": "BJA FY 2026 Second Chance Act Improving Reentry Education and Employment Outcomes",
+      "id": "360544",
+      "title": "Nutrition Obesity Research Centers (NORCs) (P30 Clinical Trial Optional)",
       "agency": "National Science Foundation",
-      "deadline": "09/24/2026",
+      "deadline": "10/20/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363637",
+      "url": "https://www.grants.gov/search-results-detail/360544",
       "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363618",
+      "title": "MPS Materials Research Programs (MPS Materials)",
+      "agency": "NSF",
+      "deadline": "08/17/2076",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363618",
+      "source": "Grants.gov",
       "description": ""
     },
     {
@@ -2014,22 +1834,22 @@
       "description": ""
     },
     {
-      "id": "363555",
-      "title": "Strategies to Innovate EmeRgENcy Care Clinical Trials Network (SIREN) Infrastructure &ndash; Clinical Coordinating Center (CCC) and Data Coordinating Center (DCC)",
-      "agency": "HHS-NIH11",
-      "deadline": "",
+      "id": "363642",
+      "title": "FY26 Railroad Rights-of-Way and Highway-Railroad Grade Crossing Safety Information and Education Program",
+      "agency": "DOT-FRA",
+      "deadline": "08/31/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363555",
+      "url": "https://www.grants.gov/search-results-detail/363642",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "363556",
-      "title": "Strategies to Innovate EmeRgENcy Care Clinical Trials Network (SIREN) Infrastructure &ndash; Clinical Enrollment Hubs",
-      "agency": "HHS-NIH11",
-      "deadline": "",
+      "id": "363647",
+      "title": "BJS FY 2026 National Criminal History Improvement Program (NCHIP) Training and Technical Assistance",
+      "agency": "USDOJ-OJP-BJS",
+      "deadline": "09/28/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363556",
+      "url": "https://www.grants.gov/search-results-detail/363647",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2054,22 +1874,42 @@
       "description": ""
     },
     {
+      "id": "363544",
+      "title": "Cooperative Agreement for Affiliated Partner with the Colorado Plateau Cooperative Ecosystem Studies Unit (CESU)",
+      "agency": "DOI-USGS1",
+      "deadline": "09/12/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363544",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363545",
+      "title": "Cooperative Agreement for Affiliated Partner with the Californian Cooperative Ecosystem Studies Unit (CESU)",
+      "agency": "DOI-USGS1",
+      "deadline": "09/12/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363545",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363549",
+      "title": "Pacific Disaster Center",
+      "agency": "DOD-WHS",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363549",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "363547",
       "title": "U.S. Mission Iraq EducationUSA Roadshow",
       "agency": "DOS-IRQ",
       "deadline": "09/11/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363547",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363531",
-      "title": "Freedom Shield: Global Forced Labor Import Prohibition Initiative",
-      "agency": "DOL-ILAB",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363531",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2154,26 +1994,6 @@
       "description": ""
     },
     {
-      "id": "362030",
-      "title": "General Departmental Sexual Risk Avoidance Education (GDSRAE)",
-      "agency": "HHS-ACF-FYSB",
-      "deadline": "08/17/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362030",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362128",
-      "title": "Title V Competitive Sexual Risk Avoidance Education",
-      "agency": "HHS-ACF-FYSB",
-      "deadline": "08/17/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362128",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363065",
       "title": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
       "agency": "DOE-NETL",
@@ -2190,6 +2010,26 @@
       "deadline": "11/16/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362857",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "362731",
+      "title": "Integrated Viral Hepatitis Surveillance, Testing, Treatment, and Prevention Programs for Health Departments (IVH-STTP)",
+      "agency": "HHS-CDC-NCHHSTP",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362731",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361822",
+      "title": "Home Study and Post-Release Services for Unaccompanied Alien Children&#8203;&#8203;",
+      "agency": "HHS-ACF-ORR",
+      "deadline": "10/01/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361822",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2354,16 +2194,6 @@
       "description": ""
     },
     {
-      "id": "363559",
-      "title": "Food and Agricultural Sciences National Needs Graduate and Postgraduate Fellowships",
-      "agency": "USDA-NIFA",
-      "deadline": "10/15/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363559",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363532",
       "title": "Alliance for Innovation on Maternal Health (AIM) Technical Assistance Center",
       "agency": "HHS-HRSA",
@@ -2454,92 +2284,52 @@
       "description": ""
     },
     {
-      "id": "362377",
-      "title": "National Resource Centers",
-      "agency": "HHS-ACF-OFVPS",
-      "deadline": "09/08/2026",
+      "id": "363559",
+      "title": "Food and Agricultural Sciences National Needs Graduate and Postgraduate Fellowships",
+      "agency": "USDA-NIFA",
+      "deadline": "10/15/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362377",
+      "url": "https://www.grants.gov/search-results-detail/363559",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "362404",
-      "title": "Specialized Services for Abused Parents and Their Children (Demonstration Projects)",
-      "agency": "HHS-ACF-OFVPS",
-      "deadline": "09/08/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362404",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362378",
-      "title": "Culturally Specific Domestic Violence and Sexual Assault Services",
-      "agency": "HHS-ACF-OFVPS",
-      "deadline": "09/08/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362378",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363581",
-      "title": "Rural Health Network Development Planning Program",
-      "agency": "HHS-HRSA",
+      "id": "363630",
+      "title": "Focused Research Groups in the Mathematical Sciences (MS-FRG)",
+      "agency": "NSF",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363581",
+      "url": "https://www.grants.gov/search-results-detail/363630",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "362071",
-      "title": "&#8203;&#8203;FY 2026 Basic Center Program&#8203;",
-      "agency": "HHS-ACF-FYSB",
-      "deadline": "08/17/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362071",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "362088",
-      "title": "Street Outreach Program (SOP)",
-      "agency": "HHS-ACF-FYSB",
-      "deadline": "08/17/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362088",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363636",
-      "title": "BJA FY 2026 Comprehensive Opioid, Stimulant, and Substance Use Site-Based Program",
+      "id": "363637",
+      "title": "BJA FY 2026 Second Chance Act Improving Reentry Education and Employment Outcomes",
       "agency": "USDOJ-OJP-BJA",
       "deadline": "09/24/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363636",
+      "url": "https://www.grants.gov/search-results-detail/363637",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "363552",
-      "title": "BJS FY 2026 Annual Surveys of Probation and Parole (ASPP) RY 2026-2030",
-      "agency": "USDOJ-OJP-BJS",
-      "deadline": "09/21/2026",
+      "id": "363602",
+      "title": "BJA FY 2026 Public Safety and Mental Health Initiative",
+      "agency": "USDOJ-OJP-BJA",
+      "deadline": "09/25/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363552",
+      "url": "https://www.grants.gov/search-results-detail/363602",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "363543",
-      "title": "Nonfatal Overdoses in Emergency Departments:  Bridging Patient Characteristics, Biospecimen Toxicology, and Drug Supply Composition",
-      "agency": "ONDCP",
-      "deadline": "08/31/2026",
+      "id": "363610",
+      "title": "OVC FY26 Invited to Apply Antiterrorism and Emergency Assistance Program for Crime Victim Compensation and/or Assistance &ndash; Minneapolis, Minnesota (Crisis)",
+      "agency": "USDOJ-OJP-OVC",
+      "deadline": "08/21/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363543",
+      "url": "https://www.grants.gov/search-results-detail/363610",
       "source": "Grants.gov",
       "description": ""
     },
