@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-08-27T03:33:29Z",
-  "total": 231,
+  "last_updated": "2026-08-28T06:20:39Z",
+  "total": 232,
   "by_source": {
     "AI & Digital Health": 7,
-    "NIH (Global Health)": 66,
-    "UNGM (UN Agencies)": 13,
+    "NIH (Global Health)": 65,
+    "UNGM (UN Agencies)": 15,
     "ARPA-H": 40,
     "PCORI": 25,
-    "NSF": 20,
-    "Grants.gov": 49,
-    "WHO": 1,
+    "NSF": 22,
+    "Grants.gov": 46,
+    "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
   "opportunities": [
@@ -84,22 +84,52 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
-      "id": "361002",
-      "title": "Long-term health outcomes of people living with spina bifida",
+      "id": "363722",
+      "title": "Safeguarding U.S. Critical Minerals Supply Chains- Tunisia",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "10/26/2026",
+      "deadline": "09/02/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361002",
+      "url": "https://www.grants.gov/search-results-detail/363722",
       "source": "NIH (Global Health)",
       "description": ""
     },
     {
-      "id": "363719",
-      "title": "Early Warning and Response in Nigeria",
+      "id": "363724",
+      "title": "Research and Education Program for Historically Black Colleges and Universities (HBCU) and Tribal Colleges and Universities (TCU) Equipment/Instrumentation",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "08/28/2026",
+      "deadline": "10/09/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363719",
+      "url": "https://www.grants.gov/search-results-detail/363724",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363723",
+      "title": "Annual Program Statement",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/13/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363723",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363725",
+      "title": "BJA FY 2026 Byrne State Crisis Intervention Formula Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363725",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363732",
+      "title": "FYs 2024 through 2026 - Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) Competitive Grant Program Notice of Funding Opportunity",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/09/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363732",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -130,6 +160,26 @@
       "deadline": "09/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363721",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361002",
+      "title": "Long-term health outcomes of people living with spina bifida",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/26/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361002",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363719",
+      "title": "Early Warning and Response in Nigeria",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/28/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363719",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -194,16 +244,6 @@
       "description": ""
     },
     {
-      "id": "363627",
-      "title": "Fiscal Year 2026 National Urban Search and Rescue Response System",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363627",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363690",
       "title": "Assisting Specialty Crop Exports: Low Oxygen Storage and Packaging Systems for U.S. Tree Nuts with Phytosanitary Traceability",
       "agency": "NIH/Fogarty International Center",
@@ -244,6 +284,16 @@
       "description": ""
     },
     {
+      "id": "363627",
+      "title": "Fiscal Year 2026 National Urban Search and Rescue Response System",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363627",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "363685",
       "title": "Spatial Ecology and Chronic Wasting Disease Dynamics of Wild White-tailed and Mule Deer in Northern Colorado",
       "agency": "NIH/Fogarty International Center",
@@ -260,16 +310,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363686",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363212",
-      "title": "Supporting Implementation of the Labor Provisions of Trade Arrangements for American Worker Competitiveness",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363212",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -294,52 +334,22 @@
       "description": ""
     },
     {
-      "id": "363215",
-      "title": "Ensuring&#8239;&ldquo;Pro-American Worker&rdquo;&#8239;Critical Minerals&#8239;Supply Chain in&#8239;the Western Hemisphere",
+      "id": "363728",
+      "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "09/21/2026",
+      "deadline": "11/04/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363215",
+      "url": "https://www.grants.gov/search-results-detail/363728",
       "source": "NIH (Global Health)",
       "description": ""
     },
     {
-      "id": "363689",
-      "title": "NEA/AC Regional Annual Program Statement",
+      "id": "363729",
+      "title": "SEFSC Bluefin Tuna Research Program",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "09/30/2026",
+      "deadline": "12/31/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363689",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363214",
-      "title": "Protecting the American Seafood Supply Chain by Countering Unfair Labor Practices and Illegal, Unreported, and Unregulated (IUU)&#8239;Fishing&#8239;&#8239;",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363214",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363682",
-      "title": "Agriculture Risk Management Education Partnerships Competitive Grants Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363682",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363716",
-      "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/26/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363716",
+      "url": "https://www.grants.gov/search-results-detail/363729",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -370,6 +380,46 @@
       "deadline": "09/18/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363711",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363689",
+      "title": "NEA/AC Regional Annual Program Statement",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363689",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363212",
+      "title": "Supporting Implementation of the Labor Provisions of Trade Arrangements for American Worker Competitiveness",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363212",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363214",
+      "title": "Protecting the American Seafood Supply Chain by Countering Unfair Labor Practices and Illegal, Unreported, and Unregulated (IUU)&#8239;Fishing&#8239;&#8239;",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363214",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363215",
+      "title": "Ensuring&#8239;&ldquo;Pro-American Worker&rdquo;&#8239;Critical Minerals&#8239;Supply Chain in&#8239;the Western Hemisphere",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363215",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -420,46 +470,6 @@
       "deadline": "10/05/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363657",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363665",
-      "title": "Mi Tierra, Mi Triunfo: Colombians Thriving After Their Return",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363665",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363666",
-      "title": "Sin Rutas, Sin Recursos: Hitting Criminal Networks Where It Hurts",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "08/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363666",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360883",
-      "title": "Limited Competition: Institutional Development Award (IDeA) for Clinical &amp; Translational Research (CTR) (P30 - CT Optional)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/30/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360883",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360611",
-      "title": "Limited Competition: Centers of Biomedical Research Excellence: Development Phase (COBRE-D) (P30 - Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/26/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360611",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -664,26 +674,6 @@
       "description": ""
     },
     {
-      "id": "363194",
-      "title": "Disrupting Transnational Criminal Organizations Through Advanced Forensic Capabilities in Morocco",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/09/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363194",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363070",
-      "title": "Middle East Regional Cooperation (MERC)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363070",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "360368",
       "title": "Administrative Supplements to Existing NIH Grants and Cooperative Agreements (Parent Admin Supp Clinical Trial Optional)",
       "agency": "NIH/Fogarty International Center",
@@ -784,6 +774,16 @@
       "description": "Request for proposal"
     },
     {
+      "id": "ungm-312554",
+      "title": "LRPS-2026-9205863 Personal and Public health and Water purification, Water rationing and Social Responsibility Campaign",
+      "agency": "UNICEF",
+      "deadline": "2026-09-19",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/312554",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
       "id": "ungm-307696",
       "title": "Development of Evidence-based and Comprehensive Technical Recommendations for the Integrated Nutrition and Early Childhood Care and Development (ECCD) Strategy and Capacity Building Package for PMNP CONNECT",
       "agency": "UNICEF",
@@ -820,6 +820,16 @@
       "deadline": "2026-09-09",
       "award_ceiling": "",
       "url": "https://www.ungm.org/Public/Notice/311722",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
+      "id": "ungm-312478",
+      "title": "Institutional partnership with a higher education institution as a Centre of Excellence and Nutrition Knowledge Management Hub for Nutrition in South Sulawesi, East Kalimantan, Maluku and North Maluku",
+      "agency": "UNICEF",
+      "deadline": "2026-09-17",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/312478",
       "source": "UNGM (UN Agencies)",
       "description": "Request for proposal"
     },
@@ -1524,6 +1534,16 @@
       "description": ""
     },
     {
+      "id": "363727",
+      "title": "Hispanic-Serving Institutions: Enriching Learning, Programs, and Student Experiences (HSI:ELPSE)",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363727",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "363695",
       "title": "Small Instruments and Modern Equipment for Shared-use Biomedical Research Facilities and Resources (S15 Clinical Trial Not Allowed)",
       "agency": "National Science Foundation",
@@ -1560,6 +1580,26 @@
       "deadline": "09/20/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363709",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "360883",
+      "title": "Limited Competition: Institutional Development Award (IDeA) for Clinical &amp; Translational Research (CTR) (P30 - CT Optional)",
+      "agency": "National Science Foundation",
+      "deadline": "05/30/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360883",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "360611",
+      "title": "Limited Competition: Centers of Biomedical Research Excellence: Development Phase (COBRE-D) (P30 - Clinical Trial Not Allowed)",
+      "agency": "National Science Foundation",
+      "deadline": "05/26/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360611",
       "source": "NSF",
       "description": ""
     },
@@ -1654,6 +1694,16 @@
       "description": ""
     },
     {
+      "id": "363070",
+      "title": "Middle East Regional Cooperation (MERC)",
+      "agency": "National Science Foundation",
+      "deadline": "09/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363070",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "363050",
       "title": "International Research Scientist Development Award (IRSDA)",
       "agency": "National Science Foundation",
@@ -1704,62 +1754,12 @@
       "description": ""
     },
     {
-      "id": "359268",
-      "title": "Logistics Center for Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) (U24 Clinical Trials Not Allowed)",
-      "agency": "National Science Foundation",
-      "deadline": "10/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359268",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363684",
-      "title": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
-      "agency": "National Science Foundation",
-      "deadline": "08/26/2076",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363684",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "363693",
       "title": "Regional Excellence for Access to Comprehensive Care for Hemophilia Networks (REACH Networks)",
       "agency": "HHS-HRSA",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363693",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363681",
-      "title": "Senator Paul D. Wellstone Muscular Dystrophy Specialized Research Centers (MDSRC)",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363681",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363717",
-      "title": "Geospace Environment Modeling (GEM)",
-      "agency": "NSF",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363717",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363718",
-      "title": "Solar, Heliospheric, and INterplanetary Environment (SHINE)",
-      "agency": "NSF",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363718",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1780,6 +1780,26 @@
       "deadline": "09/08/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363673",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363665",
+      "title": "Mi Tierra, Mi Triunfo: Colombians Thriving After Their Return",
+      "agency": "DOS-COL",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363665",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363666",
+      "title": "Sin Rutas, Sin Recursos: Hitting Criminal Networks Where It Hurts",
+      "agency": "DOS-COL",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363666",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1830,16 +1850,6 @@
       "deadline": "08/31/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363626",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363633",
-      "title": "Egypt  Annual Program Statement",
-      "agency": "DOS-NEA",
-      "deadline": "08/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363633",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2024,6 +2034,16 @@
       "description": ""
     },
     {
+      "id": "363633",
+      "title": "Egypt  Annual Program Statement",
+      "agency": "DOS-NEA",
+      "deadline": "08/31/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363633",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "363591",
       "title": "Capacity Building for Global, Regional, and National Immunization Programs",
       "agency": "HHS-CDC-GHC",
@@ -2064,12 +2084,12 @@
       "description": ""
     },
     {
-      "id": "363534",
-      "title": "FY26 Bureau of Land Management Threatened and Endangered Species - Bureau wide",
-      "agency": "DOI-BLM",
-      "deadline": "09/11/2026",
+      "id": "363682",
+      "title": "Agriculture Risk Management Education Partnerships Competitive Grants Program",
+      "agency": "USDA-NIFA",
+      "deadline": "09/21/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363534",
+      "url": "https://www.grants.gov/search-results-detail/363682",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2174,6 +2194,16 @@
       "description": ""
     },
     {
+      "id": "363684",
+      "title": "Geosciences Core Research: Atmospheric, Geospace, Earth and Ocean Sciences (GEO Core)",
+      "agency": "NSF",
+      "deadline": "08/26/2076",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363684",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "363683",
       "title": "Modernizing Violent Death and Suicide Surveillance Using the National Violent Death Reporting System (NVDRS)",
       "agency": "HHS-CDC-NCIPC",
@@ -2184,38 +2214,17 @@
       "description": ""
     },
     {
-      "id": "363703",
-      "title": "OVC FY2026 Invited to Apply Antiterrorism and Emergency Assistance Program for Crime Victim Compensation and/or Assistance &ndash; Traverse City, Michigan (Crisis)",
-      "agency": "USDOJ-OJP-OVC",
-      "deadline": "08/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363703",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363698",
-      "title": "OVC FY2026 Invited to Apply Antiterrorism and Emergency Assistance Program for Crime Victim Compensation and/or Assistance &ndash; East Lansing, Michigan",
-      "agency": "USDOJ-OJP-OVC",
-      "deadline": "08/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363698",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363702",
-      "title": "OVC FY2026 Invited to Apply Antiterrorism and Emergency Assistance Program for Crime Victim Compensation and/or Assistance &ndash; Rochester Hills, Michigan",
-      "agency": "USDOJ-OJP-OVC",
-      "deadline": "08/27/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363702",
-      "source": "Grants.gov",
-      "description": ""
+      "id": "03d7b630-c1fb-4e0f-8043-d37a5f0c80db",
+      "title": "Most countries make progress towards universal health coverage, but major challenges remain, WHO\u2013World Bank report finds",
+      "agency": "World Health Organization",
+      "deadline": "",
+      "url": "https://www.who.int/06-12-2025-most-countries-make-progress-towards-universal-health-coverage-but-major-challenges-remain-who-world-bank-report-finds",
+      "source": "WHO",
+      "description": "News release \u2014 2025-12-06"
     },
     {
       "id": "8d92e01cbf9bf7be902b45eeda7fc79c",
-      "title": "The Pandemic Fund \n \n \n \n \n                                The Pandemic Fund is a multilateral financing mechanism dedicated to providing multiyear grants for enhancing pandemic preparedness in low- and middle-income countries.",
+      "title": "The Pandemic Fund \n \n \n \n \nThe Pandemic Fund is a multilateral financing mechanism dedicated to providing multiyear grants for enhancing pandemic preparedness in low- and middle-income countries.",
       "agency": "World Health Organization",
       "deadline": "",
       "url": "https://www.who.int/emergencies/funding/pandemic-fund",
