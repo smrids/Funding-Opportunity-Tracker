@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-05T00:23:11Z",
-  "total": 299,
+  "last_updated": "2026-09-06T00:12:04Z",
+  "total": 298,
   "by_source": {
     "AI & Digital Health": 6,
     "NIH (Global Health)": 73,
@@ -8,8 +8,8 @@
     "Wellcome Leap": 53,
     "ARPA-H": 40,
     "PCORI": 25,
-    "NSF": 28,
-    "Grants.gov": 46,
+    "NSF": 29,
+    "Grants.gov": 44,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -75,6 +75,26 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
+      "id": "363822",
+      "title": "American Alligators as Ecological Indicators of Everglades Restoration",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363822",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363819",
+      "title": "Juvenile Sportfish Community and Habitat Suitability in Florida Bay",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363819",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "363816",
       "title": "Outreach and Assistance for Veteran Farmers and Ranchers Program",
       "agency": "NIH/Fogarty International Center",
@@ -91,16 +111,6 @@
       "deadline": "09/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363818",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363819",
-      "title": "Juvenile Sportfish Community and Habitat Suitability in Florida Bay",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363819",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -311,16 +321,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363783",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363777",
-      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363777",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -992,7 +992,7 @@
       "award_ceiling": "",
       "url": "https://wellcomeleap.org/programs/resistance-networks/",
       "source": "Wellcome Leap",
-      "description": "NEW $50M PROGRAM With support from Bayer Apply Now ABSTRACT PORTAL WILL OPEN 15 JULY 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full abstract and submit your application before 22 July 2026 at 11:59pm ET. PROPOSAL PORTAL WILL OPEN 28 AUGUST 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full proposal and submit your application before 4 September 2026 at 11:59pm ET. Download the full"
+      "description": "NEW $50M PROGRAM With support from Bayer Apply Now ABSTRACT PORTAL WILL OPEN 15 JULY 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full abstract and submit your application before 22 July 2026 at 11:59pm ET. PROPOSAL PORTAL WILL OPEN 28 AUGUST 2026 AT 11:59PM ET. Proposal decisions will be sent: 3 Oct 2026 @ 7:00am ET. Download the full program announcement here . Antibiotics are a foundatio"
     },
     {
       "id": "wleap-37911",
@@ -2175,6 +2175,16 @@
       "description": ""
     },
     {
+      "id": "363823",
+      "title": "Wading Bird Response to Ecosystem Restoration in Southwest Florida",
+      "agency": "National Science Foundation",
+      "deadline": "10/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363823",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "363801",
       "title": "NIH Director's Pioneer Award (DP1 Clinical Trial Optional)",
       "agency": "National Science Foundation",
@@ -2445,16 +2455,6 @@
       "description": ""
     },
     {
-      "id": "363823",
-      "title": "Wading Bird Response to Ecosystem Restoration in Southwest Florida",
-      "agency": "DOD-COE-FW",
-      "deadline": "10/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363823",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363807",
       "title": "Residential Treatment for Pregnant and Postpartum Women",
       "agency": "HHS-SAMHS-SAMHSA",
@@ -2481,16 +2481,6 @@
       "deadline": "09/09/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363798",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363813",
-      "title": "Emergency Department Alternatives to Opioids Program",
-      "agency": "HHS-SAMHS-SAMHSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363813",
       "source": "Grants.gov",
       "description": ""
     },
