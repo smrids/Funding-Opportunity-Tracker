@@ -1,15 +1,14 @@
 {
-  "last_updated": "2026-09-10T00:35:14Z",
-  "total": 313,
+  "last_updated": "2026-09-11T00:32:41Z",
+  "total": 252,
   "by_source": {
     "AI & Digital Health": 6,
-    "NIH (Global Health)": 72,
-    "UNGM (UN Agencies)": 14,
-    "Wellcome Leap": 53,
+    "NIH (Global Health)": 78,
+    "UNGM (UN Agencies)": 16,
     "ARPA-H": 41,
-    "PCORI": 39,
+    "PCORI": 25,
     "NSF": 32,
-    "Grants.gov": 44,
+    "Grants.gov": 42,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -73,6 +72,96 @@
       "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
       "source": "AI & Digital Health",
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+    },
+    {
+      "id": "363834",
+      "title": "Undiagnosed Diseases Network (UDN) Clinical Networks of Diagnostic Excellence",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363834",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363835",
+      "title": "Network for Excellence in Neuroscience Clinical Trials (NeuroNEXT) Infrastructure &ndash; Clinical Research Sites (U24 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363835",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363839",
+      "title": "Network for Excellence in Neuroscience Clinical Trials (NeuroNEXT) Infrastructure &ndash; Clinical Coordinating Center (CCC) &amp; Data Coordinating Center (DCC)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363839",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363838",
+      "title": "NIH Stroke Clinical Trials Network (StrokeNet) Infrastructure &ndash; Regional Coordinating Stroke Centers (RCCs)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363838",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363843",
+      "title": "Advisory Support for Establishing a National Cybersecurity Operations Center (SOC)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363843",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363846",
+      "title": "Hispanic-Serving Institutions Education Grants Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/03/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363846",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363841",
+      "title": "NIH Stroke Clinical Trials Network (StrokeNet) Infrastructure &ndash; National Coordinating Center (NCC) and National Data Management Center (NDMC)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363841",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363848",
+      "title": "Limited Competition: BRAIN Initiative: Promoting Health for All Through BRAIN Technology Partnerships",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363848",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363844",
+      "title": "Native Public Health Resilience",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363844",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "363830",
@@ -155,16 +244,6 @@
       "description": ""
     },
     {
-      "id": "363819",
-      "title": "Juvenile Sportfish Community and Habitat Suitability in Florida Bay",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363819",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363820",
       "title": "American Crocodile Monitoring as an Indicator of Hydrologic Restoration in the Southern Estuaries for the U.S. Army Corps of Engineers, Jacksonville District.",
       "agency": "NIH/Fogarty International Center",
@@ -181,6 +260,16 @@
       "deadline": "10/05/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363822",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363819",
+      "title": "Juvenile Sportfish Community and Habitat Suitability in Florida Bay",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363819",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -235,92 +324,12 @@
       "description": ""
     },
     {
-      "id": "363808",
-      "title": "State Pilot Program for Treatment for Pregnant and Postpartum Women",
+      "id": "363847",
+      "title": "State Recreational Boating Safety (RBS) Grant Program",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "",
+      "deadline": "10/30/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363808",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363814",
-      "title": "Cancer Prevention and Control Programs for State, Territorial, and Tribal Organizations",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "02/05/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363814",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363812",
-      "title": "Children's Mental Health Initiative",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363812",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363784",
-      "title": "Tribal Colleges Extension Program Special Emphasis",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363784",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363785",
-      "title": "Emergency Citrus Disease Research and Extension Pre-Applications",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363785",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363786",
-      "title": "Egypt  Annual Program Statement",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/01/2099",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363786",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360554",
-      "title": "NIH Brain Development Cohorts (NBDC) and&nbsp;Population Assessment of Tobacco and Health (PATH) Study&nbsp;Biospecimen Access (X01 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "04/17/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360554",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363763",
-      "title": "Native Hawaiian Library Services Grants (2027)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/13/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363763",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363762",
-      "title": "Native American Library Services Enhancement Grants (2027)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/13/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363762",
+      "url": "https://www.grants.gov/search-results-detail/363847",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -345,6 +354,16 @@
       "description": ""
     },
     {
+      "id": "363784",
+      "title": "Tribal Colleges Extension Program Special Emphasis",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363784",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "363791",
       "title": "Head Start/Early Head Grants in Multiple States",
       "agency": "NIH/Fogarty International Center",
@@ -361,6 +380,26 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363792",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363786",
+      "title": "Egypt  Annual Program Statement",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/01/2099",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363786",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "360554",
+      "title": "NIH Brain Development Cohorts (NBDC) and&nbsp;Population Assessment of Tobacco and Health (PATH) Study&nbsp;Biospecimen Access (X01 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "04/17/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360554",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -421,6 +460,26 @@
       "deadline": "11/13/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363776",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363763",
+      "title": "Native Hawaiian Library Services Grants (2027)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/13/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363763",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363762",
+      "title": "Native American Library Services Enhancement Grants (2027)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/13/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363762",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -695,16 +754,6 @@
       "description": ""
     },
     {
-      "id": "363194",
-      "title": "Disrupting Transnational Criminal Organizations Through Advanced Forensic Capabilities in Morocco",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/09/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363194",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363070",
       "title": "Middle East Regional Cooperation (MERC)",
       "agency": "NIH/Fogarty International Center",
@@ -731,6 +780,16 @@
       "deadline": "09/15/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/358955",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "358289",
+      "title": "Notice of Intent:  Program to End Modern Slavery FY 2025",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/01/2099",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358289",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -825,6 +884,16 @@
       "description": "Request for proposal"
     },
     {
+      "id": "ungm-313904",
+      "title": "To conduct \"Assessment of the VaxEPI Digital Immunization self-registration Platform: Implementation, Performance, Interoperability, scalability and Public Health Value in Bangladesh\".",
+      "agency": "UNICEF",
+      "deadline": "2026-09-30",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/313904",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
       "id": "ungm-313382",
       "title": "Solarization of the Directorate of Food and Nutrition (DFN) Office with 24kva Output system. Only for businesses registered in Sierra Leone A bid conference will be held on 09.09.2026 @ 10hrs GMT",
       "agency": "UNICEF",
@@ -851,6 +920,16 @@
       "deadline": "2026-09-17",
       "award_ceiling": "",
       "url": "https://www.ungm.org/Public/Notice/312478",
+      "source": "UNGM (UN Agencies)",
+      "description": "Request for proposal"
+    },
+    {
+      "id": "ungm-314036",
+      "title": "LRPS MADA 2026-9206023 - Recrutement d\u2019une firme pour la revue du syst\u00e8me d\u2019information int\u00e9gr\u00e9 de nutrition et de protection sociale et renforcement de capacit\u00e9 des \u00e9quipes du projet sur la plateforme Commcare.",
+      "agency": "UNICEF",
+      "deadline": "2026-09-24",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/314036",
       "source": "UNGM (UN Agencies)",
       "description": "Request for proposal"
     },
@@ -933,536 +1012,6 @@
       "url": "https://www.ungm.org/Public/Notice/311212",
       "source": "UNGM (UN Agencies)",
       "description": "Request for proposal"
-    },
-    {
-      "id": "wleap-39047",
-      "title": "Wellcome Leap Appoints John Young and Thomas Glanzmann to Board of Directors",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/news/wellcome-leap-appoints-john-young-and-thomas-glanzmann-to-board-of-directors/",
-      "source": "Wellcome Leap",
-      "description": "Wellcome Leap Appoints John Young and Thomas Glanzmann to Board of Directors September 9, 2026 Share this work San Diego, CA \u2013 September 9, 2026 \u2013 Wellcome Leap (Leap), a U.S. nonprofit founded by the Wellcome Trust to accelerate breakthroughs in human health, today announced that John Young and Thomas Glanzmann have joined its Board of Directors. \u201cThroughout my career, I have seen what becomes po"
-    },
-    {
-      "id": "wleap-38304",
-      "title": "CARE",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/care/",
-      "source": "Wellcome Leap",
-      "description": "$50M PROGRAM care Worldwide, someone develops Alzheimer&#8217;s disease every 3.2 seconds. Two-thirds of all Alzheimer\u2019s patients are women. CARE: Cutting Alzheimer\u2019s Risk through Endocrinology, is a new $50 million program focused on the intersection of neuroendocrine risks and neurodegeneration to cut Alzheimer\u2019s risk for women in half. CARE aims to cut the lifetime risk of Alzheimer\u2019s among wom"
-    },
-    {
-      "id": "wleap-38243",
-      "title": "The Missed Vital Sign",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/the-missed-vital-sign/",
-      "source": "Wellcome Leap",
-      "description": "$50M PROGRAM the missed vital sign Every minute, somewhere in the US, a woman requires a blood transfusion \u2014 because she is menstruating. Heavy menstrual bleeding (HMB) is more common than asthma or diabetes in reproductive aged women. As well as causing adverse physical health conditions like anemia, HMB also results in poor emotional and financial health. But it is largely ignored. \u201c If any othe"
-    },
-    {
-      "id": "wleap-38181",
-      "title": "Resistance Networks",
-      "agency": "Wellcome Leap",
-      "deadline": "2026-07-22",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/resistance-networks/",
-      "source": "Wellcome Leap",
-      "description": "NEW $50M PROGRAM With support from Bayer Apply Now ABSTRACT PORTAL WILL OPEN 15 JULY 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full abstract and submit your application before 22 July 2026 at 11:59pm ET. PROPOSAL PORTAL WILL OPEN 28 AUGUST 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full proposal and submit your application before 4 September 2026 at 11:59pm ET. Download the full"
-    },
-    {
-      "id": "wleap-37911",
-      "title": "Wellcome Leap Announces $2 Million Prize in $50 Million Quantum for Bio Challenge Program",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/q4bio_prize_announcement/",
-      "source": "Wellcome Leap",
-      "description": "Wellcome Leap Announces $2 Million Prize in $50 Million Quantum for Bio Challenge Program First-ever demonstration of an end-to-end quantum-classical workflow for simulating complex therapeutics, unlocking a credible path to near-term quantum advantage in health. April 16, 2026 Share this work San Diego, CA \u2013 April 16, 2026 \u2013 Wellcome Leap (Leap), a U.S. nonprofit founded by the Wellcome Trust to "
-    },
-    {
-      "id": "wleap-37648",
-      "title": "Focused Antibiotics",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/focused-antibiotics/",
-      "source": "Wellcome Leap",
-      "description": "NEW $50M PROGRAM APPLY NOW We are pleased to announce the selected performers . Matthew Bogyo, Stanford University Serena de Gelidi, Calla Lily Clinical Care Cesar de la Fuente, University of Pennsylvania Allan Gamble, University of Otago Chandramowli Ganesh, Tranalab Private Limited Anthony Handlon, Walter Reed Army Institute of Research Vanessa Harris, Amsterdam University Medical Centers Audrey"
-    },
-    {
-      "id": "wleap-37256",
-      "title": "Suzanne Nora Johnson Joins Wellcome Leap Board of Directors",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/news/suzanne-nora-johnson-board-of-directors/",
-      "source": "Wellcome Leap",
-      "description": "Suzanne Nora Johnson Joins Wellcome Leap Board of Directors March 3, 2026 Share this work San Diego, CA \u2013 March 3, 2026 \u2013 Wellcome Leap (Leap), a U.S. nonprofit founded by the Wellcome Trust to accelerate breakthroughs in human health, today announced that Suzanne Nora Johnson has joined its Board of Directors. \u201cInnovation in healthcare has too often moved at a snail\u2019s pace,\u201d said Suzanne Nora Joh"
-    },
-    {
-      "id": "wleap-36952",
-      "title": "Emerging Breakthroughs Showcase",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/news/jpm-emerging-breakthroughs/",
-      "source": "Wellcome Leap",
-      "description": "emerging breakthroughs A showcase of our global programs. JANUARY 13-14, 2026 / San Francisco, CA Wellcome Leap featured scientific innovations from 10 teams across 5 programs spanning neurodevelopment, maternal care, depression, surgical training, and RNA manufacturing. TO LEARN MORE, CONTACT transitions@wellcomeleap.org LEAP PROGRAMS AT THE EVENT / 1kD / IN UTERO / MCPSYCH / SAVE / R3G 1kD The F"
-    },
-    {
-      "id": "wleap-36431",
-      "title": "VISIBLE",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/visible/",
-      "source": "Wellcome Leap",
-      "description": "NEW $55M PROGRAM jointly funded by Pivotal With support from British Heart Foundation APPLY NOW We are pleased to announce the selected performers . Colin Berry, University of Glasgow Hester den Ruijter, UMC Utrecht Erin Howden, University of New South Wales Peter Kisenge, Jakaya Kikwete Cardiac Institute Rebecca McNeil, RTI International Venkatesh L. Murthy, University of Michigan Paul D. Pang, G"
-    },
-    {
-      "id": "wleap-36359",
-      "title": "Wellcome Leap and Medicines360 Announce Partnership to Accelerate Development and Access to New Lifesaving Pregnancy and Stillbirth Risk-Reduction Tools for Women Worldwide",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/news/medicines360_partnership_news/",
-      "source": "Wellcome Leap",
-      "description": "Wellcome Leap and Medicines360 Announce Partnership to Accelerate Development and Access to New Lifesaving Pregnancy and Stillbirth Risk-Reduction Tools for Women Worldwide Collaboration will transform biomarkers into precision insights across gestation \u2013 so every pregnancy has the best chance of a healthy outcome. Jan 12, 2026 Share this work SAN FRANCISCO, Jan. 12, 2026 \u2013 Wellcome Leap, a U.S. n"
-    },
-    {
-      "id": "wleap-35876",
-      "title": "FORM",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/form/",
-      "source": "Wellcome Leap",
-      "description": "NEW $50M Program Foundations of a Resilient Microbiome APPLY NOW We are pleased to announce the selected performers . Kiran Raosaheb Patil, University of Cambridge Laurel Gabard-Durnam, Northeastern University Samuel Forster, Hudson Institute of Medical Research Michelle A. O\u2019Malley, University of California, Santa Barbara Peter Vuillermin, Deakin University Anne CC Lee, Brown University James Mor"
-    },
-    {
-      "id": "wleap-35558",
-      "title": "Wellcome Leap and Pivotal Commit $100 Million to Women\u2019s Health Research to Deliver Breakthroughs in Years, Not Decades",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/news/pivotal_partnership_news/",
-      "source": "Wellcome Leap",
-      "description": "Wellcome Leap and Pivotal Commit $100 Million to Women\u2019s Health Research to Deliver Breakthroughs in Years, Not Decades Wellcome Leap and Pivotal Commit $100 Million to Women\u2019s Health Research to Deliver Breakthroughs in Years, Not Decades Partnership brings Leap\u2019s total investment to a quarter billion dollars \u2013 advancing toward a $1 billion goal to transform outcomes for women worldwide. Septembe"
-    },
-    {
-      "id": "wleap-35042",
-      "title": "Women&#8217;s Health",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/womens-health/",
-      "source": "Wellcome Leap",
-      "description": "leap women's health Our total investment in women\u2019s health breakthroughs now over $250M. It's time. Women have waited long enough. A historic partnership with Pivotal, a Melinda French Gates organization . Read the press release. Learn more about the announcement. 4 advanced research programs in progress. 1 more on the way. $50M PROGRAM In Utero What if we could save 1 million babies each year? An"
-    },
-    {
-      "id": "wleap-34834",
-      "title": "R3 Global",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/r3-global/",
-      "source": "Wellcome Leap",
-      "description": "What if a single manufacturing platform was capable of producing treatments for thousands of diseases \u2013 faster, cheaper, and at a global scale \u2013 ensuring everyday healthcare needs are met and future pandemics don\u2019t shut down the world? What if the costs and risks of advancing new treatments, at each stage, were dramatically reduced? Doing so would mean that cancer patients in remission could be va"
-    },
-    {
-      "id": "wleap-34598",
-      "title": "Women&#8217;s health research: Fact Sheet",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/womens-health/research-fact-sheet/",
-      "source": "Wellcome Leap",
-      "description": "We can deliver more breakthroughs in women's health \u2014 starting now. 1 Women experience health issues differently, disproportionately, and uniquely. 99% of studies on the biology of aging fail to consider menopause. A transition that affects half the world\u2019s population. How Gaps in Research Lead to Gaps in Care for Aging Women Women account for 80% of patients with autoimmune diseases. Which are ch"
-    },
-    {
-      "id": "wleap-34321",
-      "title": "The Missed Vital Sign Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/the-missed-vital-sign/details/",
-      "source": "Wellcome Leap",
-      "description": "NEW $50M Program in Women&#8217;s Health the missed vital sign We are pleased to announce the selected performers . Sebasti\u00e1n Illanes : Universidad de los Andes Ali Adibi: Georgia Institute of Technology Eugenia Alleva: Icahn School of Medicine at Mount Sinai Navid Khodaparast: Spark Biomedical, Inc Milton Musaba: Busitema University Niamh Forde: University of Edinburgh Ying Cheong: University of "
-    },
-    {
-      "id": "wleap-33978",
-      "title": "Untangling Addiction",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/ua/",
-      "source": "Wellcome Leap",
-      "description": "$50M PROGRAM Untangling Addiction Every 4 minutes, someone in the world dies from drug or alcohol addiction. Most people with addictions try to quit \u2014 and can\u2019t. Untangling Addiction is a new $50M program focused on breakthroughs in substance abuse prevention and treatment. The program aims to create predictive models to assess an individual\u2019s vulnerability to addiction, forecast progression, and "
-    },
-    {
-      "id": "wleap-33771",
-      "title": "CARE Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/care/details/",
-      "source": "Wellcome Leap",
-      "description": "NEW $50M Program in Women&#8217;s Health care Cutting Alzheimer&#8217;s Risk through Endocrinology We are pleased to announce the selected performers and their teams: (*corresponding PI) Kaarin Anstey* &amp; Kristine Yaffe: University of New South Wales &amp;&nbsp;University of California, San Francisco Roberta Diaz Brinton* &amp; Francesca Vitali: University of Arizona Judy Pa* &amp; Iris Broce-D"
-    },
-    {
-      "id": "wleap-33607",
-      "title": "Home",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/",
-      "source": "Wellcome Leap",
-      "description": "A breakthrough engine for global health. Wellcome Leap builds bold, unconventional programs, and funds them at scale. Programs optimized to deliver breakthroughs in human health over 5 \u2013 10 years and demonstrate seemingly impossible results on seemingly impossible timelines. .elementor-38909 .elementor-element.elementor-element-5f4f7c44:not(.elementor-motion-effects-element-type-background), .elem"
-    },
-    {
-      "id": "wleap-33377",
-      "title": "Lisa Mosconi Bio",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/team/lisa-mosconi-bio/",
-      "source": "Wellcome Leap",
-      "description": "Program Director Lisa Mosconi Lisa Mosconi, PhD is a neuroscientist and researcher specializing in brain health, Alzheimer\u2019s prevention, and the relationship between hormonal health and cognitive function. As the founder and director of the Women\u2019s Brain Initiative and the Alzheimer\u2019s Prevention Program at Weill Cornell Medicine, Lisa has dedicated her career to understanding how risk of memory lo"
-    },
-    {
-      "id": "wleap-33369",
-      "title": "Homepage &#8211; 2025",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/homepage-footer2025/",
-      "source": "Wellcome Leap",
-      "description": "2024 Wellcome Leap EXPO > See the Story Changing the Business of Breakthroughs In our recent article in Issues in Science and Technology , CEO Regina Dugan and former COO Ken Gabriel explain how the work happens and why it matters now more than ever. Learn More The largest breakthrough network in the galaxy. * *we checked Learn More const targetElement = document.querySelector('.elementor-repeater"
-    },
-    {
-      "id": "wleap-33242",
-      "title": "Judy Swain Bio",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/team/judy-swain-bio/",
-      "source": "Wellcome Leap",
-      "description": "Director Judy Swain Judy is a physician scientist widely known in the field of molecular cardiology, and pioneered the use of transgenic animals to understand cardiovascular development and disease. She has served as Chair of the Department of Medicine at Stanford University, Dean for Translational Medicine at the University of California, San Diego as well as Director of Cardiovascular Medicine a"
-    },
-    {
-      "id": "wleap-32842",
-      "title": "Stories",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/stories/",
-      "source": "Wellcome Leap",
-      "description": "--> --> --> --> Stories A mouse is not a human, and dialysis is not a kidney. Today, drug developers select their best treatment candidates based on animal studies. But these models are not predictive of the results in humans. The result &#8212; 90% of new drugs tested using animal models fail in humans. And the results are worse if the immune system is involved. We need better preclinical predict"
-    },
-    {
-      "id": "wleap-32774",
-      "title": "John-Arne R\u00f8ttingen Bio",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/team/john-arne-rottingen/",
-      "source": "Wellcome Leap",
-      "description": "Director John-Arne R\u00f8ttingen MD PhD MSc MPA John-Arne R\u00f8ttingen is Chief Executive Officer of Wellcome, UK. He has served as Ambassador for Global Health at the Ministry of Foreign Affairs, Norway, been Adjunct Scientific Director at the Norwegian Institute of Public Health and Visiting Fellow of Practice at Blavatnik School of Government, Oxford University. He was the founding Chief Executive Off"
-    },
-    {
-      "id": "wleap-31820",
-      "title": "Untangling Addiction Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "2023-12-21",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/ua/details/",
-      "source": "Wellcome Leap",
-      "description": "NEW $50M PROGRAM Untangling Addiction We are pleased to announce the selected performers . Yasmin Hurd, Icahn School of Medicine at Mount Sinai Brett Ginsburg, University of Texas Health Science Center at San Antonio Ravi Das, University College London Ali Mazaheri, University of Birmingham Rodney Gabriel, University of California, San Diego Anna Rose Childress, University of Pennsylvania Brian Mi"
-    },
-    {
-      "id": "wleap-30769",
-      "title": "Dynamic Resilience",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/dr/",
-      "source": "Wellcome Leap",
-      "description": "$60M PROGRAM jointly funded with Temasek Trust Dynamic Resilience Human life expectancy has doubled in the past 100 years. But for most people, our health span doesn\u2019t match our life span. What if it could? Dynamic Resilience seeks to identify and validate causal measures and models of health resilience, at multiple scales, with predictive value sufficient to make clinical decisions. Such markers "
-    },
-    {
-      "id": "wleap-30754",
-      "title": "Q4Bio",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/q4bio/",
-      "source": "Wellcome Leap",
-      "description": "$40M + $10M PROGRAM Q4Bio What if we could develop new algorithms that deliver quantum advantage for health? Quantum for Bio (Q4Bio) is a $40M +$10M Supported Challenge Program aimed at accelerating the applications of quantum computing in human health. The program is focused on identifying, developing, and demonstrating biology and health applications that will benefit from the quantum computers "
-    },
-    {
-      "id": "wleap-30731",
-      "title": "SAVE",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/save/",
-      "source": "Wellcome Leap",
-      "description": "$50M PROGRAM SAVE Lack of access to essential surgery results in 1.5 million deaths per year. This is equivalent to the number of deaths from HIV, malaria, multi-drug resistant TB, and complications from pregnancy \u2014 combined. We need a fundamental change. Surgery: Assess / Validate / Expand is a $50M program with the goal of doubling the number of surgical providers trained each year to create an "
-    },
-    {
-      "id": "wleap-30720",
-      "title": "In Utero",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/inutero/",
-      "source": "Wellcome Leap",
-      "description": "$50M PROGRAM In Utero Every 16 seconds one baby is stillborn. We need better ways to assess gestational development in utero. In Utero is a $50M program with the goal of cutting stillbirth rates in half by creating scalable methods to measure, model and predict gestational development in utero. Every 16 seconds one baby is stillborn. That amounts to more than two million stillborn babies globally "
-    },
-    {
-      "id": "wleap-30477",
-      "title": "R3",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/r3/",
-      "source": "Wellcome Leap",
-      "description": "$60M PROGRAM jointly funded with CEPI R3 RNA Readiness + Response (\u201cR3\u201d), a $60M program, jointly funded with the Coalition for Epidemic Preparedness Innovations (\u201cCEPI\u201d) will develop \u2018living\u2019 RNA- based, distributed, and multi-product biofoundries that provide increased access to diverse biologics in non-emergency times and economically sustainable, state-of-the-art surge capacity in an emergency"
-    },
-    {
-      "id": "wleap-30451",
-      "title": "Delta Tissue",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/delta-tissue/",
-      "source": "Wellcome Leap",
-      "description": "$55M PROGRAM Delta Tissue Delta Tissue: Integrated Platforms for Predicting Changes in Tissue State, is a $55 million effort that brings experts in the life sciences and engineering together from across universities, foundations, and the private sector to develop a platform that can profile tissue states and predict transitions between states in ways that are impossible today. What if we could bui"
-    },
-    {
-      "id": "wleap-30423",
-      "title": "1kD",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/1kd/",
-      "source": "Wellcome Leap",
-      "description": "$45M PROGRAM 1kD The First 1000 Days (1kD) is a $45 million program that brings together experts in the life sciences, engineering, and computer science from across universities, nonprofits, and the private sector to develop scalable measurement methods and models to predict and promote healthy brain development in infants. The first thousand days can make all the difference to a child\u2019s start in "
-    },
-    {
-      "id": "wleap-30323",
-      "title": "MCPsych",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/mcpsych/",
-      "source": "Wellcome Leap",
-      "description": "$50M PROGRAM MCPsych Multi-Channel Psych (MCPsych) aims to develop an integrated model of anhedonic depression that captures both internal biological factors and externally-manifested, quantifiable measures. The program also seeks to reveal biological mechanisms of anhedonia by synchronizing investigations across genes, molecules, cells, animal models, and humans. Depression is a complex biologica"
-    },
-    {
-      "id": "wleap-30152",
-      "title": "HOPE",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/hope/",
-      "source": "Wellcome Leap",
-      "description": "$50M PROGRAM HOPE The Human Organs, Physiology, and Engineering (HOPE) program is a $50 million effort that brings experts in the life sciences and engineering together from across universities, foundations, and companies to develop human tissues, organoids, organs, and platforms that accelerate and scale new treatments. Focused on replication of complex human organs and immune system interactions"
-    },
-    {
-      "id": "wleap-29167",
-      "title": "Dynamic Resilience Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "2023-05-25",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/dr/details/",
-      "source": "Wellcome Leap",
-      "description": "Dynamic Resilience $60M program jointly funded with We are pleased to announce the selected performers . Evandro Fei Fang, University of Oslo Thomas Jackson, University of Birmingham Gonzalo Jorquera Olave, Universidad de Chile Yuxin Liu, National University of Singapore Peter Loskill, NMI Natural and Medical Sciences Institute at the University of T\u00fcbingen Anthony Molina, University of California"
-    },
-    {
-      "id": "wleap-29071",
-      "title": "SAVE Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "2022-10-27",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/save/details/",
-      "source": "Wellcome Leap",
-      "description": "A $50M program SURGERY : ASSESS / VALIDATE / EXPAND We are pleased to announce the selected performers . John Windsor, The University of Auckland Amar Chaudhry, Surgical Safety Technologies (SST) Hyongsok Tom Soh, Stanford University Robert Ssekitoleko, Makerere University David Cunningham, Kids Operating Room (KidsOR) Carla Pugh, Stanford University Brian George, Society for Improving Medical Pro"
-    },
-    {
-      "id": "wleap-28635",
-      "title": "Q4Bio Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "2023-04-27",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/q4bio/details/",
-      "source": "Wellcome Leap",
-      "description": "NEW $40M +$10M PROGRAM Quantum for Bio Congratulations to the Algorithmiq team for winning the Q4Bio $2M prize. Congratulations to the Algorithmiq team for winning the Q4Bio $2M prize. Frederic T. Chong, Infleqtion Jonathan D. Hirst , University of Nottingham Mikhail Lukin, Harvard University Grant M. Rotskoff, Stanford University Sabrina Maniscalco, Algorithmiq Inc. Sergii Strelchuk, University o"
-    },
-    {
-      "id": "wleap-28584",
-      "title": "In Utero Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "2022-06-30",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/inutero/details/",
-      "source": "Wellcome Leap",
-      "description": "A $50M program In Utero MEASUREMENT AND MODELLING DURING GESTATIONAL DEVELOPMENT We are pleased to announce the selected performers . Subhabrata Mitra, University College London Rebecca Reynolds, University of Edinburgh Sam Ali, Makerere University Aris Papageorghiou, University of Oxford Penny Gowland, University of Nottingham Madhuri Salker, Eberhard Karls University Tubingen Zev Williams, Colum"
-    },
-    {
-      "id": "wleap-28037",
-      "title": "1kD Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "2021-04-08",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/1kd/details/",
-      "source": "Wellcome Leap",
-      "description": "A $45M PROGRAM The First 1000 Days PROMOTING HEALTHY BRAIN NETWORKS A $45M PROGRAM The First 1000 Days PROMOTING HEALTHY BRAIN NETWORKS A $45M PROGRAM The First 1000 Days PROMOTING HEALTHY BRAIN NETWORKS We all know what a difference a day makes. The first 1000 days can make all the difference to a child\u2019s start in life, perhaps more so than we ever understood before. In this early period, we deve"
-    },
-    {
-      "id": "wleap-27463",
-      "title": "Fiona Powrie Bio",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/team/fiona-powrie-bio/",
-      "source": "Wellcome Leap",
-      "description": "Director Fiona Powrie Professor Dame Fiona Powrie is Director of the Kennedy Institute of Rheumatology, University of Oxford. She gained a PhD in immunology from the University of Oxford and then moved to the DNAX Research Institute in Palo Alto. She returned to the University of Oxford in 1996 where she was the Sidney Truelove Professor of Gastroenterology and Head of the Translational Gastroente"
-    },
-    {
-      "id": "wleap-26341",
-      "title": "Wellcome Leap announces breakthrough in funded project",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/news/news_mosaic-8/",
-      "source": "Wellcome Leap",
-      "description": "Wellcome Leap announces breakthrough in funded project at Caltech: points to new all-in-one vaccine for SARS-like betacoronaviruses \u2013 Phase I clinical trials initiated by CEPI. July 5, 2022 Share this work Image courtesy of Wellcome Leap, Caltech, and Merkin Institute. \u00a9 2022. All rights reserved. Download vertical infographic Download horizontal infographic View animation Los Angeles \u2013 July 5, 20"
-    },
-    {
-      "id": "wleap-25810",
-      "title": "Ethical, legal, and societal implications.",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/ethical-legal-and-societal-implications/",
-      "source": "Wellcome Leap",
-      "description": "Ethical, Legal, and Societal Implications. As an organization that challenges conventional wisdom and aims to create more breakthroughs in health, we often find ourselves in uncharted territory. Patients, families, and communities need advances in human health, and they need them faster. Fundamental new discoveries, new ways of thinking, and new tools that lead to breakthroughs, often require that"
-    },
-    {
-      "id": "wleap-24831",
-      "title": "Wellcome Leap announces over $300M in additional funding",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/news/wellcomedoubles/",
-      "source": "Wellcome Leap",
-      "description": "Wellcome Leap announces over $300M in additional funding. Now more than Half a Billion Dollars for catalyzing breakthroughs in human health. February 2, 2022 Share this work Image shows kidney tissue constructed from organoid building blocks by Jennifer Lewis (Harvard) and Ryuji Morizane (MGH) labs. The ultimate goal is to create tissues that can restore sufficient function to free patients from d"
-    },
-    {
-      "id": "wleap-24481",
-      "title": "MARFA",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/wellcome-leap-hbnet/",
-      "source": "Wellcome Leap",
-      "description": "A global network dedicated to accelerating breakthroughs in human health. Now over 170 organizations on 6 continents, representing more than 1,500,000 researchers. The world\u2019s largest research network, ready for instant activation. View animation The Wellcome Leap Health Breakthrough Network is the largest, most rapidly &#8216;activatable&#8217; health research network in the world. With more than"
-    },
-    {
-      "id": "wleap-24041",
-      "title": "Diversity and Inclusion Goals",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/diversity-and-inclusion/",
-      "source": "Wellcome Leap",
-      "description": "Diversity and Inclusion. Diversity and Inclusion. Creating breakthroughs in human health is hard. It requires innovation and demands that we solve complex problems. And complex problems are better solved by diverse teams. &nbsp; At Wellcome Leap, we set the initial objectives outlined below to help ensure we achieve the level of diversity and collaboration needed to accelerate breakthroughs in hum"
-    },
-    {
-      "id": "wleap-23993",
-      "title": "HOPE Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/hope/details/",
-      "source": "Wellcome Leap",
-      "description": "$50M PROGRAM IN Human Organs, Physiology, and Engineering $50M PROGRAM IN Human Organs, Physiology, and Engineering $50M PROGRAM In Human Organs, Physiology, and Engineering We need better models of human physiology \u2013 a mouse is not a human and dialysis is not a kidney. In the past 15 years, even as the number of new drug candidates in development nearly doubled, 90% of those that succeeded in pre"
-    },
-    {
-      "id": "wleap-23971",
-      "title": "Delta Tissue Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "2021-05-17",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/delta-tissue/details/",
-      "source": "Wellcome Leap",
-      "description": "A $55M PROGRAM Delta Tissue Integrated PlatForms for predicting changes in tissue state A $55M PROGRAM Delta Tissue INTEGRATED PLATFORMS FOR PREDICTING CHANGES IN TISSUE STATE A $55M PROGRAM Delta Tissue INTEGRATED PLATFORMS FOR PREDICTING CHANGES IN TISSUE STATE We are pleased to announce the selected performers. Adrie JC Steyn, Africa Health Research Institute Assaf Zaritsky, Ben-Gurion Universi"
-    },
-    {
-      "id": "wleap-23957",
-      "title": "MCPsych Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "2021-07-22",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/mcpsych/details/",
-      "source": "Wellcome Leap",
-      "description": "$50M PROGRAM Multi-Channel Psych Revealing Mechanisms of Anhedonia $50M PROGRAM Multi-Channel Psych Revealing Mechanisms of Anhedonia $50M PROGRAM Multi-Channel Psych REVEALING MECHANISMS IN ANHEDONIA We are pleased to announce the selected performers. Bhavya Sharma, University of Tennessee Carol Robinson , University of Oxford Conor Liston, Weill Cornell Medicine David Walt, Brigham and Women\u2019s H"
-    },
-    {
-      "id": "wleap-23932",
-      "title": "R3 Program Details",
-      "agency": "Wellcome Leap",
-      "deadline": "2021-08-13",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/programs/r3/details/",
-      "source": "Wellcome Leap",
-      "description": "A $60M program jointly funded with R 3 RNA Readiness + Response A $60M program jointly funded with R 3 RNA Readiness + Response A $60M program jointly funded with R 3 RNA Readiness + Response We are pleased to announce the selected performers. Alexander Baron van Asbeck, RiboPro Anna Perdrix, Sixfold Bioscience Anne Willis , University of Cambridge Craig Martin, University of Massachusetts Amherst"
-    },
-    {
-      "id": "wleap-10324",
-      "title": "Wellcome Leap appoints Ho Ching to Board of Directors",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/news/ho-ching-board-of-directors/",
-      "source": "Wellcome Leap",
-      "description": "Wellcome Leap Appoints Ho Ching to Board of Directors Wellcome Leap Appoints Ho Ching to Board of Directors March 18, 2021 Share this work Los Angeles \u2013 March 18, 2021: Wellcome Leap (Leap), a U.S.-based non-profit organization founded by the Wellcome Trust to accelerate innovations that benefit global health, today announced the election of Ho Ching to its Board of Directors. \u201cWe are pleased to w"
-    },
-    {
-      "id": "wleap-6037",
-      "title": "Wellcome Leap establishes global network",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/news/leap-establishes-global-network/",
-      "source": "Wellcome Leap",
-      "description": "Wellcome Leap Establishes Global Network Dedicated to Accelerated Breakthroughs in Human Health Charter group of 21 world-class institutions representing a network of over 150,000 researchers across six continents sign agreement that sets new bar for fast-paced research and development. Charter group of 21 world-class institutions representing a network of over 150,000 researchers across six conti"
-    },
-    {
-      "id": "wleap-2825",
-      "title": "Ken Gabriel Chief Operating Officer announcement",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/news/ken-gabriel-coo-announcement/",
-      "source": "Wellcome Leap",
-      "description": "Wellcome Leap Bolsters Leadership Team, Announces Former President &amp; CEO of Draper Ken Gabriel as Chief Operating Officer July 23rd, 2020 Share this work Former CEO of Draper and Acting Director of DARPA to Lead Operations for \u2018DARPA for Global Health\u2019.&nbsp; Leap Establishes First Field Office in Boston. LOS ANGELES, CA \u2013 July 23rd, 2020 \u2013&nbsp;Wellcome Leap (\u201cLeap\u201d), an advanced projects non"
-    },
-    {
-      "id": "wleap-2495",
-      "title": "Privacy Policy",
-      "agency": "Wellcome Leap",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://wellcomeleap.org/privacy-policy/",
-      "source": "Wellcome Leap",
-      "description": "Privacy Policy Effective Date: April 1, 2026, version 2.0 Wellcome Leap (\u201cLeap\u201d \u201cour,\u201d \u201cwe,\u201d or \u201cus\u201d) respects your privacy and is committed to protecting your personal information. The term \u201cpersonal information\u201d means any information relating to an identified or identifiable individual. This privacy policy (the \u201cPolicy\u201d) describes the types of information we collect and our practices for collect"
     },
     {
       "id": "arpa-h-00a7cd685d",
@@ -1646,13 +1195,13 @@
     },
     {
       "id": "arpa-h-5ffafb283e",
-      "title": "FASTPASSWhat if we could verify the quality and safety of every dose of every medicine, every time?Fast Assessment of Solutions, Therapeutics, Pharmaceuticals, and SuppliesJames Coburn, CAPT",
+      "title": "FASTPASSWhat if we could verify the quality and safety of every dose of every medicine, every time?Fast Assessment of Solutions, Therapeutics, Pharmaceuticals, and SuppliesCAPT James Coburn",
       "agency": "ARPA-H",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://arpa-h.gov/explore-funding/programs/fastpass",
       "source": "ARPA-H",
-      "description": "FASTPASS What if we could verify the quality and safety of every dose of every medicine, every time? Fast Assessment of Solutions, Therapeutics, Pharmaceuticals, and Supplies James Coburn, CAPT"
+      "description": "FASTPASS What if we could verify the quality and safety of every dose of every medicine, every time? Fast Assessment of Solutions, Therapeutics, Pharmaceuticals, and Supplies CAPT James Coburn"
     },
     {
       "id": "arpa-h-07ef197f1f",
@@ -1836,13 +1385,13 @@
     },
     {
       "id": "arpa-h-42e7354dcd",
-      "title": "STREAMWhat if we could reduce American herbicide exposure from farm to table without raising the grocery bill?Systems for Tracking and Resilience in Efficient Agricultural-input ManagementJames Coburn, CAPT",
+      "title": "STREAMWhat if we could reduce American herbicide exposure from farm to table without raising the grocery bill?Systems for Tracking and Resilience in Efficient Agricultural-input ManagementCAPT James Coburn",
       "agency": "ARPA-H",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://arpa-h.gov/explore-funding/programs/stream",
       "source": "ARPA-H",
-      "description": "STREAM What if we could reduce American herbicide exposure from farm to table without raising the grocery bill? Systems for Tracking and Resilience in Efficient Agricultural-input Management James Coburn, CAPT"
+      "description": "STREAM What if we could reduce American herbicide exposure from farm to table without raising the grocery bill? Systems for Tracking and Resilience in Efficient Agricultural-input Management CAPT James Coburn"
     },
     {
       "id": "arpa-h-1199552857",
@@ -1873,76 +1422,6 @@
       "url": "https://arpa-h.gov/explore-funding/programs/upgrade",
       "source": "ARPA-H",
       "description": "UPGRADE What if every hospital could autonomously protect itself and patients from cyber threats? Universal Patching and Remediation for Autonomous Defense Andrew Carney"
-    },
-    {
-      "id": "pcori-6e4e8b666b",
-      "title": "Addressing Health Outcomes for Individuals With Intellectual and Developmental Disabilities (IDD) and/or Rare Diseases (RD) PCORI Funding Announcement -- Cycle 3 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/addressing-health-outcomes-individuals-intellectual-and-developmental-disabilities-idd-andor-rare-diseases-rd-pcori-funding-announcement-cycle-3-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-9ab211dd5a",
-      "title": "Addressing Substance Use PCORI Funding Announcement -- Cycle 3 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/addressing-substance-use-pcori-funding-announcement-cycle-3-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-eb8ed39903",
-      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 3 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-3-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-477eeba1a5",
-      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 3 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-3-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-2f2247fd8b",
-      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 3 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-3-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-e36dc36322",
-      "title": "Open Competition: Implementation of Findings From PCORI's Research Investments PCORI Funding Announcement  -- Cycle 3 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/open-competition-implementation-findings-pcoris-research-investments-pcori-funding-announcement-cycle-3-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-688ebe3384",
-      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards  -- Cycle 3 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-3-2026",
-      "source": "PCORI",
-      "description": ""
     },
     {
       "id": "pcori-57e483c474",
@@ -2065,6 +1544,76 @@
       "description": ""
     },
     {
+      "id": "pcori-6e4e8b666b",
+      "title": "Addressing Health Outcomes for Individuals With Intellectual and Developmental Disabilities (IDD) and/or Rare Diseases (RD) PCORI Funding Announcement -- Cycle 3 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/addressing-health-outcomes-individuals-intellectual-and-developmental-disabilities-idd-andor-rare-diseases-rd-pcori-funding-announcement-cycle-3-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-9ab211dd5a",
+      "title": "Addressing Substance Use PCORI Funding Announcement -- Cycle 3 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/addressing-substance-use-pcori-funding-announcement-cycle-3-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-eb8ed39903",
+      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 3 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-3-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-477eeba1a5",
+      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 3 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-3-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-2f2247fd8b",
+      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 3 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-3-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-e36dc36322",
+      "title": "Open Competition: Implementation of Findings From PCORI's Research Investments PCORI Funding Announcement  -- Cycle 3 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/open-competition-implementation-findings-pcoris-research-investments-pcori-funding-announcement-cycle-3-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-688ebe3384",
+      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards  -- Cycle 3 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-3-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
       "id": "pcori-7b4a62bb5b",
       "title": "Broad Pragmatic Studies Supplemental Funding Announcement (SFA) to Support Studies within a Study Focused on Developing and Validating Measures to Advance the Science of Engagement in Research -- Cycle 2 2026 (Invitation Only)",
       "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
@@ -2125,152 +1674,52 @@
       "description": ""
     },
     {
-      "id": "pcori-829b43b0dd",
-      "title": "PCORI Call for Proposals for HSII Implementation Projects -- 2026 (HSII Participants Only)",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/pcori-call-proposals-hsii-implementation-projects-2026-hsii-participants-only",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-029f89d596",
-      "title": "Engagement Award: Convening Support -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-e8f65029c8",
-      "title": "Engagement Award: Dissemination Initiative -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-3fe9002cc0",
-      "title": "Engagement Award: Capacity Building -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-e4e0f76a6c",
-      "title": "Partnering Research and Community Organizations for Comparative Clinical    Effectiveness Research Across the Cancer Care Continuum PCORI Funding Announcement (The Cancer Partner PFA) -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/cancer-partner-pfa-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-867c7a31fe",
-      "title": "Improving Health Decision Making With Comparative Clinical Effectiveness Research: Retrospective Observational Studies Leveraging Existing Data Sources PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-health-decision-making-observational-comparative-clinical-effectiveness-research",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-2525a92da6",
-      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-07c6f91508",
-      "title": "Phased Large Awards for Comparative Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/phased-large-awards-comparative-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-356b1fbad1",
-      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-88f702f07c",
-      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-6d56c35e56",
-      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-069f4ed534",
-      "title": "Engagement Award: Capacity Building -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-9870b5c7e9",
-      "title": "Engagement Award: Dissemination Initiative -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-2b3c3ef239",
-      "title": "Engagement Award: Convening Support -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
       "id": "363797",
       "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
       "agency": "National Science Foundation",
       "deadline": "10/05/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363797",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363836",
+      "title": "Undiagnosed Diseases Network (UDN) Clinical and Data Coordinating Center",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363836",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363837",
+      "title": "Undiagnosed Diseases Network (UDN) Diagnostic Research Innovation Center",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363837",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363842",
+      "title": "NIDA Avenir Program: Fundamental Mechanistic Research in Addiction Science",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363842",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363840",
+      "title": "BRAIN Initiative: Clinical Studies to Advance Next-Generation Devices for Recording and Modulation in the Human Central Nervous System",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363840",
       "source": "NSF",
       "description": ""
     },
@@ -2295,62 +1744,12 @@
       "description": ""
     },
     {
-      "id": "363821",
-      "title": "Aquatic Fauna and Primary Production in the Florida Everglades",
-      "agency": "National Science Foundation",
-      "deadline": "10/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363821",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363823",
-      "title": "Wading Bird Response to Ecosystem Restoration in Southwest Florida",
-      "agency": "National Science Foundation",
-      "deadline": "10/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363823",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363801",
-      "title": "NIH Director's Pioneer Award (DP1 Clinical Trial Optional)",
+      "id": "363845",
+      "title": "Homeless Veterans&rsquo; Reintegration Program (HVRP), Incarcerated Veterans&rsquo; Transition Program (IVTP), and the Homeless Women Veterans' and Homeless Veterans' with Children Reintegration Grant Program (HWVHVWC) (referred to collectively as HVRP)",
       "agency": "National Science Foundation",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363801",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363799",
-      "title": "NIH Director's New Innovator Award (DP2 Clinical Trial Optional)",
-      "agency": "National Science Foundation",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363799",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363802",
-      "title": "NIH Director's Transformative Research Award (R01 Clinical Trial Optional)",
-      "agency": "National Science Foundation",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363802",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363805",
-      "title": "BJA FY 2026 Bridging Immigration-Related Deficits Experienced Nationwide Program: Joint Task Force Crossroads America - Indiana Invitation to Apply",
-      "agency": "National Science Foundation",
-      "deadline": "09/09/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363805",
+      "url": "https://www.grants.gov/search-results-detail/363845",
       "source": "NSF",
       "description": ""
     },
@@ -2575,12 +1974,22 @@
       "description": ""
     },
     {
-      "id": "363695",
-      "title": "Small Instruments and Modern Equipment for Shared-use Biomedical Research Facilities and Resources (S15 Clinical Trial Not Allowed)",
+      "id": "363821",
+      "title": "Aquatic Fauna and Primary Production in the Florida Everglades",
       "agency": "National Science Foundation",
-      "deadline": "",
+      "deadline": "10/05/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363695",
+      "url": "https://www.grants.gov/search-results-detail/363821",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363823",
+      "title": "Wading Bird Response to Ecosystem Restoration in Southwest Florida",
+      "agency": "National Science Foundation",
+      "deadline": "10/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363823",
       "source": "NSF",
       "description": ""
     },
@@ -2595,22 +2004,12 @@
       "description": ""
     },
     {
-      "id": "363800",
-      "title": "NIH Director's Early Independence Award (DP5 Clinical Trial Optional)",
-      "agency": "HHS-NIH11",
+      "id": "363808",
+      "title": "State Pilot Program for Treatment for Pregnant and Postpartum Women",
+      "agency": "HHS-SAMHS-SAMHSA",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363800",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363827",
-      "title": "OVW Fiscal Year 2026 STCJ Technical Assistance - Request for Required Documents",
-      "agency": "USDOJ-OJP-OVW",
-      "deadline": "09/09/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363827",
+      "url": "https://www.grants.gov/search-results-detail/363808",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2621,16 +2020,6 @@
       "deadline": "11/13/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363775",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363744",
-      "title": "U.S-Saudi AI Research Commercialization Accelerator Program (ReCAP)",
-      "agency": "DOS-SAU",
-      "deadline": "09/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363744",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2651,6 +2040,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363748",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363744",
+      "title": "U.S-Saudi AI Research Commercialization Accelerator Program (ReCAP)",
+      "agency": "DOS-SAU",
+      "deadline": "09/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363744",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2731,26 +2130,6 @@
       "deadline": "09/21/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363212",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363214",
-      "title": "Protecting the American Seafood Supply Chain by Countering Unfair Labor Practices and Illegal, Unreported, and Unregulated (IUU)&#8239;Fishing&#8239;&#8239;",
-      "agency": "DOL-ILAB",
-      "deadline": "09/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363214",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363215",
-      "title": "Ensuring&#8239;&ldquo;Pro-American Worker&rdquo;&#8239;Critical Minerals&#8239;Supply Chain in&#8239;the Western Hemisphere",
-      "agency": "DOL-ILAB",
-      "deadline": "09/21/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363215",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2865,12 +2244,12 @@
       "description": ""
     },
     {
-      "id": "362370",
-      "title": "Lead-Safe and Healthy Homes Financing Demonstration",
-      "agency": "HUD",
-      "deadline": "09/14/2026",
+      "id": "363785",
+      "title": "Emergency Citrus Disease Research and Extension Pre-Applications",
+      "agency": "USDA-NIFA",
+      "deadline": "11/02/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362370",
+      "url": "https://www.grants.gov/search-results-detail/363785",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2995,6 +2374,26 @@
       "description": ""
     },
     {
+      "id": "363812",
+      "title": "Children's Mental Health Initiative",
+      "agency": "HHS-SAMHS-SAMHSA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363812",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363814",
+      "title": "Cancer Prevention and Control Programs for State, Territorial, and Tribal Organizations",
+      "agency": "HHS-CDC-NCCDPHP",
+      "deadline": "02/05/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363814",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "363720",
       "title": "Capacity Building Grants for Non-Land-Grant Colleges of Agriculture Program",
       "agency": "USDA-NIFA",
@@ -3005,22 +2404,12 @@
       "description": ""
     },
     {
-      "id": "363811",
-      "title": "Assisted Outpatient Treatment",
-      "agency": "HHS-SAMHS-SAMHSA",
+      "id": "363801",
+      "title": "NIH Director's Pioneer Award (DP1 Clinical Trial Optional)",
+      "agency": "HHS-NIH11",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363811",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363810",
-      "title": "Building Communities of Recovery",
-      "agency": "HHS-SAMHS-SAMHSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363810",
+      "url": "https://www.grants.gov/search-results-detail/363801",
       "source": "Grants.gov",
       "description": ""
     },
