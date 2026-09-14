@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-13T00:20:11Z",
-  "total": 263,
+  "last_updated": "2026-09-14T00:25:47Z",
+  "total": 249,
   "by_source": {
     "AI & Digital Health": 6,
     "NIH (Global Health)": 76,
     "UNGM (UN Agencies)": 13,
     "ARPA-H": 42,
-    "PCORI": 39,
+    "PCORI": 25,
     "NSF": 34,
     "Grants.gov": 41,
     "WHO": 2,
@@ -1115,13 +1115,13 @@
     },
     {
       "id": "arpa-h-b37a8dc9a7",
-      "title": "DIGIHEALSWhat if we could strengthen the nation's digital health infrastructure to protect against cyberattacks?ARPA-H Digital Health Security InitiativeAndrew Carney",
+      "title": "DIGIHEALSWhat if we could strengthen the nation's digital health infrastructure to protect against cyberattacks?ARPA-H Digital Health Security InitiativeAndrew Carney, M.S.",
       "agency": "ARPA-H",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://arpa-h.gov/explore-funding/programs/digiheals",
       "source": "ARPA-H",
-      "description": "DIGIHEALS What if we could strengthen the nation's digital health infrastructure to protect against cyberattacks? ARPA-H Digital Health Security Initiative Andrew Carney"
+      "description": "DIGIHEALS What if we could strengthen the nation's digital health infrastructure to protect against cyberattacks? ARPA-H Digital Health Security Initiative Andrew Carney, M.S."
     },
     {
       "id": "arpa-h-6b3c282ee8",
@@ -1375,13 +1375,13 @@
     },
     {
       "id": "arpa-h-e19371602b",
-      "title": "UPGRADEWhat if every hospital could autonomously protect itself and patients from cyber threats?Universal Patching and Remediation for Autonomous DefenseAndrew Carney",
+      "title": "UPGRADEWhat if every hospital could autonomously protect itself and patients from cyber threats?Universal Patching and Remediation for Autonomous DefenseAndrew Carney, M.S.",
       "agency": "ARPA-H",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://arpa-h.gov/explore-funding/programs/upgrade",
       "source": "ARPA-H",
-      "description": "UPGRADE What if every hospital could autonomously protect itself and patients from cyber threats? Universal Patching and Remediation for Autonomous Defense Andrew Carney"
+      "description": "UPGRADE What if every hospital could autonomously protect itself and patients from cyber threats? Universal Patching and Remediation for Autonomous Defense Andrew Carney, M.S."
     },
     {
       "id": "pcori-57e483c474",
@@ -1630,146 +1630,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-2-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-829b43b0dd",
-      "title": "PCORI Call for Proposals for HSII Implementation Projects -- 2026 (HSII Participants Only)",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/pcori-call-proposals-hsii-implementation-projects-2026-hsii-participants-only",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-029f89d596",
-      "title": "Engagement Award: Convening Support -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-e8f65029c8",
-      "title": "Engagement Award: Dissemination Initiative -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-3fe9002cc0",
-      "title": "Engagement Award: Capacity Building -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-e4e0f76a6c",
-      "title": "Partnering Research and Community Organizations for Comparative Clinical    Effectiveness Research Across the Cancer Care Continuum PCORI Funding Announcement (The Cancer Partner PFA) -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/cancer-partner-pfa-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-867c7a31fe",
-      "title": "Improving Health Decision Making With Comparative Clinical Effectiveness Research: Retrospective Observational Studies Leveraging Existing Data Sources PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-health-decision-making-observational-comparative-clinical-effectiveness-research",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-2525a92da6",
-      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-07c6f91508",
-      "title": "Phased Large Awards for Comparative Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/phased-large-awards-comparative-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-356b1fbad1",
-      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-88f702f07c",
-      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-6d56c35e56",
-      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-069f4ed534",
-      "title": "Engagement Award: Capacity Building -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-9870b5c7e9",
-      "title": "Engagement Award: Dissemination Initiative -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-2b3c3ef239",
-      "title": "Engagement Award: Convening Support -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-fall-2025-cycle",
       "source": "PCORI",
       "description": ""
     },
