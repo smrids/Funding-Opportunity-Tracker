@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-14T00:25:47Z",
-  "total": 249,
+  "last_updated": "2026-09-15T00:54:30Z",
+  "total": 255,
   "by_source": {
     "AI & Digital Health": 6,
     "NIH (Global Health)": 76,
-    "UNGM (UN Agencies)": 13,
+    "UNGM (UN Agencies)": 15,
     "ARPA-H": 42,
     "PCORI": 25,
-    "NSF": 34,
-    "Grants.gov": 41,
+    "NSF": 36,
+    "Grants.gov": 43,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -74,6 +74,36 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
+      "id": "363855",
+      "title": "Cancer Prevention and Control Programs for State, Territorial, and Tribal Organizations",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363855",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363861",
+      "title": "Mechanistic Toxicology of METALS: Metal Exposure, Transport, Action, Localization, and Susceptibility (RP1 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363861",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363863",
+      "title": "Limited Competition: Tribal Undergraduate and Graduate Research Training and Leadership Experiences (TURTLE) Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363863",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "363852",
       "title": "Climate Program Office (CPO) FY2026 Earth System Science and Services Partnership",
       "agency": "NIH/Fogarty International Center",
@@ -100,6 +130,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363835",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363844",
+      "title": "Native Public Health Resilience",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363844",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -160,16 +200,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363848",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363844",
-      "title": "Native Public Health Resilience",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363844",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -290,36 +320,6 @@
       "deadline": "11/18/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363670",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363671",
-      "title": "DoW Breast Cancer, Clinical Research Extension Award",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/18/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363671",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363796",
-      "title": "1890 Institution Teaching, Research, and Extension Capacity Building Grants Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/04/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363796",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363806",
-      "title": "Providers Clinical Support System &ndash; Universities",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363806",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -540,16 +540,6 @@
       "deadline": "09/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363746",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363723",
-      "title": "Annual Program Statement",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/13/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363723",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -784,6 +774,16 @@
       "description": ""
     },
     {
+      "id": "334791",
+      "title": "Funding for New Counter-Disinformation Game",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/334791",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "360368",
       "title": "Administrative Supplements to Existing NIH Grants and Cooperative Agreements (Parent Admin Supp Clinical Trial Optional)",
       "agency": "NIH/Fogarty International Center",
@@ -854,6 +854,16 @@
       "description": "Request for proposal"
     },
     {
+      "id": "ungm-314241",
+      "title": "Procurement of ICT Items - Training and Deployment of Electronic National Laboratory Information System (eNLIS) Across Selected Public Health Laboratories in Nigeria",
+      "agency": "WHO",
+      "deadline": "2026-09-28",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/314241",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
+    },
+    {
       "id": "ungm-313904",
       "title": "To conduct \"Assessment of the VaxEPI Digital Immunization self-registration Platform: Implementation, Performance, Interoperability, scalability and Public Health Value in Bangladesh\".",
       "agency": "UNICEF",
@@ -894,6 +904,16 @@
       "description": "Request for proposal"
     },
     {
+      "id": "ungm-314295",
+      "title": "Seeds, Plant Protection and Crop Nutrition products, for 5 wheat and 1 pea demo-plots",
+      "agency": "FAO",
+      "deadline": "2026-09-23",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/314295",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
+    },
+    {
       "id": "ungm-314036",
       "title": "LRPS MADA 2026-9206023 - Recrutement d\u2019une firme pour la revue du syst\u00e8me d\u2019information int\u00e9gr\u00e9 de nutrition et de protection sociale et renforcement de capacit\u00e9 des \u00e9quipes du projet sur la plateforme Commcare.",
       "agency": "UNICEF",
@@ -917,7 +937,7 @@
       "id": "ungm-312932",
       "title": "SDC-009-2026 Almacenaje de archivo muerto y mobiliario del PNUD",
       "agency": "UNDP-MEX-00616",
-      "deadline": "2026-09-14",
+      "deadline": "2026-09-21",
       "award_ceiling": "",
       "url": "https://www.ungm.org/Public/Notice/312932",
       "source": "UNGM (UN Agencies)",
@@ -1634,6 +1654,46 @@
       "description": ""
     },
     {
+      "id": "363779",
+      "title": "Affordable Rural Cooperative (ARC) Energy Program",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363779",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363856",
+      "title": "F26AS00030 Cooperative Endangered Species Conservation Fund: Recovery Land Acquisition Grant Program",
+      "agency": "National Science Foundation",
+      "deadline": "11/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363856",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363859",
+      "title": "Somatic Mosaicism across Human Tissues (SMaHT) Program: National Somatic Mosaicism Commons Data Analysis &amp; Organizational Center (UM1 Clinical Trial Not Allowed)",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363859",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363860",
+      "title": "Somatic Mosaicism across Human Tissues (SMaHT) Program: Experimental and Computational Technology Development (RM1 Clinical Trial Not Allowed)",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363860",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "363849",
       "title": "R3PEATS Grassroots Rigor Projects: Individual Metascience and Individual Laboratory Capacity-Building (RP1)",
       "agency": "National Science Foundation",
@@ -1667,7 +1727,7 @@
       "id": "363854",
       "title": "Aquatic Fauna Response to Ecosystem Restoration in Southwest Florida",
       "agency": "National Science Foundation",
-      "deadline": "09/12/2027",
+      "deadline": "10/12/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363854",
       "source": "NSF",
@@ -1714,16 +1774,6 @@
       "description": ""
     },
     {
-      "id": "363833",
-      "title": "Agriculture Innovation Center Grant Program",
-      "agency": "National Science Foundation",
-      "deadline": "01/31/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363833",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "363845",
       "title": "Homeless Veterans&rsquo; Reintegration Program (HVRP), Incarcerated Veterans&rsquo; Transition Program (IVTP), and the Homeless Women Veterans' and Homeless Veterans' with Children Reintegration Grant Program (HWVHVWC) (referred to collectively as HVRP)",
       "agency": "National Science Foundation",
@@ -1734,22 +1784,32 @@
       "description": ""
     },
     {
-      "id": "363817",
-      "title": "Groundwater and Surficial Water Salinity Changes in Everglades National Park using Aerial Electromagnetic Surveys",
+      "id": "363833",
+      "title": "Agriculture Innovation Center Grant Program",
       "agency": "National Science Foundation",
-      "deadline": "10/06/2026",
+      "deadline": "01/31/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363817",
+      "url": "https://www.grants.gov/search-results-detail/363833",
       "source": "NSF",
       "description": ""
     },
     {
-      "id": "363797",
-      "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
+      "id": "363671",
+      "title": "DoW Breast Cancer, Clinical Research Extension Award",
       "agency": "National Science Foundation",
-      "deadline": "10/05/2026",
+      "deadline": "11/18/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363797",
+      "url": "https://www.grants.gov/search-results-detail/363671",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363862",
+      "title": "Limited Competition: Tribal Institutional Review Board Establishment and Enhancement (TIRBEE)",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363862",
       "source": "NSF",
       "description": ""
     },
@@ -1944,52 +2004,32 @@
       "description": ""
     },
     {
-      "id": "363724",
-      "title": "Research and Education Program for Historically Black Colleges and Universities (HBCU) and Tribal Colleges and Universities (TCU) Equipment/Instrumentation",
+      "id": "363817",
+      "title": "Groundwater and Surficial Water Salinity Changes in Everglades National Park using Aerial Electromagnetic Surveys",
       "agency": "National Science Foundation",
-      "deadline": "10/09/2026",
+      "deadline": "10/06/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363724",
+      "url": "https://www.grants.gov/search-results-detail/363817",
       "source": "NSF",
       "description": ""
     },
     {
-      "id": "363455",
-      "title": "DoW Reconstructive Transplant, Investigator-Initiated Research Award",
-      "agency": "National Science Foundation",
-      "deadline": "11/04/2026",
+      "id": "363857",
+      "title": "Somatic Mosaicism across Human Tissues (SMaHT) Program: Tissue Procurement Center (R24 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363455",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363821",
-      "title": "Aquatic Fauna and Primary Production in the Florida Everglades",
-      "agency": "National Science Foundation",
-      "deadline": "10/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363821",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363823",
-      "title": "Wading Bird Response to Ecosystem Restoration in Southwest Florida",
-      "agency": "DOD-COE-FW",
-      "deadline": "10/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363823",
+      "url": "https://www.grants.gov/search-results-detail/363857",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "363809",
-      "title": "GLS Campus Suicide Prevention",
-      "agency": "HHS-SAMHS-SAMHSA",
+      "id": "363858",
+      "title": "Somatic Mosaicism across Human Tissues (SMaHT) Program: Genome Characterization Centers (UM1 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363809",
+      "url": "https://www.grants.gov/search-results-detail/363858",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2030,16 +2070,6 @@
       "deadline": "09/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363744",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363739",
-      "title": "Equipping Journalists to Counter Anti-American Propaganda",
-      "agency": "DOS-PAN",
-      "deadline": "09/13/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363739",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2114,12 +2144,12 @@
       "description": ""
     },
     {
-      "id": "363611",
-      "title": "Fiscal Year (FY) 2026 Funding Opportunity for Indian Tribes and Intertribal Consortia for Nonpoint Source Management Grants Under Clean Water Act Section 319",
-      "agency": "EPA",
-      "deadline": "11/09/2026",
+      "id": "363212",
+      "title": "Supporting Implementation of the Labor Provisions of Trade Arrangements for American Worker Competitiveness",
+      "agency": "DOL-ILAB",
+      "deadline": "09/21/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363611",
+      "url": "https://www.grants.gov/search-results-detail/363212",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2130,6 +2160,16 @@
       "deadline": "09/16/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363628",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363611",
+      "title": "Fiscal Year (FY) 2026 Funding Opportunity for Indian Tribes and Intertribal Consortia for Nonpoint Source Management Grants Under Clean Water Act Section 319",
+      "agency": "EPA",
+      "deadline": "11/09/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363611",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2244,12 +2284,12 @@
       "description": ""
     },
     {
-      "id": "363788",
-      "title": "Improving the Capacity of Tribal Communities to Identify Emerging Drug Threats",
-      "agency": "ONDCP",
-      "deadline": "09/13/2026",
+      "id": "363796",
+      "title": "1890 Institution Teaching, Research, and Extension Capacity Building Grants Program",
+      "agency": "USDA-NIFA",
+      "deadline": "11/04/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363788",
+      "url": "https://www.grants.gov/search-results-detail/363796",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2364,6 +2404,26 @@
       "description": ""
     },
     {
+      "id": "363821",
+      "title": "Aquatic Fauna and Primary Production in the Florida Everglades",
+      "agency": "DOD-COE-FW",
+      "deadline": "10/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363821",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363823",
+      "title": "Wading Bird Response to Ecosystem Restoration in Southwest Florida",
+      "agency": "DOD-COE-FW",
+      "deadline": "10/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363823",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "363720",
       "title": "Capacity Building Grants for Non-Land-Grant Colleges of Agriculture Program",
       "agency": "USDA-NIFA",
@@ -2374,12 +2434,12 @@
       "description": ""
     },
     {
-      "id": "363814",
-      "title": "Cancer Prevention and Control Programs for State, Territorial, and Tribal Organizations",
-      "agency": "HHS-CDC-NCCDPHP",
-      "deadline": "02/05/2027",
+      "id": "363797",
+      "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
+      "agency": "DOE-NETL",
+      "deadline": "10/05/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363814",
+      "url": "https://www.grants.gov/search-results-detail/363797",
       "source": "Grants.gov",
       "description": ""
     },
