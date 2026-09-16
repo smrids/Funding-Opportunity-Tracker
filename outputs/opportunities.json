@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-15T00:54:30Z",
-  "total": 255,
+  "last_updated": "2026-09-16T00:48:16Z",
+  "total": 259,
   "by_source": {
     "AI & Digital Health": 6,
-    "NIH (Global Health)": 76,
-    "UNGM (UN Agencies)": 15,
+    "NIH (Global Health)": 77,
+    "UNGM (UN Agencies)": 16,
     "ARPA-H": 42,
     "PCORI": 25,
-    "NSF": 36,
+    "NSF": 38,
     "Grants.gov": 43,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
@@ -164,16 +164,6 @@
       "description": ""
     },
     {
-      "id": "363843",
-      "title": "Advisory Support for Establishing a National Cybersecurity Operations Center (SOC)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363843",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363846",
       "title": "Hispanic-Serving Institutions Education Grants Program",
       "agency": "NIH/Fogarty International Center",
@@ -200,6 +190,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363848",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363843",
+      "title": "Advisory Support for Establishing a National Cybersecurity Operations Center (SOC)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363843",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -254,26 +254,6 @@
       "description": ""
     },
     {
-      "id": "363824",
-      "title": "AEIF 2026 Alumni Summit: Freedom 250",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363824",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363818",
-      "title": "Science, Technology, Engineering, and Mathematics Fields",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363818",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363820",
       "title": "American Crocodile Monitoring as an Indicator of Hydrologic Restoration in the Southern Estuaries for the U.S. Army Corps of Engineers, Jacksonville District.",
       "agency": "NIH/Fogarty International Center",
@@ -320,6 +300,26 @@
       "deadline": "11/18/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363670",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363671",
+      "title": "DoW Breast Cancer, Clinical Research Extension Award",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/18/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363671",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363796",
+      "title": "1890 Institution Teaching, Research, and Extension Capacity Building Grants Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/04/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363796",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -534,12 +534,12 @@
       "description": ""
     },
     {
-      "id": "363746",
-      "title": "MENA Freedom 250 NFL Flag Football Launch and Championship",
+      "id": "363765",
+      "title": "Laura Bush 21st Century Librarian Program (2027)",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "09/14/2026",
+      "deadline": "11/13/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363746",
+      "url": "https://www.grants.gov/search-results-detail/363765",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -784,6 +784,16 @@
       "description": ""
     },
     {
+      "id": "334551",
+      "title": "Promoting Human Rights For Vulnerable Children in Haut-Katanga",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/334551",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "360368",
       "title": "Administrative Supplements to Existing NIH Grants and Cooperative Agreements (Parent Admin Supp Clinical Trial Optional)",
       "agency": "NIH/Fogarty International Center",
@@ -884,16 +894,6 @@
       "description": "Request for proposal"
     },
     {
-      "id": "ungm-313281",
-      "title": "Procurement of equipment for FAO Tajikistan, support to the Food Laboratory Nutrition Centre in Tajikistan",
-      "agency": "FAO",
-      "deadline": "2026-09-16",
-      "award_ceiling": "",
-      "url": "https://www.ungm.org/Public/Notice/313281",
-      "source": "UNGM (UN Agencies)",
-      "description": ""
-    },
-    {
       "id": "ungm-312478",
       "title": "Institutional partnership with a higher education institution as a Centre of Excellence and Nutrition Knowledge Management Hub for Nutrition in South Sulawesi, East Kalimantan, Maluku and North Maluku",
       "agency": "UNICEF",
@@ -902,6 +902,16 @@
       "url": "https://www.ungm.org/Public/Notice/312478",
       "source": "UNGM (UN Agencies)",
       "description": "Request for proposal"
+    },
+    {
+      "id": "ungm-313281",
+      "title": "Procurement of equipment for FAO Tajikistan, support to the Food Laboratory Nutrition Centre in Tajikistan (extension)",
+      "agency": "FAO",
+      "deadline": "2026-09-23",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/313281",
+      "source": "UNGM (UN Agencies)",
+      "description": ""
     },
     {
       "id": "ungm-314295",
@@ -942,6 +952,16 @@
       "url": "https://www.ungm.org/Public/Notice/312932",
       "source": "UNGM (UN Agencies)",
       "description": ""
+    },
+    {
+      "id": "ungm-314438",
+      "title": "Laboratory Specialist to Support HIV, TB & Malaria",
+      "agency": "UNDP-AGO-00258",
+      "deadline": "2026-09-25",
+      "award_ceiling": "",
+      "url": "https://www.ungm.org/Public/Notice/314438",
+      "source": "UNGM (UN Agencies)",
+      "description": "Call for individual consultants"
     },
     {
       "id": "ungm-313533",
@@ -1654,6 +1674,26 @@
       "description": ""
     },
     {
+      "id": "363866",
+      "title": "Data Science Corps (DSC)",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363866",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363867",
+      "title": "Discovery Research PreK-12 Program Resource Center on Transformative Education Research and Translation (DRK-12 RC)",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363867",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "363779",
       "title": "Affordable Rural Cooperative (ARC) Energy Program",
       "agency": "National Science Foundation",
@@ -1774,6 +1814,16 @@
       "description": ""
     },
     {
+      "id": "363864",
+      "title": "UI Integrity Center of Excellence Operations",
+      "agency": "National Science Foundation",
+      "deadline": "09/25/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363864",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "363845",
       "title": "Homeless Veterans&rsquo; Reintegration Program (HVRP), Incarcerated Veterans&rsquo; Transition Program (IVTP), and the Homeless Women Veterans' and Homeless Veterans' with Children Reintegration Grant Program (HWVHVWC) (referred to collectively as HVRP)",
       "agency": "National Science Foundation",
@@ -1790,16 +1840,6 @@
       "deadline": "01/31/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363833",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363671",
-      "title": "DoW Breast Cancer, Clinical Research Extension Award",
-      "agency": "National Science Foundation",
-      "deadline": "11/18/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363671",
       "source": "NSF",
       "description": ""
     },
@@ -2064,16 +2104,6 @@
       "description": ""
     },
     {
-      "id": "363744",
-      "title": "U.S-Saudi AI Research Commercialization Accelerator Program (ReCAP)",
-      "agency": "DOS-SAU",
-      "deadline": "09/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363744",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363738",
       "title": "Defense Sciences Office (DSO) Office-wide BAA",
       "agency": "DOD-DARPA-DSO",
@@ -2090,16 +2120,6 @@
       "deadline": "10/26/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361002",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363721",
-      "title": "Conservation and Forestry Program Support (2026-2031) for Environmental Natural Resources Management Division, Directorate of Public Works, Joint Readiness Training Center and Fort Polk, Louisiana",
-      "agency": "DOD-COE-FW",
-      "deadline": "09/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363721",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2150,6 +2170,26 @@
       "deadline": "09/21/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363212",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363214",
+      "title": "Protecting the American Seafood Supply Chain by Countering Unfair Labor Practices and Illegal, Unreported, and Unregulated (IUU)&#8239;Fishing&#8239;&#8239;",
+      "agency": "DOL-ILAB",
+      "deadline": "09/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363214",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363215",
+      "title": "Ensuring&#8239;&ldquo;Pro-American Worker&rdquo;&#8239;Critical Minerals&#8239;Supply Chain in&#8239;the Western Hemisphere",
+      "agency": "DOL-ILAB",
+      "deadline": "09/21/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363215",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2284,16 +2324,6 @@
       "description": ""
     },
     {
-      "id": "363796",
-      "title": "1890 Institution Teaching, Research, and Extension Capacity Building Grants Program",
-      "agency": "USDA-NIFA",
-      "deadline": "11/04/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363796",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363808",
       "title": "State Pilot Program for Treatment for Pregnant and Postpartum Women",
       "agency": "HHS-SAMHS-SAMHSA",
@@ -2424,6 +2454,16 @@
       "description": ""
     },
     {
+      "id": "363797",
+      "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
+      "agency": "DOE-NETL",
+      "deadline": "10/05/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363797",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "363720",
       "title": "Capacity Building Grants for Non-Land-Grant Colleges of Agriculture Program",
       "agency": "USDA-NIFA",
@@ -2434,12 +2474,12 @@
       "description": ""
     },
     {
-      "id": "363797",
-      "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
-      "agency": "DOE-NETL",
-      "deadline": "10/05/2026",
+      "id": "363700",
+      "title": "Tribal Colleges Education Equity Grants Program",
+      "agency": "USDA-NIFA",
+      "deadline": "10/07/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363797",
+      "url": "https://www.grants.gov/search-results-detail/363700",
       "source": "Grants.gov",
       "description": ""
     },
