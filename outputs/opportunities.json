@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-18T00:46:26Z",
-  "total": 301,
+  "last_updated": "2026-09-19T00:38:04Z",
+  "total": 300,
   "by_source": {
     "AI & Digital Health": 6,
     "NIH (Global Health)": 75,
     "Wellcome Leap": 53,
     "ARPA-H": 44,
     "PCORI": 25,
-    "NSF": 33,
+    "NSF": 32,
     "Grants.gov": 53,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
@@ -74,12 +74,12 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
-      "id": "363880",
-      "title": "Landmarks of History and Culture and Summer Institutes",
+      "id": "363423",
+      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "12/09/2026",
+      "deadline": "10/19/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363880",
+      "url": "https://www.grants.gov/search-results-detail/363423",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -90,6 +90,16 @@
       "deadline": "10/19/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363869",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363880",
+      "title": "Landmarks of History and Culture and Summer Institutes",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/09/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363880",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -314,16 +324,6 @@
       "description": ""
     },
     {
-      "id": "363825",
-      "title": "Impact Aid Discretionary Construction Grant Program - 84.041C",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/10/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363825",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363847",
       "title": "State Recreational Boating Safety (RBS) Grant Program",
       "agency": "NIH/Fogarty International Center",
@@ -360,6 +360,16 @@
       "deadline": "12/04/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363829",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363825",
+      "title": "Impact Aid Discretionary Construction Grant Program - 84.041C",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/10/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363825",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -510,16 +520,6 @@
       "deadline": "11/13/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363767",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363773",
-      "title": "National Leadership Grants for Museums (2027)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/13/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363773",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -2144,16 +2144,6 @@
       "description": ""
     },
     {
-      "id": "363837",
-      "title": "Undiagnosed Diseases Network (UDN) Diagnostic Research Innovation Center",
-      "agency": "National Science Foundation",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363837",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "363864",
       "title": "UI Integrity Center of Excellence Operations",
       "agency": "National Science Foundation",
@@ -2394,22 +2384,12 @@
       "description": ""
     },
     {
-      "id": "363833",
-      "title": "Agriculture Innovation Center Grant Program",
-      "agency": "USDA-RBCS",
-      "deadline": "01/31/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363833",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363842",
-      "title": "NIDA Avenir Program: Fundamental Mechanistic Research in Addiction Science",
+      "id": "363837",
+      "title": "Undiagnosed Diseases Network (UDN) Diagnostic Research Innovation Center",
       "agency": "HHS-NIH11",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363842",
+      "url": "https://www.grants.gov/search-results-detail/363837",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2890,6 +2870,16 @@
       "deadline": "11/10/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363720",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363842",
+      "title": "NIDA Avenir Program: Fundamental Mechanistic Research in Addiction Science",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363842",
       "source": "Grants.gov",
       "description": ""
     },
