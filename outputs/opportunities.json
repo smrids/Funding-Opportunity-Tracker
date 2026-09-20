@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T00:38:04Z",
+  "last_updated": "2026-09-20T00:23:11Z",
   "total": 300,
   "by_source": {
     "AI & Digital Health": 6,
@@ -2044,16 +2044,6 @@
       "description": ""
     },
     {
-      "id": "363868",
-      "title": "NIJ FY 2026 Invited to Apply - Adolescent Brain Cognitive Development: Social Development Sub-study (ABCD-SD)",
-      "agency": "National Science Foundation",
-      "deadline": "09/18/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363868",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "363779",
       "title": "Affordable Rural Cooperative (ARC) Energy Program",
       "agency": "National Science Foundation",
@@ -2140,6 +2130,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363836",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363837",
+      "title": "Undiagnosed Diseases Network (UDN) Diagnostic Research Innovation Center",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363837",
       "source": "NSF",
       "description": ""
     },
@@ -2384,12 +2384,12 @@
       "description": ""
     },
     {
-      "id": "363837",
-      "title": "Undiagnosed Diseases Network (UDN) Diagnostic Research Innovation Center",
-      "agency": "HHS-NIH11",
-      "deadline": "",
+      "id": "363833",
+      "title": "Agriculture Innovation Center Grant Program",
+      "agency": "USDA-RBCS",
+      "deadline": "01/31/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363837",
+      "url": "https://www.grants.gov/search-results-detail/363833",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2584,16 +2584,6 @@
       "description": ""
     },
     {
-      "id": "363229",
-      "title": "National Estuarine Research Reserve System (NERRS) Land Acquisition and Construction Program for Fiscal Year 2026",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "09/18/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363229",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362857",
       "title": "DoW Joint Warfighter Medical, Military Medical Research and Development Award",
       "agency": "DOD-AMRAA",
@@ -2640,6 +2630,16 @@
       "deadline": "09/30/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362194",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361832",
+      "title": "Accelerating Research and Development of Next Generation Malaria Vaccines Against Malaria &ndash; A Model for Mosquito-Borne Diseases",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361832",
       "source": "Grants.gov",
       "description": ""
     },
