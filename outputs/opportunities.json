@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-27T00:52:07Z",
-  "total": 311,
+  "last_updated": "2026-09-28T01:10:25Z",
+  "total": 310,
   "by_source": {
     "AI & Digital Health": 6,
     "NIH (Global Health)": 76,
@@ -8,7 +8,7 @@
     "ARPA-H": 44,
     "PCORI": 25,
     "NSF": 23,
-    "Grants.gov": 73,
+    "Grants.gov": 72,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -674,16 +674,6 @@
       "description": ""
     },
     {
-      "id": "361931",
-      "title": "Advancing Global Capacity to Detect and Respond to Fungal Diseases",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/26/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361931",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363070",
       "title": "Middle East Regional Cooperation (MERC)",
       "agency": "NIH/Fogarty International Center",
@@ -780,6 +770,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/334013",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "327185",
+      "title": "Public Diplomacy Small Grants Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/327185",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -2064,22 +2064,22 @@
       "description": ""
     },
     {
-      "id": "363955",
-      "title": "OCE Education",
-      "agency": "National Science Foundation",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363955",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "363978",
       "title": "National Breastfeeding Support, Implementation, and Hospital Quality Improvement Initiative",
       "agency": "National Science Foundation",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363978",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363926",
+      "title": "Amyotrophic Lateral Sclerosis (ALS) Intermediate Patient Population Expanded Access (U01 Clinical Trial Required)",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363926",
       "source": "NSF",
       "description": ""
     },
@@ -2810,16 +2810,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363516",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363926",
-      "title": "Amyotrophic Lateral Sclerosis (ALS) Intermediate Patient Population Expanded Access (U01 Clinical Trial Required)",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363926",
       "source": "Grants.gov",
       "description": ""
     },
