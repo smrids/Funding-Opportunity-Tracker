@@ -1,13 +1,12 @@
 {
-  "last_updated": "2026-09-28T01:10:25Z",
-  "total": 310,
+  "last_updated": "2026-09-29T02:18:20Z",
+  "total": 265,
   "by_source": {
     "AI & Digital Health": 6,
     "NIH (Global Health)": 76,
     "Wellcome Leap": 52,
-    "ARPA-H": 44,
     "PCORI": 25,
-    "NSF": 23,
+    "NSF": 22,
     "Grants.gov": 72,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
@@ -72,6 +71,36 @@
       "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
       "source": "AI & Digital Health",
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+    },
+    {
+      "id": "361304",
+      "title": "HEAL Initiative: Whole Joint Health Program (R61/R33 Clinical Trial Required)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361304",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363985",
+      "title": "National Parks Business Plan Internship",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/04/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363985",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363986",
+      "title": "Promoting Cancer Surveillance Workforce, Education, and Data Use",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363986",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "363956",
@@ -294,36 +323,6 @@
       "description": ""
     },
     {
-      "id": "363915",
-      "title": "Research to Improve Rigor, Replicability, and Reproducibility in Biomedical and Behavioral Sciences",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363915",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363917",
-      "title": "State Biomonitoring Cooperative Agreement",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363917",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363906",
-      "title": "Fiscal Year (FY) 2027 Department of War Multidisciplinary Research Program of the University Research Initiative (MURI)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "04/09/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363906",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "363949",
       "title": "NEA/AC Regional Annual Program Statement",
       "agency": "NIH/Fogarty International Center",
@@ -340,6 +339,16 @@
       "deadline": "11/19/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363920",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "363906",
+      "title": "Fiscal Year (FY) 2027 Department of War Multidisciplinary Research Program of the University Research Initiative (MURI)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "04/09/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363906",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -530,16 +539,6 @@
       "deadline": "04/17/2029",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360554",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363770",
-      "title": "Museum Grants for African American History and Culture (2027)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/13/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363770",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1354,446 +1353,6 @@
       "description": "Privacy Policy Effective Date: April 1, 2026, version 2.0 Wellcome Leap (\u201cLeap\u201d \u201cour,\u201d \u201cwe,\u201d or \u201cus\u201d) respects your privacy and is committed to protecting your personal information. The term \u201cpersonal information\u201d means any information relating to an identified or identifiable individual. This privacy policy (the \u201cPolicy\u201d) describes the types of information we collect and our practices for collect"
     },
     {
-      "id": "arpa-h-00a7cd685d",
-      "title": "Explore Funding",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding",
-      "source": "ARPA-H",
-      "description": "/"
-    },
-    {
-      "id": "arpa-h-d1a62fad0a",
-      "title": "Program Managers",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/careers/what-is-a-program-manager",
-      "source": "ARPA-H",
-      "description": "The Advanced Research Projects Agency for Health (ARPA-H) supports Programs with the potential to transform health care and accelerate better health outcomes for everyone. Each program in the ARPA-H program portfolio focuses on a specific problem or challenge that aligns with the agency\u2019s wider research and development goals . Programs are created and led by ARPA-H Program Managers who lead resear"
-    },
-    {
-      "id": "arpa-h-6eb8064180",
-      "title": "open funding opportunities",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/engage-and-transition/open-funding-opportunities",
-      "source": "ARPA-H",
-      "description": "The Advanced Research Projects Agency for Health (ARPA-H) supports Programs with the potential to transform health care and accelerate better health outcomes for everyone. Each program in the ARPA-H program portfolio focuses on a specific problem or challenge that aligns with the agency\u2019s wider research and development goals . Programs are created and led by ARPA-H Program Managers who lead resear"
-    },
-    {
-      "id": "arpa-h-b6e13bf702",
-      "title": "1-CUREWhat if we could develop radiotherapy technology to enable one low-cost curative treatment effective for all cancers?One Comprehensive Universal Radiotherapy for EveryoneWilfred Ngwa, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/1-cure",
-      "source": "ARPA-H",
-      "description": "1-CURE What if we could develop radiotherapy technology to enable one low-cost curative treatment effective for all cancers? One Comprehensive Universal Radiotherapy for Everyone Wilfred Ngwa, Ph.D."
-    },
-    {
-      "id": "arpa-h-bcdcf634de",
-      "title": "ADAPTWhat if we could adapt cancer treatments as tumors mutate and change?Advanced Analysis for Precision cancer TherapyErika Kim, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/adapt",
-      "source": "ARPA-H",
-      "description": "ADAPT What if we could adapt cancer treatments as tumors mutate and change? Advanced Analysis for Precision cancer Therapy Erika Kim, Ph.D."
-    },
-    {
-      "id": "arpa-h-8a49296f0d",
-      "title": "ADVOCATEWhat if an FDA-authorized clinical agentic AI could provide safe and effective cardiovascular care to every American?Agentic AI-Enabled Cardiovascular Care TransformationHaider Warraich, M.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/advocate",
-      "source": "ARPA-H",
-      "description": "ADVOCATE What if an FDA-authorized clinical agentic AI could provide safe and effective cardiovascular care to every American? Agentic AI-Enabled Cardiovascular Care Transformation Haider Warraich, M.D."
-    },
-    {
-      "id": "arpa-h-9e86780ff6",
-      "title": "AIRWhat if we could perform life-saving interventions autonomously?Autonomous Interventions and RoboticsIleana Hancu, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/air",
-      "source": "ARPA-H",
-      "description": "AIR What if we could perform life-saving interventions autonomously? Autonomous Interventions and Robotics Ileana Hancu, Ph.D."
-    },
-    {
-      "id": "arpa-h-32c7f0dda8",
-      "title": "APECxWhat if we could\u202feliminate\u202fviruses as current and future health threats?Antigens Predicted for Broad Viral Efficacy through Computational ExperimentationShannon Greene, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/apecx",
-      "source": "ARPA-H",
-      "description": "APECx What if we could eliminate viruses as current and future health threats? Antigens Predicted for Broad Viral Efficacy through Computational Experimentation Shannon Greene, Ph.D."
-    },
-    {
-      "id": "arpa-h-8c8411e2e1",
-      "title": "ARPA-H BDF ToolboxWhat if new data integration tools made it possible to extract more value out of data?ARPA-H Biomedical Data Fabric ToolboxErika Kim, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/arpa-h-bdf-toolbox",
-      "source": "ARPA-H",
-      "description": "ARPA-H BDF Toolbox What if new data integration tools made it possible to extract more value out of data? ARPA-H Biomedical Data Fabric Toolbox Erika Kim, Ph.D."
-    },
-    {
-      "id": "arpa-h-7f75ea7776",
-      "title": "BIOGAMIWhat if we could detect and repair the earliest stages of protein dysfunction to\u202feliminate\u202fneurodegenerative disease?BIOmolecular\u202fGrammar for protein Aggregation Modulation and InterventionShannon Greene, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/biogami",
-      "source": "ARPA-H",
-      "description": "BIOGAMI What if we could detect and repair the earliest stages of protein dysfunction to eliminate neurodegenerative disease? BIOmolecular Grammar for protein Aggregation Modulation and Intervention Shannon Greene, Ph.D."
-    },
-    {
-      "id": "arpa-h-7f44365e17",
-      "title": "BoSSWhat if our most advanced biological medicines were as easy to ship and store as aspirin?BioStabilization SystemsGloria Elliott, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/boss",
-      "source": "ARPA-H",
-      "description": "BoSS What if our most advanced biological medicines were as easy to ship and store as aspirin? BioStabilization Systems Gloria Elliott, Ph.D."
-    },
-    {
-      "id": "arpa-h-6f091f3d75",
-      "title": "BREATHEWhat if indoor air was always safe and healthy?Building Resilient Environment for Air and Total HealthJessica Green, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/breathe",
-      "source": "ARPA-H",
-      "description": "BREATHE What if indoor air was always safe and healthy? Building Resilient Environment for Air and Total Health Jessica Green, Ph.D."
-    },
-    {
-      "id": "arpa-h-def564cc23",
-      "title": "CATALYSTWhat if we could predict drug safety and efficacy accurately before clinical trials even begin?Computational ADME-Tox and Physiology Analysis for Safer TherapeuticsMichael Patterson, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/catalyst",
-      "source": "ARPA-H",
-      "description": "CATALYST What if we could predict drug safety and efficacy accurately before clinical trials even begin? Computational ADME-Tox and Physiology Analysis for Safer Therapeutics Michael Patterson, Ph.D."
-    },
-    {
-      "id": "arpa-h-9a03391b43",
-      "title": "CIRCLEWhat if we could harness the immune system using AI for faster and better critical care?Critical Illness Immunological Reprogramming and Control Point Learning EngineYoram Vodovotz, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/circle",
-      "source": "ARPA-H",
-      "description": "CIRCLE What if we could harness the immune system using AI for faster and better critical care? Critical Illness Immunological Reprogramming and Control Point Learning Engine Yoram Vodovotz, Ph.D."
-    },
-    {
-      "id": "arpa-h-66129298d9",
-      "title": "DelphiWhat if discreet and low-cost wearable devices could help Americans continuously track deep biological information?Developing self-monitoring ecosystems to \u201cknow thyself\u201dLeonard Tender, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/delphi",
-      "source": "ARPA-H",
-      "description": "Delphi What if discreet and low-cost wearable devices could help Americans continuously track deep biological information? Developing self-monitoring ecosystems to \u201cknow thyself\u201d Leonard Tender, Ph.D."
-    },
-    {
-      "id": "arpa-h-b37a8dc9a7",
-      "title": "DIGIHEALSWhat if we could strengthen the nation's digital health infrastructure to protect against cyberattacks?ARPA-H Digital Health Security InitiativeAndrew Carney, M.S.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/digiheals",
-      "source": "ARPA-H",
-      "description": "DIGIHEALS What if we could strengthen the nation's digital health infrastructure to protect against cyberattacks? ARPA-H Digital Health Security Initiative Andrew Carney, M.S."
-    },
-    {
-      "id": "arpa-h-6b3c282ee8",
-      "title": "EHIWhat if we trained the next generation in the ARPA model of innovation and bold thinking?Emerging Health Innovators",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/ehi",
-      "source": "ARPA-H",
-      "description": "EHI What if we trained the next generation in the ARPA model of innovation and bold thinking? Emerging Health Innovators"
-    },
-    {
-      "id": "arpa-h-ad9d11ac81",
-      "title": "EMBODYWhat if your own immune system could manufacture cures for devastating diseases?Engineering of Immune Cells Inside the BodyDaria Fedyukina, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/embody",
-      "source": "ARPA-H",
-      "description": "EMBODY What if your own immune system could manufacture cures for devastating diseases? Engineering of Immune Cells Inside the Body Daria Fedyukina, Ph.D."
-    },
-    {
-      "id": "arpa-h-5ffafb283e",
-      "title": "FASTPASSWhat if we could verify the quality and safety of every dose of every medicine, every time?Fast Assessment of Solutions, Therapeutics, Pharmaceuticals, and SuppliesCAPT James Coburn",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/fastpass",
-      "source": "ARPA-H",
-      "description": "FASTPASS What if we could verify the quality and safety of every dose of every medicine, every time? Fast Assessment of Solutions, Therapeutics, Pharmaceuticals, and Supplies CAPT James Coburn"
-    },
-    {
-      "id": "arpa-h-07ef197f1f",
-      "title": "FRONTWhat if we could restore function to the millions of Americans with permanent brain damage to the neocortex?Functional Repair of Neocortical TissueJean M. Hebert, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/front",
-      "source": "ARPA-H",
-      "description": "FRONT What if we could restore function to the millions of Americans with permanent brain damage to the neocortex? Functional Repair of Neocortical Tissue Jean M. Hebert, Ph.D."
-    },
-    {
-      "id": "arpa-h-49285b9668",
-      "title": "GIVEWhat if we could manufacture any genetic medicine anywhere in the U.S.?Genetic Medicines and Individualized Manufacturing for EveryoneJohn Schiel, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/give",
-      "source": "ARPA-H",
-      "description": "GIVE What if we could manufacture any genetic medicine anywhere in the U.S.? Genetic Medicines and Individualized Manufacturing for Everyone John Schiel, Ph.D."
-    },
-    {
-      "id": "arpa-h-a5d5b27071",
-      "title": "GLIDEWhat if doctors were able to prevent and cure human disease by targeting the lymphatic system?Groundbreaking Lymphatic Interventions and Drug ExplorationKimberley Steele, M.D., Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/glide",
-      "source": "ARPA-H",
-      "description": "GLIDE What if doctors were able to prevent and cure human disease by targeting the lymphatic system? Groundbreaking Lymphatic Interventions and Drug Exploration Kimberley Steele, M.D., Ph.D."
-    },
-    {
-      "id": "arpa-h-54a74099cc",
-      "title": "HEARINGWhat if your brain could hear what your ears cannot?Hearing Enhancement through Artificially Intelligent NeurotechnoloGyCalvin Roberts, M.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/hearing",
-      "source": "ARPA-H",
-      "description": "HEARING What if your brain could hear what your ears cannot? Hearing Enhancement through Artificially Intelligent NeurotechnoloGy Calvin Roberts, M.D."
-    },
-    {
-      "id": "arpa-h-5a2a20b510",
-      "title": "IGoRWhat if we could make biomedical research faster and more rigorous?Intelligent Generator of ResearchYoram Vodovotz, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/igor",
-      "source": "ARPA-H",
-      "description": "IGoR What if we could make biomedical research faster and more rigorous? Intelligent Generator of Research Yoram Vodovotz, Ph.D."
-    },
-    {
-      "id": "arpa-h-fcf9d30aba",
-      "title": "LIGHTWhat if we could make the invisible lymphatic system visible?Lymphatic Imaging, Genomics, and Phenotyping TechnologiesKimberley Steele, M.D., Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/light",
-      "source": "ARPA-H",
-      "description": "LIGHT What if we could make the invisible lymphatic system visible? Lymphatic Imaging, Genomics, and Phenotyping Technologies Kimberley Steele, M.D., Ph.D."
-    },
-    {
-      "id": "arpa-h-b93637d249",
-      "title": "MOCSWhat if the United States was the safest place in the world to have a baby?Making Obstetrics Care SmartKate Arnold, M.D., MBA",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/mocs",
-      "source": "ARPA-H",
-      "description": "MOCS What if the United States was the safest place in the world to have a baby? Making Obstetrics Care Smart Kate Arnold, M.D., MBA"
-    },
-    {
-      "id": "arpa-h-eaba07a958",
-      "title": "NITROWhat if we could make our joints heal themselves?Novel Innovations for Tissue Regeneration in OsteoarthritisRoss Uhrich, DMD, MBA",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/nitro",
-      "source": "ARPA-H",
-      "description": "NITRO What if we could make our joints heal themselves? Novel Innovations for Tissue Regeneration in Osteoarthritis Ross Uhrich, DMD, MBA"
-    },
-    {
-      "id": "arpa-h-50e84f3b94",
-      "title": "OCULABWhat if your eyes were a window to your health?Ocular Laboratory for Analysis of BiomarkersCalvin Roberts, M.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/oculab",
-      "source": "ARPA-H",
-      "description": "OCULAB What if your eyes were a window to your health? Ocular Laboratory for Analysis of Biomarkers Calvin Roberts, M.D."
-    },
-    {
-      "id": "arpa-h-4026a8bfde",
-      "title": "PARADIGMWhat if we could deliver advanced hospital-level care to every rural county in America?Platform Accelerating Rural Access to Distributed and Integrated Medical CareBon Ku, M.D., MPP",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/paradigm",
-      "source": "ARPA-H",
-      "description": "PARADIGM What if we could deliver advanced hospital-level care to every rural county in America? Platform Accelerating Rural Access to Distributed and Integrated Medical Care Bon Ku, M.D., MPP"
-    },
-    {
-      "id": "arpa-h-5c5cf6b438",
-      "title": "PCXWhat if a child with a complex disease had their full medical data follow them to every hospital in the country, so parents could focus on their child and care teams had everything they needed?Pediatric Care eXpansionErika Kim, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/pcx",
-      "source": "ARPA-H",
-      "description": "PCX What if a child with a complex disease had their full medical data follow them to every hospital in the country, so parents could focus on their child and care teams had everything they needed? Pediatric Care eXpansion Erika Kim, Ph.D."
-    },
-    {
-      "id": "arpa-h-70313acf5b",
-      "title": "POSEIDONWhat if a simple test could save millions of lives by catching cancer early?Platform Optimizing SynBio for Early Intervention and Detection in OncologyRoss Uhrich, DMD, MBA",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/poseidon",
-      "source": "ARPA-H",
-      "description": "POSEIDON What if a simple test could save millions of lives by catching cancer early? Platform Optimizing SynBio for Early Intervention and Detection in Oncology Ross Uhrich, DMD, MBA"
-    },
-    {
-      "id": "arpa-h-621d357b1c",
-      "title": "PRINTWhat if we could\u202fbioprint\u202fany organ on demand?Personalized Regenerative Immunocompetent Nanotechnology TissueRyan Spitler, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/print",
-      "source": "ARPA-H",
-      "description": "PRINT What if we could bioprint any organ on demand? Personalized Regenerative Immunocompetent Nanotechnology Tissue Ryan Spitler, Ph.D."
-    },
-    {
-      "id": "arpa-h-c4b99dfedb",
-      "title": "PROSPRWhat if we had therapies to extend\u202fhealthspan\u202fand prevent the onset of age-related diseases?Proactive Solutions for Prolonging ResilienceAndrew Brack, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/prospr",
-      "source": "ARPA-H",
-      "description": "PROSPR What if we had therapies to extend healthspan and prevent the onset of age-related diseases? Proactive Solutions for Prolonging Resilience Andrew Brack, Ph.D."
-    },
-    {
-      "id": "arpa-h-0a796d2b8b",
-      "title": "PSIWhat if surgeries fixed problems flawlessly, the first time?Precision Surgical InterventionsIleana Hancu, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/psi",
-      "source": "ARPA-H",
-      "description": "PSI What if surgeries fixed problems flawlessly, the first time? Precision Surgical Interventions Ileana Hancu, Ph.D."
-    },
-    {
-      "id": "arpa-h-a7217b0d51",
-      "title": "RAPIDWhat if we could end the rare disease diagnostic odyssey?Rare Disease AI/ML for Precision Integrated DiagnosticsScott Gorman, J.D., MBA",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/rapid",
-      "source": "ARPA-H",
-      "description": "RAPID What if we could end the rare disease diagnostic odyssey? Rare Disease AI/ML for Precision Integrated Diagnostics Scott Gorman, J.D., MBA"
-    },
-    {
-      "id": "arpa-h-010105e652",
-      "title": "REACTWhat if your body could make its own medicine?Resilient Extended Automatic Cell TherapiesLeonard Tender, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/react",
-      "source": "ARPA-H",
-      "description": "REACT What if your body could make its own medicine? Resilient Extended Automatic Cell Therapies Leonard Tender, Ph.D."
-    },
-    {
-      "id": "arpa-h-418e96e2ee",
-      "title": "RESTWhat if sleep were a controllable biological system\u2014one we could measure, personalize, and optimize to improve health?Restorative and health-Enhancing Sleep TimeNathaniel Mohatt, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/rest",
-      "source": "ARPA-H",
-      "description": "REST What if sleep were a controllable biological system\u2014one we could measure, personalize, and optimize to improve health? Restorative and health-Enhancing Sleep Time Nathaniel Mohatt, Ph.D."
-    },
-    {
-      "id": "arpa-h-b3ee606516",
-      "title": "SPECTRAWhat if everyone on the autism spectrum could be understood and supported as an individual across the lifespan, with precision care that improves health, independence, and quality of life?Systems for Phenotypic Evaluation, Clinical Trajectories, Response, and AgencyRussell Shilling, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/spectra",
-      "source": "ARPA-H",
-      "description": "SPECTRA What if everyone on the autism spectrum could be understood and supported as an individual across the lifespan, with precision care that improves health, independence, and quality of life? Systems for Phenotypic Evaluation, Clinical Trajectories, Response, and Agency Russell Shilling, Ph.D."
-    },
-    {
-      "id": "arpa-h-6817795ab8",
-      "title": "STOMPWhat if we could detect, understand the health impacts of, and remove toxic microplastics from the body?Systematic Targeting Of MicroPlasticsShannon Greene, Ph.D.Ileana Hancu, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/stomp",
-      "source": "ARPA-H",
-      "description": "STOMP What if we could detect, understand the health impacts of, and remove toxic microplastics from the body? Systematic Targeting Of MicroPlastics Shannon Greene, Ph.D. Ileana Hancu, Ph.D."
-    },
-    {
-      "id": "arpa-h-42e7354dcd",
-      "title": "STREAMWhat if we could reduce American herbicide exposure from farm to table without raising the grocery bill?Systems for Tracking and Resilience in Efficient Agricultural-input ManagementCAPT James Coburn",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/stream",
-      "source": "ARPA-H",
-      "description": "STREAM What if we could reduce American herbicide exposure from farm to table without raising the grocery bill? Systems for Tracking and Resilience in Efficient Agricultural-input Management CAPT James Coburn"
-    },
-    {
-      "id": "arpa-h-1199552857",
-      "title": "THEAWhat if we could cure blindness?Transplantation of Human Eye AllograftsCalvin Roberts, M.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/thea",
-      "source": "ARPA-H",
-      "description": "THEA What if we could cure blindness? Transplantation of Human Eye Allografts Calvin Roberts, M.D."
-    },
-    {
-      "id": "arpa-h-73ae3e97d7",
-      "title": "THRIVEWhat if we could develop and deploy\u202fgenetic medicine for any patient with rare genetic disease?Treating Hereditary Rare Diseases with In Vivo Precision Genetic MedicinesDaria Fedyukina, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/thrive",
-      "source": "ARPA-H",
-      "description": "THRIVE What if we could develop and deploy genetic medicine for any patient with rare genetic disease? Treating Hereditary Rare Diseases with In Vivo Precision Genetic Medicines Daria Fedyukina, Ph.D."
-    },
-    {
-      "id": "arpa-h-52aef4cce8",
-      "title": "UNIQUEWhat if one scan could unify today\u2019s imaging \u2014 and reveal a new\u202fquantum-derived\u202flayer of biology?UNifying\u200b Imaging with\u200b QUantum\u200b Entanglement \u200b(UNIQUE)Wilfred Ngwa, Ph.D.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/unique",
-      "source": "ARPA-H",
-      "description": "UNIQUE What if one scan could unify today\u2019s imaging \u2014 and reveal a new quantum-derived layer of biology? UNifying\u200b Imaging with\u200b QUantum\u200b Entanglement \u200b(UNIQUE) Wilfred Ngwa, Ph.D."
-    },
-    {
-      "id": "arpa-h-e19371602b",
-      "title": "UPGRADEWhat if every hospital could autonomously protect itself and patients from cyber threats?Universal Patching and Remediation for Autonomous DefenseAndrew Carney, M.S.",
-      "agency": "ARPA-H",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://arpa-h.gov/explore-funding/programs/upgrade",
-      "source": "ARPA-H",
-      "description": "UPGRADE What if every hospital could autonomously protect itself and patients from cyber threats? Universal Patching and Remediation for Autonomous Defense Andrew Carney, M.S."
-    },
-    {
       "id": "pcori-57e483c474",
       "title": "Engagement Award: Capacity Building -- Fall 2026 Cycle",
       "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
@@ -2054,12 +1613,12 @@
       "description": ""
     },
     {
-      "id": "363935",
-      "title": "OJJDP FY 2026 Invited to Apply - Internet Crimes Against Children Task Force National Training Program",
+      "id": "363983",
+      "title": "NASA Innovative Advanced Concepts (NIAC) Phase I",
       "agency": "National Science Foundation",
-      "deadline": "10/01/2026",
+      "deadline": "10/28/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363935",
+      "url": "https://www.grants.gov/search-results-detail/363983",
       "source": "NSF",
       "description": ""
     },
@@ -2070,16 +1629,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363978",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363926",
-      "title": "Amyotrophic Lateral Sclerosis (ALS) Intermediate Patient Population Expanded Access (U01 Clinical Trial Required)",
-      "agency": "National Science Foundation",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363926",
       "source": "NSF",
       "description": ""
     },
@@ -2120,6 +1669,16 @@
       "deadline": "10/08/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363937",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363915",
+      "title": "Research to Improve Rigor, Replicability, and Reproducibility in Biomedical and Behavioral Sciences",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363915",
       "source": "NSF",
       "description": ""
     },
@@ -2264,13 +1823,23 @@
       "description": ""
     },
     {
-      "id": "360574",
-      "title": "Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research (P50 Clinical Trial Optional)",
-      "agency": "National Science Foundation",
-      "deadline": "05/25/2028",
+      "id": "363982",
+      "title": "OJJDP FY 2026 Invited to Apply - National Center For Missing &amp; Exploited Children - IAA USSS",
+      "agency": "USDOJ-OJP-OJJDP",
+      "deadline": "09/29/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360574",
-      "source": "NSF",
+      "url": "https://www.grants.gov/search-results-detail/363982",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363984",
+      "title": "OJJDP FY 2026 Invited to Apply - National Center for Missing and Exploited Children",
+      "agency": "USDOJ-OJP-OJJDP",
+      "deadline": "09/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363984",
+      "source": "Grants.gov",
       "description": ""
     },
     {
@@ -2290,16 +1859,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363975",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363922",
-      "title": "FY23- Bellows Falls Intermodal Center Rehabilitation",
-      "agency": "DOT-FRA",
-      "deadline": "10/09/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363922",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2354,36 +1913,6 @@
       "description": ""
     },
     {
-      "id": "363976",
-      "title": "Lifespan Respite Care Program: State Grants",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363976",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363961",
-      "title": "OJJDP FY 2026 Second Chance Act Youth Reentry Program",
-      "agency": "USDOJ-OJP-OJJDP",
-      "deadline": "11/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363961",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363977",
-      "title": "OJJDP FY 2026 Internet Crimes Against Children (ICAC) Task Force Program Support",
-      "agency": "USDOJ-OJP-OJJDP",
-      "deadline": "11/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363977",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363852",
       "title": "Climate Program Office (CPO) FY2026 Earth System Science and Services Partnership",
       "agency": "DOC-DOCNOAAERA",
@@ -2410,6 +1939,16 @@
       "deadline": "10/30/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363847",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360574",
+      "title": "Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research (P50 Clinical Trial Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "05/25/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360574",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2634,16 +2173,6 @@
       "description": ""
     },
     {
-      "id": "363858",
-      "title": "Somatic Mosaicism across Human Tissues (SMaHT) Program: Genome Characterization Centers (UM1 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363858",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363785",
       "title": "Emergency Citrus Disease Research and Extension Pre-Applications",
       "agency": "USDA-NIFA",
@@ -2664,22 +2193,22 @@
       "description": ""
     },
     {
+      "id": "363917",
+      "title": "State Biomonitoring Cooperative Agreement",
+      "agency": "HHS-CDC-NCEH",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363917",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "363047",
       "title": "Preschool Development Grant Birth Through Five (PDG B-5) SMART Grant",
       "agency": "HHS-ACF",
       "deadline": "11/20/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363047",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363875",
-      "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs)",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363875",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2814,12 +2343,42 @@
       "description": ""
     },
     {
+      "id": "363977",
+      "title": "OJJDP FY 2026 Internet Crimes Against Children (ICAC) Task Force Program Support",
+      "agency": "USDOJ-OJP-OJJDP",
+      "deadline": "11/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363977",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363926",
+      "title": "Amyotrophic Lateral Sclerosis (ALS) Intermediate Patient Population Expanded Access (U01 Clinical Trial Required)",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363926",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "363931",
       "title": "OJJDP FY 2026 Invited to Apply - Internet Crimes Against Children Data System Enhancements",
       "agency": "USDOJ-OJP-OJJDP",
       "deadline": "10/01/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363931",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363935",
+      "title": "OJJDP FY 2026 Invited to Apply - Internet Crimes Against Children Task Force National Training Program",
+      "agency": "USDOJ-OJP-OJJDP",
+      "deadline": "10/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363935",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2874,12 +2433,12 @@
       "description": ""
     },
     {
-      "id": "363856",
-      "title": "F26AS00030 Cooperative Endangered Species Conservation Fund: Recovery Land Acquisition Grant Program",
-      "agency": "DOI-FWS",
-      "deadline": "11/20/2026",
+      "id": "363976",
+      "title": "Lifespan Respite Care Program: State Grants",
+      "agency": "HHS-ACL",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363856",
+      "url": "https://www.grants.gov/search-results-detail/363976",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2894,22 +2453,12 @@
       "description": ""
     },
     {
-      "id": "363855",
-      "title": "Cancer Prevention and Control Programs for State, Territorial, and Tribal Organizations",
-      "agency": "HHS-CDC-NCCDPHP",
-      "deadline": "",
+      "id": "363856",
+      "title": "F26AS00030 Cooperative Endangered Species Conservation Fund: Recovery Land Acquisition Grant Program",
+      "agency": "DOI-FWS",
+      "deadline": "11/20/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363855",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363854",
-      "title": "Aquatic Fauna Response to Ecosystem Restoration in Southwest Florida",
-      "agency": "DOD-COE-FW",
-      "deadline": "10/12/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363854",
+      "url": "https://www.grants.gov/search-results-detail/363856",
       "source": "Grants.gov",
       "description": ""
     },
