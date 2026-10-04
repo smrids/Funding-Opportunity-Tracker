@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-03T01:26:23Z",
-  "total": 300,
+  "last_updated": "2026-10-04T01:59:08Z",
+  "total": 296,
   "by_source": {
     "AI & Digital Health": 6,
-    "NIH (Global Health)": 77,
+    "NIH (Global Health)": 68,
     "Wellcome Leap": 52,
     "ARPA-H": 45,
     "PCORI": 25,
     "NSF": 25,
-    "Grants.gov": 58,
+    "Grants.gov": 63,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -594,96 +594,6 @@
       "description": ""
     },
     {
-      "id": "360324",
-      "title": "Improving global health security in C&ocirc;te d'Ivoire to stop the spread of infectious disease",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360324",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360337",
-      "title": "Expanding global health security though local partnerships in Tanzania",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360337",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360332",
-      "title": "Expanding global health security through local partnerships in Nigeria",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360332",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360338",
-      "title": "Expanding global health security through local partnerships in Indonesia",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360338",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360455",
-      "title": "Protecting and Improving Global Health Security by Engaging Local Partners: Strengthening and Sustaining Public Health Systems in Ghana",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360455",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360336",
-      "title": "Strengthening global health security in India to contain public health threats and accelerate outbreak response",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360336",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360334",
-      "title": "Expanding Global Health Security through local partnerships in Senegal",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360334",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360335",
-      "title": "Strengthening Global Health Security through local partnerships in&nbsp;Sierra Leone",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360335",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360333",
-      "title": "Expanding global health security through local partnerships in Ethiopia",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360333",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "362681",
       "title": "Research Interests of the Air Force Office of Scientific Research",
       "agency": "NIH/Fogarty International Center",
@@ -881,7 +791,7 @@
       "award_ceiling": "",
       "url": "https://wellcomeleap.org/programs/resistance-networks/",
       "source": "Wellcome Leap",
-      "description": "NEW $50M PROGRAM With support from Bayer Apply Now ABSTRACT PORTAL WILL OPEN 15 JULY 2026 AT 11:59PM ET. PORTAL IS NOW OPEN. Upload your full abstract and submit your application before 22 July 2026 at 11:59pm ET. PROPOSAL PORTAL WILL OPEN 28 AUGUST 2026 AT 11:59PM ET. PORTAL IS NOW CLOSED. Submission feedback will be received on 3 October 2026 at 7:00am ET. Download the full program announcement "
+      "description": "NEW $50M PROGRAM With support from Bayer Apply Now We are pleased to announce the selected performers . Amy Pickering, University of California, Berkeley In-country Lead (Kenya): Erick Odoyo, Walter Reed Army Institute of Research \u2013 Africa Brady Cress, University of California, Berkeley Eduardo Pimentel Cachapuz Rocha, Institut Pasteur Franz Baumdicker, Justus-Liebig-University of Gie\u00dfen Ibrehima "
     },
     {
       "id": "wleap-37911",
@@ -2580,6 +2490,56 @@
       "deadline": "10/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362191",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361832",
+      "title": "Accelerating Research and Development of Next Generation Malaria Vaccines Against Malaria &ndash; A Model for Mosquito-Borne Diseases",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361832",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361526",
+      "title": "The Genesis Mission:  Transforming Science and Energy with AI",
+      "agency": "PAMS-SC",
+      "deadline": "12/17/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361526",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359225",
+      "title": "EDA FY25 Disaster Supplemental",
+      "agency": "DOC-EDA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359225",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359236",
+      "title": "Staff Research Program",
+      "agency": "DOD-AMC",
+      "deadline": "06/02/2030",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359236",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "356612",
+      "title": "Fundamental Research to Counter Weapons of Mass Destruction",
+      "agency": "DOD-DTRA",
+      "deadline": "09/30/2034",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/356612",
       "source": "Grants.gov",
       "description": ""
     },
