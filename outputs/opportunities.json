@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T01:59:08Z",
-  "total": 296,
+  "last_updated": "2026-10-05T01:16:25Z",
+  "total": 295,
   "by_source": {
     "AI & Digital Health": 6,
     "NIH (Global Health)": 68,
@@ -8,7 +8,7 @@
     "ARPA-H": 45,
     "PCORI": 25,
     "NSF": 25,
-    "Grants.gov": 63,
+    "Grants.gov": 62,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -1974,16 +1974,6 @@
       "description": ""
     },
     {
-      "id": "364017",
-      "title": "Foundations for Operating the National Artificial Intelligence Research Resource: the NAIRR Operations Center (NAIRR-OC)",
-      "agency": "National Science Foundation",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364017",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "364009",
       "title": "Fiscal Year 2026 Wildlife Crossings Pilot Program",
       "agency": "National Science Foundation",
@@ -2080,6 +2070,16 @@
       "deadline": "10/31/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364004",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "363983",
+      "title": "NASA Innovative Advanced Concepts (NIAC) Phase I",
+      "agency": "National Science Foundation",
+      "deadline": "10/28/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363983",
       "source": "NSF",
       "description": ""
     },
@@ -2250,16 +2250,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364013",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363983",
-      "title": "NASA Innovative Advanced Concepts (NIAC) Phase I",
-      "agency": "NASA-HQ",
-      "deadline": "10/28/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363983",
       "source": "Grants.gov",
       "description": ""
     },
