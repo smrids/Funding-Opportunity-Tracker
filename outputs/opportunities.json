@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-08T02:16:10Z",
-  "total": 245,
+  "last_updated": "2026-10-09T02:33:35Z",
+  "total": 241,
   "by_source": {
     "AI & Digital Health": 5,
-    "NIH (Global Health)": 68,
+    "NIH (Global Health)": 66,
     "ARPA-H": 45,
     "PCORI": 25,
     "NSF": 24,
-    "Grants.gov": 66,
+    "Grants.gov": 64,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -63,6 +63,66 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
+      "id": "364038",
+      "title": "Science and Technology Centers: Integrative Partnerships",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364038",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364040",
+      "title": "OJJDP FY 2026 Expanding Youth Access to Community-Based Treatment",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364040",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364041",
+      "title": "OJJDP FY 2026 Family Treatment Court Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364041",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364043",
+      "title": "BJA FY 2026 Residential Substance Abuse Treatment for State Prisoners &ndash; Formula Grants Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364043",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364033",
+      "title": "Genesis Mission Graduate Fellowship Pilot",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/12/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364033",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361431",
+      "title": "Pilot Projects to Enhance the Human Virome Program (R03 Clinical Trials Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/10/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361431",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "364027",
       "title": "Centers for Research on Neglected Infectious Diseases",
       "agency": "NIH/Fogarty International Center",
@@ -93,6 +153,16 @@
       "description": ""
     },
     {
+      "id": "360873",
+      "title": "Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/20/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360873",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "364031",
       "title": "Community Development Block Grant Program for Indian Tribes and Alaska Native Villages",
       "agency": "NIH/Fogarty International Center",
@@ -109,16 +179,6 @@
       "deadline": "01/13/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364030",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360873",
-      "title": "Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "06/20/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360873",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -253,66 +313,6 @@
       "description": ""
     },
     {
-      "id": "363956",
-      "title": "Strengthening Collaboration Between Tuberculosis Control Programs and Affiliated Partners in the United States.",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363956",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360545",
-      "title": "NEI Translational Research Program for Therapeutics (R61/R33 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/16/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360545",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363962",
-      "title": "Alzheimer's Disease Programs Initiative (ADPI) - Developing Dementia-Capable Community Health Worker Programs in the National Aging Network",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363962",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363965",
-      "title": "Advanced Rehabilitation Research Training (ARRT) Program - Health and Function",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363965",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363967",
-      "title": "Small Business Innovation Research Program (SBIR) Phase II",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363967",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363968",
-      "title": "Burn Injury Model System Centers",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363968",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364026",
       "title": "Silicon Carbide Cladding Lead Test Rod Development-Phase 1",
       "agency": "NIH/Fogarty International Center",
@@ -339,16 +339,6 @@
       "deadline": "12/01/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364006",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364001",
-      "title": "NIJ FY 2026 Invited to Apply - Operation of the Secretariat of  SC 37 under JTC 1 of ISO/IEC",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364001",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -529,16 +519,6 @@
       "deadline": "12/01/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363815",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363791",
-      "title": "Head Start/Early Head Grants in Multiple States",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363791",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1453,6 +1433,26 @@
       "description": ""
     },
     {
+      "id": "364039",
+      "title": "ROSES 2025: B.8 Heliophysics Spaceflight Science Foundations",
+      "agency": "National Science Foundation",
+      "deadline": "02/05/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364039",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "364042",
+      "title": "OJJDP FY 2026 Internet Crimes Against Children On-Line Child Protection System (ICACCOPS)",
+      "agency": "National Science Foundation",
+      "deadline": "11/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364042",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "364003",
       "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
       "agency": "National Science Foundation",
@@ -1463,22 +1463,22 @@
       "description": ""
     },
     {
-      "id": "364032",
-      "title": "ROSES 2025: B.7 The Heliophysics Low-Cost Access to Space",
-      "agency": "National Science Foundation",
-      "deadline": "03/16/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364032",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "364037",
       "title": "BJA FY 2026 Justice Reinvestment Initiative: Strengthening State and Local Operations to Reduce Crime and Recidivism",
       "agency": "National Science Foundation",
       "deadline": "11/20/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364037",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "364032",
+      "title": "ROSES 2025: B.7 The Heliophysics Low-Cost Access to Space",
+      "agency": "National Science Foundation",
+      "deadline": "03/16/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364032",
       "source": "NSF",
       "description": ""
     },
@@ -1539,26 +1539,6 @@
       "deadline": "10/31/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363996",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363999",
-      "title": "NIJ FY 2026 Invited to Apply - Advancing the Understanding of 3D Algorithms for Firearm Identification",
-      "agency": "National Science Foundation",
-      "deadline": "10/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363999",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "364004",
-      "title": "Region 4 Small Business Transportation Technical Assistance Center (SBTTAC)",
-      "agency": "National Science Foundation",
-      "deadline": "10/31/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364004",
       "source": "NSF",
       "description": ""
     },
@@ -1673,13 +1653,23 @@
       "description": ""
     },
     {
-      "id": "363836",
-      "title": "Undiagnosed Diseases Network (UDN) Clinical and Data Coordinating Center",
+      "id": "364004",
+      "title": "Region 4 Small Business Transportation Technical Assistance Center (SBTTAC)",
       "agency": "National Science Foundation",
-      "deadline": "",
+      "deadline": "10/31/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363836",
+      "url": "https://www.grants.gov/search-results-detail/364004",
       "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "364045",
+      "title": "BJA FY 2026 Invited to Apply- Justice Information Sharing Training and Technical Assistance Program (RISS Support)",
+      "agency": "USDOJ-OJP-BJA",
+      "deadline": "10/13/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364045",
+      "source": "Grants.gov",
       "description": ""
     },
     {
@@ -1703,12 +1693,12 @@
       "description": ""
     },
     {
-      "id": "364000",
-      "title": "NIJ FY 2026 Invited to Apply - A Universal Method for the Detection of Gunshot Residue using Vibrational Spectroscopy",
-      "agency": "USDOJ-OJP-NIJ",
-      "deadline": "10/07/2026",
+      "id": "364044",
+      "title": "OJJDP FY 2026 Juvenile Justice System Enhancements",
+      "agency": "USDOJ-OJP-OJJDP",
+      "deadline": "11/16/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364000",
+      "url": "https://www.grants.gov/search-results-detail/364044",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1743,22 +1733,22 @@
       "description": ""
     },
     {
-      "id": "364022",
-      "title": "Distressed Cities Technical Assistance (DCTA) Program for Fiscal Years 2026 and 2027",
-      "agency": "HUD",
+      "id": "363956",
+      "title": "Strengthening Collaboration Between Tuberculosis Control Programs and Affiliated Partners in the United States.",
+      "agency": "HHS-CDC-NCHHSTP",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364022",
+      "url": "https://www.grants.gov/search-results-detail/363956",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "363970",
-      "title": "Traumatic Brain Injury Model Systems Centers",
-      "agency": "HHS-ACL",
-      "deadline": "",
+      "id": "360545",
+      "title": "NEI Translational Research Program for Therapeutics (R61/R33 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "11/16/2029",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363970",
+      "url": "https://www.grants.gov/search-results-detail/360545",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1853,22 +1843,22 @@
       "description": ""
     },
     {
-      "id": "363749",
-      "title": "Capacity Building for National Immunization Programs in the Eastern Mediterranean Region",
-      "agency": "HHS-CDC-GHC",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363749",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363847",
       "title": "State Recreational Boating Safety (RBS) Grant Program",
       "agency": "DHS-USCG",
       "deadline": "10/30/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363847",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363749",
+      "title": "Capacity Building for National Immunization Programs in the Eastern Mediterranean Region",
+      "agency": "HHS-CDC-GHC",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363749",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1963,16 +1953,6 @@
       "description": ""
     },
     {
-      "id": "362191",
-      "title": "DoW Pancreatic Cancer Research Program, Translational Research Partnership Award",
-      "agency": "DOD-AMRAA",
-      "deadline": "10/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362191",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361832",
       "title": "Accelerating Research and Development of Next Generation Malaria Vaccines Against Malaria &ndash; A Model for Mosquito-Borne Diseases",
       "agency": "HHS-NIH11",
@@ -2019,6 +1999,26 @@
       "deadline": "09/30/2034",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/356612",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "352741",
+      "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
+      "agency": "DOD-ONR-NRL",
+      "deadline": "12/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/352741",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363962",
+      "title": "Alzheimer's Disease Programs Initiative (ADPI) - Developing Dementia-Capable Community Health Worker Programs in the National Aging Network",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363962",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2079,16 +2079,6 @@
       "deadline": "11/02/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363785",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364002",
-      "title": "NIJ FY 2026 Invited to Apply - Novel Psychoactive Substance Discovery, Education, and Reporting Institute",
-      "agency": "USDOJ-OJP-NIJ",
-      "deadline": "10/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364002",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2269,36 +2259,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363926",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363904",
-      "title": "OJJDP FY 2026 Victims of Child Abuse Act Training and Technical Assistance for Child Abuse Professionals",
-      "agency": "USDOJ-OJP-OJJDP",
-      "deadline": "10/29/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363904",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363903",
-      "title": "OJJDP FY 2026 Missing and Exploited Children Training and Technical Assistance",
-      "agency": "USDOJ-OJP-OJJDP",
-      "deadline": "10/29/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363903",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363910",
-      "title": "OJJDP FY 2026 Strengthening Internet Crimes Against Children (ICAC) Technological Investigative Capacity",
-      "agency": "USDOJ-OJP-OJJDP",
-      "deadline": "10/29/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363910",
       "source": "Grants.gov",
       "description": ""
     },
