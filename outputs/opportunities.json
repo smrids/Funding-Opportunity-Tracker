@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T01:54:34Z",
-  "total": 285,
+  "last_updated": "2026-10-11T01:14:23Z",
+  "total": 286,
   "by_source": {
     "AI & Digital Health": 5,
     "NIH (Global Health)": 64,
@@ -8,7 +8,7 @@
     "ARPA-H": 45,
     "PCORI": 25,
     "NSF": 17,
-    "Grants.gov": 65,
+    "Grants.gov": 66,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -234,16 +234,6 @@
       "description": ""
     },
     {
-      "id": "364038",
-      "title": "Science and Technology Centers: Integrative Partnerships",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364038",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364040",
       "title": "OJJDP FY 2026 Expanding Youth Access to Community-Based Treatment",
       "agency": "NIH/Fogarty International Center",
@@ -310,6 +300,16 @@
       "deadline": "01/26/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360048",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "360873",
+      "title": "Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/20/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360873",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1984,12 +1984,12 @@
       "description": ""
     },
     {
-      "id": "360873",
-      "title": "Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)",
+      "id": "364037",
+      "title": "BJA FY 2026 Justice Reinvestment Initiative: Strengthening State and Local Operations to Reduce Crime and Recidivism",
       "agency": "National Science Foundation",
-      "deadline": "06/20/2029",
+      "deadline": "11/20/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360873",
+      "url": "https://www.grants.gov/search-results-detail/364037",
       "source": "NSF",
       "description": ""
     },
@@ -2300,6 +2300,16 @@
       "deadline": "11/02/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363784",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363786",
+      "title": "Egypt  Annual Program Statement",
+      "agency": "DOS-NEA",
+      "deadline": "01/01/2099",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363786",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2724,22 +2734,22 @@
       "description": ""
     },
     {
+      "id": "363785",
+      "title": "Emergency Citrus Disease Research and Extension Pre-Applications",
+      "agency": "USDA-NIFA",
+      "deadline": "11/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363785",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "364032",
       "title": "ROSES 2025: B.7 The Heliophysics Low-Cost Access to Space",
       "agency": "NASA-HQ",
       "deadline": "03/16/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364032",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364037",
-      "title": "BJA FY 2026 Justice Reinvestment Initiative: Strengthening State and Local Operations to Reduce Crime and Recidivism",
-      "agency": "USDOJ-OJP-BJA",
-      "deadline": "11/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364037",
       "source": "Grants.gov",
       "description": ""
     },
