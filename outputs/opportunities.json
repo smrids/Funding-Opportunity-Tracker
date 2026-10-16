@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-15T00:51:50Z",
-  "total": 216,
+  "last_updated": "2026-10-16T00:44:52Z",
+  "total": 227,
   "by_source": {
     "AI & Digital Health": 5,
     "NIH (Global Health)": 61,
     "ARPA-H": 45,
-    "PCORI": 25,
-    "NSF": 13,
+    "PCORI": 39,
+    "NSF": 10,
     "Grants.gov": 55,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
@@ -61,6 +61,46 @@
       "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
       "source": "AI & Digital Health",
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+    },
+    {
+      "id": "361216",
+      "title": "Specialized Alcohol Research Centers (P50 Clinical trial Optional)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/27/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361216",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361134",
+      "title": "Limited Competition: Biospecimen Banks to support NCI National Clinical Trials Network Biospecimen Banks (NCTN Biobanks) and the NCI Early-Phase and Experimental Clinical Trials Biospecimen Bank (EET Biobank) (U24 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "02/11/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361134",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "360627",
+      "title": "Single Source for the Continuation of the Physiology of the Weight Reduced State (POWERS) Study (U01- Clinical Trials Required)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/17/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360627",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "359941",
+      "title": "Assessing the Feasibility of Incorporating Mechanisms in Multi-site Clinical Trials of Mind and Body Interventions on Whole Person Health Restoration (R33 Clinical Trial Required)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/16/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359941",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "361438",
@@ -273,46 +313,6 @@
       "description": ""
     },
     {
-      "id": "364057",
-      "title": "OJJDP FY 2026 Opioid Affected Youth Initiative",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364057",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "359676",
-      "title": "Limited Competition: Stimulating Access to Research in Residency Transition Scholar (StARRTS) (K38 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/13/2028",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359676",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360562",
-      "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances (U01 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "02/08/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360562",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "359170",
-      "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359170",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364075",
       "title": "Cooperative Agreement for Affiliated Partner with the Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit (CESU)",
       "agency": "NIH/Fogarty International Center",
@@ -343,22 +343,22 @@
       "description": ""
     },
     {
-      "id": "364084",
-      "title": "Cooperative Agreement for Affiliated Partner with the Pacific Northwest Cooperative Ecosystem Studies Unit (CESU)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364084",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364085",
       "title": "Cooperative Agreement for Affiliated Partner with the North Atlantic Coast Cooperative Ecosystem Studies Unit (CESU)",
       "agency": "NIH/Fogarty International Center",
       "deadline": "11/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364085",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364084",
+      "title": "Cooperative Agreement for Affiliated Partner with the Pacific Northwest Cooperative Ecosystem Studies Unit (CESU)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364084",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -379,6 +379,16 @@
       "deadline": "11/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364077",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "359170",
+      "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359170",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -449,16 +459,6 @@
       "deadline": "11/17/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364020",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363993",
-      "title": "FY 2027 Continuation of Solicitation for the Office of Science Financial Assistance Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/30/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363993",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1373,23 +1373,143 @@
       "description": ""
     },
     {
-      "id": "364068",
-      "title": "Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing)",
-      "agency": "National Science Foundation",
+      "id": "pcori-829b43b0dd",
+      "title": "PCORI Call for Proposals for HSII Implementation Projects -- 2026 (HSII Participants Only)",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364068",
-      "source": "NSF",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/pcori-call-proposals-hsii-implementation-projects-2026-hsii-participants-only",
+      "source": "PCORI",
       "description": ""
     },
     {
-      "id": "364063",
-      "title": "SMART FY26 Support for Adam Walsh Act Implementation Grant Program",
-      "agency": "National Science Foundation",
-      "deadline": "11/25/2026",
+      "id": "pcori-029f89d596",
+      "title": "Engagement Award: Convening Support -- Spring 2026 Cycle",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364063",
-      "source": "NSF",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-spring-2026-cycle",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-e8f65029c8",
+      "title": "Engagement Award: Dissemination Initiative -- Spring 2026 Cycle",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-spring-2026-cycle",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-3fe9002cc0",
+      "title": "Engagement Award: Capacity Building -- Spring 2026 Cycle",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-spring-2026-cycle",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-e4e0f76a6c",
+      "title": "Partnering Research and Community Organizations for Comparative Clinical    Effectiveness Research Across the Cancer Care Continuum PCORI Funding Announcement (The Cancer Partner PFA) -- Cycle 1 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/cancer-partner-pfa-cycle-1-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-867c7a31fe",
+      "title": "Improving Health Decision Making With Comparative Clinical Effectiveness Research: Retrospective Observational Studies Leveraging Existing Data Sources PCORI Funding Announcement -- Cycle 1 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-health-decision-making-observational-comparative-clinical-effectiveness-research",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-2525a92da6",
+      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 1 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-1-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-07c6f91508",
+      "title": "Phased Large Awards for Comparative Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/phased-large-awards-comparative-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-356b1fbad1",
+      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 1 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-1-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-88f702f07c",
+      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-6d56c35e56",
+      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 1 2026",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-1-2026",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-069f4ed534",
+      "title": "Engagement Award: Capacity Building -- Fall 2025 Cycle",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-fall-2025-cycle",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-9870b5c7e9",
+      "title": "Engagement Award: Dissemination Initiative -- Fall 2025 Cycle",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-fall-2025-cycle",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-2b3c3ef239",
+      "title": "Engagement Award: Convening Support -- Fall 2025 Cycle",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-fall-2025-cycle",
+      "source": "PCORI",
       "description": ""
     },
     {
@@ -1403,22 +1523,42 @@
       "description": ""
     },
     {
-      "id": "364048",
-      "title": "NIJ FY 2026 Research and Evaluation on School Safety",
-      "agency": "National Science Foundation",
-      "deadline": "11/23/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364048",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "364072",
       "title": "OJP FY 2026 Special Attorneys Program Round 10",
       "agency": "National Science Foundation",
       "deadline": "10/28/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364072",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "364057",
+      "title": "OJJDP FY 2026 Opioid Affected Youth Initiative",
+      "agency": "National Science Foundation",
+      "deadline": "11/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364057",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "359676",
+      "title": "Limited Competition: Stimulating Access to Research in Residency Transition Scholar (StARRTS) (K38 Clinical Trial Not Allowed)",
+      "agency": "National Science Foundation",
+      "deadline": "10/13/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359676",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "360562",
+      "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances (U01 Clinical Trial Not Allowed)",
+      "agency": "National Science Foundation",
+      "deadline": "02/08/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360562",
       "source": "NSF",
       "description": ""
     },
@@ -1473,42 +1613,22 @@
       "description": ""
     },
     {
-      "id": "364008",
-      "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
-      "agency": "National Science Foundation",
-      "deadline": "12/03/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364008",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "363991",
-      "title": "Early to Definitive Clinical Trials (R61/R33 Clinical Trial Required)",
-      "agency": "National Science Foundation",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363991",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "361304",
-      "title": "HEAL Initiative: Whole Joint Health Program (R61/R33 Clinical Trial Required)",
-      "agency": "National Science Foundation",
-      "deadline": "10/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361304",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "364065",
       "title": "Coordinating Center for the Claude D. Pepper Older Americans Independence Centers (OAICs)",
       "agency": "HHS-NIH11",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364065",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364097",
+      "title": "OJP FY 2026 Integrity in American Elections Grant Program",
+      "agency": "USDOJ-OJP-BJA",
+      "deadline": "12/01/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364097",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1803,6 +1923,16 @@
       "description": ""
     },
     {
+      "id": "363993",
+      "title": "FY 2027 Continuation of Solicitation for the Office of Science Financial Assistance Program",
+      "agency": "PAMS-SC",
+      "deadline": "09/30/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363993",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "363936",
       "title": "2026 Diesel Emissions Reduction Act (DERA) National Program",
       "agency": "EPA",
@@ -1983,22 +2113,12 @@
       "description": ""
     },
     {
-      "id": "361002",
-      "title": "Long-term health outcomes of people living with spina bifida",
-      "agency": "HHS-CDC-NCBDDD",
-      "deadline": "10/26/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361002",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364042",
-      "title": "OJJDP FY 2026 Internet Crimes Against Children On-Line Child Protection System (ICACCOPS)",
+      "id": "364058",
+      "title": "OJJDP FY 2026 Mentoring for Youth Impacted by Opioids and Other Substance Use",
       "agency": "USDOJ-OJP-OJJDP",
       "deadline": "11/16/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364042",
+      "url": "https://www.grants.gov/search-results-detail/364058",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2009,16 +2129,6 @@
       "deadline": "11/16/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364041",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364058",
-      "title": "OJJDP FY 2026 Mentoring for Youth Impacted by Opioids and Other Substance Use",
-      "agency": "USDOJ-OJP-OJJDP",
-      "deadline": "11/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364058",
       "source": "Grants.gov",
       "description": ""
     },
