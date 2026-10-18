@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-17T00:45:49Z",
-  "total": 279,
+  "last_updated": "2026-10-18T00:18:56Z",
+  "total": 265,
   "by_source": {
     "AI & Digital Health": 5,
-    "NIH (Global Health)": 59,
+    "NIH (Global Health)": 58,
     "Wellcome Leap": 53,
     "ARPA-H": 45,
-    "PCORI": 39,
+    "PCORI": 25,
     "NSF": 9,
-    "Grants.gov": 57,
+    "Grants.gov": 58,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -460,16 +460,6 @@
       "deadline": "05/31/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363660",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360759",
-      "title": "Strengthening Ghana Health Service laboratory services, diagnostic networks, and systems for a more effective, efficient, and sustainable response to HIV, TB, and other priority health threats",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360759",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1884,146 +1874,6 @@
       "description": ""
     },
     {
-      "id": "pcori-829b43b0dd",
-      "title": "PCORI Call for Proposals for HSII Implementation Projects -- 2026 (HSII Participants Only)",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/pcori-call-proposals-hsii-implementation-projects-2026-hsii-participants-only",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-029f89d596",
-      "title": "Engagement Award: Convening Support -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-e8f65029c8",
-      "title": "Engagement Award: Dissemination Initiative -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-3fe9002cc0",
-      "title": "Engagement Award: Capacity Building -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-e4e0f76a6c",
-      "title": "Partnering Research and Community Organizations for Comparative Clinical    Effectiveness Research Across the Cancer Care Continuum PCORI Funding Announcement (The Cancer Partner PFA) -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/cancer-partner-pfa-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-867c7a31fe",
-      "title": "Improving Health Decision Making With Comparative Clinical Effectiveness Research: Retrospective Observational Studies Leveraging Existing Data Sources PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-health-decision-making-observational-comparative-clinical-effectiveness-research",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-2525a92da6",
-      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-07c6f91508",
-      "title": "Phased Large Awards for Comparative Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/phased-large-awards-comparative-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-356b1fbad1",
-      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-88f702f07c",
-      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-6d56c35e56",
-      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-069f4ed534",
-      "title": "Engagement Award: Capacity Building -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-9870b5c7e9",
-      "title": "Engagement Award: Dissemination Initiative -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-2b3c3ef239",
-      "title": "Engagement Award: Convening Support -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
       "id": "364072",
       "title": "OJP FY 2026 Special Attorneys Program Round 10",
       "agency": "National Science Foundation",
@@ -2264,12 +2114,12 @@
       "description": ""
     },
     {
-      "id": "363843",
-      "title": "Advisory Support for Establishing a National Cybersecurity Operations Center (SOC)",
-      "agency": "DOS-ET",
-      "deadline": "10/16/2026",
+      "id": "363830",
+      "title": "Balanced Prosecution of Transnational Organized Crime Cases",
+      "agency": "DOS-INL",
+      "deadline": "11/09/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363843",
+      "url": "https://www.grants.gov/search-results-detail/363830",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2430,6 +2280,16 @@
       "deadline": "09/30/2034",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/356612",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "352741",
+      "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
+      "agency": "DOD-ONR-NRL",
+      "deadline": "12/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/352741",
       "source": "Grants.gov",
       "description": ""
     },
