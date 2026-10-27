@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-26T00:42:47Z",
-  "total": 230,
+  "last_updated": "2026-10-27T01:36:45Z",
+  "total": 233,
   "by_source": {
     "AI & Digital Health": 5,
     "NIH (Global Health)": 62,
     "ARPA-H": 45,
     "PCORI": 25,
     "NSF": 23,
-    "Grants.gov": 58,
+    "Grants.gov": 61,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -61,6 +61,36 @@
       "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
       "source": "AI & Digital Health",
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+    },
+    {
+      "id": "364149",
+      "title": "FY26 DRL/IRF Global Request for Statements of Interest",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364149",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364147",
+      "title": "U.S. Jordan Private Sector Innovation Fund APS",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/30/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364147",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364150",
+      "title": "University Centers for Developmental Disabilities in Educaction, Research, and Service",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364150",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "361380",
@@ -183,26 +213,6 @@
       "description": ""
     },
     {
-      "id": "364129",
-      "title": "Young Faculty Award (YFA) 2027",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/13/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364129",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362946",
-      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/29/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362946",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364130",
       "title": "FY 2027 - 2029 Broad Agency Announcement (BAA), Oceanic and Atmospheric Research (OAR)",
       "agency": "NIH/Fogarty International Center",
@@ -219,6 +229,26 @@
       "deadline": "11/19/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364132",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364129",
+      "title": "Young Faculty Award (YFA) 2027",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/13/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364129",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362946",
+      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/29/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362946",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -293,32 +323,12 @@
       "description": ""
     },
     {
-      "id": "364098",
-      "title": "Public Humanities Projects",
+      "id": "364148",
+      "title": "FY 2027 COPS-OJP Constitutional Protections for Parents - A NASRO SRO TTA Invitational Program",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "12/16/2026",
+      "deadline": "11/10/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364098",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361216",
-      "title": "Specialized Alcohol Research Centers (P50 Clinical trial Optional)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/27/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361216",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364067",
-      "title": "Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364067",
+      "url": "https://www.grants.gov/search-results-detail/364148",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -339,6 +349,26 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364115",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364098",
+      "title": "Public Humanities Projects",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364098",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364067",
+      "title": "Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS) Grant Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364067",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -439,36 +469,6 @@
       "deadline": "11/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364082",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364085",
-      "title": "Cooperative Agreement for Affiliated Partner with the North Atlantic Coast Cooperative Ecosystem Studies Unit (CESU)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364085",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364079",
-      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364079",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364083",
-      "title": "Cooperative Agreement for Affiliated Partner with the Hawai&#699;i-Pacific Islands Cooperative Ecosystem Studies Unit (CESU)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364083",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1443,22 +1443,22 @@
       "description": ""
     },
     {
-      "id": "364122",
-      "title": "BJA FY 2026 Missing and Unidentified Human Remains (MUHR) Program",
-      "agency": "National Science Foundation",
-      "deadline": "12/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364122",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "364119",
       "title": "National Adult Protective Services Training Center",
       "agency": "National Science Foundation",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364119",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "361216",
+      "title": "Specialized Alcohol Research Centers (P50 Clinical trial Optional)",
+      "agency": "National Science Foundation",
+      "deadline": "01/27/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361216",
       "source": "NSF",
       "description": ""
     },
@@ -1613,6 +1613,36 @@
       "description": ""
     },
     {
+      "id": "364151",
+      "title": "Centers for Independent Living Competition - Guam",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364151",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364152",
+      "title": "Centers for Independent Living",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364152",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364153",
+      "title": "Strengthening the Direct Care Workforce: A Technical Assistance and Capacity Building Initiative",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364153",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "364139",
       "title": "NIJ FY 2026 Research and Evaluation on Drones as First Responders",
       "agency": "USDOJ-OJP-NIJ",
@@ -1639,6 +1669,26 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364134",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364079",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "agency": "DOI-USGS1",
+      "deadline": "11/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364079",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364083",
+      "title": "Cooperative Agreement for Affiliated Partner with the Hawai&#699;i-Pacific Islands Cooperative Ecosystem Studies Unit (CESU)",
+      "agency": "DOI-USGS1",
+      "deadline": "11/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364083",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1763,26 +1813,6 @@
       "description": ""
     },
     {
-      "id": "363905",
-      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
-      "agency": "DOD-AMC",
-      "deadline": "04/09/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363905",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363899",
-      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
-      "agency": "DOD-AFOSR",
-      "deadline": "04/09/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363899",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363906",
       "title": "Fiscal Year (FY) 2027 Department of War Multidisciplinary Research Program of the University Research Initiative (MURI)",
       "agency": "DOD-ONR",
@@ -1793,12 +1823,12 @@
       "description": ""
     },
     {
-      "id": "363872",
-      "title": "Emerging Global Leader Award (K43)",
-      "agency": "HHS-NIH11",
-      "deadline": "",
+      "id": "363905",
+      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
+      "agency": "DOD-AMC",
+      "deadline": "04/09/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363872",
+      "url": "https://www.grants.gov/search-results-detail/363905",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1809,6 +1839,16 @@
       "deadline": "11/19/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363920",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363899",
+      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
+      "agency": "DOD-AFOSR",
+      "deadline": "04/09/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363899",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1974,21 +2014,11 @@
     },
     {
       "id": "364026",
-      "title": "Silicon Carbide Cladding Lead Test Rod Development-Phase 1",
+      "title": "Silcon Carbide Cladding Lead Test Rod Development-Phase 1",
       "agency": "DOE-ID",
       "deadline": "12/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364026",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363993",
-      "title": "FY 2027 Continuation of Solicitation for the Office of Science Financial Assistance Program",
-      "agency": "PAMS-SC",
-      "deadline": "09/30/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363993",
       "source": "Grants.gov",
       "description": ""
     },
