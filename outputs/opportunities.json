@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-27T01:36:45Z",
-  "total": 233,
+  "last_updated": "2026-10-28T01:42:53Z",
+  "total": 227,
   "by_source": {
     "AI & Digital Health": 5,
-    "NIH (Global Health)": 62,
+    "NIH (Global Health)": 58,
     "ARPA-H": 45,
     "PCORI": 25,
-    "NSF": 23,
+    "NSF": 21,
     "Grants.gov": 61,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
@@ -63,12 +63,72 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
-      "id": "364149",
-      "title": "FY26 DRL/IRF Global Request for Statements of Interest",
+      "id": "364154",
+      "title": "2027 Donald M. Payne International Development Graduate Fellowship Program Administration Gran",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "12/07/2026",
+      "deadline": "11/23/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364149",
+      "url": "https://www.grants.gov/search-results-detail/364154",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364160",
+      "title": "Climate Program Office FY 2027 - Super Intelligence/Machine Learning Innovation to Advance NOAA's Earth System Science and Support Hazard",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "02/09/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364160",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364158",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364158",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364159",
+      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Administration Grant",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364159",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364161",
+      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364161",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364162",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364162",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364155",
+      "title": "2027 Donald M.  Payne International Development Graduate Fellowship Program &ndash; Selection",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364155",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -79,6 +139,16 @@
       "deadline": "09/30/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364147",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364149",
+      "title": "FY26 DRL/IRF Global Request for Statements of Interest",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364149",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -253,76 +323,6 @@
       "description": ""
     },
     {
-      "id": "364120",
-      "title": "Evaluating Innovative Community Based Nutrition Models that Improve Health Outcomes for Older Adults in Senior Nutrition Programs",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364120",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361204",
-      "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/16/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361204",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364099",
-      "title": "FY 2027 &ndash; 2029 Broad Agency Announcement (BAA), National Marine Fisheries Service",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/30/2028",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364099",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364087",
-      "title": "Institute of Education Sciences (IES): National Center for Special Education Research (NCSER): Transformative Research in Special Education, Assistance Listing Number (ALN) 84.324T",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/11/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364087",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364086",
-      "title": "Institute of Education Sciences (IES): National Center on Education Research (NCER): From Seedlings to Scale, Assistance Listing Number (ALN) 84.305J",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/11/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364086",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360869",
-      "title": "Centers for AIDS Research (CFAR) and Developmental Centers for AIDS Research (D-CFAR) (P30 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/25/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360869",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361318",
-      "title": "NLM Institutional Grants for Research Training in Biomedical Informatics, Data Science, and AI (T15 Independent Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "02/11/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361318",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364148",
       "title": "FY 2027 COPS-OJP Constitutional Protections for Parents - A NASRO SRO TTA Invitational Program",
       "agency": "NIH/Fogarty International Center",
@@ -349,6 +349,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364115",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364099",
+      "title": "FY 2027 &ndash; 2029 Broad Agency Announcement (BAA), National Marine Fisheries Service",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/30/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364099",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -403,72 +413,12 @@
       "description": ""
     },
     {
-      "id": "364074",
-      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364074",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "361279",
       "title": "NIH Research Program Projects (Parent P01 Clinical Trial Optional)",
       "agency": "NIH/Fogarty International Center",
       "deadline": "05/25/2029",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361279",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364078",
-      "title": "Cooperative Agreement for affiliated Partner with Northern Great Plains Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364078",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364081",
-      "title": "Cooperative Agreement for Affiliated Partner with the Pacific Northwest Cooperative Ecosystem Studies Unit (CESU)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364081",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364080",
-      "title": "Cooperative Agreement for Affiliated Partner with the Colorado Plateau Cooperative Ecosystem Studies Unit (CESU)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364080",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364077",
-      "title": "Cooperative Agreement for affiliated Partner with Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364077",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364082",
-      "title": "Cooperative Agreement for Affiliated Partner with the Rocky Mountains Cooperative Ecosystem Studies Unit (CESU)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364082",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -619,6 +569,16 @@
       "deadline": "03/31/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/325932",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "360869",
+      "title": "Centers for AIDS Research (CFAR) and Developmental Centers for AIDS Research (D-CFAR) (P30 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "05/25/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360869",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1383,16 +1343,6 @@
       "description": ""
     },
     {
-      "id": "364121",
-      "title": "No Wrong Door System Modernization: Connecting People to Services",
-      "agency": "National Science Foundation",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364121",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "364124",
       "title": "Fiscal Year 2026 Flood Mitigation Assistance",
       "agency": "National Science Foundation",
@@ -1413,42 +1363,32 @@
       "description": ""
     },
     {
-      "id": "363779",
-      "title": "Affordable Rural Cooperative (ARC) Energy Program",
+      "id": "364120",
+      "title": "Evaluating Innovative Community Based Nutrition Models that Improve Health Outcomes for Older Adults in Senior Nutrition Programs",
       "agency": "National Science Foundation",
-      "deadline": "11/20/2026",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363779",
+      "url": "https://www.grants.gov/search-results-detail/364120",
       "source": "NSF",
       "description": ""
     },
     {
-      "id": "364112",
-      "title": "National Center on Elder Abuse Resource Center",
+      "id": "361204",
+      "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
       "agency": "National Science Foundation",
-      "deadline": "",
+      "deadline": "07/16/2029",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364112",
+      "url": "https://www.grants.gov/search-results-detail/361204",
       "source": "NSF",
       "description": ""
     },
     {
-      "id": "364113",
-      "title": "Alzheimer's Disease Programs Initiative (ADPI) - States and Community Grants",
+      "id": "361318",
+      "title": "NLM Institutional Grants for Research Training in Biomedical Informatics, Data Science, and AI (T15 Independent Clinical Trial Not Allowed)",
       "agency": "National Science Foundation",
-      "deadline": "",
+      "deadline": "02/11/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364113",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "364119",
-      "title": "National Adult Protective Services Training Center",
-      "agency": "National Science Foundation",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364119",
+      "url": "https://www.grants.gov/search-results-detail/361318",
       "source": "NSF",
       "description": ""
     },
@@ -1610,6 +1550,16 @@
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/358854",
       "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "364156",
+      "title": "National Center for Law and Elder Rights",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364156",
+      "source": "Grants.gov",
       "description": ""
     },
     {
@@ -1813,26 +1763,6 @@
       "description": ""
     },
     {
-      "id": "363906",
-      "title": "Fiscal Year (FY) 2027 Department of War Multidisciplinary Research Program of the University Research Initiative (MURI)",
-      "agency": "DOD-ONR",
-      "deadline": "04/09/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363906",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363905",
-      "title": "Fiscal Year (FY) 2027 Department of War (DoW) Multidisciplinary Research Program of the University Research Initiative (MURI)",
-      "agency": "DOD-AMC",
-      "deadline": "04/09/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363905",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363920",
       "title": "Easement Restoration and Stewardship",
       "agency": "USDA-NRCS",
@@ -2003,6 +1933,16 @@
       "description": ""
     },
     {
+      "id": "364113",
+      "title": "Alzheimer's Disease Programs Initiative (ADPI) - States and Community Grants",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364113",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "364114",
       "title": "Alheimer's Disease Programs Initiative (ADPI) - State Programs for Dementia Specific Respite",
       "agency": "HHS-ACL",
@@ -2023,22 +1963,12 @@
       "description": ""
     },
     {
-      "id": "364117",
-      "title": "FY2027 Grants to Highest State Courts to Improve Guardianship",
-      "agency": "HHS-ACL",
-      "deadline": "",
+      "id": "364077",
+      "title": "Cooperative Agreement for affiliated Partner with Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
+      "agency": "DOI-USGS1",
+      "deadline": "11/14/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364117",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364118",
-      "title": "Elder Justice Innovation Grants FY2027",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364118",
+      "url": "https://www.grants.gov/search-results-detail/364077",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2213,12 +2143,22 @@
       "description": ""
     },
     {
-      "id": "364116",
-      "title": "Advancing State Implementation of the National Strategy to Support Family Caregivers",
-      "agency": "HHS-ACL",
-      "deadline": "",
+      "id": "364074",
+      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
+      "agency": "DOI-USGS1",
+      "deadline": "11/14/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364116",
+      "url": "https://www.grants.gov/search-results-detail/364074",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363779",
+      "title": "Affordable Rural Cooperative (ARC) Energy Program",
+      "agency": "USDA-RUS",
+      "deadline": "11/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363779",
       "source": "Grants.gov",
       "description": ""
     },
