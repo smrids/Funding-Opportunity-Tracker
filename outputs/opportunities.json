@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-28T01:42:53Z",
-  "total": 227,
+  "last_updated": "2026-10-29T01:56:19Z",
+  "total": 235,
   "by_source": {
     "AI & Digital Health": 5,
-    "NIH (Global Health)": 58,
+    "NIH (Global Health)": 59,
     "ARPA-H": 45,
     "PCORI": 25,
-    "NSF": 21,
-    "Grants.gov": 61,
+    "NSF": 23,
+    "Grants.gov": 66,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -63,32 +63,32 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
-      "id": "364154",
-      "title": "2027 Donald M. Payne International Development Graduate Fellowship Program Administration Gran",
+      "id": "364165",
+      "title": "AFRL/AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies 2027-2030",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "11/23/2026",
+      "deadline": "02/19/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364154",
+      "url": "https://www.grants.gov/search-results-detail/364165",
       "source": "NIH (Global Health)",
       "description": ""
     },
     {
-      "id": "364160",
-      "title": "Climate Program Office FY 2027 - Super Intelligence/Machine Learning Innovation to Advance NOAA's Earth System Science and Support Hazard",
+      "id": "364145",
+      "title": "Landscape Scale Restoration Grant Program for Tribes",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "02/09/2027",
+      "deadline": "01/26/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364160",
+      "url": "https://www.grants.gov/search-results-detail/364145",
       "source": "NIH (Global Health)",
       "description": ""
     },
     {
-      "id": "364158",
-      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
+      "id": "364144",
+      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "11/23/2026",
+      "deadline": "01/26/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364158",
+      "url": "https://www.grants.gov/search-results-detail/364144",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -103,6 +103,16 @@
       "description": ""
     },
     {
+      "id": "364162",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364162",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "364161",
       "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
       "agency": "NIH/Fogarty International Center",
@@ -113,12 +123,12 @@
       "description": ""
     },
     {
-      "id": "364162",
-      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
+      "id": "364158",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
       "agency": "NIH/Fogarty International Center",
       "deadline": "11/23/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364162",
+      "url": "https://www.grants.gov/search-results-detail/364158",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -133,12 +143,22 @@
       "description": ""
     },
     {
-      "id": "364147",
-      "title": "U.S. Jordan Private Sector Innovation Fund APS",
+      "id": "364154",
+      "title": "2027 Donald M. Payne International Development Graduate Fellowship Program Administration Gran",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "09/30/2027",
+      "deadline": "11/23/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364147",
+      "url": "https://www.grants.gov/search-results-detail/364154",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364160",
+      "title": "Climate Program Office FY 2027 - Super Intelligence/Machine Learning Innovation to Advance NOAA's Earth System Science and Support Hazard Resilience",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "02/09/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364160",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -159,6 +179,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364150",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364147",
+      "title": "U.S. Jordan Private Sector Innovation Fund APS",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/30/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364147",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -283,16 +313,6 @@
       "description": ""
     },
     {
-      "id": "364130",
-      "title": "FY 2027 - 2029 Broad Agency Announcement (BAA), Oceanic and Atmospheric Research (OAR)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/30/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364130",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364132",
       "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
       "agency": "NIH/Fogarty International Center",
@@ -303,22 +323,12 @@
       "description": ""
     },
     {
-      "id": "364129",
-      "title": "Young Faculty Award (YFA) 2027",
+      "id": "364164",
+      "title": "Harvest to Hallways: National School Lunch Program, Equipment Assistance Grants",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "01/13/2027",
+      "deadline": "01/11/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364129",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362946",
-      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/29/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362946",
+      "url": "https://www.grants.gov/search-results-detail/364164",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -339,6 +349,26 @@
       "deadline": "12/11/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364125",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364129",
+      "title": "Young Faculty Award (YFA) 2027",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/13/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364129",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364130",
+      "title": "FY 2027 - 2029 Broad Agency Announcement (BAA), Oceanic and Atmospheric Research (OAR)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "09/30/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364130",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -399,26 +429,6 @@
       "deadline": "11/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364075",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364076",
-      "title": "Cooperative Agreement for affiliated Partner with Chesapeake Watershed Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364076",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361279",
-      "title": "NIH Research Program Projects (Parent P01 Clinical Trial Optional)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "05/25/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361279",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1343,12 +1353,12 @@
       "description": ""
     },
     {
-      "id": "364124",
-      "title": "Fiscal Year 2026 Flood Mitigation Assistance",
+      "id": "364170",
+      "title": "RESTORE Act Centers of Excellence Research Grants Program",
       "agency": "National Science Foundation",
-      "deadline": "02/26/2027",
+      "deadline": "10/31/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364124",
+      "url": "https://www.grants.gov/search-results-detail/364170",
       "source": "NSF",
       "description": ""
     },
@@ -1363,12 +1373,22 @@
       "description": ""
     },
     {
-      "id": "364120",
-      "title": "Evaluating Innovative Community Based Nutrition Models that Improve Health Outcomes for Older Adults in Senior Nutrition Programs",
+      "id": "364124",
+      "title": "Fiscal Year 2026 Flood Mitigation Assistance",
       "agency": "National Science Foundation",
-      "deadline": "",
+      "deadline": "02/26/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364120",
+      "url": "https://www.grants.gov/search-results-detail/364124",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "362946",
+      "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
+      "agency": "National Science Foundation",
+      "deadline": "01/29/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362946",
       "source": "NSF",
       "description": ""
     },
@@ -1439,6 +1459,16 @@
       "deadline": "09/25/2029",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360541",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "361279",
+      "title": "NIH Research Program Projects (Parent P01 Clinical Trial Optional)",
+      "agency": "National Science Foundation",
+      "deadline": "05/25/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361279",
       "source": "NSF",
       "description": ""
     },
@@ -1603,22 +1633,42 @@
       "description": ""
     },
     {
-      "id": "364143",
-      "title": "OVC and OVW FY 2026 Victim Services for Angel Families Program &ndash; Invited Notice of Funding Opportunity",
-      "agency": "USDOJ-OJP-OVC",
-      "deadline": "11/16/2026",
+      "id": "364166",
+      "title": "FY27 Northeast Corridor Cooperative Agreement to the National Railroad Passenger Corporation",
+      "agency": "DOT-FRA",
+      "deadline": "11/27/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364143",
+      "url": "https://www.grants.gov/search-results-detail/364166",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "364134",
-      "title": "Residential Services for Unaccompanied Alien Children",
-      "agency": "HHS-ACF-ORR",
-      "deadline": "",
+      "id": "364167",
+      "title": "FY27 National Network Cooperative Agreement to the National Railroad Passenger Corporation",
+      "agency": "DOT-FRA",
+      "deadline": "11/27/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364134",
+      "url": "https://www.grants.gov/search-results-detail/364167",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364163",
+      "title": "BJA FY 2026 Postconviction Testing of DNA Evidence",
+      "agency": "USDOJ-OJP-BJA",
+      "deadline": "12/08/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364163",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364169",
+      "title": "RESTORE Act Direct Component - Non-Construction Activities",
+      "agency": "USDOT-GCR",
+      "deadline": "10/31/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364169",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1923,16 +1973,6 @@
       "description": ""
     },
     {
-      "id": "352741",
-      "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
-      "agency": "DOD-ONR-NRL",
-      "deadline": "12/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/352741",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364113",
       "title": "Alzheimer's Disease Programs Initiative (ADPI) - States and Community Grants",
       "agency": "HHS-ACL",
@@ -1949,6 +1989,26 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364114",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364120",
+      "title": "Evaluating Innovative Community Based Nutrition Models that Improve Health Outcomes for Older Adults in Senior Nutrition Programs",
+      "agency": "HHS-ACL",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364120",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364076",
+      "title": "Cooperative Agreement for affiliated Partner with Chesapeake Watershed Cooperative Ecosystem Studies Unit",
+      "agency": "DOI-USGS1",
+      "deadline": "11/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364076",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2139,6 +2199,26 @@
       "deadline": "12/31/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363729",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364134",
+      "title": "Residential Services for Unaccompanied Alien Children",
+      "agency": "HHS-ACF-ORR",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364134",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364143",
+      "title": "OVC and OVW FY 2026 Victim Services for Angel Families Program &ndash; Invited Notice of Funding Opportunity",
+      "agency": "USDOJ-OJP-OVC",
+      "deadline": "11/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364143",
       "source": "Grants.gov",
       "description": ""
     },
