@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T01:47:22Z",
+  "last_updated": "2026-11-01T01:27:50Z",
   "total": 232,
   "by_source": {
     "AI & Digital Health": 5,
@@ -1803,16 +1803,6 @@
       "description": ""
     },
     {
-      "id": "363847",
-      "title": "State Recreational Boating Safety (RBS) Grant Program",
-      "agency": "DHS-USCG",
-      "deadline": "10/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363847",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363749",
       "title": "Capacity Building for National Immunization Programs in the Eastern Mediterranean Region",
       "agency": "HHS-CDC-GHC",
@@ -1919,6 +1909,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/359225",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359236",
+      "title": "Staff Research Program",
+      "agency": "DOD-AMC",
+      "deadline": "06/02/2030",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359236",
       "source": "Grants.gov",
       "description": ""
     },
