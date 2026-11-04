@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-03T03:41:48Z",
-  "total": 233,
+  "last_updated": "2026-11-04T02:41:45Z",
+  "total": 225,
   "by_source": {
     "AI & Digital Health": 5,
     "NIH (Global Health)": 60,
     "ARPA-H": 45,
     "PCORI": 25,
-    "NSF": 25,
-    "Grants.gov": 61,
+    "NSF": 20,
+    "Grants.gov": 58,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -63,6 +63,76 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
+      "id": "360551",
+      "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "02/01/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360551",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "360946",
+      "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/16/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360946",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "360623",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) Scientific Data Research Center (U24 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "03/05/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360623",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "360625",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "03/05/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360625",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361287",
+      "title": "Genomic and Biologic Therapies for ADRD (U01 Clinical Trial Optional)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "10/10/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361287",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "359019",
+      "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "02/17/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359019",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362277",
+      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "02/20/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362277",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "364192",
       "title": "Cooperative Agreement for affiliated Partner with the Great Lakes Northern Forrest Cooperative Ecosystem Studies Unit",
       "agency": "NIH/Fogarty International Center",
@@ -83,22 +153,22 @@
       "description": ""
     },
     {
-      "id": "364195",
-      "title": "Endowments for Advancing the Humanities",
+      "id": "364202",
+      "title": "FY27 Guidelines for Brownfield Cleanup Grants",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "01/13/2027",
+      "deadline": "01/21/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364195",
+      "url": "https://www.grants.gov/search-results-detail/364202",
       "source": "NIH (Global Health)",
       "description": ""
     },
     {
-      "id": "364198",
-      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants)",
+      "id": "364201",
+      "title": "FY27 Guidelines for Brownfield Revolving Loan Fund Grants",
       "agency": "NIH/Fogarty International Center",
       "deadline": "01/21/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364198",
+      "url": "https://www.grants.gov/search-results-detail/364201",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -123,22 +193,22 @@
       "description": ""
     },
     {
-      "id": "364201",
-      "title": "FY27 Guidelines for Brownfield Revolving Loan Fund Grants",
+      "id": "364198",
+      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants)",
       "agency": "NIH/Fogarty International Center",
       "deadline": "01/21/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364201",
+      "url": "https://www.grants.gov/search-results-detail/364198",
       "source": "NIH (Global Health)",
       "description": ""
     },
     {
-      "id": "364202",
-      "title": "FY27 Guidelines for Brownfield Cleanup Grants",
+      "id": "364195",
+      "title": "Endowments for Advancing the Humanities",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "01/21/2027",
+      "deadline": "01/13/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364202",
+      "url": "https://www.grants.gov/search-results-detail/364195",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -239,76 +309,6 @@
       "deadline": "09/30/2028",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364142",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364172",
-      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "04/02/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364172",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364165",
-      "title": "AFRL/AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies 2027-2030",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "02/19/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364165",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364145",
-      "title": "Landscape Scale Restoration Grant Program for Tribes",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/26/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364145",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364144",
-      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/26/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364144",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364159",
-      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Administration Grant",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/23/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364159",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364162",
-      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/23/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364162",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364161",
-      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program&#8239;Selection Grant",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/23/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364161",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1373,6 +1373,16 @@
       "description": ""
     },
     {
+      "id": "364205",
+      "title": "Fiscal Year 2027 Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) STEM Innovator",
+      "agency": "National Science Foundation",
+      "deadline": "02/01/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364205",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "364197",
       "title": "OJP FY 2026 Special Attorneys Program Round 11",
       "agency": "National Science Foundation",
@@ -1383,12 +1393,12 @@
       "description": ""
     },
     {
-      "id": "364158",
-      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
+      "id": "364172",
+      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
       "agency": "National Science Foundation",
-      "deadline": "11/23/2026",
+      "deadline": "04/02/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364158",
+      "url": "https://www.grants.gov/search-results-detail/364172",
       "source": "NSF",
       "description": ""
     },
@@ -1553,82 +1563,52 @@
       "description": ""
     },
     {
-      "id": "364066",
-      "title": "Testing Centers for Evaluation of Somatic Cell Genome Editing Approaches for Translational Applications (U42 Clinical Trial Not Allowed)",
-      "agency": "National Science Foundation",
-      "deadline": "",
+      "id": "364165",
+      "title": "AFRL/AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies 2027-2030",
+      "agency": "DOD-AFOSR",
+      "deadline": "02/19/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364066",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "359676",
-      "title": "Limited Competition: Stimulating Access to Research in Residency Transition Scholar (StARRTS) (K38 Clinical Trial Not Allowed)",
-      "agency": "National Science Foundation",
-      "deadline": "10/13/2028",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359676",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "360562",
-      "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances (U01 Clinical Trial Not Allowed)",
-      "agency": "National Science Foundation",
-      "deadline": "02/08/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360562",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "359170",
-      "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
-      "agency": "National Science Foundation",
-      "deadline": "12/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359170",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "358854",
-      "title": "Systematic Characterization of Genomic Variation to Assess Effects of Individual Variants on Genome Function and Phenotype (UM1 Clinical Trials Not Allowed)",
-      "agency": "National Science Foundation",
-      "deadline": "12/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/358854",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "359277",
-      "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
-      "agency": "National Science Foundation",
-      "deadline": "12/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359277",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "364173",
-      "title": "First Responders-Comprehensive Addiction and Recovery Act",
-      "agency": "HHS-SAMHS-SAMHSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364173",
+      "url": "https://www.grants.gov/search-results-detail/364165",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "364155",
-      "title": "2027 Donald M.  Payne International Development Graduate Fellowship Program &ndash; Selection",
+      "id": "364145",
+      "title": "Landscape Scale Restoration Grant Program for Tribes",
+      "agency": "USDA-FS",
+      "deadline": "01/26/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364145",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364144",
+      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
+      "agency": "USDA-FS",
+      "deadline": "01/26/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364144",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364159",
+      "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Administration Grant",
       "agency": "DOS-HR",
       "deadline": "11/23/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364155",
+      "url": "https://www.grants.gov/search-results-detail/364159",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364162",
+      "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
+      "agency": "DOS-HR",
+      "deadline": "11/23/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364162",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1639,16 +1619,6 @@
       "deadline": "11/23/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364154",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364160",
-      "title": "Climate Program Office FY 2027 - Super Intelligence/Machine Learning Innovation to Advance NOAA's Earth System Science and Support Hazard Resilience",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "02/09/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364160",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1753,6 +1723,26 @@
       "description": ""
     },
     {
+      "id": "359676",
+      "title": "Limited Competition: Stimulating Access to Research in Residency Transition Scholar (StARRTS) (K38 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "10/13/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359676",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "359277",
+      "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "12/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359277",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "364047",
       "title": "Improved quality of life of persons with disabilities in provinces heavily sprayed with agent orange in Ca Mau and Quang Ngai",
       "agency": "DOS-VNM",
@@ -1769,26 +1759,6 @@
       "deadline": "02/09/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360905",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364027",
-      "title": "Centers for Research on Neglected Infectious Diseases",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364027",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361050",
-      "title": "Centers for Structural Biology of HIV and Other Infectious Diseases (U54 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "05/28/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361050",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1973,42 +1943,22 @@
       "description": ""
     },
     {
-      "id": "361207",
-      "title": "National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "11/01/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361207",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364128",
-      "title": "CAPSTONE Centers for Multidisciplinary Research in Child Abuse and Neglect",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364128",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364113",
-      "title": "Alzheimer's Disease Programs Initiative (ADPI) - States and Community Grants",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364113",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364077",
       "title": "Cooperative Agreement for affiliated Partner with Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
       "agency": "DOI-USGS1",
       "deadline": "11/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364077",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364027",
+      "title": "Centers for Research on Neglected Infectious Diseases",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364027",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2183,42 +2133,12 @@
       "description": ""
     },
     {
-      "id": "364150",
-      "title": "University Centers for Developmental Disabilities in Educaction, Research, and Service",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364150",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364120",
       "title": "Evaluating Innovative Community Based Nutrition Models that Improve Health Outcomes for Older Adults in Senior Nutrition Programs",
       "agency": "HHS-ACL",
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364120",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364074",
-      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
-      "agency": "DOI-USGS1",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364074",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364169",
-      "title": "RESTORE Act Direct Component - Non-Construction Activities",
-      "agency": "USDOT-GCR",
-      "deadline": "10/31/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364169",
       "source": "Grants.gov",
       "description": ""
     },
