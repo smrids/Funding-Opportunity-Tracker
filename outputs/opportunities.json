@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-05T02:46:32Z",
-  "total": 230,
+  "last_updated": "2026-11-06T02:49:10Z",
+  "total": 240,
   "by_source": {
     "AI & Digital Health": 5,
-    "NIH (Global Health)": 62,
+    "NIH (Global Health)": 60,
     "ARPA-H": 45,
     "PCORI": 25,
-    "NSF": 20,
-    "Grants.gov": 61,
+    "NSF": 22,
+    "Grants.gov": 71,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -63,12 +63,102 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
-      "id": "362952",
-      "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
+      "id": "364215",
+      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 State Preparedness Funding Opportunity",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "02/18/2027",
+      "deadline": "01/07/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362952",
+      "url": "https://www.grants.gov/search-results-detail/364215",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364214",
+      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 Industry Preparedness Funding Opportunity",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/07/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364214",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364231",
+      "title": "Cooperative Agreement for affiliated Partner with Gulf Coast Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/05/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364231",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364228",
+      "title": "Cooperative Agreement for affiliated Partner with Great Basin Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364228",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364227",
+      "title": "Cooperative Agreement for affiliated Partner with Great Lakes Northern Forest Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364227",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364232",
+      "title": "The National Rural Health Information Technology Assessment Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364232",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364223",
+      "title": "Flexible Funding Model - Advancing Domestic Mutual Reliance Through Strengthened Infrastructure Development and Maintenance for Manufactured Food Regulatory Programs",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364223",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364220",
+      "title": "Project Rental Assistance Program of Section 811 Supportive Housing for Persons with Disabilities FY 2027",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "04/20/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364220",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361994",
+      "title": "Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program &ndash; Fiscal Year 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/05/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361994",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364237",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364237",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -79,6 +169,16 @@
       "deadline": "07/04/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364213",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362952",
+      "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "02/18/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362952",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -213,142 +313,112 @@
       "description": ""
     },
     {
+      "id": "364226",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364226",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364233",
+      "title": "Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364233",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364234",
+      "title": "Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364234",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364230",
+      "title": "Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364230",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364229",
+      "title": "Cooperative Agreement for affiliated Partner with Chesapeake Watershed Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364229",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364224",
+      "title": "BJA FY26 State Criminal Alien Assistance Program (SCAAP)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/15/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364224",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364235",
+      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364235",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364236",
+      "title": "Cooperative Agreement for affiliated Partner with Hawai-Pacific Islands (HPI) Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364236",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364238",
+      "title": "Cooperative Agreement for affiliated Partner with Colorado Plateau Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364238",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364239",
+      "title": "Cooperative Agreement for affiliated Partner with Alaska Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364239",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "364198",
       "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants)",
       "agency": "NIH/Fogarty International Center",
       "deadline": "01/21/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364198",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364195",
-      "title": "Endowments for Advancing the Humanities",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/13/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364195",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364192",
-      "title": "Cooperative Agreement for affiliated Partner with the Great Lakes Northern Forrest Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364192",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364134",
-      "title": "Residential Services for Unaccompanied Alien Children",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/29/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364134",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364174",
-      "title": "Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "02/08/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364174",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364171",
-      "title": "FY 2027 Crash Causal Factors Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/28/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364171",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "358959",
-      "title": "Single Source: Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/08/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/358959",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "358954",
-      "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/08/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/358954",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "363111",
-      "title": "Teaching Health Center Graduate Medical Education (THCGME) Program",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/11/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363111",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "358960",
-      "title": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/08/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/358960",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364142",
-      "title": "FY 2026 - 2028 Broad Agency Announcement (BAA), National Ocean Service",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "09/30/2028",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364142",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364190",
-      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364190",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364191",
-      "title": "Cooperative Agreement for affiliated Partner with the Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364191",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364193",
-      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364193",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -363,102 +433,12 @@
       "description": ""
     },
     {
-      "id": "364176",
-      "title": "Cooperative Agreement for affiliated Partner with the Great Rivers Cooperative Ecosystem Studies Unit",
+      "id": "364190",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "12/04/2026",
+      "deadline": "12/02/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364176",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364177",
-      "title": "Cooperative Agreement for affiliated Partner with the Great Plains Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364177",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364178",
-      "title": "Cooperative Agreement for affiliated Partner with the Californian Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364178",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364179",
-      "title": "Cooperative Agreement for affiliated Partner with the Chesapeake Watershed Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364179",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364180",
-      "title": "Cooperative Agreement for affiliated Partner with the Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364180",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364181",
-      "title": "Cooperative Agreement for affiliated Partner with the Colorado Plateau Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364181",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364182",
-      "title": "Cooperative Agreement for affiliated Partner with the Pacific Northwest Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364182",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364183",
-      "title": "Cooperative Agreement for affiliated Partner with Great Basin Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364183",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364184",
-      "title": "Cooperative Agreement for affiliated Partner with Chesapeake Watershed Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364184",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364185",
-      "title": "Cooperative Agreement for affiliated Partner with Great Basin Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364185",
+      "url": "https://www.grants.gov/search-results-detail/364190",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1393,6 +1373,26 @@
       "description": ""
     },
     {
+      "id": "364221",
+      "title": "ROSES 2025:  D.10 Astrophysics Theory",
+      "agency": "National Science Foundation",
+      "deadline": "02/03/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364221",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "364219",
+      "title": "Leveraging NAMs to understand disease triggers, discover early biomarkers and develop new classes of therapeutic strategies for Type 1 Diabetes (U01 Clinical Trial Not Allowed)",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364219",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "364212",
       "title": "State Process for Informing Consumers of Recalls Program",
       "agency": "National Science Foundation",
@@ -1403,22 +1403,22 @@
       "description": ""
     },
     {
-      "id": "364205",
-      "title": "Fiscal Year 2027 Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) STEM Innovator",
+      "id": "364178",
+      "title": "Cooperative Agreement for affiliated Partner with the Californian Cooperative Ecosystem Studies Unit",
       "agency": "National Science Foundation",
-      "deadline": "02/01/2027",
+      "deadline": "11/30/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364205",
+      "url": "https://www.grants.gov/search-results-detail/364178",
       "source": "NSF",
       "description": ""
     },
     {
-      "id": "364197",
-      "title": "OJP FY 2026 Special Attorneys Program Round 11",
+      "id": "358959",
+      "title": "Single Source: Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trial Not Allowed)",
       "agency": "National Science Foundation",
-      "deadline": "11/17/2026",
+      "deadline": "01/08/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364197",
+      "url": "https://www.grants.gov/search-results-detail/358959",
       "source": "NSF",
       "description": ""
     },
@@ -1583,12 +1583,52 @@
       "description": ""
     },
     {
-      "id": "364172",
-      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
-      "agency": "DOD-AFOSR",
-      "deadline": "04/02/2027",
+      "id": "364205",
+      "title": "Fiscal Year 2027 Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) STEM Innovator",
+      "agency": "NASA",
+      "deadline": "02/01/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364172",
+      "url": "https://www.grants.gov/search-results-detail/364205",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364222",
+      "title": "OVW Fiscal Year 2026 Grants to Tribal Domestic Violence and Sexual Assault Coalitions Program",
+      "agency": "USDOJ-OJP-OVW",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364222",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364192",
+      "title": "Cooperative Agreement for affiliated Partner with the Great Lakes Northern Forrest Cooperative Ecosystem Studies Unit",
+      "agency": "DOI-USGS1",
+      "deadline": "12/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364192",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364174",
+      "title": "Grid Supply Chain Alternatives to Lead Energy Dominance (SCALED)",
+      "agency": "DOE-NETL",
+      "deadline": "02/08/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364174",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364142",
+      "title": "FY 2026 - 2028 Broad Agency Announcement (BAA), National Ocean Service",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "09/30/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364142",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1783,6 +1823,16 @@
       "description": ""
     },
     {
+      "id": "364172",
+      "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
+      "agency": "DOD-AFOSR",
+      "deadline": "04/02/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364172",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "364165",
       "title": "AFRL/AFOSR-Taiwan NSTC Frontiers in Materials and Nanostructures: AI-Driven Discovery, Quantum Geometry, and Energy-Efficient Information Technologies 2027-2030",
       "agency": "DOD-AFOSR",
@@ -1953,6 +2003,26 @@
       "description": ""
     },
     {
+      "id": "364191",
+      "title": "Cooperative Agreement for affiliated Partner with the Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "agency": "DOI-USGS1",
+      "deadline": "12/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364191",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364134",
+      "title": "Residential Services for Unaccompanied Alien Children",
+      "agency": "HHS-ACF-ORR",
+      "deadline": "12/29/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364134",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "364187",
       "title": "Cooperative Agreement for affiliated Partner with Colorado Plateau Cooperative Ecosystem Studies Unit",
       "agency": "DOI-USGS1",
@@ -1963,42 +2033,32 @@
       "description": ""
     },
     {
-      "id": "364145",
-      "title": "Landscape Scale Restoration Grant Program for Tribes",
-      "agency": "USDA-FS",
-      "deadline": "01/26/2027",
+      "id": "358954",
+      "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "01/08/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364145",
+      "url": "https://www.grants.gov/search-results-detail/358954",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "364144",
-      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
-      "agency": "USDA-FS",
-      "deadline": "01/26/2027",
+      "id": "363111",
+      "title": "Teaching Health Center Graduate Medical Education (THCGME) Program",
+      "agency": "HHS-HRSA",
+      "deadline": "12/11/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364144",
+      "url": "https://www.grants.gov/search-results-detail/363111",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "364136",
-      "title": "Unlocking New Levels of Output and Capacity for Key Subsurface Resources (UNLOCK)",
-      "agency": "DOE-ARPAE",
-      "deadline": "11/20/2026",
+      "id": "364181",
+      "title": "Cooperative Agreement for affiliated Partner with the Colorado Plateau Cooperative Ecosystem Studies Unit",
+      "agency": "DOI-USGS1",
+      "deadline": "11/30/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364136",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364135",
-      "title": "Unlocking New Levels of Output and Capacity for Key Subsurface Resources SBIR/STTR (UNLOCK SBIR/STTR)",
-      "agency": "DOE-ARPAE",
-      "deadline": "11/20/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364135",
+      "url": "https://www.grants.gov/search-results-detail/364181",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2173,12 +2233,52 @@
       "description": ""
     },
     {
+      "id": "358960",
+      "title": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "01/08/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/358960",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "364164",
       "title": "Harvest to Hallways: National School Lunch Program, Equipment Assistance Grants",
       "agency": "USDA-FNS1",
       "deadline": "01/11/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364164",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364145",
+      "title": "Landscape Scale Restoration Grant Program for Tribes",
+      "agency": "USDA-FS",
+      "deadline": "01/26/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364145",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364144",
+      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
+      "agency": "USDA-FS",
+      "deadline": "01/26/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364144",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364195",
+      "title": "Endowments for Advancing the Humanities",
+      "agency": "NEH",
+      "deadline": "01/13/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364195",
       "source": "Grants.gov",
       "description": ""
     },
