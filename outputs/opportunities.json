@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-06T02:49:10Z",
-  "total": 240,
+  "last_updated": "2026-11-07T02:21:11Z",
+  "total": 241,
   "by_source": {
     "AI & Digital Health": 5,
     "NIH (Global Health)": 60,
     "ARPA-H": 45,
     "PCORI": 25,
     "NSF": 22,
-    "Grants.gov": 71,
+    "Grants.gov": 72,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -61,6 +61,26 @@
       "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
       "source": "AI & Digital Health",
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+    },
+    {
+      "id": "363546",
+      "title": "Women's Initiative for Screening and Health (WISH)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/08/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363546",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364240",
+      "title": "Strengthening Moldova&rsquo;s Energy and Trade Security",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/06/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364240",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "364215",
@@ -123,6 +143,16 @@
       "description": ""
     },
     {
+      "id": "361994",
+      "title": "Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program &ndash; Fiscal Year 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/05/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361994",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "364223",
       "title": "Flexible Funding Model - Advancing Domestic Mutual Reliance Through Strengthened Infrastructure Development and Maintenance for Manufactured Food Regulatory Programs",
       "agency": "NIH/Fogarty International Center",
@@ -143,32 +173,12 @@
       "description": ""
     },
     {
-      "id": "361994",
-      "title": "Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program &ndash; Fiscal Year 2026",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/05/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361994",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364237",
       "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
       "agency": "NIH/Fogarty International Center",
       "deadline": "12/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364237",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364213",
-      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/04/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364213",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -199,6 +209,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364218",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364213",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "07/04/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364213",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -293,26 +313,6 @@
       "description": ""
     },
     {
-      "id": "364199",
-      "title": "FY27 Guidelines for Brownfield Assessment Grants (Assessment Coalition Grants)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/21/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364199",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364200",
-      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants for States and Tribes)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/21/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364200",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364226",
       "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
       "agency": "NIH/Fogarty International Center",
@@ -373,22 +373,12 @@
       "description": ""
     },
     {
-      "id": "364235",
-      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
+      "id": "364239",
+      "title": "Cooperative Agreement for affiliated Partner with Alaska Cooperative Ecosystem Studies Unit",
       "agency": "NIH/Fogarty International Center",
       "deadline": "12/07/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364235",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364236",
-      "title": "Cooperative Agreement for affiliated Partner with Hawai-Pacific Islands (HPI) Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364236",
+      "url": "https://www.grants.gov/search-results-detail/364239",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -403,12 +393,42 @@
       "description": ""
     },
     {
-      "id": "364239",
-      "title": "Cooperative Agreement for affiliated Partner with Alaska Cooperative Ecosystem Studies Unit",
+      "id": "364236",
+      "title": "Cooperative Agreement for affiliated Partner with Hawai-Pacific Islands (HPI) Cooperative Ecosystem Studies Unit",
       "agency": "NIH/Fogarty International Center",
       "deadline": "12/07/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364239",
+      "url": "https://www.grants.gov/search-results-detail/364236",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364235",
+      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364235",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364199",
+      "title": "FY27 Guidelines for Brownfield Assessment Grants (Assessment Coalition Grants)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/21/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364199",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364200",
+      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants for States and Tribes)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/21/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364200",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -429,16 +449,6 @@
       "deadline": "12/23/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364194",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364190",
-      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364190",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -469,16 +479,6 @@
       "deadline": "04/05/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363526",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360200",
-      "title": "US Travelers Health Research, Surveillance, Communication, and Outreach Network",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "11/05/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360200",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1373,6 +1373,16 @@
       "description": ""
     },
     {
+      "id": "364243",
+      "title": "Major Research Instrumentation Program: (MRI)",
+      "agency": "National Science Foundation",
+      "deadline": "01/29/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364243",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "364221",
       "title": "ROSES 2025:  D.10 Astrophysics Theory",
       "agency": "National Science Foundation",
@@ -1389,16 +1399,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364219",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "364212",
-      "title": "State Process for Informing Consumers of Recalls Program",
-      "agency": "National Science Foundation",
-      "deadline": "02/04/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364212",
       "source": "NSF",
       "description": ""
     },
@@ -1583,22 +1583,22 @@
       "description": ""
     },
     {
-      "id": "364205",
-      "title": "Fiscal Year 2027 Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) STEM Innovator",
-      "agency": "NASA",
-      "deadline": "02/01/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364205",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364222",
       "title": "OVW Fiscal Year 2026 Grants to Tribal Domestic Violence and Sexual Assault Coalitions Program",
       "agency": "USDOJ-OJP-OVW",
       "deadline": "12/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364222",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364212",
+      "title": "State Process for Informing Consumers of Recalls Program",
+      "agency": "DOT-NHTSA",
+      "deadline": "02/04/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364212",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1813,16 +1813,6 @@
       "description": ""
     },
     {
-      "id": "361050",
-      "title": "Centers for Structural Biology of HIV and Other Infectious Diseases (U54 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "05/28/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361050",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364172",
       "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
       "agency": "DOD-AFOSR",
@@ -2003,6 +1993,26 @@
       "description": ""
     },
     {
+      "id": "356612",
+      "title": "Fundamental Research to Counter Weapons of Mass Destruction",
+      "agency": "DOD-DTRA",
+      "deadline": "09/30/2034",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/356612",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364190",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "agency": "DOI-USGS1",
+      "deadline": "12/02/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364190",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "364191",
       "title": "Cooperative Agreement for affiliated Partner with the Rocky Mountain Cooperative Ecosystem Studies Unit",
       "agency": "DOI-USGS1",
@@ -2039,16 +2049,6 @@
       "deadline": "01/08/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/358954",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363111",
-      "title": "Teaching Health Center Graduate Medical Education (THCGME) Program",
-      "agency": "HHS-HRSA",
-      "deadline": "12/11/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363111",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2223,12 +2223,12 @@
       "description": ""
     },
     {
-      "id": "360606",
-      "title": "Glioblastoma Therapeutics Network (GTN) (U19 Clinical Trial Required)",
-      "agency": "HHS-NIH11",
-      "deadline": "01/11/2027",
+      "id": "363111",
+      "title": "Teaching Health Center Graduate Medical Education (THCGME) Program",
+      "agency": "HHS-HRSA",
+      "deadline": "12/11/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360606",
+      "url": "https://www.grants.gov/search-results-detail/363111",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2269,6 +2269,16 @@
       "deadline": "01/26/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364144",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364205",
+      "title": "Fiscal Year 2027 Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) STEM Innovator",
+      "agency": "NASA",
+      "deadline": "02/01/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364205",
       "source": "Grants.gov",
       "description": ""
     },
