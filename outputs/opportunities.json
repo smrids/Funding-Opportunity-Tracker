@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T02:21:11Z",
+  "last_updated": "2026-11-08T01:49:39Z",
   "total": 241,
   "by_source": {
     "AI & Digital Health": 5,
@@ -1913,16 +1913,6 @@
       "description": ""
     },
     {
-      "id": "363374",
-      "title": "Fiscal Year 2027 Defense University Research Instrumentation Program (DURIP)",
-      "agency": "DOD-AFOSR",
-      "deadline": "11/06/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363374",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "363332",
       "title": "Early Detection, Response, and Control of Global Rabies Outbreaks and Associated Threats to America's Dog-Rabies Free Status",
       "agency": "HHS-CDC-HHSCDCERA",
@@ -1999,6 +1989,16 @@
       "deadline": "09/30/2034",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/356612",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "352741",
+      "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
+      "agency": "DOD-ONR-NRL",
+      "deadline": "12/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/352741",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2183,16 +2183,6 @@
       "description": ""
     },
     {
-      "id": "360679",
-      "title": "Limited Competition for the Continuation of the Caring for OutPatiEnts after Acute Kidney Injury (COPE-AKI) Clinical Centers (U01 Clinical Trial Required)",
-      "agency": "HHS-NIH11",
-      "deadline": "11/06/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360679",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "361213",
       "title": "Single Source for the Continuation of the Epidemiology of Diabetes Interventions and Complications (EDIC) Study Research Center (Collaborative U01 Clinical Trial Not Allowed)",
       "agency": "HHS-NIH11",
@@ -2219,6 +2209,16 @@
       "deadline": "11/09/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360458",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360606",
+      "title": "Glioblastoma Therapeutics Network (GTN) (U19 Clinical Trial Required)",
+      "agency": "HHS-NIH11",
+      "deadline": "01/11/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360606",
       "source": "Grants.gov",
       "description": ""
     },
