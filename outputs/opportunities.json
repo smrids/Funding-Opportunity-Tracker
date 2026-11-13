@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-12T03:20:49Z",
+  "last_updated": "2026-11-13T02:53:56Z",
   "total": 245,
   "by_source": {
     "AI & Digital Health": 5,
-    "NIH (Global Health)": 60,
+    "NIH (Global Health)": 61,
     "ARPA-H": 45,
     "PCORI": 25,
-    "NSF": 24,
+    "NSF": 23,
     "Grants.gov": 74,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
@@ -61,6 +61,16 @@
       "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
       "source": "AI & Digital Health",
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+    },
+    {
+      "id": "363875",
+      "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "06/10/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363875",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "363546",
@@ -153,16 +163,6 @@
       "description": ""
     },
     {
-      "id": "364223",
-      "title": "Flexible Funding Model - Advancing Domestic Mutual Reliance Through Strengthened Infrastructure Development and Maintenance for Manufactured Food Regulatory Programs",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364223",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364220",
       "title": "Project Rental Assistance Program of Section 811 Supportive Housing for Persons with Disabilities FY 2027",
       "agency": "NIH/Fogarty International Center",
@@ -183,12 +183,32 @@
       "description": ""
     },
     {
+      "id": "364223",
+      "title": "Flexible Funding Model - Advancing Domestic Mutual Reliance Through Strengthened Infrastructure Development and Maintenance for Manufactured Food Regulatory Programs",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364223",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "362952",
       "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
       "agency": "NIH/Fogarty International Center",
       "deadline": "02/18/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/362952",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364213",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "07/04/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364213",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -209,16 +229,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364218",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364213",
-      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/04/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364213",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -303,12 +313,22 @@
       "description": ""
     },
     {
-      "id": "364201",
-      "title": "FY27 Guidelines for Brownfield Revolving Loan Fund Grants",
+      "id": "364253",
+      "title": "US-Greece &amp; US-UK Artist Exchange, FY 2027",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "01/21/2027",
+      "deadline": "12/14/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364201",
+      "url": "https://www.grants.gov/search-results-detail/364253",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364263",
+      "title": "Fiscal Year 2026 Great American Digital Corridors (GADC) Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/28/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364263",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -413,6 +433,16 @@
       "description": ""
     },
     {
+      "id": "364201",
+      "title": "FY27 Guidelines for Brownfield Revolving Loan Fund Grants",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/21/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364201",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "364199",
       "title": "FY27 Guidelines for Brownfield Assessment Grants (Assessment Coalition Grants)",
       "agency": "NIH/Fogarty International Center",
@@ -429,26 +459,6 @@
       "deadline": "01/21/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364200",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364198",
-      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/21/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364198",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364194",
-      "title": "Cooperative Agreement for affiliated Partner with the Californian Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/23/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364194",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1363,16 +1373,6 @@
       "description": ""
     },
     {
-      "id": "364196",
-      "title": "USGS Cooperative Landslide Hazard Mapping and Assessment Program Announcement for Fiscal Year 2027",
-      "agency": "National Science Foundation",
-      "deadline": "02/01/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364196",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "364247",
       "title": "NASA SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES &ndash; FALL 2027 (NSTGRO27)",
       "agency": "National Science Foundation",
@@ -1593,12 +1593,12 @@
       "description": ""
     },
     {
-      "id": "361322",
-      "title": "Collaborative Program Grant for Interdisciplinary Teams (RM1 Clinical Trial Optional)",
+      "id": "364255",
+      "title": "Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: Developing Deep Technologies that Advance U.S. Competitiveness and Security",
       "agency": "National Science Foundation",
-      "deadline": "09/26/2029",
+      "deadline": "03/04/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361322",
+      "url": "https://www.grants.gov/search-results-detail/364255",
       "source": "NSF",
       "description": ""
     },
@@ -1623,12 +1623,12 @@
       "description": ""
     },
     {
-      "id": "364222",
-      "title": "OVW Fiscal Year 2026 Grants to Tribal Domestic Violence and Sexual Assault Coalitions Program",
-      "agency": "USDOJ-OJP-OVW",
-      "deadline": "12/07/2026",
+      "id": "364003",
+      "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
+      "agency": "USDOT-DO-SIPPRA",
+      "deadline": "04/06/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364222",
+      "url": "https://www.grants.gov/search-results-detail/364003",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1843,16 +1843,6 @@
       "description": ""
     },
     {
-      "id": "364027",
-      "title": "Centers for Research on Neglected Infectious Diseases",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364027",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364172",
       "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
       "agency": "DOD-AFOSR",
@@ -2053,6 +2043,16 @@
       "description": ""
     },
     {
+      "id": "364198",
+      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants)",
+      "agency": "EPA",
+      "deadline": "01/21/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364198",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "364190",
       "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
       "agency": "DOI-USGS1",
@@ -2093,16 +2093,6 @@
       "description": ""
     },
     {
-      "id": "358954",
-      "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "01/08/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/358954",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364181",
       "title": "Cooperative Agreement for affiliated Partner with the Colorado Plateau Cooperative Ecosystem Studies Unit",
       "agency": "DOI-USGS1",
@@ -2119,6 +2109,16 @@
       "deadline": "11/14/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364077",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364027",
+      "title": "Centers for Research on Neglected Infectious Diseases",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364027",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2263,12 +2263,12 @@
       "description": ""
     },
     {
-      "id": "363692",
-      "title": "National Bycatch Reduction Engineering Program (BREP) - FY2026/27",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "01/22/2027",
+      "id": "358954",
+      "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "01/08/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363692",
+      "url": "https://www.grants.gov/search-results-detail/358954",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2313,22 +2313,22 @@
       "description": ""
     },
     {
-      "id": "364144",
-      "title": "Landscape Scale Restoration Grant Program for Non-Federal Lands",
-      "agency": "USDA-FS",
-      "deadline": "01/26/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364144",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364205",
       "title": "Fiscal Year 2027 Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) STEM Innovator",
       "agency": "NASA",
       "deadline": "02/01/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364205",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364196",
+      "title": "USGS Cooperative Landslide Hazard Mapping and Assessment Program Announcement for Fiscal Year 2027",
+      "agency": "DOI-USGS1",
+      "deadline": "02/01/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364196",
       "source": "Grants.gov",
       "description": ""
     },
