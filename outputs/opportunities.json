@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-13T02:53:56Z",
-  "total": 245,
+  "last_updated": "2026-11-14T02:41:00Z",
+  "total": 243,
   "by_source": {
     "AI & Digital Health": 5,
-    "NIH (Global Health)": 61,
+    "NIH (Global Health)": 62,
     "ARPA-H": 45,
     "PCORI": 25,
-    "NSF": 23,
-    "Grants.gov": 74,
+    "NSF": 24,
+    "Grants.gov": 70,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -63,12 +63,32 @@
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
     },
     {
+      "id": "364267",
+      "title": "Research on Complex Generics",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/14/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364267",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "363875",
       "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required)",
       "agency": "NIH/Fogarty International Center",
       "deadline": "06/10/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363875",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364003",
+      "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "04/06/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364003",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -159,16 +179,6 @@
       "deadline": "01/05/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/361994",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364220",
-      "title": "Project Rental Assistance Program of Section 811 Supportive Housing for Persons with Disabilities FY 2027",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "04/20/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364220",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -303,16 +313,6 @@
       "description": ""
     },
     {
-      "id": "364202",
-      "title": "FY27 Guidelines for Brownfield Cleanup Grants",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/21/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364202",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364253",
       "title": "US-Greece &amp; US-UK Artist Exchange, FY 2027",
       "agency": "NIH/Fogarty International Center",
@@ -429,6 +429,16 @@
       "deadline": "12/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364235",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364202",
+      "title": "FY27 Guidelines for Brownfield Cleanup Grants",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/21/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364202",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1373,6 +1383,16 @@
       "description": ""
     },
     {
+      "id": "364265",
+      "title": "The State Component of the National Cooperative Geologic Mapping Program",
+      "agency": "National Science Foundation",
+      "deadline": "02/17/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364265",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "364247",
       "title": "NASA SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES &ndash; FALL 2027 (NSTGRO27)",
       "agency": "National Science Foundation",
@@ -1619,16 +1639,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364252",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364003",
-      "title": "Social Impact Partnerships to Pay for Results Act Demonstration Projects",
-      "agency": "USDOT-DO-SIPPRA",
-      "deadline": "04/06/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364003",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1913,6 +1923,16 @@
       "description": ""
     },
     {
+      "id": "363847",
+      "title": "State Recreational Boating Safety (RBS) Grant Program",
+      "agency": "DHS-USCG",
+      "deadline": "11/20/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363847",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "363829",
       "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
       "agency": "DOD-AFOSR",
@@ -2019,26 +2039,6 @@
       "deadline": "06/02/2030",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/359236",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "356612",
-      "title": "Fundamental Research to Counter Weapons of Mass Destruction",
-      "agency": "DOD-DTRA",
-      "deadline": "09/30/2034",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/356612",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "352741",
-      "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
-      "agency": "DOD-ONR-NRL",
-      "deadline": "12/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/352741",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2319,26 +2319,6 @@
       "deadline": "02/01/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364205",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364196",
-      "title": "USGS Cooperative Landslide Hazard Mapping and Assessment Program Announcement for Fiscal Year 2027",
-      "agency": "DOI-USGS1",
-      "deadline": "02/01/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364196",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364120",
-      "title": "Evaluating Innovative Community Based Nutrition Models that Improve Health Outcomes for Older Adults in Senior Nutrition Programs",
-      "agency": "HHS-ACL",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364120",
       "source": "Grants.gov",
       "description": ""
     },
