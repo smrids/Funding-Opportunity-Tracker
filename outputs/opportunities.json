@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-15T02:06:50Z",
-  "total": 257,
+  "last_updated": "2026-11-16T02:23:16Z",
+  "total": 242,
   "by_source": {
     "AI & Digital Health": 5,
     "NIH (Global Health)": 62,
     "ARPA-H": 45,
-    "PCORI": 39,
+    "PCORI": 25,
     "NSF": 24,
-    "Grants.gov": 70,
+    "Grants.gov": 69,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -1383,146 +1383,6 @@
       "description": ""
     },
     {
-      "id": "pcori-829b43b0dd",
-      "title": "PCORI Call for Proposals for HSII Implementation Projects -- 2026 (HSII Participants Only)",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/pcori-call-proposals-hsii-implementation-projects-2026-hsii-participants-only",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-029f89d596",
-      "title": "Engagement Award: Convening Support -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-e8f65029c8",
-      "title": "Engagement Award: Dissemination Initiative -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-3fe9002cc0",
-      "title": "Engagement Award: Capacity Building -- Spring 2026 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-spring-2026-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-e4e0f76a6c",
-      "title": "Partnering Research and Community Organizations for Comparative Clinical    Effectiveness Research Across the Cancer Care Continuum PCORI Funding Announcement (The Cancer Partner PFA) -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/cancer-partner-pfa-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-867c7a31fe",
-      "title": "Improving Health Decision Making With Comparative Clinical Effectiveness Research: Retrospective Observational Studies Leveraging Existing Data Sources PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-health-decision-making-observational-comparative-clinical-effectiveness-research",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-2525a92da6",
-      "title": "Broad Pragmatic Studies PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-07c6f91508",
-      "title": "Phased Large Awards for Comparative Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/phased-large-awards-comparative-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-356b1fbad1",
-      "title": "Advancing the Science of Engagement in Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/advancing-science-engagement-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-88f702f07c",
-      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-6d56c35e56",
-      "title": "Limited Competition PCORI Funding Announcement: Implementation Awards -- Cycle 1 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-1-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-069f4ed534",
-      "title": "Engagement Award: Capacity Building -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-capacity-building-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-9870b5c7e9",
-      "title": "Engagement Award: Dissemination Initiative -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-dissemination-initiative-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
-      "id": "pcori-2b3c3ef239",
-      "title": "Engagement Award: Convening Support -- Fall 2025 Cycle",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/engagement-award-convening-support-fall-2025-cycle",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
       "id": "364265",
       "title": "The State Component of the National Cooperative Geologic Mapping Program",
       "agency": "National Science Foundation",
@@ -1923,26 +1783,6 @@
       "description": ""
     },
     {
-      "id": "364079",
-      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "agency": "DOI-USGS1",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364079",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364083",
-      "title": "Cooperative Agreement for Affiliated Partner with the Hawai&#699;i-Pacific Islands Cooperative Ecosystem Studies Unit (CESU)",
-      "agency": "DOI-USGS1",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364083",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364069",
       "title": "FY 2027-2028 NESDIS Broad Agency Announcement (BAA)",
       "agency": "DOC-DOCNOAAERA",
@@ -1989,6 +1829,26 @@
       "deadline": "02/09/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360905",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364027",
+      "title": "Centers for Research on Neglected Infectious Diseases",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364027",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "361050",
+      "title": "Centers for Structural Biology of HIV and Other Infectious Diseases (U54 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "05/28/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361050",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2243,26 +2103,6 @@
       "description": ""
     },
     {
-      "id": "364077",
-      "title": "Cooperative Agreement for affiliated Partner with Great Lakes-Northern Forest Cooperative Ecosystem Studies Unit",
-      "agency": "DOI-USGS1",
-      "deadline": "11/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364077",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364027",
-      "title": "Centers for Research on Neglected Infectious Diseases",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364027",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364009",
       "title": "Fiscal Year 2026 Wildlife Crossings Pilot Program",
       "agency": "DOT-FHWA",
@@ -2399,6 +2239,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363713",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363692",
+      "title": "National Bycatch Reduction Engineering Program (BREP) - FY2026/27",
+      "agency": "DOC-DOCNOAAERA",
+      "deadline": "01/22/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363692",
       "source": "Grants.gov",
       "description": ""
     },
