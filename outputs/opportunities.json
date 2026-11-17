@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-16T02:23:16Z",
+  "last_updated": "2026-11-17T04:46:24Z",
   "total": 242,
   "by_source": {
     "AI & Digital Health": 5,
-    "NIH (Global Health)": 62,
+    "NIH (Global Health)": 63,
     "ARPA-H": 45,
     "PCORI": 25,
-    "NSF": 24,
-    "Grants.gov": 69,
+    "NSF": 26,
+    "Grants.gov": 66,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -61,6 +61,36 @@
       "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
       "source": "AI & Digital Health",
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+    },
+    {
+      "id": "364270",
+      "title": "Strengthening U.S. Public Health Infrastructure, Workforce, and Data Systems",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364270",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364268",
+      "title": "NIH Research Center Core Grants",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364268",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364271",
+      "title": "Research Facilities Act Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "03/15/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364271",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "364267",
@@ -283,36 +313,6 @@
       "description": ""
     },
     {
-      "id": "361287",
-      "title": "Genomic and Biologic Therapies for ADRD (U01 Clinical Trial Optional)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "10/10/2028",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361287",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "359019",
-      "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "02/17/2028",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359019",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362277",
-      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "02/20/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362277",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364253",
       "title": "US-Greece &amp; US-UK Artist Exchange, FY 2027",
       "agency": "NIH/Fogarty International Center",
@@ -429,6 +429,16 @@
       "deadline": "12/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364235",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "362277",
+      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "02/20/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362277",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1383,6 +1393,16 @@
       "description": ""
     },
     {
+      "id": "364269",
+      "title": "Educational Hub for Expanding the Computational Genomics and Data Science Workforce (U24 Clinical Trials Not Allowed)",
+      "agency": "National Science Foundation",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364269",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "364265",
       "title": "The State Component of the National Cooperative Geologic Mapping Program",
       "agency": "National Science Foundation",
@@ -1449,6 +1469,26 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364219",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "361287",
+      "title": "Genomic and Biologic Therapies for ADRD (U01 Clinical Trial Optional)",
+      "agency": "National Science Foundation",
+      "deadline": "10/10/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361287",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "359019",
+      "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
+      "agency": "National Science Foundation",
+      "deadline": "02/17/2028",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/359019",
       "source": "NSF",
       "description": ""
     },
@@ -1603,16 +1643,6 @@
       "description": ""
     },
     {
-      "id": "360675",
-      "title": "Palliative Care Research Across the Lifespan: Leveraging the Palliative Care Consortium (R01 Clinical Trial Optional)",
-      "agency": "National Science Foundation",
-      "deadline": "11/05/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360675",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "364255",
       "title": "Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: Developing Deep Technologies that Advance U.S. Competitiveness and Security",
       "agency": "National Science Foundation",
@@ -1743,16 +1773,6 @@
       "description": ""
     },
     {
-      "id": "364132",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
-      "agency": "SBA",
-      "deadline": "11/19/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364132",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364130",
       "title": "FY 2027 - 2029 Broad Agency Announcement (BAA), Oceanic and Atmospheric Research (OAR)",
       "agency": "DOC-DOCNOAAERA",
@@ -1769,6 +1789,16 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364127",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364132",
+      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
+      "agency": "SBA",
+      "deadline": "11/19/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364132",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1839,16 +1869,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364027",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "361050",
-      "title": "Centers for Structural Biology of HIV and Other Infectious Diseases (U54 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "05/28/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361050",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2083,22 +2103,22 @@
       "description": ""
     },
     {
-      "id": "364187",
-      "title": "Cooperative Agreement for affiliated Partner with Colorado Plateau Cooperative Ecosystem Studies Unit",
-      "agency": "DOI-USGS1",
-      "deadline": "11/30/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364187",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364181",
       "title": "Cooperative Agreement for affiliated Partner with the Colorado Plateau Cooperative Ecosystem Studies Unit",
       "agency": "DOI-USGS1",
       "deadline": "11/30/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364181",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360675",
+      "title": "Palliative Care Research Across the Lifespan: Leveraging the Palliative Care Consortium (R01 Clinical Trial Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "11/05/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360675",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2289,26 +2309,6 @@
       "deadline": "01/11/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364164",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364145",
-      "title": "Landscape Scale Restoration Grant Program for Tribes",
-      "agency": "USDA-FS",
-      "deadline": "01/26/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364145",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364205",
-      "title": "Fiscal Year 2027 Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) STEM Innovator",
-      "agency": "NASA",
-      "deadline": "02/01/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364205",
       "source": "Grants.gov",
       "description": ""
     },
