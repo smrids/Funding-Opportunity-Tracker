@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-17T04:46:24Z",
-  "total": 242,
+  "last_updated": "2026-11-18T03:51:37Z",
+  "total": 246,
   "by_source": {
     "AI & Digital Health": 5,
-    "NIH (Global Health)": 63,
+    "NIH (Global Health)": 62,
     "ARPA-H": 45,
     "PCORI": 25,
-    "NSF": 26,
-    "Grants.gov": 66,
+    "NSF": 28,
+    "Grants.gov": 69,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -61,6 +61,26 @@
       "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
       "source": "AI & Digital Health",
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+    },
+    {
+      "id": "364276",
+      "title": "Evidence-Informed Practices in the Management of Women&rsquo;s Prisons",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/16/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364276",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364278",
+      "title": "WATER RESOURCES RESEARCH ACT PROGRAM ANNUAL BASE GRANTS",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364278",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "364270",
@@ -243,16 +263,6 @@
       "description": ""
     },
     {
-      "id": "364213",
-      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "07/04/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364213",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364217",
       "title": "Development and Maintenance of Human and Animal Food Rapid Response Teams",
       "agency": "NIH/Fogarty International Center",
@@ -273,6 +283,16 @@
       "description": ""
     },
     {
+      "id": "364213",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "07/12/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364213",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "360551",
       "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
       "agency": "NIH/Fogarty International Center",
@@ -289,26 +309,6 @@
       "deadline": "11/16/2029",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360946",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360623",
-      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) Scientific Data Research Center (U24 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "03/05/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360623",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "360625",
-      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "03/05/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360625",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -359,6 +359,26 @@
       "deadline": "12/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364234",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364275",
+      "title": "DOJ FY 2026 Invited to Apply &ndash; Model Cities Initiative (MCI)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "11/30/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364275",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364277",
+      "title": "Fiscal Years 2025 and 2026 Congestion Relief Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/17/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364277",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -449,36 +469,6 @@
       "deadline": "01/21/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364202",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364201",
-      "title": "FY27 Guidelines for Brownfield Revolving Loan Fund Grants",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/21/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364201",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364199",
-      "title": "FY27 Guidelines for Brownfield Assessment Grants (Assessment Coalition Grants)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/21/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364199",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364200",
-      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants for States and Tribes)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/21/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364200",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1143,16 +1133,6 @@
       "description": "UPGRADE What if every hospital could autonomously protect itself and patients from cyber threats? Universal Patching and Remediation for Autonomous Defense Andrew Carney, M.S."
     },
     {
-      "id": "pcori-091892a922",
-      "title": "Broad Pragmatic Studies Supplemental Funding Announcement (SFA) to Support Studies within a Study Focused on Developing and Validating Measures to Advance the Science of Engagement in Research -- Cycle 3 2026 (Invitation Only)",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-supplemental-funding-announcement-sfa-support-studies-within-study-focused-developing-and-validating-measures-advance-science-engagement-research-cycle-3-2026-invitation-only",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
       "id": "pcori-2cc1947ad8",
       "title": "Harnessing Digital Health Technologies To Support Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 1 2027",
       "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
@@ -1219,6 +1199,26 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.pcori.org/funding-opportunities/announcement/limited-competition-pcori-funding-announcement-implementation-awards-cycle-1-2027",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-ceaacfb9cd",
+      "title": "Broad Pragmatic Studies Supplemental Funding Announcement (SFA) to Support Studies within a Study Focused on Developing and Validating Measures to Advance the Science of Engagement in Research -- Cycle 1 2027 (Invitation Only)",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-sfa-support-advancing-soe-cycle-1-2027",
+      "source": "PCORI",
+      "description": ""
+    },
+    {
+      "id": "pcori-091892a922",
+      "title": "Broad Pragmatic Studies Supplemental Funding Announcement (SFA) to Support Studies within a Study Focused on Developing and Validating Measures to Advance the Science of Engagement in Research -- Cycle 3 2026 (Invitation Only)",
+      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.pcori.org/funding-opportunities/announcement/broad-pragmatic-studies-supplemental-funding-announcement-sfa-support-studies-within-study-focused-developing-and-validating-measures-advance-science-engagement-research-cycle-3-2026-invitation-only",
       "source": "PCORI",
       "description": ""
     },
@@ -1383,16 +1383,6 @@
       "description": ""
     },
     {
-      "id": "pcori-ce2ce229a5",
-      "title": "Improving Methods for Conducting Patient-Centered Comparative Clinical Effectiveness Research PCORI Funding Announcement -- Cycle 2 2026",
-      "agency": "Patient-Centered Outcomes Research Institute (PCORI)",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-2-2026",
-      "source": "PCORI",
-      "description": ""
-    },
-    {
       "id": "364269",
       "title": "Educational Hub for Expanding the Computational Genomics and Data Science Workforce (U24 Clinical Trials Not Allowed)",
       "agency": "National Science Foundation",
@@ -1469,6 +1459,26 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364219",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "360623",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) Scientific Data Research Center (U24 Clinical Trial Not Allowed)",
+      "agency": "National Science Foundation",
+      "deadline": "03/05/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360623",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "360625",
+      "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
+      "agency": "National Science Foundation",
+      "deadline": "03/05/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360625",
       "source": "NSF",
       "description": ""
     },
@@ -2003,16 +2013,6 @@
       "description": ""
     },
     {
-      "id": "362857",
-      "title": "DoW Joint Warfighter Medical, Military Medical Research and Development Award",
-      "agency": "DOD-AMRAA",
-      "deadline": "11/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362857",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "362731",
       "title": "Integrated Viral Hepatitis Surveillance, Testing, Treatment, and Prevention Programs for Health Departments (IVH-STTP)",
       "agency": "HHS-CDC-NCHHSTP",
@@ -2059,6 +2059,46 @@
       "deadline": "06/02/2030",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/359236",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "356612",
+      "title": "Fundamental Research to Counter Weapons of Mass Destruction",
+      "agency": "DOD-DTRA",
+      "deadline": "09/30/2034",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/356612",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364201",
+      "title": "FY27 Guidelines for Brownfield Revolving Loan Fund Grants",
+      "agency": "EPA",
+      "deadline": "01/21/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364201",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364199",
+      "title": "FY27 Guidelines for Brownfield Assessment Grants (Assessment Coalition Grants)",
+      "agency": "EPA",
+      "deadline": "01/21/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364199",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364200",
+      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants for States and Tribes)",
+      "agency": "EPA",
+      "deadline": "01/21/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364200",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2119,16 +2159,6 @@
       "deadline": "11/05/2029",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360675",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364009",
-      "title": "Fiscal Year 2026 Wildlife Crossings Pilot Program",
-      "agency": "DOT-FHWA",
-      "deadline": "11/16/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364009",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2269,6 +2299,16 @@
       "deadline": "01/22/2027",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363692",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "363679",
+      "title": "Translational Research in Maternal and Pediatric Pharmacology and Therapeutics",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/363679",
       "source": "Grants.gov",
       "description": ""
     },
