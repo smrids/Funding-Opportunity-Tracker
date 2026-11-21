@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-20T03:43:15Z",
-  "total": 249,
+  "last_updated": "2026-11-21T03:28:21Z",
+  "total": 239,
   "by_source": {
     "AI & Digital Health": 5,
-    "NIH (Global Health)": 62,
+    "NIH (Global Health)": 64,
     "ARPA-H": 45,
     "PCORI": 25,
-    "NSF": 27,
-    "Grants.gov": 73,
+    "NSF": 23,
+    "Grants.gov": 65,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -61,6 +61,66 @@
       "url": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
       "source": "AI & Digital Health",
       "description": "Potentially applicable public health research must be relevant to \" data processing and analytics, operational research and route optimization, statistical methods, graph analytics, graph neural networks, or visual analytics\"; Supported research must incorporate pretrained models from ai.nvidia.com and/or make extensive use of NVIDIA software distributions."
+    },
+    {
+      "id": "361815",
+      "title": "HIV/AIDS Clinical Trials Network Leadership and Operations Centers (UM1 Clinical Trial Required)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "03/09/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361815",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364206",
+      "title": "FY 2027 Build to Scale Notice of Funding Opportunity",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "02/26/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364206",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361816",
+      "title": "HIV/AIDS Clinical Trials Network Statistical and Data Management Centers (UM1 Clinical Trial Required)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "03/09/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361816",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361820",
+      "title": "HIV/AIDS Clinical Trials Network Laboratory Centers (UM1 Clinical Trial Required)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "03/09/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361820",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361821",
+      "title": "HIV/AIDS Clinical Trials Network Clinical Trials Units (UM1 Clinical Trial Required)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "03/09/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361821",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364299",
+      "title": "Fiscal Year (FY) 2027 Service Area Competition (SAC)",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364299",
+      "source": "NIH (Global Health)",
+      "description": ""
     },
     {
       "id": "364291",
@@ -253,62 +313,12 @@
       "description": ""
     },
     {
-      "id": "364232",
-      "title": "The National Rural Health Information Technology Assessment Program",
+      "id": "364298",
+      "title": "Facilitating Behavior Change Training for Trainers",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "",
+      "deadline": "01/19/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364232",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "361994",
-      "title": "Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program &ndash; Fiscal Year 2026",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/05/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361994",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364237",
-      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364237",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364223",
-      "title": "Flexible Funding Model - Advancing Domestic Mutual Reliance Through Strengthened Infrastructure Development and Maintenance for Manufactured Food Regulatory Programs",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364223",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362952",
-      "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "02/18/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362952",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364217",
-      "title": "Development and Maintenance of Human and Animal Food Rapid Response Teams",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364217",
+      "url": "https://www.grants.gov/search-results-detail/364298",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -329,26 +339,6 @@
       "deadline": "12/28/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364263",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364226",
-      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364226",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364233",
-      "title": "Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364233",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -393,12 +383,42 @@
       "description": ""
     },
     {
+      "id": "364226",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364226",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "361994",
+      "title": "Resident Opportunity and Self-Sufficiency Service Coordinator (ROSS-SC) Program &ndash; Fiscal Year 2026",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/05/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361994",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "364224",
       "title": "BJA FY26 State Criminal Alien Assistance Program (SCAAP)",
       "agency": "NIH/Fogarty International Center",
       "deadline": "12/15/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364224",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364233",
+      "title": "Cooperative Agreement for affiliated Partner with Great Rivers Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364233",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -433,6 +453,16 @@
       "description": ""
     },
     {
+      "id": "364237",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364237",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
       "id": "364236",
       "title": "Cooperative Agreement for affiliated Partner with Hawai-Pacific Islands (HPI) Cooperative Ecosystem Studies Unit",
       "agency": "NIH/Fogarty International Center",
@@ -453,22 +483,12 @@
       "description": ""
     },
     {
-      "id": "364213",
-      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "id": "362952",
+      "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
       "agency": "NIH/Fogarty International Center",
-      "deadline": "07/12/2027",
+      "deadline": "02/18/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364213",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "362277",
-      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "02/20/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/362277",
+      "url": "https://www.grants.gov/search-results-detail/362952",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1423,12 +1443,12 @@
       "description": ""
     },
     {
-      "id": "364247",
-      "title": "NASA SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES &ndash; FALL 2027 (NSTGRO27)",
+      "id": "364297",
+      "title": "OJP FY 2026 Special Attorneys Program Round 12",
       "agency": "National Science Foundation",
-      "deadline": "03/18/2027",
+      "deadline": "12/08/2026",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364247",
+      "url": "https://www.grants.gov/search-results-detail/364297",
       "source": "NSF",
       "description": ""
     },
@@ -1439,26 +1459,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364251",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "364244",
-      "title": "DHS S&amp;T Center of Excellence Supplemement Applications",
-      "agency": "National Science Foundation",
-      "deadline": "05/21/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364244",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "364243",
-      "title": "Major Research Instrumentation Program: (MRI)",
-      "agency": "National Science Foundation",
-      "deadline": "01/29/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364243",
       "source": "NSF",
       "description": ""
     },
@@ -1509,6 +1509,16 @@
       "deadline": "02/17/2028",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/359019",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "362277",
+      "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
+      "agency": "National Science Foundation",
+      "deadline": "02/20/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/362277",
       "source": "NSF",
       "description": ""
     },
@@ -1603,46 +1613,6 @@
       "description": ""
     },
     {
-      "id": "361134",
-      "title": "Limited Competition: Biospecimen Banks to support NCI National Clinical Trials Network Biospecimen Banks (NCTN Biobanks) and the NCI Early-Phase and Experimental Clinical Trials Biospecimen Bank (EET Biobank) (U24 Clinical Trial Not Allowed)",
-      "agency": "National Science Foundation",
-      "deadline": "02/11/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361134",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "359941",
-      "title": "Assessing the Feasibility of Incorporating Mechanisms in Multi-site Clinical Trials of Mind and Body Interventions on Whole Person Health Restoration (R33 Clinical Trial Required)",
-      "agency": "National Science Foundation",
-      "deadline": "11/16/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359941",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "361438",
-      "title": "Early-Onset Cancers: Investigating Etiology, Mechanisms, and Early Detection Strategies (RP1 Clinical Trials Optional)",
-      "agency": "National Science Foundation",
-      "deadline": "10/11/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/361438",
-      "source": "NSF",
-      "description": ""
-    },
-    {
-      "id": "360541",
-      "title": "Specialized Programs of Research Excellence (SPOREs) in Human Cancers for Years 2027, 2028, and 2029 (P50 Clinical Trial Required)",
-      "agency": "National Science Foundation",
-      "deadline": "09/25/2029",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360541",
-      "source": "NSF",
-      "description": ""
-    },
-    {
       "id": "364255",
       "title": "Small Business Innovation Research / Small Business Technology Transfer Phase I, Phase II, Fast-Track Programs: Developing Deep Technologies that Advance U.S. Competitiveness and Security",
       "agency": "National Science Foundation",
@@ -1653,22 +1623,32 @@
       "description": ""
     },
     {
-      "id": "364245",
-      "title": "National Services for State Arts Agencies and Regional Arts Organizations",
-      "agency": "NEA",
-      "deadline": "01/14/2027",
+      "id": "364243",
+      "title": "Major Research Instrumentation Program: (MRI)",
+      "agency": "National Science Foundation",
+      "deadline": "01/29/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364245",
+      "url": "https://www.grants.gov/search-results-detail/364243",
+      "source": "NSF",
+      "description": ""
+    },
+    {
+      "id": "364247",
+      "title": "NASA SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES &ndash; FALL 2027 (NSTGRO27)",
+      "agency": "NASA-HQ",
+      "deadline": "03/18/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364247",
       "source": "Grants.gov",
       "description": ""
     },
     {
-      "id": "364252",
-      "title": "Drug Development Infrastructure Supporting the Research Community in Medication Repurposing for Substance Use Disorders",
-      "agency": "HHS-NIH11",
-      "deadline": "",
+      "id": "364244",
+      "title": "DHS S&amp;T Center of Excellence Supplemement Applications",
+      "agency": "DHS-OPO",
+      "deadline": "05/21/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364252",
+      "url": "https://www.grants.gov/search-results-detail/364244",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1683,12 +1663,12 @@
       "description": ""
     },
     {
-      "id": "364218",
-      "title": "National Produce Safety Partnership Program",
-      "agency": "HHS-FDA",
+      "id": "364232",
+      "title": "The National Rural Health Information Technology Assessment Program",
+      "agency": "HHS-HRSA",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364218",
+      "url": "https://www.grants.gov/search-results-detail/364232",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1803,16 +1783,6 @@
       "description": ""
     },
     {
-      "id": "364132",
-      "title": "FY27 Small Business Development Center State of Kansas Network Rebid",
-      "agency": "SBA",
-      "deadline": "11/19/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364132",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364099",
       "title": "FY 2027 &ndash; 2029 Broad Agency Announcement (BAA), National Marine Fisheries Service",
       "agency": "DOC-DOCNOAAERA",
@@ -1843,42 +1813,12 @@
       "description": ""
     },
     {
-      "id": "359277",
-      "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "12/14/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359277",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364047",
-      "title": "Improved quality of life of persons with disabilities in provinces heavily sprayed with agent orange in Ca Mau and Quang Ngai",
-      "agency": "DOS-VNM",
-      "deadline": "11/19/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364047",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "360905",
-      "title": "Carcinogen Hazard Assessment Monographs Program (CHAMP) (R01 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "02/09/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/360905",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364027",
-      "title": "Centers for Research on Neglected Infectious Diseases",
-      "agency": "HHS-NIH11",
+      "id": "364217",
+      "title": "Development and Maintenance of Human and Animal Food Rapid Response Teams",
+      "agency": "HHS-FDA",
       "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364027",
+      "url": "https://www.grants.gov/search-results-detail/364217",
       "source": "Grants.gov",
       "description": ""
     },
@@ -1929,16 +1869,6 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/363956",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363920",
-      "title": "Easement Restoration and Stewardship",
-      "agency": "USDA-NRCS",
-      "deadline": "11/19/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363920",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2043,16 +1973,6 @@
       "description": ""
     },
     {
-      "id": "359225",
-      "title": "EDA FY25 Disaster Supplemental",
-      "agency": "DOC-EDA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/359225",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364219",
       "title": "Leveraging NAMs to understand disease triggers, discover early biomarkers and develop new classes of therapeutic strategies for Type 1 Diabetes (U01 Clinical Trial Not Allowed)",
       "agency": "HHS-NIH11",
@@ -2103,42 +2023,12 @@
       "description": ""
     },
     {
-      "id": "364200",
-      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants for States and Tribes)",
-      "agency": "EPA",
-      "deadline": "01/21/2027",
+      "id": "361134",
+      "title": "Limited Competition: Biospecimen Banks to support NCI National Clinical Trials Network Biospecimen Banks (NCTN Biobanks) and the NCI Early-Phase and Experimental Clinical Trials Biospecimen Bank (EET Biobank) (U24 Clinical Trial Not Allowed)",
+      "agency": "HHS-NIH11",
+      "deadline": "02/11/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364200",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364198",
-      "title": "FY27 Guidelines for Brownfield Assessment Grants (Community-wide Assessment Grants)",
-      "agency": "EPA",
-      "deadline": "01/21/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364198",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364190",
-      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "agency": "DOI-USGS1",
-      "deadline": "12/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364190",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364191",
-      "title": "Cooperative Agreement for affiliated Partner with the Rocky Mountain Cooperative Ecosystem Studies Unit",
-      "agency": "DOI-USGS1",
-      "deadline": "12/02/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364191",
+      "url": "https://www.grants.gov/search-results-detail/361134",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2153,12 +2043,42 @@
       "description": ""
     },
     {
+      "id": "361438",
+      "title": "Early-Onset Cancers: Investigating Etiology, Mechanisms, and Early Detection Strategies (RP1 Clinical Trials Optional)",
+      "agency": "HHS-NIH11",
+      "deadline": "10/11/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/361438",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "360541",
+      "title": "Specialized Programs of Research Excellence (SPOREs) in Human Cancers for Years 2027, 2028, and 2029 (P50 Clinical Trial Required)",
+      "agency": "HHS-NIH11",
+      "deadline": "09/25/2029",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/360541",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "360675",
       "title": "Palliative Care Research Across the Lifespan: Leveraging the Palliative Care Consortium (R01 Clinical Trial Optional)",
       "agency": "HHS-NIH11",
       "deadline": "11/05/2029",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/360675",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364027",
+      "title": "Centers for Research on Neglected Infectious Diseases",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364027",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2273,46 +2193,6 @@
       "description": ""
     },
     {
-      "id": "363692",
-      "title": "National Bycatch Reduction Engineering Program (BREP) - FY2026/27",
-      "agency": "DOC-DOCNOAAERA",
-      "deadline": "01/22/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363692",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363679",
-      "title": "Translational Research in Maternal and Pediatric Pharmacology and Therapeutics",
-      "agency": "HHS-NIH11",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363679",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363625",
-      "title": "Surveillance and Case Control Study of Stillbirth and Birth Defects (SUCCSSBD)",
-      "agency": "HHS-CDC-NCBDDD",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363625",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "363532",
-      "title": "Alliance for Innovation on Maternal Health (AIM) Technical Assistance Center",
-      "agency": "HHS-HRSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/363532",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364212",
       "title": "State Process for Informing Consumers of Recalls Program",
       "agency": "DOT-NHTSA",
@@ -2333,12 +2213,22 @@
       "description": ""
     },
     {
-      "id": "358954",
-      "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "01/08/2027",
+      "id": "364245",
+      "title": "National Services for State Arts Agencies and Regional Arts Organizations",
+      "agency": "NEA",
+      "deadline": "01/14/2027",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/358954",
+      "url": "https://www.grants.gov/search-results-detail/364245",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364252",
+      "title": "Drug Development Infrastructure Supporting the Research Community in Medication Repurposing for Substance Use Disorders",
+      "agency": "HHS-NIH11",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364252",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2353,16 +2243,6 @@
       "description": ""
     },
     {
-      "id": "358960",
-      "title": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trial Not Allowed)",
-      "agency": "HHS-NIH11",
-      "deadline": "01/08/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/358960",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
       "id": "364164",
       "title": "Harvest to Hallways: National School Lunch Program, Equipment Assistance Grants",
       "agency": "USDA-FNS1",
@@ -2373,12 +2253,32 @@
       "description": ""
     },
     {
-      "id": "364221",
-      "title": "ROSES 2025:  D.10 Astrophysics Theory",
-      "agency": "NASA-HQ",
-      "deadline": "02/03/2027",
+      "id": "364223",
+      "title": "Flexible Funding Model - Advancing Domestic Mutual Reliance Through Strengthened Infrastructure Development and Maintenance for Manufactured Food Regulatory Programs",
+      "agency": "HHS-FDA",
+      "deadline": "",
       "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364221",
+      "url": "https://www.grants.gov/search-results-detail/364223",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364218",
+      "title": "National Produce Safety Partnership Program",
+      "agency": "HHS-FDA",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364218",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364213",
+      "title": "APEX Accelerator-Option Period for Existing Award Recipients",
+      "agency": "DOD-AMC-ACCAPGADA",
+      "deadline": "07/12/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364213",
       "source": "Grants.gov",
       "description": ""
     },
