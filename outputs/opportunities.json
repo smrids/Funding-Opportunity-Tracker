@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-11-24T06:23:53Z",
-  "total": 294,
+  "last_updated": "2026-11-25T05:01:05Z",
+  "total": 296,
   "by_source": {
     "AI & Digital Health": 5,
-    "NIH (Global Health)": 64,
+    "NIH (Global Health)": 63,
     "Wellcome Leap": 54,
     "ARPA-H": 45,
     "PCORI": 25,
-    "NSF": 24,
-    "Grants.gov": 65,
+    "NSF": 25,
+    "Grants.gov": 67,
     "WHO": 2,
     "Gates Foundation (Grand Challenges)": 10
   },
@@ -274,26 +274,6 @@
       "description": ""
     },
     {
-      "id": "364215",
-      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 State Preparedness Funding Opportunity",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/07/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364215",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364214",
-      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 Industry Preparedness Funding Opportunity",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "01/07/2027",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364214",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
       "id": "364231",
       "title": "Cooperative Agreement for affiliated Partner with Gulf Coast Cooperative Ecosystem Studies Unit",
       "agency": "NIH/Fogarty International Center",
@@ -310,6 +290,26 @@
       "deadline": "12/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364228",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364227",
+      "title": "Cooperative Agreement for affiliated Partner with Great Lakes Northern Forest Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "12/07/2026",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364227",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364232",
+      "title": "The National Rural Health Information Technology Assessment Program",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364232",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -340,6 +340,16 @@
       "deadline": "12/28/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364263",
+      "source": "NIH (Global Health)",
+      "description": ""
+    },
+    {
+      "id": "364305",
+      "title": "Cooperative Agreement for affiliated Partner with Rocky Mountain Cooperative Ecosystem Studies Unit",
+      "agency": "NIH/Fogarty International Center",
+      "deadline": "01/08/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364305",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -380,16 +390,6 @@
       "deadline": "12/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364229",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364227",
-      "title": "Cooperative Agreement for affiliated Partner with Great Lakes Northern Forest Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364227",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -480,16 +480,6 @@
       "deadline": "12/07/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364236",
-      "source": "NIH (Global Health)",
-      "description": ""
-    },
-    {
-      "id": "364235",
-      "title": "Cooperative Agreement for affiliated Partner with Californian Cooperative Ecosystem Studies Unit",
-      "agency": "NIH/Fogarty International Center",
-      "deadline": "12/07/2026",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364235",
       "source": "NIH (Global Health)",
       "description": ""
     },
@@ -1964,6 +1954,16 @@
       "description": ""
     },
     {
+      "id": "364304",
+      "title": "ROSES 2025: E.3 Space Biology: Research Studies",
+      "agency": "National Science Foundation",
+      "deadline": "03/19/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364304",
+      "source": "NSF",
+      "description": ""
+    },
+    {
       "id": "364302",
       "title": "ROSES 2025: B.9 Heliophysics Flight Opportunities in Research and Technology",
       "agency": "National Science Foundation",
@@ -2204,22 +2204,22 @@
       "description": ""
     },
     {
+      "id": "364303",
+      "title": "NEA Jazz Masters Tribute Concert and Related Events, FY 2027",
+      "agency": "NEA",
+      "deadline": "01/14/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364303",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
       "id": "364293",
       "title": "Facilitator Training for Victim Offender Dialogue",
       "agency": "USDOJ-BOP-NIC",
       "deadline": "12/21/2026",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364293",
-      "source": "Grants.gov",
-      "description": ""
-    },
-    {
-      "id": "364232",
-      "title": "The National Rural Health Information Technology Assessment Program",
-      "agency": "HHS-HRSA",
-      "deadline": "",
-      "award_ceiling": "",
-      "url": "https://www.grants.gov/search-results-detail/364232",
       "source": "Grants.gov",
       "description": ""
     },
@@ -2530,6 +2530,26 @@
       "deadline": "",
       "award_ceiling": "",
       "url": "https://www.grants.gov/search-results-detail/364219",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364215",
+      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 State Preparedness Funding Opportunity",
+      "agency": "USDA-APHIS",
+      "deadline": "02/03/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364215",
+      "source": "Grants.gov",
+      "description": ""
+    },
+    {
+      "id": "364214",
+      "title": "National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 Industry Preparedness Funding Opportunity",
+      "agency": "USDA-APHIS",
+      "deadline": "02/03/2027",
+      "award_ceiling": "",
+      "url": "https://www.grants.gov/search-results-detail/364214",
       "source": "Grants.gov",
       "description": ""
     },
